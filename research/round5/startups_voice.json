@@ -1,0 +1,282 @@
+[
+ {
+  "name": "Augie",
+  "company": "Augment",
+  "project": "",
+  "use": "AI teammate for logistics teams that quotes, books loads, does track and trace and calls carriers by voice, email and text.",
+  "category": "Logistics",
+  "nameType": "human",
+  "source": "https://www.goaugment.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "LEXI",
+  "company": "Floatbot",
+  "project": "",
+  "use": "Floatbot voice AI agent used in debt collection calls, praised by a client as empathetic and compliant.",
+  "category": "Banking & Finance",
+  "nameType": "brand",
+  "source": "https://floatbot.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "ADDI",
+  "company": "Floatbot",
+  "project": "",
+  "use": "AI assistant for insurance claims adjusters.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://floatbot.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Scout",
+  "company": "Floatbot",
+  "project": "Floatbot platform",
+  "use": "Built-in AI assistant that helps users build, test, launch and review AI agents on the Floatbot platform through chat.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://floatbot.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Sarah",
+  "company": "AgentCollect",
+  "project": "",
+  "use": "Demo AI voice agent for debt collection calls on the AgentCollect platform.",
+  "category": "Banking & Finance",
+  "nameType": "human",
+  "source": "https://agentcollect.com",
+  "list": "AI-native startup · YC Summer 2023"
+ },
+ {
+  "name": "John",
+  "company": "AgentCollect",
+  "project": "",
+  "use": "AI voice agent that answers AgentCollect's own phone line.",
+  "category": "Banking & Finance",
+  "nameType": "human",
+  "source": "https://agentcollect.com",
+  "list": "AI-native startup · YC Summer 2023"
+ },
+ {
+  "name": "Sophia",
+  "company": "Newton",
+  "project": "",
+  "use": "AI front-office agent for dental practices that answers calls 24/7, books appointments in the practice software, recalls patients, collects payments and verifies insurance.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://joinnewton.com",
+  "list": "AI-native startup · YC Winter 2024"
+ },
+ {
+  "name": "Lila",
+  "company": "Flowtel",
+  "project": "Frontdesk",
+  "use": "AI front-desk voice agent for hotels that answers guest calls and handles requests and bookings.",
+  "category": "Hospitality",
+  "nameType": "human",
+  "source": "https://flowtel.ai/lila",
+  "list": "AI-native startup · YC Winter 2025"
+ },
+ {
+  "name": "Toni",
+  "company": "Certus AI",
+  "project": "Baci Trattoria & Pizza",
+  "use": "AI phone agent built on Certus AI that answers every call at Baci Trattoria & Pizza and takes orders.",
+  "category": "Restaurants",
+  "nameType": "human",
+  "source": "https://www.certus-ai.com/",
+  "list": "AI-native startup · YC Summer 2025"
+ },
+ {
+  "name": "Freya",
+  "company": "Freya",
+  "project": "",
+  "use": "Voice AI company named Freya that builds its own speech models and sells voice agents, text-to-speech and speech-to-text for enterprises.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://freyavoice.ai/",
+  "list": "AI-native startup · YC Summer 2025"
+ },
+ {
+  "name": "Bernard",
+  "company": "Bernard",
+  "project": "",
+  "use": "Software named Bernard that answers phone calls for appliance repair companies, books and reschedules jobs and pre-identifies parts.",
+  "category": "Home services",
+  "nameType": "human",
+  "source": "https://bernardhq.com/",
+  "list": "AI-native startup · YC Summer 2026"
+ },
+ {
+  "name": "Sandra AI",
+  "company": "Sandra AI",
+  "project": "",
+  "use": "Multilingual AI receptionist for car dealerships that handles inbound and outbound calls 24/7.",
+  "category": "Automotive",
+  "nameType": "human",
+  "source": "https://www.ycombinator.com/companies/sandra-ai",
+  "list": "AI-native startup · YC Fall 2024"
+ },
+ {
+  "name": "Jess",
+  "company": "CallJess",
+  "project": "",
+  "use": "AI veterinary receptionist that answers and triages clinic calls 24/7, diverts emergencies and books appointments.",
+  "category": "Veterinary",
+  "nameType": "human",
+  "source": "https://www.stork.ai/collections/ai-receptionists-veterinary",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "AVA",
+  "company": "VetPawer",
+  "project": "",
+  "use": "AI voice receptionist for veterinary clinics.",
+  "category": "Veterinary",
+  "nameType": "human",
+  "source": "https://www.stork.ai/collections/ai-receptionists-veterinary",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Gabbi",
+  "company": "Gabbi",
+  "project": "",
+  "use": "AI receptionist and intake agent for law firms that answers calls, texts and web chats around the clock.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://meetgabbi.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "ClaireAI 365",
+  "company": "ClaireAI",
+  "project": "",
+  "use": "AI voice receptionist for U.S. law firms that answers calls 24/7, qualifies leads and books consultations.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.stork.ai/en/claireai-365",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Marlie",
+  "company": "Marlie",
+  "project": "",
+  "use": "AI answering service named Marlie that picks up calls for service businesses like plumbers and locksmiths, books jobs and texts call summaries to the owner.",
+  "category": "Home services",
+  "nameType": "human",
+  "source": "https://www.marlie.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "STAN",
+  "company": "STAN AI",
+  "project": "",
+  "use": "AI assistant for HOA and community managers that answers resident calls, texts and emails, triages emergencies and submits work orders.",
+  "category": "Real estate",
+  "nameType": "human",
+  "source": "https://www.stan.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Aimee",
+  "company": "Peerlogic",
+  "project": "",
+  "use": "AI front-desk assistant for dental and veterinary practices that answers calls 24/7, texts back missed calls and books appointments.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.peerlogic.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Emma",
+  "company": "Aura 300",
+  "project": "",
+  "use": "AI receptionist for salons that answers every inbound call 24/7 and books appointments into the salon calendar.",
+  "category": "Beauty & wellness",
+  "nameType": "human",
+  "source": "https://www.salontoday.com/articles/aura-300-enters-the-us-market-bringing-ai-revenue-infrastructure-to-american-salons",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Yuki",
+  "company": "Aura 300",
+  "project": "",
+  "use": "AI agent that wins back lapsed salon clients through voice calls and WhatsApp.",
+  "category": "Beauty & wellness",
+  "nameType": "human",
+  "source": "https://www.salontoday.com/articles/aura-300-enters-the-us-market-bringing-ai-revenue-infrastructure-to-american-salons",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Nami",
+  "company": "Aura 300",
+  "project": "",
+  "use": "AI agent that creates and runs Facebook and Instagram ad campaigns to bring new bookings to salons.",
+  "category": "Beauty & wellness",
+  "nameType": "human",
+  "source": "https://www.salontoday.com/articles/aura-300-enters-the-us-market-bringing-ai-revenue-infrastructure-to-american-salons",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Clara AI",
+  "company": "Clara AI",
+  "project": "",
+  "use": "Done-for-you AI voice receptionist for med spas that books appointments during calls and builds client profiles.",
+  "category": "Beauty & wellness",
+  "nameType": "human",
+  "source": "https://www.stork.ai/blog/ai-receptionist-for-med-spas-2026",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "STELLA",
+  "company": "STELLA Automotive AI",
+  "project": "STELLA Reception / STELLA Service",
+  "use": "AI voice assistant that answers dealership phones on the first ring, routes callers and books service appointments.",
+  "category": "Automotive",
+  "nameType": "human",
+  "source": "https://www.autoremarketing.com/ar/stella-automotive-introduces-ai-receptionist-to-answer-dealership-phones",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Lexi",
+  "company": "Lexi (lexi.law)",
+  "project": "",
+  "use": "AI assistant for law firms that handles intake, client calls and follow-ups, plus drafting and research.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.stork.ai/en/lexi",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Joy",
+  "company": "VoiceCare AI",
+  "project": "",
+  "use": "Voice AI agent that phones insurers and payers for benefits verification, prior authorizations and claims follow-ups, then writes a call summary.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.speechtechmag.com/Articles/News/Speech-Technology-News/VoiceCare-AI-Launches-to-Automate-Healthcare-Back-Office-168041.aspx",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Bubba",
+  "company": "Hey Bubba",
+  "project": "Bubba AI",
+  "use": "AI autopilot for trucking fleets that finds loads, negotiates rates with brokers and books freight; drivers talk to it by voice.",
+  "category": "Logistics",
+  "nameType": "human",
+  "source": "https://bubba.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Linda AI",
+  "company": "Linda AI",
+  "project": "",
+  "use": "AI voice receptionist for dental clinics in the UK and Ireland that answers busy-period and after-hours calls, confirms and reschedules appointments.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.thinkbusiness.ie/articles/linda-ai-dental-booking-automation-india-healy-oconnor-podcast-interview/",
+  "list": "AI-native startup"
+ }
+]

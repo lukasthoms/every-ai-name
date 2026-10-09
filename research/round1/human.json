@@ -1,0 +1,506 @@
+[
+ {
+  "name": "Vanessa",
+  "company": "Soho House",
+  "project": "Soho House app",
+  "use": "\"Ask Vanessa\" is an AI concierge that helps members discover, plan and book visits to the Houses.",
+  "category": "Hospitality / Members Clubs",
+  "nameType": "human",
+  "source": "https://www.sohohouse.com/en-us/house-notes/issue-006/house-tips/soho-house-in-2026"
+ },
+ {
+  "name": "Erica",
+  "company": "Bank of America",
+  "project": "",
+  "use": "Virtual financial assistant in the BofA app; passed 3 billion client interactions in 2025.",
+  "category": "Banking",
+  "nameType": "human",
+  "source": "https://www.placera.se/pressmeddelanden/a-decade-of-ai-innovation-bofa-s-virtual-assistant-erica-surpasses-3-billion-client-interactions-20250820"
+ },
+ {
+  "name": "Ava",
+  "company": "Artisan",
+  "project": "Artisan AI Employees",
+  "use": "AI business development rep that sources leads, writes outreach and books meetings.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://www.artisan.co/ai-sales-agent"
+ },
+ {
+  "name": "Aaron",
+  "company": "Artisan",
+  "project": "Artisan AI Employees",
+  "use": "Announced AI inbound sales agent that qualifies and routes inbound leads.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://en.wikipedia.org/wiki/Artisan_AI"
+ },
+ {
+  "name": "Aria",
+  "company": "Artisan",
+  "project": "Artisan AI Employees",
+  "use": "Announced AI meeting assistant for scheduling, reminders and post-call summaries.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://en.wikipedia.org/wiki/Artisan_AI"
+ },
+ {
+  "name": "Alice",
+  "company": "11x",
+  "project": "11x Digital Workers",
+  "use": "Always-on AI SDR that finds buyers, runs outreach and books meetings.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://www.11x.ai/worker/alice"
+ },
+ {
+  "name": "Julian",
+  "company": "11x",
+  "project": "11x Digital Workers",
+  "use": "AI inbound sales agent that engages and qualifies leads across phone, chat, SMS and WhatsApp.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://www.11x.ai/worker/julian"
+ },
+ {
+  "name": "Jordan",
+  "company": "11x",
+  "project": "11x Digital Workers",
+  "use": "Multilingual AI phone rep handling inbound and outbound calls in 30+ languages.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://www.maginative.com/article/11x-raises-50m-series-b-led-by-a16z-for-ai-digital-workers/"
+ },
+ {
+  "name": "Jason AI",
+  "company": "Reply.io",
+  "project": "",
+  "use": "AI SDR that builds ICPs, runs multichannel campaigns and books meetings.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://reply.io/jason-ai/"
+ },
+ {
+  "name": "Piper",
+  "company": "Qualified",
+  "project": "",
+  "use": "Inbound AI SDR that chats with website visitors, qualifies them and books meetings.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://www.qualified.com/ai-sdr"
+ },
+ {
+  "name": "Zara",
+  "company": "Stamina",
+  "project": "",
+  "use": "AI SDR that qualifies leads, writes email sequences, follows up and syncs to the CRM.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://stamina.io/blog/ai-sdr"
+ },
+ {
+  "name": "Agent Frank",
+  "company": "Salesforge",
+  "project": "",
+  "use": "AI SDR for prospecting, writing, follow-ups and meeting booking over email and LinkedIn.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://stamina.io/blog/7-ai-sdr-agents-that-can-replace-your-sales-reps-(2025-review)"
+ },
+ {
+  "name": "Chase",
+  "company": "MeetChase",
+  "project": "",
+  "use": "AI sales agent for lead sourcing, outreach and meeting scheduling.",
+  "category": "Sales Software",
+  "nameType": "human",
+  "source": "https://www.meetchase.ai/"
+ },
+ {
+  "name": "Viktor",
+  "company": "Viktor",
+  "project": "",
+  "use": "AI \"coworker\" that lives in Slack and Microsoft Teams and does work across 3,000+ tools; raised a $75M Series A in 2026.",
+  "category": "Workplace Software",
+  "nameType": "human",
+  "source": "https://www.shopifreaks.com/viktor-raises-75m-series-a-led-by-accel-to-build-ai-coworker-agent-embedded-in-slack-and-microsoft-teams-workspaces/"
+ },
+ {
+  "name": "Eva",
+  "company": "Marblism",
+  "project": "Marblism AI Employees",
+  "use": "AI executive assistant that manages email and calendar and takes meeting notes.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Sonny",
+  "company": "Marblism",
+  "project": "Marblism AI Employees",
+  "use": "AI social media manager.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Penny",
+  "company": "Marblism",
+  "project": "Marblism AI Employees",
+  "use": "Writes SEO blog posts.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Stan",
+  "company": "Marblism",
+  "project": "Marblism AI Employees",
+  "use": "AI lead gen rep that sends cold emails, follows up and books sales calls.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Rachel",
+  "company": "Marblism",
+  "project": "Marblism AI Employees",
+  "use": "AI receptionist that answers calls 24/7 and books appointments.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Linda",
+  "company": "Marblism",
+  "project": "Marblism AI Employees",
+  "use": "AI legal assistant that reviews contracts and flags risky clauses.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Cara",
+  "company": "Marblism",
+  "project": "Marblism AI Employees",
+  "use": "AI customer support agent that handles tickets and de-escalates complaints.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://apps.apple.com/ca/app/marblism/id6747340864"
+ },
+ {
+  "name": "Alisson",
+  "company": "Marblism",
+  "project": "Marblism AI Employees",
+  "use": "Newest Marblism AI employee, focused on closing sales.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://www.cbinsights.com/company/marblism/"
+ },
+ {
+  "name": "Buddy",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI business development and strategy helper.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Cassie",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI customer support helper.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Commet",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI e-commerce manager for store setup and product launches.",
+  "category": "Small Business Software",
+  "nameType": "brand",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Dexter",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI data analyst that turns data into forecasts and insights.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Emmie",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI email marketing helper.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Gigi",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI personal growth coach (some sources say graphic design).",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Milli",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI sales helper that writes cold call scripts, cold emails and pitches.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Penn",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI copywriter for blog posts and long-form copy.",
+  "category": "Small Business Software",
+  "nameType": "human",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Scouty",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI recruiter for job descriptions and candidate screening.",
+  "category": "Small Business Software",
+  "nameType": "brand",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Seomi",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI SEO specialist.",
+  "category": "Small Business Software",
+  "nameType": "brand",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Soshie",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI social media manager.",
+  "category": "Small Business Software",
+  "nameType": "brand",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Vizzy",
+  "company": "Sintra",
+  "project": "Sintra AI Helpers",
+  "use": "AI virtual assistant for calendars, meetings and trip planning.",
+  "category": "Small Business Software",
+  "nameType": "brand",
+  "source": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Eno",
+  "company": "Capital One",
+  "project": "",
+  "use": "Banking assistant (\"One\" spelled backwards) for balances, transactions and bill pay.",
+  "category": "Banking",
+  "nameType": "brand",
+  "source": "https://www.mintel.com/insights/financial-services/meet-eno-capital-ones-banking-chatbot/"
+ },
+ {
+  "name": "Fargo",
+  "company": "Wells Fargo",
+  "project": "",
+  "use": "AI virtual assistant in the Wells Fargo mobile app.",
+  "category": "Banking",
+  "nameType": "brand",
+  "source": "https://www.kaily.ai/blog/banking-chatbot-examples"
+ },
+ {
+  "name": "Sama",
+  "company": "Qatar Airways",
+  "project": "",
+  "use": "AI digital-human cabin crew, being extended into an AI travel booking agent.",
+  "category": "Airlines",
+  "nameType": "human",
+  "source": "https://skift.com/2025/02/24/exclusive-qatar-airways-to-launch-ai-travel-agent/"
+ },
+ {
+  "name": "AI.g",
+  "company": "Air India",
+  "project": "",
+  "use": "Generative AI virtual agent that answers customer queries.",
+  "category": "Airlines",
+  "nameType": "brand",
+  "source": "https://www.microsoft.com/en-in/aifirstmovers/airindia"
+ },
+ {
+  "name": "Lilli",
+  "company": "McKinsey & Company",
+  "project": "",
+  "use": "Internal gen-AI knowledge assistant, named after Lillian Dombrowski, McKinsey's first female consultant.",
+  "category": "Consulting",
+  "nameType": "human",
+  "source": "https://www.maginative.com/article/mckinsey-unveils-lilli-its-own-generative-ai-assistant/"
+ },
+ {
+  "name": "Deckster",
+  "company": "Boston Consulting Group",
+  "project": "",
+  "use": "Internal AI assistant that improves slide decks using BCG templates.",
+  "category": "Consulting",
+  "nameType": "brand",
+  "source": "https://www.businessinsider.nl/inside-the-ai-boom-thats-transforming-how-consultants-work-at-mckinsey-bcg-and-deloitte"
+ },
+ {
+  "name": "Debrief",
+  "company": "Morgan Stanley",
+  "project": "AI @ Morgan Stanley",
+  "use": "AI note-taker for advisor client meetings that drafts follow-up emails and saves notes to Salesforce.",
+  "category": "Wealth Management",
+  "nameType": "brand",
+  "source": "https://www.morganstanley.com/press-releases/ai-at-morgan-stanley-debrief-launch"
+ },
+ {
+  "name": "Rufus",
+  "company": "Amazon",
+  "project": "",
+  "use": "Gen-AI shopping assistant trained on Amazon's catalog, reviews and Q&As.",
+  "category": "Retail / E-commerce",
+  "nameType": "human",
+  "source": "https://www.emarketer.com/content/leaked-amazon-pitch-deck-makes-case-rufus-ads"
+ },
+ {
+  "name": "Sparky",
+  "company": "Walmart",
+  "project": "",
+  "use": "Gen-AI shopping assistant in the Walmart app, launched June 2025.",
+  "category": "Retail / E-commerce",
+  "nameType": "brand",
+  "source": "https://www.modernretail.co/operations/chatbot-cheatsheet-a-guide-to-the-ai-assistants-from-walmart-loreal-amazon-and-more/"
+ },
+ {
+  "name": "Ask Ralph",
+  "company": "Ralph Lauren",
+  "project": "",
+  "use": "AI style advisor built with Microsoft.",
+  "category": "Fashion Retail",
+  "nameType": "human",
+  "source": "https://dallasexpress.com/?p=284822"
+ },
+ {
+  "name": "Mylow",
+  "company": "Lowe's",
+  "project": "",
+  "use": "AI home improvement advisor built with OpenAI; a Mylow Companion version helps store associates.",
+  "category": "Home Improvement Retail",
+  "nameType": "brand",
+  "source": "https://corporate.lowes.com/newsroom/stories/inside-lowes/meet-mylow-lowes-unveils-first-ever-ai-powered-virtual-home-improvement-assistant"
+ },
+ {
+  "name": "AI Maya",
+  "company": "Lemonade",
+  "project": "",
+  "use": "AI bot that onboards customers and sells insurance policies through chat.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://nasdaq.com/articles/tech-innovations-power-lemonades-scalable-insurance-model"
+ },
+ {
+  "name": "AI Jim",
+  "company": "Lemonade",
+  "project": "",
+  "use": "AI claims bot that settles about a third of claims end-to-end without human help.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://nasdaq.com/articles/tech-innovations-power-lemonades-scalable-insurance-model"
+ },
+ {
+  "name": "Olivia",
+  "company": "Paradox (Workday)",
+  "project": "Workday Paradox Candidate Experience Agent",
+  "use": "Conversational AI recruiter that screens candidates and schedules interviews over SMS and chat.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://index.dev/blog/paradox-ai-recruitment-chatbot-review"
+ },
+ {
+  "name": "Devin",
+  "company": "Cognition",
+  "project": "",
+  "use": "Autonomous \"AI software engineer\" that plans and writes code.",
+  "category": "Software Development",
+  "nameType": "human",
+  "source": "https://venturebeat.com/ai/cognition-emerges-from-stealth-to-launch-ai-software-engineer-devin"
+ },
+ {
+  "name": "Ellie",
+  "company": "Amtelco",
+  "project": "",
+  "use": "AI virtual agent for call centers, named after co-founder Eleanor Curtin; announced Feb 2026.",
+  "category": "Call Center Software",
+  "nameType": "human",
+  "source": "https://www.businesswire.com/news/home/20260216480969/en"
+ },
+ {
+  "name": "Ellie",
+  "company": "PLDT Enterprise",
+  "project": "",
+  "use": "Internal AI assistant in Microsoft Teams (\"Enablement and Intelligence Engine\") for product info and sales materials.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://mb.com.ph/2026/04/02/pldt-enterprise-introduces-ai-digital-assistant-ellie"
+ },
+ {
+  "name": "Saeed",
+  "company": "Dubai Municipality",
+  "project": "",
+  "use": "AI-powered multilingual virtual spokesperson, announced June 2026.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://www.dm.gov.ae/?p=377560"
+ },
+ {
+  "name": "The Girl",
+  "company": "Digital Dubai",
+  "project": "AI-powered Emirati virtual family",
+  "use": "First character of an AI virtual family that explains government services and promotes digital literacy.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://mena.entrepreneur.com/technology/digital-dubai-launches-worlds-first-ai-powered-emirati/495390"
+ },
+ {
+  "name": "Fin",
+  "company": "Intercom",
+  "project": "",
+  "use": "AI customer agent for service, sales and customer success on any channel.",
+  "category": "Customer Service Software",
+  "nameType": "human",
+  "source": "https://fin.ai/"
+ },
+ {
+  "name": "Harvey",
+  "company": "Harvey",
+  "project": "",
+  "use": "AI platform that law firms and in-house legal teams use for legal work.",
+  "category": "Legal Tech",
+  "nameType": "human",
+  "source": "https://www.harvey.ai"
+ },
+ {
+  "name": "dots",
+  "company": "OpenAI",
+  "project": "",
+  "use": "Always-on personal AI assistant connected to 4,000+ apps, launched Sept 2026.",
+  "category": "Consumer AI",
+  "nameType": "brand",
+  "source": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything"
+ }
+]

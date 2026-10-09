@@ -1,0 +1,594 @@
+[
+ {
+  "name": "Buddy",
+  "company": "Thoughtworks",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Zendesk upgrade late 2025; \"Since launching in mid-May, Buddy has interacted with more than 2,800 Thoughtworkers\"",
+  "dateSource": "https://www.zendesk.com/customer/thoughtworks/"
+ },
+ {
+  "name": "Olive",
+  "company": "Thrive Market",
+  "launched": "2025",
+  "basis": "earliest mention",
+  "evidence": "Sierra case study: in the first quarter of 2025 Thrive Market saw 50% improvement in case resolution with AI agent Olive",
+  "dateSource": "https://sierra.ai/customers/thrive-market"
+ },
+ {
+  "name": "Aimee",
+  "company": "Thurrock Council (UK)",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "4 February 2025: Thurrock Council has launched a new voice activated AI assistant, Aimee",
+  "dateSource": "https://www.thurrock.gov.uk/news/customer-service/introducing-aimee-here-to-help-with-council-tax-questions"
+ },
+ {
+  "name": "MyGate",
+  "company": "TIAA",
+  "launched": "",
+  "basis": "",
+  "evidence": "No launch date found for MyGate",
+  "dateSource": "https://www.cio.com/podcast/4080298/tiaas-sastry-durvasula-on-ai-innovations-in-the-insurance-space.html"
+ },
+ {
+  "name": "Lyro",
+  "company": "Tidio",
+  "launched": "2023-07",
+  "basis": "launched",
+  "evidence": "Press release July 12, 2023: Tidio launches Lyro, the first conversational AI chatbot for SMBs",
+  "dateSource": "https://www.einpresswire.com/article/644086794/tidio-launches-lyro-the-first-conversational-ai-chatbot-for-smbs/"
+ },
+ {
+  "name": "Lumi",
+  "company": "Tiendanube (Nuvemshop)",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Descubre/DPL News May 2026: Tiendanube lanza Lumi, su inteligencia artificial, at Tecnomoda México",
+  "dateSource": "https://www.descubre.vc/noticia/tiendanube-lanza-lumi-su-inteligencia-artificial-para-transformar-el-e-commerce-en-m-xico-2026-05-23"
+ },
+ {
+  "name": "AI Sakura-san (AIさくらさん)",
+  "company": "Tifana.com",
+  "launched": "",
+  "basis": "",
+  "evidence": "Only individual deployments found (e.g. Kawachinagano from Aug 1 2025); product launch date not found",
+  "dateSource": "https://aismiley.co.jp/?p=186843"
+ },
+ {
+  "name": "TigerGPT",
+  "company": "Tiger Brokers (UP Fintech)",
+  "launched": "2023-04",
+  "basis": "announced",
+  "evidence": "PRNewswire April 11, 2023: TigerGPT introduced as first AI investment assistant, in user testing; official launch followed",
+  "dateSource": "https://www.aap.com.au/aapreleases/cision20230411ae66673/"
+ },
+ {
+  "name": "Taís",
+  "company": "TIM Brasil",
+  "launched": "2020-12",
+  "basis": "launched",
+  "evidence": "TIM officially launched Taís, its new virtual assistant, on 8 December 2020 (generative AI layer planned 2025)",
+  "dateSource": "https://www.minhaoperadora.com.br/?p=78037"
+ },
+ {
+  "name": "TIME AI",
+  "company": "TIME",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Axios, Nov 10 2025: TIME launches AI agent letting readers ask questions about its journalism",
+  "dateSource": "https://www.axios.com/2025/11/10/time-ai-agent-ask"
+ },
+ {
+  "name": "Timi",
+  "company": "Timișoara Municipality (Romania)",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "BTA, 09.02.2026: Timisoara Municipality launches AI-powered virtual assistant for citizens services",
+  "dateSource": "https://www.bta.bg/en/news/balkans/1060242-timisoara-municipality-launches-ai-powered-virtual-assistant-for-citizens-servic"
+ },
+ {
+  "name": "Chemistry",
+  "company": "Tinder (Match Group)",
+  "launched": "2025-11",
+  "basis": "announced",
+  "evidence": "Nov 2025 Match Group earnings call: Tinder testing Chemistry AI matching in Australia and New Zealand",
+  "dateSource": "https://alternativeto.net/news/2025/11/tinder-is-testing-using-ai-to-access-personal-photos-for-smarter-matches-and-facial-scans"
+ },
+ {
+  "name": "Toast IQ",
+  "company": "Toast",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 29 2025: Toast launched Toast IQ conversational AI assistant, available to all U.S. customers (builds on features introduced earlier in 2025)",
+  "dateSource": "https://restauranttechnologynews.com/2025/10/toast-launches-conversational-ai-assistant-to-help-restaurant-operators-work-faster-and-smarter/"
+ },
+ {
+  "name": "Heather",
+  "company": "Together Credit Union",
+  "launched": "",
+  "basis": "",
+  "evidence": "No launch date found for Heather",
+  "dateSource": "https://www.posh.ai/client-stories/client-story-together-credit-union"
+ },
+ {
+  "name": "A1 (Eiichi / えいいち)",
+  "company": "Tokyo Metropolitan Government",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Press release 2026-04-09: about 60,000 Tokyo staff begin using generative AI \"A1\"; platform trialled since Sept 2025",
+  "dateSource": "https://www.metro.tokyo.lg.jp/information/press/2026/04/2026040920"
+ },
+ {
+  "name": "AI Governor Yuriko (AI都知事ユリコ)",
+  "company": "Tokyo Metropolitan Government",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "CNA via TechNews, 2026-04-22: Tokyo posted \"AI Governor Yuriko\" video on X yesterday, announcing the AI avatar officially went live",
+  "dateSource": "https://technews.tw/2026/04/22/yuriko/"
+ },
+ {
+  "name": "Ask Isaac",
+  "company": "Town of Acton (Massachusetts)",
+  "launched": "2026",
+  "basis": "earliest mention",
+  "evidence": "Town homepage (fetched 2026-09/10): \"Town of Acton Launches Ask Isaac, a 24/7 Digital Assistant\"",
+  "dateSource": "https://www.acton-ma.gov/"
+ },
+ {
+  "name": "Auggie Answers",
+  "company": "Town of Danville (California)",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "Press release posted January 22, 2025: Auggie Answers: Town of Danville Launches AI Chatbot",
+  "dateSource": "https://www.danville.ca.gov/m/newsflash/Archive/Item/1039?arcId=2253"
+ },
+ {
+  "name": "Sawyer",
+  "company": "Town of Mount Pleasant (South Carolina)",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "WCBD 1/5/26 \"Meet Sawyer, Mount Pleasant's new AI virtual assistant\"; WCSC 1/13/26 launches AI assistant Sawyer",
+  "dateSource": "https://www.citibot.io/news"
+ },
+ {
+  "name": "Trudy",
+  "company": "Town of Vernon (Connecticut)",
+  "launched": "2026-05",
+  "basis": "announced",
+  "evidence": "Published May 14, 2026: the town of Vernon is launching an after-hours voice line named Trudy",
+  "dateSource": "https://polimorphic.com/articles/alexa-soon-to-have-a-sister-in-vernon-named-trudy"
+ },
+ {
+  "name": "Sugar Beet Sam",
+  "company": "Town of Windsor (Colorado)",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Posted May 08, 2026: The Town of Windsor has launched a new AI assistant, Sugar Beet Sam",
+  "dateSource": "https://register.windsorgov.com/CivicAlerts.asp?AID=1715"
+ },
+ {
+  "name": "O-Beya",
+  "company": "Toyota",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "Since January 2024, some 800 Toyota powertrain engineers have had access to O-Beya",
+  "dateSource": "https://news.microsoft.com/source/asia/features/toyota-is-deploying-ai-agents-to-harness-the-collective-wisdom-of-engineers-and-innovate-faster/"
+ },
+ {
+  "name": "Hey GURA",
+  "company": "Tractor Supply",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "Hey GURA rolled out to pilot stores in late 2023; fully deployed to all 2,200+ stores in early 2024",
+  "dateSource": "https://www.cio.com/article/2088569/tractor-supply-enlists-ai-to-deliver-legendary-customer-service.html"
+ },
+ {
+  "name": "Annette",
+  "company": "Travel Outlook",
+  "launched": "2022-02",
+  "basis": "earliest mention",
+  "evidence": "Feb 2022 articles on Annette, the Virtual Hotel Agent (formerly Bella); major PolyAI upgrade Feb 2026",
+  "dateSource": "https://www.hotel-online.com/tags/annette-the-virtual-agent"
+ },
+ {
+  "name": "Ortak",
+  "company": "Trendyol",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "DHA Oct 23 2025: Trendyol CEO Erdem Inan introduced \"Ortak, our new AI product\" for sellers at partners summit",
+  "dateSource": "https://www.dha.com.tr/kurumsal/trendyolun-kasim-kampanyalari-bu-yil-15-ulkede-birden-gerceklesecek-2744083"
+ },
+ {
+  "name": "Arc",
+  "company": "Trimble",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "FleetOwner Aug 12, 2026: Trimble launched its latest AI innovation this week, Trimble Arc Agent",
+  "dateSource": "https://www.fleetowner.com/technology/article/55397354/trimble-arc-agent-makes-fleet-management-more-productive"
+ },
+ {
+  "name": "TripGenie",
+  "company": "Trip.com",
+  "launched": "2023-07",
+  "basis": "launched",
+  "evidence": "TTG Asia July 26, 2023: Trip.com has launched TripGenie, enhanced version of assistant previously known as TripGen",
+  "dateSource": "https://www.ttgasia.com/2023/07/26/trip-com-introduces-ai-travel-assistant-tripgenie/"
+ },
+ {
+  "name": "Goo",
+  "company": "Triumvir Law",
+  "launched": "2025-03",
+  "basis": "announced",
+  "evidence": "March 18, 2025: Triumvir Law implemented Lucio and in-house developed AI model Goo under its AI Drive 2025",
+  "dateSource": "https://desikaanoon.in/triumvir-law-incorporates-lucio-and-its-ai-assistant-goo/"
+ },
+ {
+  "name": "Mari",
+  "company": "True Corporation",
+  "launched": "2014",
+  "basis": "launched",
+  "evidence": "The Nation: since 2014, when True's virtual agent Mari came into service; Mari 3.0 unveiled July 2024",
+  "dateSource": "https://www.nationthailand.com/business/tech/40038831"
+ },
+ {
+  "name": "Truist Assist",
+  "company": "Truist",
+  "launched": "2022-09",
+  "basis": "launched",
+  "evidence": "Sept. 15, 2022 press release: Truist announced the launch of Truist Assist in its mobile and online banking",
+  "dateSource": "https://media.truist.com/2022-09-15-Truist-launches-Truist-Assist"
+ },
+ {
+  "name": "Xiaoda",
+  "company": "Tsinghua University",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "In 2024, Tsinghua launched a suite of AI educational tools including Xiaoda, introduced to all incoming freshmen",
+  "dateSource": "https://www.tsinghua.edu.cn/en/info/1418/14423.htm"
+ },
+ {
+  "name": "Maxi",
+  "company": "Türkiye İş Bankası (Isbank)",
+  "launched": "2018-11",
+  "basis": "launched",
+  "evidence": "Isbank: Maxi has interacted with customers since November 2018, first on IsCep then Maximum Mobil",
+  "dateSource": "https://webrazzi.com/2018/10/17/turkiye-is-bankasinin-diyalog-bankaciligi-ozelindeki-kisisel-asistani-olan-maxi-webrazzi-summit-2018-sahnesinde-tanitildi/"
+ },
+ {
+  "name": "CamoGPT",
+  "company": "U.S. Army",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "CamoGPT development began fall 2023 and was first deployed in spring 2024 by Army AI2C",
+  "dateSource": "https://defensescoop.com/2026/01/27/army-camogpt-dod-genai-mil/"
+ },
+ {
+  "name": "Emma",
+  "company": "U.S. Citizenship and Immigration Services (USCIS)",
+  "launched": "2015-12",
+  "basis": "launched",
+  "evidence": "USCIS launched a new virtual assistant named EMMA on December 2, 2015",
+  "dateSource": "https://immigrationview.foxrothschild.com/general-immigration-news-and-updates/uscis-launches-a-virtual-assistant-and-her-name-is-emma/"
+ },
+ {
+  "name": "GenAI.mil",
+  "company": "U.S. Department of Defense",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Dec 9, 2025: Department of War launched GenAI.mil with Gemini for Government, live on all personnel desktops",
+  "dateSource": "https://www.globalsecurity.org/military/library/news/2025/12/mil-251209-dod01.htm"
+ },
+ {
+  "name": "Amelia",
+  "company": "U.S. Navy",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "ClearanceJobs, June 2024: \"It was a year ago that the U.S. Navy began to roll out an AI assistant dubbed Amelia\"",
+  "dateSource": "https://news.clearancejobs.com/2024/06/12/air-force-and-space-force-introduced-a-new-ai-tool/"
+ },
+ {
+  "name": "Rashid",
+  "company": "UAE Government",
+  "launched": "2026-05",
+  "basis": "announced",
+  "evidence": "Khaleej Times, May 20 2026: Ministry of Economy and Tourism \"recently unveiled Rashid, its first AI virtual assistant\"",
+  "dateSource": "https://www.khaleejtimes.com/uae/uae-government-ai-virtual-assistants"
+ },
+ {
+  "name": "U-Ask",
+  "company": "UAE Government",
+  "launched": "2023-05",
+  "basis": "launched",
+  "evidence": "WAM, 30 May 2023: UAE Government launches AI-powered chatbot platform U-Ask",
+  "dateSource": "https://wam.ae/en/details/1395303163642"
+ },
+ {
+  "name": "Aisha",
+  "company": "UAE Ministry of Justice",
+  "launched": "2024-06",
+  "basis": "announced",
+  "evidence": "Gulf News, June 2024: UAE Ministry of Justice introduces Aisha, the first virtual employee operating with generative AI",
+  "dateSource": "https://gulfnews.com/uae/government/uae-ministry-of-justice-introduces-aisha-the-first-virtual-employee-operating-with-generative-ai-1.1719215716787"
+ },
+ {
+  "name": "Uali",
+  "company": "Ualá",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "La Nacion, Feb 7 2025: En unión con OpenAI, Ualá lanza un chatbot de atención al usuario potenciado por IA generativa",
+  "dateSource": "https://www.lanacion.com.ar/economia/IA/uala-se-une-con-openai-y-apuesta-por-la-innovacion-con-inteligencia-artificial-nid07022025/"
+ },
+ {
+  "name": "Genie",
+  "company": "Uber Technologies",
+  "launched": "2024-10",
+  "basis": "earliest mention",
+  "evidence": "Uber Engineering blog post introducing Genie, on-call copilot Slack bot, dated October 10, 2024",
+  "dateSource": "https://www.infoq.com/news/2024/10/uber-genie-rag-copilot"
+ },
+ {
+  "name": "Red",
+  "company": "UBS",
+  "launched": "2025-02",
+  "basis": "earliest mention",
+  "evidence": "Microsoft, Feb 10 2025: UBS has developed UBS Red, an AI assistant giving advisors access to investment insights",
+  "dateSource": "https://news.microsoft.com/de-ch/2025/02/10/ubs-and-microsoft-partner-to-advance-ai-in-banking/"
+ },
+ {
+  "name": "Rocky",
+  "company": "UC Davis",
+  "launched": "2024",
+  "basis": "announced",
+  "evidence": "UC Davis timeline: Fall 2024, Rocky, UC Davis first AI chat, launched as a closed beta pilot",
+  "dateSource": "https://iet.ucdavis.edu/aggie-ai"
+ },
+ {
+  "name": "ZotGPT",
+  "company": "UC Irvine",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "UCI release: ZotGPT officially launched for all faculty and staff in early January 2024; students April 2024",
+  "dateSource": "https://www.aau.edu/newsroom/uc-irvine-launches-customized-generative-artificial"
+ },
+ {
+  "name": "The Grove",
+  "company": "UC Riverside",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "UCR announced the April 29, 2026 soft launch of The Grove, a secure AI campus assistant",
+  "dateSource": "https://insideucr.ucr.edu/announcements/2026/04/21"
+ },
+ {
+  "name": "TritonGPT",
+  "company": "UC San Diego",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "Pilot to 400 staff Oct 2023; phased campus release starting March 2024, official rollout spring 2024",
+  "dateSource": "https://tritonai.ucsd.edu/about/roadmap.html"
+ },
+ {
+  "name": "Versa",
+  "company": "UC San Francisco",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "Versa was conceptualized, developed, and launched within three months in 2023",
+  "dateSource": "https://uctechnews.ucop.edu/news-the-ucsf-versa-ai-tiger-team-wins-the-gold-ai-impact-award-at-the-2025-uc-tech-awards/"
+ },
+ {
+  "name": "BruinChat",
+  "company": "UCLA",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "UCLA DTS: launched BruinChat on August 28, 2025, an AI assistant delivering 24/7 financial aid guidance",
+  "dateSource": "https://dts.ucla.edu/newsroom/ai-in-action-transforming-uclas-enrollment-management-support-with-bruinchat"
+ },
+ {
+  "name": "Dora",
+  "company": "Ufonia",
+  "launched": "2022-10",
+  "basis": "earliest mention",
+  "evidence": "Oxford/Buckinghamshire real-world Dora service evaluation ran Oct 2022 to Apr 2023",
+  "dateSource": "https://digitalhealth.london/implementing-automated-ai-driven-dora-phone-calls-to-patients-across-the-cataract-surgery-pathway"
+ },
+ {
+  "name": "Consult",
+  "company": "UK Government (DSIT i.AI)",
+  "launched": "2025-05",
+  "basis": "announced",
+  "evidence": "May 2025: i.AI Consult used on live Scottish Government consultation, reviewing over 2,000 responses",
+  "dateSource": "https://www.techmarketview.com/ukhotviews/archive/2025/05/14/public-consultation-ai-tool-trialled-by-uk-government"
+ },
+ {
+  "name": "Humphrey",
+  "company": "UK Government (DSIT i.AI)",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "Jan 2025: UK government unveils Humphrey, a package of AI tools for civil servants",
+  "dateSource": "https://www.ukauthority.com/articles/dsit-unveils-humphrey-ai-package-for-civil-service"
+ },
+ {
+  "name": "Lex",
+  "company": "UK Government (DSIT i.AI)",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "The Decoder, Jan 21 2025: Lex among Humphrey AI tools the UK government is building",
+  "dateSource": "https://the-decoder.com/uk-government-building-ai-suite-nicknamed-humphrey-to-modernize-public-services/"
+ },
+ {
+  "name": "Minute",
+  "company": "UK Government (DSIT i.AI)",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "TechRadar, Jan 21 2025: Minute part of Humphrey AI assistant suite to be introduced to UK public sector",
+  "dateSource": "https://www.techradar.com/pro/humphrey-ai-assistant-to-be-introduced-to-slash-uk-public-sector-red-tape"
+ },
+ {
+  "name": "Parlex",
+  "company": "UK Government (DSIT i.AI)",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "The Decoder, Jan 21 2025: UK government developing Parlex, a \"parliamentary vibe check\" tool within Humphrey",
+  "dateSource": "https://the-decoder.com/uk-government-building-ai-suite-nicknamed-humphrey-to-modernize-public-services/"
+ },
+ {
+  "name": "GOV.UK Chat",
+  "company": "UK Government Digital Service",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Civil Service World 19 May 2026: GOV.UK Chat fully integrated into GOV.UK app (business pilot in 2024)",
+  "dateSource": "https://www.civilserviceworld.com/news/article/govuk-ai-chatbot-launched"
+ },
+ {
+  "name": "Ulta AI",
+  "company": "Ulta Beauty",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "April 22, 2026: Ulta Beauty released Ulta AI shopping assistant on Ulta.com, built on Gemini",
+  "dateSource": "https://www.ulta.com/investor/news-events/press-releases/detail/226"
+ },
+ {
+  "name": "UNA",
+  "company": "Unacademy",
+  "launched": "",
+  "basis": "",
+  "evidence": "No launch date found for UNA",
+  "dateSource": "https://unacademy.com/terms/UNA%20-%20FAQs"
+ },
+ {
+  "name": "Spartan AI",
+  "company": "UNC Greensboro",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "WFDD Oct 2 2026: Spartan AI launched Sept. 14, 2026 at UNC Greensboro",
+  "dateSource": "https://www.wunc.org/2026-10-02/unc-greensboro-launches-spartan-ai"
+ },
+ {
+  "name": "UP Chat",
+  "company": "Union Pacific",
+  "launched": "2024-02",
+  "basis": "announced",
+  "evidence": "Union Pacific News, February 5, 2024: Union Pacific's AI Chat (UP Chat) gives employees secure ChatGPT tool",
+  "dateSource": "https://www.up.com/news/service/ai-chatgpt-tool-it-240205"
+ },
+ {
+  "name": "Aadhaar Mitra",
+  "company": "Unique Identification Authority of India (UIDAI)",
+  "launched": "2023-02",
+  "basis": "launched",
+  "evidence": "Outlook Business, Feb 14 2023: UIDAI unveils new AI/ML chatbot Aadhaar Mitra",
+  "dateSource": "https://www.outlookbusiness.com/news/what-is-aadhaar-mitra-uidai-unveils-new-chatbot-here-is-all-you-need-to-know-news-262066"
+ },
+ {
+  "name": "Leo",
+  "company": "United Bank for Africa (UBA)",
+  "launched": "2018-01",
+  "basis": "launched",
+  "evidence": "UBA officially introduced Leo, AI chat banker on Facebook Messenger, at Lagos event January 11, 2018",
+  "dateSource": "https://investdata.com.ng/?p=10024"
+ },
+ {
+  "name": "Dash",
+  "company": "United Football League (UFL)",
+  "launched": "2025-11",
+  "basis": "earliest mention",
+  "evidence": "Salesforce customer story Nov 3 2025: UFL's Dash instantly answers fan questions; expected 233,000 conversations per season",
+  "dateSource": "https://www.salesforce.com/customer-stories/united-football-league/"
+ },
+ {
+  "name": "Avery",
+  "company": "UnitedHealthcare",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "March 26 2026 news release: UnitedHealthcare launches Avery, a generative AI companion for members",
+  "dateSource": "https://www.beckerspayer.com/payer/unitedhealthcare-rolls-out-ai-assistant-to-simplify-care-navigation/"
+ },
+ {
+  "name": "Una",
+  "company": "Unity Environmental University",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Press release March 3, 2025: Unity Environmental University becomes first to launch Agentforce, introducing Una",
+  "dateSource": "https://unity.edu/press-releases/unity-environmental-university-becomes-first-u-s-university-to-launch-salesforces-agentforce-introducing-una/"
+ },
+ {
+  "name": "GURUJI",
+  "company": "Universal AI University",
+  "launched": "2025-05",
+  "basis": "announced",
+  "evidence": "Tech Outlook May 27, 2025: Universal AI University unveils GURUJI, the smart AI chatbot",
+  "dateSource": "https://www.thetechoutlook.com/brand-story/universal-ai-university-unveils-guruji-the-smart-ai-chat-bot-to-transform-in-campus-students-communication/"
+ },
+ {
+  "name": "Daisy",
+  "company": "Universal Health Services",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Press release June 16, 2025: UHS launches Hippocratic AI agents; thousands of patients contacted since the beginning of the year",
+  "dateSource": "https://hippocraticai.com/universal-health-services-launches-hippocratic-ais-generative-ai-healthcare-agents-to-assist-with-post-discharge-patient-engagement/"
+ },
+ {
+  "name": "UNI",
+  "company": "Universal Orlando Resort",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "Pax News 08-20-2026: Universal Orlando Resort has launched UNI, an AI assistant for travel advisors",
+  "dateSource": "https://www.paxnews.com/news/technology/meet-uni-universal-orlandos-new-ai-tool-travel-advisors"
+ },
+ {
+  "name": "Blazebot",
+  "company": "University of Alabama at Birmingham",
+  "launched": "2024-12",
+  "basis": "launched",
+  "evidence": "UAB news Dec 17 2024: UAB launches Blazebot, a student success chatbot",
+  "dateSource": "https://bb.uab.edu/it/news/item/uab-launches-blazebot-a-student-success-chatbot"
+ },
+ {
+  "name": "Charger Blue",
+  "company": "University of Alabama in Huntsville",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "UAH announcement August 12, 2025: Introducing Charger Blue, our new AI-powered chatbot",
+  "dateSource": "https://www.uah.edu/announcements/fac-staff/19640-introducing-charger-blue-your-new-uah-virtual-assistant"
+ },
+ {
+  "name": "UvA AI Chat",
+  "company": "University of Amsterdam",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "UvA news 28 August 2025: starting 1 September UvA will make its own AI chat tool available",
+  "dateSource": "https://www.uva.nl/en/content/news/news/2025/08/uva-launches-its-own-ai-chat.html"
+ },
+ {
+  "name": "CARA",
+  "company": "University of Arizona",
+  "launched": "2026-04",
+  "basis": "earliest mention",
+  "evidence": "UArizona IT news April 29, 2026: CARA \"recently went live\"",
+  "dateSource": "https://it.arizona.edu/news/new-era-ai-assistants-university"
+ },
+ {
+  "name": "BearcatGPT",
+  "company": "University of Cincinnati",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "UC news May 2026: BearcatGPT was unveiled to faculty last year and to students in February",
+  "dateSource": "https://www.uc.edu/news/articles/2026/04/local-news-highlights-ucs-private-ai-platform-bearcatgpt.html"
+ },
+ {
+  "name": "ELM",
+  "company": "University of Edinburgh",
+  "launched": "2024",
+  "basis": "earliest mention",
+  "evidence": "University of Edinburgh ELM service page published 8 October 2024",
+  "dateSource": "https://information-services.ed.ac.uk/computing/comms-and-collab/elm"
+ },
+ {
+  "name": "NaviGator AI",
+  "company": "University of Florida",
+  "launched": "2024-08",
+  "basis": "launched",
+  "evidence": "UF News Aug 2024: UF IT has developed and released NaviGator AI, self-service AI platform",
+  "dateSource": "https://news.ufl.edu/2024/08/navigator"
+ }
+]

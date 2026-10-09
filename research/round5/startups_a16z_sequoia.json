@@ -1,0 +1,122 @@
+[
+ {
+  "name": "Aidan",
+  "company": "Sable",
+  "project": "",
+  "use": "AI employee that handles customer calls at scale by operating a product in real time through browser control and vision.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://withsable.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Eve",
+  "company": "Eve Legal",
+  "project": "EveOS",
+  "use": "Legal AI for plaintiff law firms that runs intake calls, audits cases and drafts demand letters, discovery and motions.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.eve.legal",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Sierra",
+  "company": "Sierra",
+  "project": "",
+  "use": "Conversational AI platform that businesses use to build and run customer-facing AI agents.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://sierra.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Florence",
+  "company": "Anterior",
+  "project": "",
+  "use": "Clinical AI system for regulated healthcare work that runs as autonomous background agents or under human-in-the-loop review.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.anterior.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Lea",
+  "company": "Leona Health",
+  "project": "Leona",
+  "use": "AI assistant in Leona's WhatsApp app for doctors that schedules appointments, sends reminders and answers patients 24/7.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.leona.health",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Gigi",
+  "company": "Gigi",
+  "project": "",
+  "use": "AI social network that maps your network, trust and accomplishments to show your social capital and surface opportunities.",
+  "category": "Consumer",
+  "nameType": "human",
+  "source": "https://www.sequoiacap.com/companies/gigi/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Mindy",
+  "company": "Mindy",
+  "project": "",
+  "use": "AI-powered creator and brand platform that helps brands produce on-brand videos with nano and micro creators.",
+  "category": "Marketing",
+  "nameType": "human",
+  "source": "https://sequoiacap.com/companies/mindy",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Bruce",
+  "company": "Bruce",
+  "project": "",
+  "use": "AI-native reputation and discovery layer that turns professional relationships and track records into trust data for search and matching.",
+  "category": "Professional services",
+  "nameType": "human",
+  "source": "https://sequoiacap.com/companies/bruce",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Otto",
+  "company": "Otto Finance",
+  "project": "",
+  "use": "AI platform that automates wealth managers' advisory workflows such as client onboarding, servicing, reporting and communication.",
+  "category": "Wealth management",
+  "nameType": "human",
+  "source": "https://sequoiacap.com/companies/otto-finance",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Piper",
+  "company": "Salesforce",
+  "project": "Tavus PALs",
+  "use": "Real-time video AI sales development rep built on Tavus that answers visitors on Salesforce's website and moves them toward pipeline.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.tavus.io",
+  "list": "AI-native startup · YC Summer 2021"
+ },
+ {
+  "name": "Aurora",
+  "company": "Orum",
+  "project": "Tavus PALs",
+  "use": "Video AI coach built on Tavus that runs realistic sales role-play calls so reps can practice on demand.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.tavus.io",
+  "list": "AI-native startup · YC Summer 2021"
+ },
+ {
+  "name": "Ruby",
+  "company": "Med Learning Group",
+  "project": "Tavus PALs",
+  "use": "Video AI clinical consultant built on Tavus for clinicians' continuing medical education on cSCC, answering from vetted sources.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.tavus.io",
+  "list": "AI-native startup · YC Summer 2021"
+ }
+]

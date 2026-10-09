@@ -1,0 +1,407 @@
+[
+  {
+    "name": "Kate",
+    "company": "KBC Group",
+    "project": "KBC Mobile",
+    "use": "Digital assistant that answers banking and insurance questions and proactively flags things like duplicate payments. It serves customers in Belgium, Czechia, Hungary, Slovakia and Bulgaria.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://newsroom.kbc.com/kate-five-years-and-five-milestones"
+  },
+  {
+    "name": "Hey Belfius",
+    "company": "Belfius",
+    "project": "Belfius Mobile app",
+    "use": "Conversational assistant built with Mistral AI that answers customer questions in plain language and guides them to app features such as card limits and payments.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://miro.com/blog/belfius-canvas-26/"
+  },
+  {
+    "name": "Robin",
+    "company": "Rabobank",
+    "project": "",
+    "use": "Rabobank's virtual assistant for customer chat and voice support. The bank is developing it into an agentic AI.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.chatbotsummit.com/amsterdam-2025-partners/rabobank"
+  },
+  {
+    "name": "Nova",
+    "company": "Nordea",
+    "project": "Nordea Business and Nordea app",
+    "use": "Virtual assistant that answers quick questions and handles simpler requests around the clock. It hands customers to an advisor when it can't help.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.nordea.se/foretag/kundservice/kontaktvagar.html"
+  },
+  {
+    "name": "Linda",
+    "company": "Sparkassen-Finanzgruppe",
+    "project": "Sparkasse websites",
+    "use": "Digital assistant chatbot that answers questions about Sparkasse products and services, such as online banking login and pushTAN setup.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.sparkasse-ansbach.de/de/home/service/anleitungen-und-hilfe-en.html"
+  },
+  {
+    "name": "Hey George",
+    "company": "Česká spořitelna (Erste Group)",
+    "project": "George",
+    "use": "GPT-4o-based assistant in the George banking app that answers questions about the app and the customer's own accounts and transactions.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.newstream.cz/money/co-vsechno-dela-v-bankach-umela-inteligence"
+  },
+  {
+    "name": "Ruby",
+    "company": "Komerční banka",
+    "project": "",
+    "use": "Virtual assistant that handles customer contact for the Czech bank.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.newstream.cz/money/co-vsechno-dela-v-bankach-umela-inteligence"
+  },
+  {
+    "name": "Aneta",
+    "company": "Air Bank",
+    "project": "My Air app",
+    "use": "Virtual assistant that customers can talk or type to. It answers questions and helps them use the mobile banking app.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.newstream.cz/money/co-vsechno-dela-v-bankach-umela-inteligence"
+  },
+  {
+    "name": "mAsystent AI",
+    "company": "mBank",
+    "project": "mBank app",
+    "use": "OpenAI-based assistant in the mBank app that answers account questions and can set up operations like transfers or card blocks for the customer to confirm.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.mbank.pl/pdf/inne/masystent_ai_material_informacyjny.pdf"
+  },
+  {
+    "name": "HelloïZ",
+    "company": "Hello bank! (BNP Paribas)",
+    "project": "Hello bank! app",
+    "use": "Generative AI assistant built on Mistral models that answers customer questions and guides them to transfers, card blocking and other tasks. It hands off to human advisors when needed.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.presse-citron.net/hello-bank-lance-helloiz-assistant-ia-service-clients-propulse-mistral/"
+  },
+  {
+    "name": "Bourso.IA",
+    "company": "BoursoBank (Société Générale)",
+    "project": "",
+    "use": "Generative AI chatbot that answers customer questions 24/7, explains online procedures and can arrange a callback from an advisor.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://banque.meilleurtaux.com/banque-en-ligne/actualites/2026-avril/bourso-ia-le-chatbot-ia-de-boursobank-se-precise.html"
+  },
+  {
+    "name": "Starling Assistant",
+    "company": "Starling Bank",
+    "project": "Starling app",
+    "use": "Agentic AI assistant built on Google Gemini that takes voice or text requests. It sets saving goals, organises bills and answers spending questions.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.starlingbank.com/news/starling-launches-agentic-ai-assistant/"
+  },
+  {
+    "name": "Redi",
+    "company": "Virgin Money",
+    "project": "Virgin Money app",
+    "use": "AI virtual assistant that answers account questions and, with permission, orders replacement cards, sets up direct debits or changes credit limits.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.virginmoneyukplc.com/newsroom/article/redi-now-on-current-account/"
+  },
+  {
+    "name": "Chat BT",
+    "company": "Banca Transilvania",
+    "project": "BT Pay",
+    "use": "AI virtual assistant in the BT Pay app that answers questions about the app and the bank's products. It hands off to human agents when needed.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.wall-street.ro/articol/banking/peste-13-milioane-de-romani-au-apelat-la-chatbot-ul-bt.html"
+  },
+  {
+    "name": "Sophia",
+    "company": "National Bank of Greece",
+    "project": "",
+    "use": "Digital assistant that handles customer chats and voice calls. It resets internet banking passwords, reports lost cards and routes calls.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.cnn.gr/oikonomia/epixeiriseis/story/543857/pos-to-agentic-ai-ginetai-meros-tis-stratigikis-tis-ethnikis-trapezas"
+  },
+  {
+    "name": "Red",
+    "company": "UBS",
+    "project": "",
+    "use": "In-house generative AI assistant that gives UBS employees quick access to products, research and Chief Investment Office reports.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.netzwoche.ch/news/2025-08-26/ubs-setzt-im-grossen-stil-auf-generative-ki"
+  },
+  {
+    "name": "Dahlia",
+    "company": "Bankinter",
+    "project": "Banca Patrimonial",
+    "use": "Generative AI chat assistant for private bankers. It surfaces top-performing funds, portfolios and historical fund performance from more than 8,000 funds.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.fundssociety.com/es/?p=273971"
+  },
+  {
+    "name": "ERIC",
+    "company": "Raiffeisen Bank Romania",
+    "project": "Raiffeisen Smart Business app",
+    "use": "AI business coach for entrepreneurs that helps with financial planning, budgets and business plans. It also helps them prepare for meetings with bank specialists.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.wall-street.ro/articol/banking/raiffeisen-lanseaza-un-agent-ai-pentru-antreprenori.html"
+  },
+  {
+    "name": "ARI",
+    "company": "Raiffeisen Bank Romania",
+    "project": "",
+    "use": "Internal AI learning assistant that gives employees quick access to specialised information and supports training and onboarding.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://spotmedia.ro/stiri/economie/zdenek-romanek-ceo-raiffeisen-bank-ai-poate-pregati-o-decizie-bancara-dar-nu-ar-trebui-sa-aiba-ultimul-cuvant"
+  },
+  {
+    "name": "Adele",
+    "company": "Citadele",
+    "project": "",
+    "use": "AI virtual assistant that answers everyday banking questions for customers in the Baltics around the clock.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.cblgroup.com/en/media/press-releases/2026/citadele-advances-baltic-growth-in-2025/"
+  },
+  {
+    "name": "Abi",
+    "company": "AIB (Allied Irish Banks)",
+    "project": "AIB mobile app",
+    "use": "AI digital assistant that gives customers quick answers in the app and on phone lines and guides them to the right support.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://aib.ie/help-and-guidance/abi-digital-assistant-faqs"
+  },
+  {
+    "name": "DanskeGPT",
+    "company": "Danske Bank",
+    "project": "",
+    "use": "Internal generative AI assistant built on Azure OpenAI that helps employees with everyday tasks such as reporting and parts of customer service.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.euromoney.com/?p=118704"
+  },
+  {
+    "name": "Yara",
+    "company": "BNP Paribas Fortis",
+    "project": "",
+    "use": "Internal ChatGPT-style assistant built with Mistral AI that helps staff analyse, summarise and translate documents.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.lalibre.be/economie/entreprises-startup/2026/06/04/ces-taches-que-bnp-paribas-fortis-va-confier-a-lia-YRDIWOVOSNCMJNOHA7RMRNGT4Y/"
+  },
+  {
+    "name": "Clara",
+    "company": "Helvetia",
+    "project": "",
+    "use": "GPT-based chatbot and voicebot that answers insurance and pension questions and takes online claim reports. It is available on web, app, phone and WhatsApp.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://www.helvetia.com/ch/web/en/private-customers/contact/services/ask-clara.html"
+  },
+  {
+    "name": "Leo",
+    "company": "Generali Switzerland",
+    "project": "",
+    "use": "Website chatbot that answers general and simple insurance questions around the clock and can record motor vehicle damage claims.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://www.generali.ch/en/legal-information/terms-and-conditions-chatbot-virtual-assistant"
+  },
+  {
+    "name": "Leonie",
+    "company": "Generali Switzerland",
+    "project": "",
+    "use": "Telephone voice assistant that understands the caller's spoken request, asks follow-up questions and routes them to the right department.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://www.generali.ch/en/legal-information/terms-and-conditions-chatbot-virtual-assistant"
+  },
+  {
+    "name": "AllianzGPT",
+    "company": "Allianz",
+    "project": "",
+    "use": "Internal generative AI chatbot that lets employees query internal content, summarise and translate documents, and compare data.",
+    "category": "Insurance",
+    "nameType": "brand",
+    "source": "https://www.allianz.com/de/mediencenter/news/artikel/250218-ai-bei-der-allianz-wie-allianzgpt-den-arbeitsalltag-praegt.html"
+  },
+  {
+    "name": "RAIA",
+    "company": "Raiffeisenbank (Czech Republic)",
+    "project": "",
+    "use": "Generative AI virtual assistant that answers customer questions about the bank's products and services with general information.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.rb.cz/en/information-services/raia-terms-of-use"
+  },
+  {
+    "name": "SOFia",
+    "company": "Abanca",
+    "project": "abanca.com",
+    "use": "Generative AI virtual assistant on Abanca's website that answers customer questions in natural language and in several languages.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.merca2.es/2024/12/02/abanca-estrena-un-asistente-virtual-que-utiliza-ia-generativa-para-atender-consultas-de-clientes-2085069/"
+  },
+  {
+    "name": "GIA",
+    "company": "Garanti BBVA Romania",
+    "project": "",
+    "use": "GPT-based virtual assistant on the bank's website that answers customer questions in Romanian and English for individuals, SMEs and corporate clients.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.revistabiz.ro/garanti-bbva-lanseaza-chatbot-ul-gia-pentru-a-facilita-interactiunea-cu-clientii/"
+  },
+  {
+    "name": "Vela",
+    "company": "VeloBank",
+    "project": "VeloBank mobile app",
+    "use": "AI virtual assistant in the app that checks balances and history, generates BLIK codes and changes card limits. It works by text or voice.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.bankier.pl/smart/nowa-ai-w-velobanku-zmienia-zasady-gry-sprawdz-co-potrafi-vela"
+  },
+  {
+    "name": "N!Asystent",
+    "company": "Nest Bank",
+    "project": "Nest Bank mobile app",
+    "use": "GPT-4o virtual agent that sets up transfers by voice, pays invoices from a photo, books advisor meetings and charts the customer's finances.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://bank.pl/automatyzacja-platnosci-za-faktury-dzieki-nasystentowi-nest-banku/"
+  },
+  {
+    "name": "SparkasseGPT",
+    "company": "Sparkassen-Finanzgruppe",
+    "project": "ChatGPT",
+    "use": "Free ChatGPT-based assistant that answers questions about accounts, online banking and financial products around the clock.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.giga.de/tech/sparkasse-startet-neuen-service-und-blamiert-sich-sofort--01JT8F15A7DSM73JQ1JBT8GK1X"
+  },
+  {
+    "name": "Dana",
+    "company": "Alpha Bank Romania",
+    "project": "",
+    "use": "Virtual assistant built by DRUID AI for web chat that lets customers check balances, retrieve IBANs, manage security devices and learn about products.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.economica.net/druid-ai-anunta-ca-a-actualizat-si-imbunatatit-asistentul-virtual-dana-folosit-de-alpha-bank_759452.html"
+  },
+  {
+    "name": "ZKB ChatGPT",
+    "company": "Zürcher Kantonalbank",
+    "project": "",
+    "use": "Internal ChatGPT-based digital colleague that staff use for research, writing and summarising, including drafting company profiles in credit work.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.zkb.ch/de/blog/themen/zkb-chatgpt-ein-meilenstein-auf-unserer-ki-reise.html"
+  },
+  {
+    "name": "Aulis",
+    "company": "S-Bank (S-Pankki)",
+    "project": "",
+    "use": "AI chatbot on S-Bank's website and online bank that handles tens of thousands of customer conversations a month.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://rechanneld.com/wp-content/uploads/2025/04/S-PANKKI-Casestudy-RECH-ENG-24032025.pdf"
+  },
+  {
+    "name": "EME",
+    "company": "Mutua Madrileña",
+    "project": "",
+    "use": "Virtual assistant on the web, app and WhatsApp that handles more than 1,300 types of customer queries 24/7.",
+    "category": "Insurance",
+    "nameType": "brand",
+    "source": "https://roams.es/seguros/aseguradoras/mutua-madrilena/telefono"
+  },
+  {
+    "name": "LiDiA",
+    "company": "Línea Directa",
+    "project": "",
+    "use": "Internal AI chatbot that answers questions from Línea Directa's 2,500 employees.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://roams.es/actualidad/seguros/ia-gestiona-llamadas-grua-linea-directa-reto-polizas-siniestros/"
+  },
+  {
+    "name": "MIA GPT",
+    "company": "Mapfre",
+    "project": "",
+    "use": "Generative AI assistant for brokers and service centres that searches more than 1,500 internal documents to answer queries.",
+    "category": "Insurance",
+    "nameType": "brand",
+    "source": "https://www.interempresas.net/TIC/664331-Mapfre-desarrolla-mas-de-150-casos-de-uso-de-IA-durante-2025.html"
+  },
+  {
+    "name": "Loïs",
+    "company": "Interpolis (Achmea)",
+    "project": "",
+    "use": "Customer chatbot on the Interpolis website that answers insurance questions.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://www.interpolis.nl/-/media/files/klantpanel/resultaten/terugkoppeling-chatbot-lois-Panelnieuws-juli-2026"
+  },
+  {
+    "name": "Emmie",
+    "company": "R+V Versicherung",
+    "project": "ruv.de",
+    "use": "Multi-agent AI chatbot that answers questions about claims, contracts and the R+V app, or connects visitors to an advisor.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://www.ruv.de/newsroom/pressemitteilungen/2026-06-26-chatbot-brand-award"
+  },
+  {
+    "name": "DIRK",
+    "company": "R+V Versicherung",
+    "project": "",
+    "use": "Internal knowledge bot and digital colleague that gives staff fast answers on policy terms and case handling from curated internal content.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://www.it-finanzmagazin.de/anwenderbericht-der-rv-versicherung-erfolgreiche-pilotierung-von-internen-wissens-bots-237813/"
+  },
+  {
+    "name": "CoSI",
+    "company": "Signal Iduna",
+    "project": "",
+    "use": "Company-wide internal AI assistant that preserves expert knowledge and helps employees work more productively.",
+    "category": "Insurance",
+    "nameType": "brand",
+    "source": "https://www.dasinvestment.com/geschaeftsaussichten-2026-signal-iduna-torsten-uhlig/"
+  },
+  {
+    "name": "EVA",
+    "company": "Eurobank",
+    "project": "Eurobank Mobile App",
+    "use": "Digital assistant (Eurobank Virtual Assistant) that answers customer questions using the bank's website content. It is being extended to personalised info and transactions.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.powergame.gr/trapezes/1233111/petridis-eurobank-tin-epomeni-mera-tis-technitis-noimosynis-stis-trapezes-fernei-to-ai-factory/"
+  },
+  {
+    "name": "myEVA",
+    "company": "Eurobank",
+    "project": "Microsoft Teams",
+    "use": "Internal AI assistant in Teams that gives employees fast answers on products, procedures and policies by chat or voice.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.qorusglobal.com/index.php/innovations/31215-myeva-transforming-the-digital-workplace-through-genai-powered-knowledge-access"
+  }
+]

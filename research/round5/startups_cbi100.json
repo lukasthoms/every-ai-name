@@ -1,0 +1,82 @@
+[
+ {
+  "name": "Geordie",
+  "company": "Geordie AI",
+  "project": "",
+  "use": "Security and governance platform that shows enterprises where their AI agents are, what they can do and how they behave.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://natlawreview.com/press-releases/geordie-ai-named-2026-cb-insights-list-100-most-innovative-artificial",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Delfina",
+  "company": "Delfina",
+  "project": "",
+  "use": "Maternity care platform that uses machine learning to predict pregnancy complications such as preeclampsia early for care teams.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.delfina.com/resource/delfina-named-to-the-2025-cb-insights-list-of-the-100-most-innovative-ai-startups",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Otto",
+  "company": "Tako",
+  "project": "",
+  "use": "Tako's AI agent for HR and payroll; it opens roles, handles hiring and employee changes, reads contracts and answers labor law questions.",
+  "category": "HR",
+  "nameType": "human",
+  "source": "https://tako.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Nara",
+  "company": "Tako",
+  "project": "Tako Recruiter",
+  "use": "AI recruiter in Tako Recruiter that talks live with candidates in voice interviews.",
+  "category": "Recruiting",
+  "nameType": "human",
+  "source": "https://tako.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Leo",
+  "company": "Leo AI",
+  "project": "",
+  "use": "AI copilot for mechanical engineers that finds formulas, runs calculations, searches parts and generates concept designs.",
+  "category": "Industrials",
+  "nameType": "human",
+  "source": "https://www.getleo.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Gwen",
+  "company": "Penguin Ai",
+  "project": "GwenOS",
+  "use": "Healthcare AI platform that builds admin workflows such as prior authorization and claims review from plain-language descriptions and runs them with AI Workers.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://penguinai.co",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Eve",
+  "company": "Eve Legal",
+  "project": "EveOS",
+  "use": "AI platform for plaintiff law firms covering intake, medical chronologies, legal research, demand letters, drafting and discovery.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.eve.legal",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Lila",
+  "company": "Lila Sciences",
+  "project": "",
+  "use": "Builds 'scientific superintelligence': an AI model paired with automated lab instruments that runs the scientific method autonomously.",
+  "category": "Science & Research",
+  "nameType": "human",
+  "source": "https://www.lila.ai",
+  "list": "AI-native startup"
+ }
+]

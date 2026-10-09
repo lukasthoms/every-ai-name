@@ -1,0 +1,602 @@
+[
+ {
+  "name": "Ask Indiana",
+  "company": "State of Indiana",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "May 15, 2025: Indiana's redesigned IN.gov homepage now features new AI chatbot Ask Indiana.",
+  "dateSource": "https://indianacapitalchronicle.com/2025/05/15/meet-ask-indiana-state-governments-new-ai-resident-assistant-chatbot/"
+ },
+ {
+  "name": "River AI",
+  "company": "State of Iowa",
+  "launched": "",
+  "basis": "",
+  "evidence": "Iowa launched River AI (GovTech Digital States 2026) but no date given.",
+  "dateSource": ""
+ },
+ {
+  "name": "Nebraska Navigator",
+  "company": "State of Nebraska",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "The Nebraska Navigator, as it is known, went live on Sept. 1 (2026).",
+  "dateSource": "https://governor.nebraska.gov/node/9947"
+ },
+ {
+  "name": "ChatVT",
+  "company": "State of Vermont",
+  "launched": "2025-05",
+  "basis": "earliest mention",
+  "evidence": "May 22, 2025 VTDigger article 'Meet ChatVT, the state of Vermont's homemade AI chatbot'.",
+  "dateSource": "https://vtdigger.org/2025/05/22/final-reading-meet-chatvt-the-state-of-vermonts-homemade-ai-chatbot/"
+ },
+ {
+  "name": "STELLA",
+  "company": "STELLA Automotive AI",
+  "launched": "2022-02",
+  "basis": "launched",
+  "evidence": "Telepathy Labs Announces Launch of STELLA Automotive AI, published Feb 3, 2022.",
+  "dateSource": "https://digitaldealer.com/press-releases/telepathy-labs-announces-launch-stella-automotive-ai-automotive/"
+ },
+ {
+  "name": "Steve",
+  "company": "Steve AI",
+  "launched": "2022",
+  "basis": "earliest mention",
+  "evidence": "Animaker Dec 2022 post: Steve AI won an award within 6 months of its launch (mid-2022).",
+  "dateSource": "https://www.animaker.com/blog/?p=11367"
+ },
+ {
+  "name": "Amber",
+  "company": "StoreEase",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Athlete Intelligence",
+  "company": "Strava",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Oct 8, 2024: Strava announced the launch of Athlete Intelligence for subscribers.",
+  "dateSource": "https://runningmagazine.ca/the-scene/strava-launches-ai-powered-guidance-feature-for-athletes/"
+ },
+ {
+  "name": "Suki",
+  "company": "Suki AI",
+  "launched": "2019-05",
+  "basis": "launched",
+  "evidence": "Suki July 2019 release: assistant in use since its launch in May of this year.",
+  "dateSource": "https://suki.ai/news/suki-surpasses-1k-patient-interactions-each-week"
+ },
+ {
+  "name": "Sully",
+  "company": "Sullivan County Schools (Tennessee)",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Dec 1, 2025 WJHL: Sullivan County Schools implements AI assistant Sully for parents.",
+  "dateSource": "https://www.wjhl.com/news/local/sullivan-county-schools-implements-ai-assistant-for-parents/amp/"
+ },
+ {
+  "name": "Sully",
+  "company": "Sully.ai",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AI-CEO",
+  "company": "Sumitomo Mitsui Financial Group (SMBC)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Aug 6, 2025: SMBC began rolling out AI-CEO at Sumitomo Mitsui Banking Corporation.",
+  "dateSource": "https://www.watch.impress.co.jp/docs/news/2037141.html"
+ },
+ {
+  "name": "Sunny",
+  "company": "Sun & Ski Sports",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ella",
+  "company": "Sun Life",
+  "launched": "2017-09",
+  "basis": "launched",
+  "evidence": "Sept 12, 2017: Sun Life introduces Ella interactive digital coach for group clients, first for Canadian insurers.",
+  "dateSource": "https://insurance-canada.ca/?p=14506"
+ },
+ {
+  "name": "Julio",
+  "company": "SUNARP (Peru)",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "June 23, 2026: Sunarp launched new specialized query modules of AI platform 'IA Sunarp Julio'.",
+  "dateSource": "https://elperuano.pe/noticia/298583-necesitas-un-criterio-registral-la-ia-sunarp-julio-te-ayuda-a-encontrarlo-al-instante"
+ },
+ {
+  "name": "SOFIA",
+  "company": "SUNAT (Peru)",
+  "launched": "2017",
+  "basis": "launched",
+  "evidence": "SUNAT presented virtual assistant Sofia; pilot ran Feb-Apr 2017 handling 95,000 queries.",
+  "dateSource": "https://aduananews.com/peru-asistente-digital-sofia/"
+ },
+ {
+  "name": "Superhuman Go",
+  "company": "Superhuman (formerly Grammarly)",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Business Wire release Oct 29, 2025 introducing Superhuman Go assistant.",
+  "dateSource": "https://www.businesswire.com/news/home/20251029236844/en"
+ },
+ {
+  "name": "CourtHelp",
+  "company": "Superior Court of California, County of Los Angeles",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "CourtHelp generative AI assistant launched July 1, 2025 with relaunched LACourt.ca.gov website.",
+  "dateSource": "https://newsroom.courts.ca.gov/news/la-superior-court-chatbot-courthelp-wins-justice-chin-innovation-award"
+ },
+ {
+  "name": "Guru",
+  "company": "Swiggy",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "Swiggy on Monday, August 17, 2026 announced the rollout of AI assistant Guru for restaurant partners.",
+  "dateSource": "https://dailypioneer.com/news/swiggy-rolls-out-ai-assistant-guru-for-restaurant-partners"
+ },
+ {
+  "name": "Nelly",
+  "company": "SWISS",
+  "launched": "2019-05",
+  "basis": "announced",
+  "evidence": "8 May 2019 Lufthansa Group release: SWISS customer service via messenger with chatbot Nelly.",
+  "dateSource": "https://newsroom.lufthansagroup.com/en/lufthansa-swiss-and-austrian-airlines-customer-service-now-also-available-via-messenger-app/"
+ },
+ {
+  "name": "myAI",
+  "company": "Swisscom",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Swisscom started a test phase of chatbot myAI for private customers early 2025; opened to all end Aug 2025.",
+  "dateSource": "https://www.netzwoche.ch/news/2025-08-25/swisscoms-chatbot-kann-jetzt-mehr-und-steht-allen-offen"
+ },
+ {
+  "name": "Phoenix",
+  "company": "Sword Health",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "June 4, 2024: Sword Health unveiled Phoenix AI Care Specialist, rolling out through 2024.",
+  "dateSource": "https://medcitynews.com/2024/06/sword-health-financing-ai-musculoskeletal/"
+ },
+ {
+  "name": "AgentEngineer",
+  "company": "Synopsys",
+  "launched": "2025-03",
+  "basis": "announced",
+  "evidence": "Reuters 2025: Synopsys unveiled technology it calls AgentEngineer; GA of AgentEngineer solutions planned late 2026.",
+  "dateSource": "https://www.streetinsider.com/Reuters/Synopsys+lays+out+strategy+for+AI+%27agents%27+to+design+computer+chips/24522377.html"
+ },
+ {
+  "name": "AI360",
+  "company": "Sysco",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Sysco CEO on Oct 2025 call: newly launched AI360 platform, introduced this year.",
+  "dateSource": "https://www.digitalcommerce360.com/2025/10/31/sysco-puts-ai-at-the-center-of-its-sales-rebound-in-q1/"
+ },
+ {
+  "name": "Taya (Тая)",
+  "company": "T-Technologies (T-Bank)",
+  "launched": "2026-07",
+  "basis": "announced",
+  "evidence": "July 20, 2026: T-Bank's AI assistant Taya in beta, full launch planned autumn 2026.",
+  "dateSource": "https://adindex.ru/news/innovations/2026/07/20/347314.phtml"
+ },
+ {
+  "name": "ChatTRP",
+  "company": "T. Rowe Price",
+  "launched": "2025-10",
+  "basis": "earliest mention",
+  "evidence": "Oct 2025 Metis Strategy interview with CTO covers launching ChatTRP for AI access across the organization.",
+  "dateSource": "https://www.metisstrategy.com/interview/ramon-richards-2/"
+ },
+ {
+  "name": "TAIDE",
+  "company": "TAIDE project (Taiwan National Science and Technology Council)",
+  "launched": "2024-04",
+  "basis": "launched",
+  "evidence": "TAIDE LX-7B model (Llama 2-based) publicly released April 15, 2024.",
+  "dateSource": "https://www.ithome.com.tw/news/158607"
+ },
+ {
+  "name": "CiviClaw",
+  "company": "Taipei City Government",
+  "launched": "2026-06",
+  "basis": "announced",
+  "evidence": "June 22, 2026: Taipei IT dept developing CiviClaw AI agent; every civil servant to get one by end of next year.",
+  "dateSource": "https://udn.com/news/story/7323/9581312"
+ },
+ {
+  "name": "myAgent (Taiwan Mobile Lobster / 台灣大龍蝦)",
+  "company": "Taiwan Mobile",
+  "launched": "2026-08",
+  "basis": "announced",
+  "evidence": "Aug 4, 2026 Business Next article on Taiwan Mobile unveiling myAgent enterprise AI assistant.",
+  "dateSource": "https://www.bnext.com.tw/article/91726/taiwanmobile260804"
+ },
+ {
+  "name": "Nara",
+  "company": "Tako",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Otto",
+  "company": "Tako",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "KYRA",
+  "company": "Tan Chong Insure / GoInsuran.com",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "9 June 2025: Tan Chong Insure and GoInsuran.com today unveiled AI virtual assistants KYRA and MONA.",
+  "dateSource": "https://www.tanchonggroup.com/say-hello-to-mona-kyra-your-virtual-insurance-assistants-powered-by-ai/"
+ },
+ {
+  "name": "MONA",
+  "company": "Tan Chong Insure / GoInsuran.com",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "9 June 2025: Tan Chong Insure and GoInsuran.com today unveiled AI virtual assistants KYRA and MONA.",
+  "dateSource": "https://www.tanchonggroup.com/say-hello-to-mona-kyra-your-virtual-insurance-assistants-powered-by-ai/"
+ },
+ {
+  "name": "Store Companion",
+  "company": "Target",
+  "launched": "2024-06",
+  "basis": "announced",
+  "evidence": "Jun 20, 2024 release: Store Companion to roll out to team members in nearly 2,000 stores by August.",
+  "dateSource": "https://corporate.target.com/press/release/2024/06/target-to-roll-out-transformative-genai-technology-to-its-store-team-members-chainwide"
+ },
+ {
+  "name": "Target Gift Finder",
+  "company": "Target",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov 12, 2025 Target release launching new AI-powered holiday features including Gift Finder.",
+  "dateSource": "https://corporate.target.com/press/release/2025/11/target-launches-new-ai-powered-features-to-make-holiday-shopping-easier,-smarter-and-more-fun"
+ },
+ {
+  "name": "Mai",
+  "company": "Tassomai",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "Tassomai blog Sept 6, 2024: 'Mai the AI tutor is 1 year old'; beta with schools autumn 2023.",
+  "dateSource": "https://www.tassomai.com/blog-content/2024/9/6/mai-the-ai-tutor-is-1-year-old"
+ },
+ {
+  "name": "Charlie",
+  "company": "Tavus",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "SmartFile AI",
+  "company": "TaxAct",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "TaxAct What's New, April 2026: Meet SmartFile AI, your in-product tax assistant.",
+  "dateSource": "https://www.taxact.com/whats-new"
+ },
+ {
+  "name": "Lola",
+  "company": "TBC Uzbekistan",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Lola tested in Friends & Family mode at end of 2025; rolled out to entire user base Q1 2026.",
+  "dateSource": "https://www.trend.az/business/4208027.html"
+ },
+ {
+  "name": "TD Clari",
+  "company": "TD Bank",
+  "launched": "2019-01",
+  "basis": "launched",
+  "evidence": "Jan 8, 2019: TD integrates AI-powered chatbot TD Clari into its mobile app.",
+  "dateSource": "https://td.mediaroom.com/2019-01-08-TD-Integrates-Artificial-Intelligence-Powered-Chatbot-into-its-Top-Ranked-Mobile-App"
+ },
+ {
+  "name": "Adam",
+  "company": "Teammates.ai",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "Jan 2025: Teammates.ai launching its second Teammate, specialised in Inside Sales, alongside Raya.",
+  "dateSource": "https://www.wamda.com/en/2025/01/uktobai-rebrands-teammatesai-following-successful-funding-round"
+ },
+ {
+  "name": "Raya",
+  "company": "Teammates.ai",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "The first Teammate, Raya, was launched in 2024, focusing on customer service.",
+  "dateSource": "https://www.wamda.com/en/2025/01/uktobai-rebrands-teammatesai-following-successful-funding-round"
+ },
+ {
+  "name": "pAIge",
+  "company": "Technical University of Munich (TUM School of Management)",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "May 06, 2024: Academic flagship project goes live; we present our brand new TUM MGT chatbot pAIge.",
+  "dateSource": "https://www.mgt.tum.de/our-stories-with-impact/stories/academic-flagship-project-for-ai-in-bavaria-goes-live"
+ },
+ {
+  "name": "Iris",
+  "company": "Technical University of Munich (TUM)",
+  "launched": "2024-07",
+  "basis": "announced",
+  "evidence": "TUM press release July 17, 2024: chatbot Iris offers individual support to students.",
+  "dateSource": "https://www.tum.de/en/news-and-events/all-news/press-releases/details/chatbot-iris-offers-individual-support"
+ },
+ {
+  "name": "GoVanessa",
+  "company": "Techniker Krankenkasse (TK)",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb 26, 2025 heise: TK launches AI avatar GoVanessa for expats.",
+  "dateSource": "https://heise.de/-10296351"
+ },
+ {
+  "name": "TECgpt",
+  "company": "Tecnológico de Monterrey",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "At AI Day 2025 (April 2025) Tec said over 14,000 users already use TECgpt.",
+  "dateSource": "https://mobiletime.la/?p=797444"
+ },
+ {
+  "name": "Aura",
+  "company": "Telefónica",
+  "launched": "2017-02",
+  "basis": "launched",
+  "evidence": "Telefonica launched AI digital assistant Aura at Mobile World Congress, Barcelona, Feb 26, 2017.",
+  "dateSource": "https://www.lightreading.com/ai-machine-learning/telef-nica-s-answer-to-apple-s-siri-aura"
+ },
+ {
+  "name": "Veronika",
+  "company": "Telkomsel",
+  "launched": "2017-08",
+  "basis": "launched",
+  "evidence": "Telkomsel introduced virtual assistant Veronika with Virtual GraPARI on 24 August 2017; GenAI upgrade Sept 2023.",
+  "dateSource": "https://telkomsel.com/en/about-us/news/telkomsel-virtual-grapari-launching"
+ },
+ {
+  "name": "Ask Telstra",
+  "company": "Telstra",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "Ask Telstra initially available to 200 frontline team members in late 2023.",
+  "dateSource": "https://www.telstra.com.au/aboutus/media/media-releases/telstra-scales-up-ai-adoption"
+ },
+ {
+  "name": "SARA",
+  "company": "Tenaga Nasional Berhad (TNB)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Yuanbao",
+  "company": "Tencent",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Tencent on Thursday (May 30, 2024) launched AI assistant app Yuanbao.",
+  "dateSource": "https://technode.com/2024/05/31/tencent-launches-ai-app-yuanbao-that-brings-rich-content-of-the-wechat-ecosystem/"
+ },
+ {
+  "name": "Iris",
+  "company": "Tennessee Department of Commerce & Insurance",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Sept 22, 2026: Tennessee Dept of Commerce & Insurance launched new AI chatbot Iris.",
+  "dateSource": "https://fox17.com/news/local/tennessee-launches-ai-chatbot-for-professional-licensing-help"
+ },
+ {
+  "name": "Rally",
+  "company": "Tennis Australia (Australian Open) / Infosys",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "Jan 2026 Infosys release: Rally, a generative-AI humanoid robot, introduced in the Infosys Fan Zone at AO 2026.",
+  "dateSource": "https://www.infosys.com/newsroom/press-releases/2026/bring-ai-first-experiences-accessibility-ao2026.html"
+ },
+ {
+  "name": "Genie Assist",
+  "company": "Terex (Genie)",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 27, 2025: Genie has launched Genie Assist chat agent, available now via MyGenieLift.",
+  "dateSource": "https://compactequip.com/aerial-lifts/genie-launches-ai-powered-chat-agent-to-support-service-technicians/"
+ },
+ {
+  "name": "Grok",
+  "company": "Tesla",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Tesla debuted Grok in its vehicles July 12, 2025 via software update 2025.26 (US first; Australia Feb 2026).",
+  "dateSource": "https://teslarati.com/tesla-debuts-grok-ai-update-2025-26"
+ },
+ {
+  "name": "KaneAI",
+  "company": "TestMu AI (formerly LambdaTest)",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Sept 16, 2025: LambdaTest introduces general availability of KaneAI (earlier beta).",
+  "dateSource": "https://www.aap.com.au/aapreleases/cision20250915ae73432"
+ },
+ {
+  "name": "Sheri",
+  "company": "Texas Department of Public Safety",
+  "launched": "2026-09",
+  "basis": "earliest mention",
+  "evidence": "Salesforce customer story dated September 4, 2026: AI agent Sheri answers Texans across chat and voice.",
+  "dateSource": "https://www.salesforce.com/customer-stories/texas-dps/"
+ },
+ {
+  "name": "SAM",
+  "company": "Texas Regulatory Efficiency Office",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 15, 2026: Texas efficiency office launches AI chatbot SAM.",
+  "dateSource": "https://statescoop.com/texas-efficiency-office-launches-ai-chatbot-to-help-public-navigate-regulations-licensing/"
+ },
+ {
+  "name": "Max",
+  "company": "Tezi",
+  "launched": "2024",
+  "basis": "announced",
+  "evidence": "Tezi raised $9M seed with launch of autonomous recruiter Max set for Fall 2024.",
+  "dateSource": "https://www.citybiz.co/?p=584933"
+ },
+ {
+  "name": "RaceMate",
+  "company": "TGR Haas F1 Team (with Infobip)",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "4 May 2026: Infobip and TGR Haas F1 Team have launched RaceMate.",
+  "dateSource": "https://itbrief.co.uk/story/infobip-tgr-haas-launch-ai-fan-companion-racemate"
+ },
+ {
+  "name": "Amy",
+  "company": "Thai Vietjet",
+  "launched": "2022-01",
+  "basis": "earliest mention",
+  "evidence": "TTR Weekly Jan 2022: Thai Vietjet's recently introduced AI chatbot Amy; chat promo until 31 Jan 2022.",
+  "dateSource": "https://ttrweekly.com/site/2022/01/chat-with-amy-for-an-extra-discount"
+ },
+ {
+  "name": "Bobbi",
+  "company": "Thames Valley Police and Hampshire & Isle of Wight Constabulary",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Thames Valley Police and Hampshire & IoW Constabulary launched Bobbi, UK's first police AI assistant, 26 November 2025.",
+  "dateSource": "https://banburyfm.com/news/police-introduce-ai-virtual-assistant-for-non-emergency-questions/"
+ },
+ {
+  "name": "Dia",
+  "company": "The Browser Company (Atlassian)",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "June 11, 2025: The Browser Company launches its AI-first browser Dia in beta.",
+  "dateSource": "https://techcrunch.com/2025/06/11/the-browser-company-launches-its-ai-first-browser-dia-in-beta"
+ },
+ {
+  "name": "The Daisy",
+  "company": "The Daisy",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "Stork.ai listing: The Daisy shipped Jul 15, 2026.",
+  "dateSource": "https://www.stork.ai/en/the-daisy"
+ },
+ {
+  "name": "Ask Dalí",
+  "company": "The Dalí Museum",
+  "launched": "2024-04",
+  "basis": "launched",
+  "evidence": "Ask Dalí installation opened April 11, 2024 at the Dalí Museum after SXSW preview.",
+  "dateSource": "https://www.kunc.org/npr-news/2024-04-21/an-ai-salvador-dali-will-answer-any-question-when-called-on-his-famous-lobster-phone"
+ },
+ {
+  "name": "ConsumerIQ",
+  "company": "The Estée Lauder Companies",
+  "launched": "2025-03",
+  "basis": "announced",
+  "evidence": "Mar 7, 2025: Estee Lauder is now working with Copilot Studio on an AI agent called ConsumerIQ.",
+  "dateSource": "https://consumergoods.com/how-estee-lauders-ai-agent-consumeriq-consolidating-data-and-streamlining-rd"
+ },
+ {
+  "name": "Magic Apron",
+  "company": "The Home Depot",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "March 6, 2025: The Home Depot introduces Magic Apron suite of generative AI tools on site and app.",
+  "dateSource": "https://seekingalpha.com/pr/20025603-the-home-depot-introduces-magic-apron-a-suite-of-advanced-ai-tools-to-help-customers-with"
+ },
+ {
+  "name": "HeyLeo",
+  "company": "The Real Brokerage",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov 4, 2025: Real launches HeyLeo; beta went live at HeyLeo.com across 20 states.",
+  "dateSource": "https://www.businesswire.com/news/home/20251104734132/en"
+ },
+ {
+  "name": "DisneyGPT",
+  "company": "The Walt Disney Company",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "On October 2 (2025) Disney rolled out the beta of DisneyGPT to employees as a 'new partner in productivity'.",
+  "dateSource": "https://fictionhorizon.com/disney-unveils-disneygpt-an-ai-tool-for-its-employees/"
+ },
+ {
+  "name": "Hey Disney!",
+  "company": "The Walt Disney Company (with Amazon)",
+  "launched": "2022",
+  "basis": "launched",
+  "evidence": "Hey Disney! announced 2021; Disney began installing it in WDW hotel rooms in late 2022; all rooms by Feb 2024.",
+  "dateSource": "https://wdwnt.com/2024/02/hey-disney-voice-assistant-all-wdw-hotel-rooms/"
+ },
+ {
+  "name": "Ask The Post AI",
+  "company": "The Washington Post",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "Nov 8, 2024: The Washington Post launches experimental Ask The Post AI tool.",
+  "dateSource": "https://www.infodocket.com/2024/11/08/experimental-research-tools-the-washington-post-launches-ask-the-post-ai/"
+ },
+ {
+  "name": "Grapevine",
+  "company": "The Wine Engine",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "The Wine Engine with AI sommelier Grapevine to launch in the US on June 26, 2025.",
+  "dateSource": "https://www.vinetur.com/en/amp/2025061988936/artificial-intelligence-sommelier-debuts-with-new-digital-wine-platform-in-the-united-states.html"
+ },
+ {
+  "name": "Tellme",
+  "company": "Thinktank, Birmingham Science Museum",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "13 April 2026: Thinktank launches AI-powered digital guide, after months of visitor testing.",
+  "dateSource": "https://www.greaterbirminghamchambers.com/resource/thinktank-launches-ai-powered-digital-guide-to-enhance-visitor-experience.html"
+ },
+ {
+  "name": "Barbra",
+  "company": "ThirdLove",
+  "launched": "2025-03",
+  "basis": "earliest mention",
+  "evidence": "Sierra blog post dated March 20, 2025 describes ThirdLove's agent Barbra.",
+  "dateSource": "https://sierra.ai/blog/same-platform-different-personalities"
+ },
+ {
+  "name": "CoCounsel",
+  "company": "Thomson Reuters",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "Casetext launched CoCounsel, GPT-4-based AI legal assistant, on March 1, 2023.",
+  "dateSource": "https://www.lawnext.com/2023/03/casetext-launches-co-counsel-its-openai-based-legal-assistant-to-help-lawyers-search-data-review-documents-draft-memos-analyze-contracts-and-more.html"
+ }
+]

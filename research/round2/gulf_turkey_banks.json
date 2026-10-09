@@ -1,0 +1,263 @@
+[
+ {
+  "name": "Ugi",
+  "company": "Garanti BBVA",
+  "project": "Garanti BBVA Mobil",
+  "use": "Generative-AI digital assistant in the mobile app that answers banking questions and gives personalized, proactive suggestions.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.haberler.com/ekonomi/garanti-bbva-mobil-uygulamasini-uretken-yapay-zeka-ile-yenileyerek-musteri-deneyimini-iyilestirdi-19438108-haberi/"
+ },
+ {
+  "name": "Maxi",
+  "company": "Türkiye İş Bankası (Isbank)",
+  "project": "İşCep",
+  "use": "Personal AI assistant that answers banking questions by chat or voice, guides investing and completes loans conversationally.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.isbank.com.tr/blog/bankacilik-ve-yapay-zeka"
+ },
+ {
+  "name": "ViBi",
+  "company": "VakıfBank",
+  "project": "VakıfBank Mobile",
+  "use": "AI financial advisor and banking assistant in the VakıfBank mobile app, handling tens of millions of customer interactions a year.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://vbassets.vakifbank.com.tr/interaktif_faaliyet_raporu/2026/en/our-intellectual-capital/"
+ },
+ {
+  "name": "Bilge",
+  "company": "Türkiye Sigorta",
+  "project": "Bilge'ye Sor",
+  "use": "24/7 AI digital assistant on the insurer's website and app that answers customer questions and directs them to the right place.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.turkiyesigorta.com.tr/blog/teknoloji/yapay-zeka-nedir-nerelerde-kullanilir"
+ },
+ {
+  "name": "Fatema",
+  "company": "Bank ABC (Arab Banking Corporation)",
+  "project": "",
+  "use": "AI 'digital human' that began serving customers and now acts as an internal assistant for Bank ABC and ila Bank employees.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.bank-abc.com/en/Media Relations/PressRelease/bank-abc’s-ai-fatema"
+ },
+ {
+  "name": "Sheikha",
+  "company": "Khaleeji Bank",
+  "project": "",
+  "use": "AI voice assistant that holds natural phone conversations with customers 24/7 about banking info, offers and feedback.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.gccbusinessnews.com/?p=146671"
+ },
+ {
+  "name": "Bdr AI",
+  "company": "Warba Bank",
+  "project": "Warba mobile app",
+  "use": "Agentic AI assistant that carries out transfers and payments from voice or text commands in English and Kuwaiti Arabic.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://menastartupdigest.com/warba-bank-launches-voice-ai-assistant-for-banking-transactions-in-kuwait/"
+ },
+ {
+  "name": "Msa3ed",
+  "company": "Boubyan Bank",
+  "project": "Boubyan App",
+  "use": "Generative-AI digital assistant in the Boubyan app that answers account questions and performs banking transactions.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.bankboubyan.com/en/news/378669"
+ },
+ {
+  "name": "Fahad",
+  "company": "Kuwait Finance House (KFH)",
+  "project": "",
+  "use": "AI-powered virtual employee on branch kiosks and ATMs that explains services, answers questions and guides customers.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.kfh.com/en/home/Personal/news/2025/KFH-Launches-Fahad--Kuwait-s-First-AI-Powered-Virtual-Employee.html"
+ },
+ {
+  "name": "ShariaBot",
+  "company": "Kuwait Finance House (KFH)",
+  "project": "",
+  "use": "Internal virtual assistant that answers employees' questions on Sharia-compliant banking using the bank's Sharia board fatwas.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.kfh.com/en/home/Personal/news/2025/KFH-Reinforces-Banking-Leadership-with-Forward-Looking-AI-Initiatives.html"
+ },
+ {
+  "name": "Nora",
+  "company": "Social Development Bank (Saudi Arabia)",
+  "project": "",
+  "use": "AI smart assistant that helps beneficiaries access the bank's services, get guidance and complete transactions digitally.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://alriyadhdaily.com/article/fd1b67167a614c058ad6d40244c64fa8"
+ },
+ {
+  "name": "Nora",
+  "company": "Vision Bank",
+  "project": "",
+  "use": "AI conversational banking service that lets customers open accounts and make transfers through chat.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.okaz.com.sa/economy/na/2229270"
+ },
+ {
+  "name": "Rai",
+  "company": "RAKBANK",
+  "project": "RAKBANK mobile app",
+  "use": "GenAI digital assistant in the mobile app that understands requests and handles tasks like card blocking and transfers.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.qorusglobal.com/innovations/31554-rakbank-introduces-rai-a-firstofitskind-genaipowered-digital-assistant-in-the-banking-sector"
+ },
+ {
+  "name": "Danit",
+  "company": "Bank Hapoalim",
+  "project": "",
+  "use": "AI digital banker reachable by phone and in the app that answers free-language questions and handles account info and transactions 24/7.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.bankhapoalim.co.il/danit-digital-banker/"
+ },
+ {
+  "name": "ABKARINO",
+  "company": "Banque Misr",
+  "project": "",
+  "use": "Website chatbot that answers questions about the bank's products, finds ATMs and branches, and hands off to live agents.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://banquemisr.com/en/CONTACT-US/Chat-bot"
+ },
+ {
+  "name": "Abby",
+  "company": "Absa",
+  "project": "Absa Banking App",
+  "use": "AI chat agent on Salesforce Agentforce that answers customer questions on the Absa app and website.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.businessday.co.za/companies/2026-06-05-absa-deepens-ai-push-with-renewed-salesforce-partnership/"
+ },
+ {
+  "name": "Enbi",
+  "company": "Nedbank",
+  "project": "Money app",
+  "use": "AI chatbot in the Money app, Online Banking and website that guides customers through tasks and logs queries and complaints.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://personal.nedbank.co.za/learn/blog/enbi-query-vs-complaint.html"
+ },
+ {
+  "name": "Atlas",
+  "company": "Royal Air Maroc",
+  "project": "RAM Assistant app",
+  "use": "Generative-AI travel assistant giving flight status, complaint tracking and recommendations in Arabic, French, Darija and more.",
+  "category": "Airline",
+  "nameType": "brand",
+  "source": "https://lematin.ma/economie/royal-air-maroc-devoile-son-assistant-ia-atlas/272598/amp"
+ },
+ {
+  "name": "Simple AI",
+  "company": "Simple. (Attijariwafa bank)",
+  "project": "Simple. app",
+  "use": "Conversational banking assistant that answers questions and performs transfers and bill payments by text or voice, including in Darija.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://fr.hespress.com/491458-simple-lance-le-premier-assistant-bancaire-conversationnel-et-transactionnel-base-sur-lia-au-maroc.html"
+ },
+ {
+  "name": "Assia",
+  "company": "AtlantaSanad Assurance",
+  "project": "",
+  "use": "AI virtual advisor that helps insurance policyholders in Morocco.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.financialafrik.com/en/2025/09/19/morocco-atlantasanad-reinvents-insurance-with-an-ai-assistant-for-policyholders/"
+ },
+ {
+  "name": "Karnak Chat",
+  "company": "Egypt Ministry of Communications and Information Technology",
+  "project": "Karnak LLM",
+  "use": "Arabic AI chat assistant built on Egypt's sovereign Karnak model, handling Modern Standard and Egyptian Arabic.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://menastartupdigest.com/?p=49188"
+ },
+ {
+  "name": "Ortak",
+  "company": "Trendyol",
+  "project": "",
+  "use": "AI agent that acts as a digital assistant for Trendyol's sellers and simplifies their operations.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://www.capital.com.tr/haberler/tum-haberler/yapay-zeka-e-ticarette-artik-bir-arac-degil-akilli-bir-is-ortagi"
+ },
+ {
+  "name": "MAYA AI",
+  "company": "Migros Türkiye",
+  "project": "Migros app in ChatGPT",
+  "use": "OpenAI-built shopping assistant that builds grocery baskets from plain-language requests and adds items to the cart.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://webrazzi.com/2026/07/10/migros-yapay-zeka-asistani-maya-ai-ile-alisveris-aliskanliklarini-donusturuyor/"
+ },
+ {
+  "name": "Obot",
+  "company": "Ooredoo Qatar",
+  "project": "",
+  "use": "GPT-powered customer service assistant with an avatar, available in the app, website, WhatsApp, X and Facebook.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.ooredoo.qa/web/en/press-release/ooredoo-qatar-expands-obot-to-retail-customers-with-ai-powered-avatar-and-multi-channel-availability/"
+ },
+ {
+  "name": "FlyBot",
+  "company": "Pegasus Airlines",
+  "project": "",
+  "use": "Azure OpenAI virtual assistant that answers flight questions, suggests destinations and helps book and reissue tickets.",
+  "category": "Airline",
+  "nameType": "brand",
+  "source": "https://www.microsoft.com/en/customers/story/23194-pegasus-airlines-azure-ai-services"
+ },
+ {
+  "name": "Aisha",
+  "company": "UAE Ministry of Justice",
+  "project": "",
+  "use": "Generative-AI virtual employee for courts that answers case questions, drafts requests and helps judges review similar past cases.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://gulfnews.com/uae/government/uae-ministry-of-justice-introduces-aisha-the-first-virtual-employee-operating-with-generative-ai-1.1719215716787"
+ },
+ {
+  "name": "Discovery AI",
+  "company": "Discovery Bank",
+  "project": "Discovery Bank app",
+  "use": "AI banking assistant on WhatsApp and in the app that answers questions, retrieves documents and completes payments by voice, text or image.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.discovery.co.za/bank/news-discovery-ai-in-the-banking-app"
+ },
+ {
+  "name": "SAW",
+  "company": "Wema Bank",
+  "project": "ALAT",
+  "use": "Voice-driven AI assistant (Smart ALAT by Wema) that lets customers complete banking transactions by speaking.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.thisdaylive.com/2026/01/29/wema-bank-introduces-voice-banking-feature-on-upgraded-alat-platform/"
+ },
+ {
+  "name": "SARA",
+  "company": "Saudi Tourism Authority",
+  "project": "Visit Saudi",
+  "use": "AI digital-human travel companion that chats in many languages and recommends experiences and itineraries in Saudi Arabia.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://www.digitalhumans.com/case-studies/saudi-tourism-authority"
+ }
+]

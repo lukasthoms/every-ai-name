@@ -1,0 +1,42 @@
+[
+ {
+  "name": "ADP Assist",
+  "company": "Automatic Data Processing",
+  "project": "",
+  "use": "Generative AI assistant inside ADP's HR and payroll products that answers HR questions and turns HR data into insights for admins and employees.",
+  "category": "HR & Payroll",
+  "nameType": "brand",
+  "source": "https://www.adp.com/what-we-offer/ai-solutions.aspx",
+  "list": "Fortune 1000 #220"
+ },
+ {
+  "name": "Paychex WISE",
+  "company": "Paychex",
+  "project": "Paychex Flex",
+  "use": "AI platform in Paychex Flex with WISE Assistants and WISE Agents that answer HR and compliance questions and automate routine payroll tasks.",
+  "category": "HR & Payroll",
+  "nameType": "brand",
+  "source": "https://www.paychex.com/ai",
+  "list": "Fortune 1000 #638"
+ },
+ {
+  "name": "FortiAI-Assist",
+  "company": "Fortinet",
+  "project": "FortiAI",
+  "use": "Generative AI assistant in the Fortinet Security Fabric that helps network and security teams with alert triage, threat hunting and automated network configuration.",
+  "category": "Cybersecurity",
+  "nameType": "brand",
+  "source": "https://www.fortinet.com/products/fortiai",
+  "list": "Fortune 1000 #581"
+ },
+ {
+  "name": "Charlotte AI",
+  "company": "CrowdStrike Holdings",
+  "project": "Falcon platform",
+  "use": "Agentic AI security analyst in the Falcon platform that helps security teams investigate and respond to threats.",
+  "category": "Cybersecurity",
+  "nameType": "human",
+  "source": "https://www.crowdstrike.com/en-us/platform/charlotte-ai/",
+  "list": "Fortune 1000 #784"
+ }
+]

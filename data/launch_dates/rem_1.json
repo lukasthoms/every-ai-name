@@ -1,0 +1,314 @@
+[
+ {
+  "name": "AiMEE",
+  "company": "Applied Materials",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Arden",
+  "company": "Arden",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sophie",
+  "company": "Arini",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Arthur",
+  "company": "Arthur AI",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Arthur announced Agent Discovery & Governance platform on Dec 17, 2025.",
+  "dateSource": "https://www.arthur.ai/blog/adg"
+ },
+ {
+  "name": "Asha",
+  "company": "Asha Health",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Augie",
+  "company": "Augment",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Augment emerged from stealth with $25M seed and launched Augie AI teammate, March 2025.",
+  "dateSource": "https://www.truckingdive.com/press-release/20250314-augment-emerges-from-stealth-with-25m-in-seed-funding-and-launches-the-fir-1/"
+ },
+ {
+  "name": "August",
+  "company": "August AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Zaira",
+  "company": "Bakkt",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Baldi",
+  "company": "Baldwin County (Alabama)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Baldwin County partnered with Citibot to launch Baldi, announced Aug 7, 2025.",
+  "dateSource": "https://baldwincountyal.gov/stayconnected/highlights/stay-connected-highlights/2025/08/07/baldwin-county-partners-with-citibot-to-launch-baldi--a-24-7-ai-powered-customer-support-platform"
+ },
+ {
+  "name": "Aria",
+  "company": "Banco Atlántida El Salvador",
+  "launched": "2019-08",
+  "basis": "earliest mention",
+  "evidence": "Aug 2019 article: bank's verified WhatsApp line integrated with Aria AI chatbot.",
+  "dateSource": "https://www.revistaeyn.com/empresasymanagement/el-salvador-banco-atlantida-suma-a-whatsapp-como-canal-de-atencion-al-PYEN1306768"
+ },
+ {
+  "name": "PIA (Provincia Inteligencia Artificial)",
+  "company": "Banco Provincia",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Banco Provincia launched PIA virtual assistant, report dated 10 Nov 2025; later added to home banking.",
+  "dateSource": "https://www.iproup.com/innovacion/61863-banco-provincia-lanza-pia-su-asistente-virtual-con-ia-generativa"
+ },
+ {
+  "name": "Tabot",
+  "company": "Bancolombia",
+  "launched": "2018-02",
+  "basis": "launched",
+  "evidence": "La Republica, 17 Feb 2018: Bancolombia debuts first AI chatbot Tabot on Facebook Messenger.",
+  "dateSource": "https://www.larepublica.co/finanzas/bancolombia-estrena-chatbot-con-ia-y-lo-pone-a-disposicion-de-los-usuarios-en-facebook-2600706"
+ },
+ {
+  "name": "Fatema",
+  "company": "Bank ABC (Arab Banking Corporation)",
+  "launched": "2019-09",
+  "basis": "announced",
+  "evidence": "Bank ABC and Soul Machines announced Fatema digital human 11 Sept 2019, public debut at fintech forum.",
+  "dateSource": "https://www.finextra.com/newsarticle/34383/digital-human-fatema-takes-a-bow-at-bank-abc"
+ },
+ {
+  "name": "VIRA",
+  "company": "Bank Central Asia (BCA)",
+  "launched": "2017",
+  "basis": "launched",
+  "evidence": "BCA launched VIRA chat assistant in 2017 on Messenger, LINE; WhatsApp version Feb 2024.",
+  "dateSource": "https://www.bca.co.id/en/informasi/Edukatips/2024/02/06/07/01/kini-hadir-layanan-vira-di-whatsapp-bca"
+ },
+ {
+  "name": "Danit",
+  "company": "Bank Hapoalim",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "MITA (Mandiri Intelligent Assistant)",
+  "company": "Bank Mandiri",
+  "launched": "2018-03",
+  "basis": "launched",
+  "evidence": "Chatbot MITA inaugurated at Plaza Mandiri Jakarta on 15 March 2018.",
+  "dateSource": "https://wartaekonomi.co.id/read174246/mandiri-kenalkan-layanan-chatbot-mita"
+ },
+ {
+  "name": "ADI",
+  "company": "Bank of Baroda",
+  "launched": "2020",
+  "basis": "earliest mention",
+  "evidence": "2020 Bank of Baroda interview describes ADI chatbot on IBM solution in nascent stage; GenAI version Sept 2024.",
+  "dateSource": "https://bankofbaroda.in/media/news-coverage/how-bank-of-baroda-is-using-technology-extensively-for-it-s-operations"
+ },
+ {
+  "name": "Jess",
+  "company": "CallJess",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sally",
+  "company": "CallSally.ai",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Samantha",
+  "company": "Care GP",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Veronica",
+  "company": "Care GP",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Angelica",
+  "company": "Careforce",
+  "launched": "2024",
+  "basis": "earliest mention",
+  "evidence": "Kern Family Health Care began using Angelica for re-enrollment in 2024.",
+  "dateSource": "https://www.chcf.org/investment/careforce/"
+ },
+ {
+  "name": "David",
+  "company": "Careforce",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Neo",
+  "company": "Carma",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Repair Buddy",
+  "company": "CarSignal",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Alex",
+  "company": "Cenote",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "RedHawk",
+  "company": "Central Square Central School District (New York)",
+  "launched": "2026-08",
+  "basis": "earliest mention",
+  "evidence": "Board of education meeting item dated Aug 26, 2026 demonstrates the RedHawk website chatbot.",
+  "dateSource": "https://citizenportal.ai/articles/9664951/district-demonstrates-new-website-chatbot-meet-redhawk-to-help-parents-find-info"
+ },
+ {
+  "name": "Toni",
+  "company": "Certus AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Elmo the Eagle",
+  "company": "Chadron State College",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AI Xiao Zhu (AI小助)",
+  "company": "China Merchants Bank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Lingxi (灵析)",
+  "company": "China Pacific Insurance (CPIC P&C)",
+  "launched": "2025",
+  "basis": "earliest mention",
+  "evidence": "CPIC 2025 annual report cites Lingxi AI employee tools used in 2025.",
+  "dateSource": "https://www.hkexnews.hk/listedco/listconews/sehk/2025/0828/2025082802929_c.pdf"
+ },
+ {
+  "name": "Lizzie",
+  "company": "City of Belmont (California)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AIDA",
+  "company": "City of Coral Gables (Florida)",
+  "launched": "2023",
+  "basis": "earliest mention",
+  "evidence": "AIDA in beta in mid-2023 when Coral Gables began integrating ChatGPT.",
+  "dateSource": "https://statetechmagazine.com/article/2023/08/coral-gables-integrates-ai-chatbots"
+ },
+ {
+  "name": "Clara AI",
+  "company": "Clara AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Aurelia",
+  "company": "Claro (Ecuador)",
+  "launched": "2026-01",
+  "basis": "earliest mention",
+  "evidence": "Claro presented Aurelia at new Samborondon service center; article dated 13 Jan 2026.",
+  "dateSource": "https://www.eltelegrafo.com.ec/noticias/empresariales/215/nuevo-centro-de-atencion-a-clientes-claro-en-samborondon"
+ },
+ {
+  "name": "Xfinity Assistant",
+  "company": "Comcast",
+  "launched": "2017-11",
+  "basis": "launched",
+  "evidence": "Comcast launched Xfinity Assistant in November 2017.",
+  "dateSource": "https://www.whatcomtalk.com/2019/02/04/comcast-leads-in-next-generation-customer-service"
+ },
+ {
+  "name": "Databunny",
+  "company": "Databuddy",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Emily",
+  "company": "DeepCura",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Melodie",
+  "company": "Deezer",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ }
+]

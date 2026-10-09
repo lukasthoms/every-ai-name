@@ -1,0 +1,353 @@
+[
+ {
+  "name": "Kora",
+  "company": "Cedar",
+  "project": "Kora Platform",
+  "use": "AI voice and text agent that handles patient billing calls for health systems. It explains bills, takes payments and helps with insurance and financial assistance.",
+  "category": "Healthcare software",
+  "nameType": "brand",
+  "source": "https://www.cedar.com/solutions/kora-ai"
+ },
+ {
+  "name": "Eva",
+  "company": "Infinitus Systems",
+  "project": "",
+  "use": "Voice AI agent that phones insurers and PBMs for benefit verification and prior authorization checks. Used by Amgen and providers.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://www.amgen.com/stories/2025/11/how-amgen-uses-ai-to-support-patient-access-and-reimbursement"
+ },
+ {
+  "name": "Dora",
+  "company": "Ufonia",
+  "project": "",
+  "use": "Voice AI assistant that phones NHS patients for routine clinical follow-ups, such as after cataract surgery. It flags patients who need a clinician.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://www.moorfields.nhs.uk/about-us/news-and-blogs/news/ai-trial-expands-patient-access-with-multilingual-clinical-consultations"
+ },
+ {
+  "name": "Oswell",
+  "company": "Oscar Health",
+  "project": "Oscar app",
+  "use": "Personal AI health agent for Oscar members, powered by OpenAI. It explains test results and benefits, checks drug interactions and requests refills.",
+  "category": "Health insurance",
+  "nameType": "human",
+  "source": "https://buck.co/work/oscar-ai-agent"
+ },
+ {
+  "name": "Superagent",
+  "company": "Oscar Health",
+  "project": "Oscar app and HiOscar.com",
+  "use": "AI assistant that answers members' and Care Guides' health insurance questions using Oscar's own data.",
+  "category": "Health insurance",
+  "nameType": "brand",
+  "source": "https://coverager.com/oscar-launches-superagent/"
+ },
+ {
+  "name": "Ana",
+  "company": "WellSpan Health",
+  "project": "Built with Hippocratic AI",
+  "use": "Generative AI voice agent that calls patients for screening outreach, scheduling and follow-ups. It handles over 160,000 calls a month.",
+  "category": "Hospital",
+  "nameType": "human",
+  "source": "https://amga.org/resources/solutions-library/ana-in-action-scaling-patient-access-with-ai-powered-outreach"
+ },
+ {
+  "name": "Emily",
+  "company": "MUSC Health",
+  "project": "Built on SoundHound Amelia",
+  "use": "AI voice agent that answers patient access center calls 24/7 to manage appointments and pharmacy refills.",
+  "category": "Hospital",
+  "nameType": "human",
+  "source": "https://www.enterpriseaiworld.com/Articles/News/Enterprise-AI-Case-Studies/MUSC-Health-Leverages-AI-Agent-Powered-by-the-Amelia-Patient-Engagement-Solution-165630.aspx"
+ },
+ {
+  "name": "Alli",
+  "company": "Allina Health",
+  "project": "Built on SoundHound Amelia",
+  "use": "AI agent that answers calls at Allina's customer experience center. It verifies callers and books or reschedules appointments.",
+  "category": "Hospital",
+  "nameType": "human",
+  "source": "https://itdigest.com/healthtech/soundhound-ai-allina-health-launch-ai-agent-for-patient-engagement/"
+ },
+ {
+  "name": "Grace",
+  "company": "Providence",
+  "project": "Providence app",
+  "use": "AI chatbot that helps patients with scheduling, lab results, bill pay, financial assistance and symptom checks.",
+  "category": "Hospital",
+  "nameType": "human",
+  "source": "https://blog.providence.org/blog/digital-in-action-improving-patient-navigation-with-grace"
+ },
+ {
+  "name": "Sofiya",
+  "company": "Mount Sinai Health System",
+  "project": "Cardiac catheterization lab",
+  "use": "Voice AI assistant that calls patients the day before heart catheterization. It gives prep instructions and collects allergies and medications.",
+  "category": "Hospital",
+  "nameType": "human",
+  "source": "https://www.tctmd.com/news/ai-assistant-helps-prepare-patients-cardiac-cath"
+ },
+ {
+  "name": "Aila",
+  "company": "Cleveland Clinic Abu Dhabi",
+  "project": "With Owkin",
+  "use": "Clinical AI scientist that supports clinical research at the hospital.",
+  "category": "Hospital",
+  "nameType": "human",
+  "source": "https://www.forbesmiddleeast.com/lists/top-healthcare-leaders-2026-executives/georges-pascal-haber/"
+ },
+ {
+  "name": "Nada",
+  "company": "PureHealth",
+  "project": "",
+  "use": "AI assistant that captures and organizes doctors' clinical notes from patient visits in real time. It is being piloted at PureHealth facilities in Abu Dhabi.",
+  "category": "Hospital",
+  "nameType": "human",
+  "source": "https://purehealth.ae/purehealth-introduces-pilot-phase-of-nada-an-ai-based-tool-to-assist-doctors-in-documenting-medical-notes-during-patient-visits/"
+ },
+ {
+  "name": "Zo",
+  "company": "Zocdoc",
+  "project": "",
+  "use": "AI phone assistant that answers medical practices' calls and books appointments 24/7.",
+  "category": "Healthcare software",
+  "nameType": "brand",
+  "source": "https://www.newsweek.com/nw-ai/zocdoc-launches-ai-phone-assistant-access-health-2066427"
+ },
+ {
+  "name": "Mia",
+  "company": "Hello Patient",
+  "project": "",
+  "use": "AI agent that handles calls, texts and chat for medical practices. It books appointments, verifies insurance and does recall outreach.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://www.hellopatient.com/"
+ },
+ {
+  "name": "Sophia",
+  "company": "Savista",
+  "project": "",
+  "use": "Conversational AI voice agent that helps patients settle their medical bills through inbound and outbound calls.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://www.savistarcm.com/savista-launches-new-ai-digital-agent/"
+ },
+ {
+  "name": "Phoenix",
+  "company": "Sword Health",
+  "project": "Thrive, Bloom",
+  "use": "AI Care Specialist that talks with members during physical therapy sessions and gives feedback. It also summarizes progress for clinicians.",
+  "category": "Digital health",
+  "nameType": "brand",
+  "source": "https://medcitynews.com/2024/06/sword-health-financing-ai-musculoskeletal/"
+ },
+ {
+  "name": "Ebb",
+  "company": "Headspace",
+  "project": "Headspace app",
+  "use": "AI companion that helps users reflect on their emotions and recommends meditation and mindfulness content.",
+  "category": "Mental health",
+  "nameType": "brand",
+  "source": "https://www.headspace.com/articles/headspace-brings-empathetic-ai-companion-ebb-to-uk-members"
+ },
+ {
+  "name": "Dragon Copilot",
+  "company": "Microsoft",
+  "project": "Microsoft Cloud for Healthcare",
+  "use": "Voice AI assistant for clinicians that turns conversations and dictation into clinical notes. It also drafts referral letters and summaries.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.maginative.com/article/microsoft-unveils-dragon-copilot-an-ai-assistant-for-clinicians/"
+ },
+ {
+  "name": "Ergo",
+  "company": "Epic Systems",
+  "project": "MyChart",
+  "use": "Healthcare intelligence system that gives patients personalized, evidence-based answers to medical questions in plain language.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://captimes.com/news/health/epic-unveils-new-ai-system-ergo-as-thousands-meet-at-verona-campus/article_f566f81d-97cd-4834-b67b-016b33bb1ab7.html"
+ },
+ {
+  "name": "Tom",
+  "company": "Lumeris",
+  "project": "Primary Care as a Service",
+  "use": "Multi-agent AI that acts as a care team member for primary care. It does outreach, scheduling and care coordination.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://www.lumeris.com/newsroom/lumeris-launches-ask-tom-to-deliver-agentic-analytics-for-primary-care/"
+ },
+ {
+  "name": "KATE",
+  "company": "Mednition",
+  "project": "",
+  "use": "AI decision support for emergency department nurses. It flags under- or over-triage and early sepsis risk.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://intuitionlabs.ai/software/emergency-department-operations/triage-and-acuity-scoring-systems/kate"
+ },
+ {
+  "name": "Optum Assistant",
+  "company": "Optum Rx",
+  "project": "Optum Rx app and portal",
+  "use": "AI companion that answers members' pharmacy benefit and prescription questions and completes requests.",
+  "category": "Pharmacy",
+  "nameType": "brand",
+  "source": "https://business.optum.com/en/pharmacy-benefit-management/innovations/ai-technology.html"
+ },
+ {
+  "name": "Harper",
+  "company": "NELFT NHS Foundation Trust",
+  "project": "",
+  "use": "AI virtual assistant in a text chat. It lets patients view, cancel or reschedule appointments with some trust services.",
+  "category": "Hospital",
+  "nameType": "human",
+  "source": "https://www.nelft.nhs.uk/virtual-agent-harper"
+ },
+ {
+  "name": "Peach",
+  "company": "Singapore General Hospital",
+  "project": "Perioperative AI Chatbot",
+  "use": "AI chatbot that helps doctors at the pre-surgery clinic assess patient risk and plan anaesthesia. It also drafts patient instructions and referral letters.",
+  "category": "Hospital",
+  "nameType": "brand",
+  "source": "https://www.sgh.com.sg/news/patient-care/ai-chatbot-to-help-sgh-save-money--time-with-pre-surgery-assessm"
+ },
+ {
+  "name": "Amal",
+  "company": "Emirates Health Services",
+  "project": "Built with Boston Health AI",
+  "use": "AI physician assistant that interviews patients before visits and summarizes their history for doctors. It also answers follow-up questions about medications.",
+  "category": "Hospital",
+  "nameType": "human",
+  "source": "https://gulfnews.com/uae/health/uae-unveils-amal-first-ai-physician-assistant-to-transform-patient-care-1.500441023"
+ },
+ {
+  "name": "ChatEHR",
+  "company": "Stanford Health Care",
+  "project": "",
+  "use": "AI tool for clinicians, built into the electronic health record. It answers questions about a patient's chart and summarizes records.",
+  "category": "Hospital",
+  "nameType": "brand",
+  "source": "https://med.stanford.edu/news/all-news/2025/06/chatehr.html"
+ },
+ {
+  "name": "Rachel",
+  "company": "VNS Health",
+  "project": "EasyCare Medicare Advantage plans, built with Hippocratic AI",
+  "use": "AI care specialist that phones new health plan members to complete health risk assessments in English or Spanish.",
+  "category": "Health insurance",
+  "nameType": "human",
+  "source": "https://frontline.vnshealth.org/using-rachel-an-ai-care-specialist-to-connect-with-health-plan-members/"
+ },
+ {
+  "name": "Alice",
+  "company": "eHealth",
+  "project": "",
+  "use": "AI voice agent that handles Medicare Advantage shopping, enrollment and service calls, including after-hours calls.",
+  "category": "Health insurance",
+  "nameType": "human",
+  "source": "https://finviz.com/news/227298/ehealth-advances-its-ai-strategy-with-expanded-voice-agent-capabilities"
+ },
+ {
+  "name": "GoVanessa",
+  "company": "Techniker Krankenkasse (TK)",
+  "project": "",
+  "use": "AI avatar that answers expats' questions about German health insurance in six languages. It is a digital version of a real TK adviser.",
+  "category": "Health insurance",
+  "nameType": "human",
+  "source": "https://heise.de/-10296351"
+ },
+ {
+  "name": "Burt",
+  "company": "Kinney Drugs",
+  "project": "",
+  "use": "AI pharmacy assistant named after the chain's founder. It now sends opt-in refill messages after the chain scaled back its phone use.",
+  "category": "Pharmacy",
+  "nameType": "human",
+  "source": "https://www.live5news.com/2026/08/08/drugstore-chain-pulls-back-ai-assistant-after-receiving-hundreds-customer-complaints/"
+ },
+ {
+  "name": "Grace",
+  "company": "Grove AI (Hippocratic AI)",
+  "project": "",
+  "use": "Voice AI agent that recruits and screens patients for clinical trials by phone and text.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://medcitynews.com/2026/07/grove-ai-voice-agent-agentic-clinical-trial-recruitment-hippocratic/"
+ },
+ {
+  "name": "Vicky",
+  "company": "AvaSure",
+  "project": "Virtual Care Assistant",
+  "use": "Bedside AI avatar that takes hospital patients' requests and routes them to the right staff. It flags urgent needs to clinicians.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://hlth.com/insights/news/avasure-revolutionizes-hospital-operations-with-ai-virtual-care-assistant-2025-03-05"
+ },
+ {
+  "name": "Robin",
+  "company": "Hinge Health",
+  "project": "",
+  "use": "24/7 AI care assistant for members. It handles pain flare-ups and summarizes them for the member's physical therapist.",
+  "category": "Digital health",
+  "nameType": "human",
+  "source": "https://ir.hingehealth.com/news/news-details/2025/Hinge-Health-unveils-new-AI-powered-care-tools/default.aspx"
+ },
+ {
+  "name": "OmadaSpark",
+  "company": "Omada Health",
+  "project": "Nutritional Intelligence",
+  "use": "AI agent that gives members real-time motivational interviewing and nutrition coaching between sessions with human coaches.",
+  "category": "Digital health",
+  "nameType": "brand",
+  "source": "https://www.omadahealth.com/resource-center/omada-introduces-nutritional-intelligence-to-transform-food-relationships-with-ai-driven-tools-and-human-care"
+ },
+ {
+  "name": "Viv",
+  "company": "Virta Health",
+  "project": "",
+  "use": "AI assistant that answers members' common non-clinical questions, such as food choices, alongside their health coach.",
+  "category": "Digital health",
+  "nameType": "human",
+  "source": "https://www.silicon.co.uk/press-release/virta-health-announces-record-and-accelerating-growth-at-a-scale-of-more-than-100m-in-annualized-revenue-driven-by-sustainable-weight-loss-and-glp-1-solutions"
+ },
+ {
+  "name": "Welli",
+  "company": "Noom",
+  "project": "Noom app",
+  "use": "AI health assistant that answers members' wellness and GLP-1 questions around the clock, alongside human coaches.",
+  "category": "Digital health",
+  "nameType": "human",
+  "source": "https://insider.fitt.co/press-release/noom-introduces-ai-enabled-products-to-enhance-on-demand-health-care-and-interactive-coaching/"
+ },
+ {
+  "name": "Ria",
+  "company": "Healthify",
+  "project": "Healthify app",
+  "use": "AI nutritionist and health assistant that users can talk to or show food to. It logs meals and gives health insights in 50+ languages.",
+  "category": "Digital health",
+  "nameType": "human",
+  "source": "https://techcrunch.com/2025/12/02/healthify-upgrades-its-ai-assistant-ria-with-real-time-conversation-capabilities"
+ },
+ {
+  "name": "Ash",
+  "company": "Slingshot AI",
+  "project": "",
+  "use": "AI therapy app that talks with users by voice or text, using a psychology-trained foundation model.",
+  "category": "Mental health",
+  "nameType": "human",
+  "source": "https://www.healthcareittoday.com/2025/08/05/slingshot-launches-ash-the-first-ai-designed-for-therapy/"
+ },
+ {
+  "name": "Sonia",
+  "company": "Sonia (Bloit Inc.)",
+  "project": "",
+  "use": "AI mental health app offering voice or text conversations, personalized support plans and exercises.",
+  "category": "Mental health",
+  "nameType": "human",
+  "source": "https://apps.apple.com/us/app/sonia-ai-for-mental-health/id6472111765"
+ }
+]

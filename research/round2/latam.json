@@ -1,0 +1,470 @@
+[
+  {
+    "name": "Gala",
+    "company": "Banco Galicia",
+    "project": "WhatsApp, Galicia app, Online Banking",
+    "use": "Conversational assistant that answers Galicia customers' banking questions on WhatsApp and in the bank's digital channels, using assisted generative AI over the bank's own knowledge base.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.iproup.com/innovacion/57677-ia-en-banca-el-caso-galicia-y-como-mejora-experiencia-del-cliente-con-tecnologia-propia.amp"
+  },
+  {
+    "name": "PIA (Provincia Inteligencia Artificial)",
+    "company": "Banco Provincia",
+    "project": "Home banking / BIP Móvil",
+    "use": "Generative AI assistant in Banco Provincia's online banking that checks balances, makes transfers, sets up fixed-term deposits, buys and sells dollars and invests in funds through chat.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://calcularsueldo.com.ar/?p=14773"
+  },
+  {
+    "name": "Mago",
+    "company": "Mercado Pago",
+    "project": "Mercado Pago app",
+    "use": "AI assistant that makes Pix payments and transfers by voice or text, organizes personal finances, and acts as a pocket 'personal banker'.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.letsmoney.com.br/noticias/mercado-pago-assistente-ia-mago/"
+  },
+  {
+    "name": "Boti",
+    "company": "Gobierno de la Ciudad de Buenos Aires",
+    "project": "WhatsApp",
+    "use": "The city's WhatsApp chatbot for booking appointments, filing requests and getting city information; it added generative AI in 2024 to give personalized tourism plans.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://buenosaires.gob.ar/boti"
+  },
+  {
+    "name": "Seven",
+    "company": "Banco Inter",
+    "project": "Inter super app",
+    "use": "AI agent that answers questions about Inter's 180+ products and carries out tasks such as Pix payments, gift-card purchases and spending analysis through conversation.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://neofeed.com.br/brand-stories/apresentado-por-inter/o-salto-exponencial-que-o-inter-vai-dar-com-a-sua-ia/en/"
+  },
+  {
+    "name": "Uali",
+    "company": "Ualá",
+    "project": "Ualá app",
+    "use": "GPT-4-powered customer service chatbot that answers user questions and detects tone, intent and emotion in each conversation.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.lanacion.com.ar/economia/IA/uala-se-une-con-openai-y-apuesta-por-la-innovacion-con-inteligencia-artificial-nid07022025/"
+  },
+  {
+    "name": "Clara",
+    "company": "BCP (Banco de Crédito del Perú)",
+    "project": "Banca por Teléfono / WhatsApp",
+    "use": "AI voice assistant that answers BCP's phone-banking calls, handling tasks like recent transactions, password resets and splitting purchases into installments.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.corresponsables.com/per/social/bcp-la-inteligencia-artificial-llego-a-la-banca-peruana-para-facilitar-la-atencion-a-clientes/"
+  },
+  {
+    "name": "Austral",
+    "company": "JetSMART",
+    "project": "WhatsApp and webchat",
+    "use": "King-penguin-themed AI assistant that answers passenger questions in Spanish, English and Portuguese over WhatsApp and webchat.",
+    "category": "Airline",
+    "nameType": "brand",
+    "source": "https://chocale.cl/2025/09/como-las-aerolineas-estan-integrando-la-inteligencia-artificial/"
+  },
+  {
+    "name": "Laia",
+    "company": "Galicia Seguros",
+    "project": "WhatsApp",
+    "use": "Generative AI insurance assistant built with Microsoft and NTT Data that answers policy coverage questions and supports sales, claims and fraud prevention.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://www.forbesargentina.com/negocios/galicia-seguros-lanza-asistente-virtual-inteligencia-generativa-optimizar-atencion-cliente-n53972"
+  },
+  {
+    "name": "MacroChat",
+    "company": "Banco Macro",
+    "project": "WhatsApp",
+    "use": "Generative AI banking chat on WhatsApp that lets customers check balances, make transfers, pay bills and manage cards using text, voice notes or images.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://eleconomista.com.ar/finanzas/banco-macro-lanzo-macrochat-permite-transferir-pagar-servicios-operar-whatsapp-inteligencia-artificial-n97297"
+  },
+  {
+    "name": "Vivi",
+    "company": "Davivienda",
+    "project": "",
+    "use": "AI-powered virtual assistant at the center of Davivienda's digital customer service model.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.valoraanalitik.com/?p=368364"
+  },
+  {
+    "name": "El Profe de Finanzas",
+    "company": "Davivienda",
+    "project": "",
+    "use": "Free generative AI (ChatGPT-based) chat assistant that teaches personal finance to anyone, customer or not.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.portafolio.co/economia/finanzas/davivienda-lanza-el-profe-de-finanzas-asistente-de-inteligencia-artificial-de-educacion-financiera-604223"
+  },
+  {
+    "name": "Franco Mibanco",
+    "company": "Mibanco (Colombia)",
+    "project": "WhatsApp",
+    "use": "In-house AI chatbot on WhatsApp that gives microentrepreneurs financial education and business advice, including tips from photos of their shops.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.valoraanalitik.com/mibanco-colombia-expectativas-2026/"
+  },
+  {
+    "name": "Adri",
+    "company": "Rappi",
+    "project": "WhatsApp",
+    "use": "Conversational AI chatbot on WhatsApp that lets users place Rappi orders and browse offers in natural language.",
+    "category": "Retail",
+    "nameType": "human",
+    "source": "https://www.descubre.vc/noticia/rappi-cumple-10-a-os-y-presenta-sus-planes-con-ia-y-chatbot-2026-01-20"
+  },
+  {
+    "name": "Olivia",
+    "company": "Banco Azteca",
+    "project": "Banco Azteca app",
+    "use": "24/7 AI virtual assistant in the Banco Azteca app for checking transactions, product information, disputes and why a card was declined.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://apps.apple.com/app/id1203433478"
+  },
+  {
+    "name": "Bah.IA",
+    "company": "Grupo Casas Bahia",
+    "project": "Seller copilot / Zap Casas Bah.IA (WhatsApp)",
+    "use": "Gemini-based AI that recommends products to store sellers in real time, with a WhatsApp version that lets shoppers search by audio or photo.",
+    "category": "Retail",
+    "nameType": "brand",
+    "source": "https://www.baguete.com.br/noticias/casas-bahia-chega-a-mil-agentes-de-ia"
+  },
+  {
+    "name": "Re",
+    "company": "Lojas Renner",
+    "project": "Renner app",
+    "use": "AI digital stylist that helps shoppers find pieces, build outfits, try clothes on virtually and manage their shopping bag.",
+    "category": "Retail",
+    "nameType": "brand",
+    "source": "https://mercadoeconsumo.com.br/30/09/2026/inovacao/renner-transforma-ia-em-especialista-de-moda-para-clientes/"
+  },
+  {
+    "name": "Ailo",
+    "company": "iFood",
+    "project": "iFood app and WhatsApp",
+    "use": "AI assistant built on iFood's own commerce model that takes food orders and gives recommendations from voice or casual text requests.",
+    "category": "Restaurant",
+    "nameType": "brand",
+    "source": "https://forbes.com.br/forbes-tech/2025/10/ifood-lanca-modelo-de-ia-proprietario-e-assistente-para-pedidos-via-whatsapp/"
+  },
+  {
+    "name": "Estela",
+    "company": "Prefeitura de Natal",
+    "project": "WhatsApp",
+    "use": "Generative AI assistant on WhatsApp that connects Natal residents with city services and information around the clock.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://agorarn.com.br/coluna/natal-entra-na-era-da-ia-publica-com-estela/"
+  },
+  {
+    "name": "Bel",
+    "company": "Prefeitura de Belo Horizonte",
+    "project": "WhatsApp, PBHApp, PBH portal",
+    "use": "AI virtual assistant that answers Belo Horizonte residents' questions about taxes, programs and city services in simple language.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://prefeitura.pbh.gov.br/noticias/ferramenta-bel-completa-tres-meses-com-mais-de-57-mil-chats-atendidos"
+  },
+  {
+    "name": "Ju",
+    "company": "Prefeitura de Jundiaí",
+    "project": "JundiAI (CIJUN)",
+    "use": "Digital assistant of the Jundiaí city government, part of its JundiAI artificial intelligence program, with new WhatsApp interactions planned.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://tribunadejundiai.com.br/cidades/jundiai/cijun-inteligencia-artificial-servicos-publicos-jundiai/"
+  },
+  {
+    "name": "Chatico",
+    "company": "Alcaldía de Bogotá",
+    "project": "WhatsApp / Gobierno Abierto Bogotá",
+    "use": "AI-based digital assistant that answers residents' questions, handles procedures and collects their opinions on city policy.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://impactotic.co/noticias-tic/chatico-la-voz-bogotana-en-la-politica-publica/"
+  },
+  {
+    "name": "EMA",
+    "company": "EPM (Empresas Públicas de Medellín)",
+    "project": "",
+    "use": "Multichannel AI assistant that handles utility customers' questions and outage reports.",
+    "category": "Utility",
+    "nameType": "human",
+    "source": "https://www.minuto30.com/amp/ema-la-asistente-virtual-que-transforma-la-atencion-al-cliente-en-epm/1664513/"
+  },
+  {
+    "name": "Xoli",
+    "company": "Gobierno de la Ciudad de México (ADIP)",
+    "project": "WhatsApp",
+    "use": "Axolotl-mascot AI chatbot that gives visitors and residents tourism, culture, mobility and World Cup information in Spanish or English.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.xataka.com.mx/otros-1/cdmx-creo-ajolote-ia-para-mundial-2026-promete-decirle-a-turistas-que-hacer-ciudad-whatsapp"
+  },
+  {
+    "name": "Ceci",
+    "company": "Gobierno del Estado de México (C5)",
+    "project": "C5 command center",
+    "use": "AI assistant at the State of Mexico's C5 center that helps analyze surveillance video, read license plates and handle 911 reports.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.poresto.com/mexico/2026/7/22/edomex-presenta-a-ceci-y-k7-asi-usaran-inteligencia-artificial-y-robots-en-el-c5.amp.html"
+  },
+  {
+    "name": "RENATA",
+    "company": "RENIEC (Peru)",
+    "project": "Facebook, Instagram, WhatsApp",
+    "use": "Virtual assistant of Peru's identity registry that answers questions about ID cards and civil registry procedures around the clock.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://elcomercio.pe/respuestas/tramites/asi-funciona-renata-la-asistente-virtual-de-reniec-que-te-ayudara-a-realizar-tus-tramites-tdpe-noticia/"
+  },
+  {
+    "name": "SOFIA",
+    "company": "SUNAT (Peru)",
+    "project": "SUNAT portal",
+    "use": "AI virtual assistant that answers taxpayers' tax and customs questions on Peru's tax authority website.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://andina.pe/ingles/noticia-ia-plantea-retos-para-transformacion-digital-sunat-y-tribunal-fiscal-1029925.aspx"
+  },
+  {
+    "name": "HAVI",
+    "company": "Hey Banco",
+    "project": "Hey Banco website and app",
+    "use": "AI chatbot (also called heyFPT) that gives quick information about Hey Banco products and loan quotes.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://banco.hey.inc/content/dam/heybanco/terminos-condiciones/terminos-y-condiciones-heyFPT-HAVI.pdf"
+  },
+  {
+    "name": "Lumi",
+    "company": "Tiendanube (Nuvemshop)",
+    "project": "Tiendanube store admin",
+    "use": "AI assistant for online merchants that writes product descriptions, edits images, creates coupons and analyzes sales using the store's data.",
+    "category": "Software",
+    "nameType": "brand",
+    "source": "https://ayuda.tiendanube.com/conoce-a-lumi/que-es-lumi-y-como-te-ayuda-en-la-gestion-de-tu-tienda-en-tiendanube"
+  },
+  {
+    "name": "Helô",
+    "company": "INSS (Brazil)",
+    "project": "Meu INSS",
+    "use": "Virtual assistant in the Meu INSS app, upgraded with generative AI in 2026 to answer open questions and help screen documents sent by beneficiaries.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://diariodocomercio.com.br/geral/plataforma-meu-inss-ia-aposentados-atendimento-humano/"
+  },
+  {
+    "name": "BotRTC",
+    "company": "Receita Federal (Brazil)",
+    "project": "Portal da Reforma Tributária",
+    "use": "AI assistant trained on official material that answers general questions about Brazil's consumption tax reform.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://amdjus.com.br/novo-chatbot-da-receita-federal-simplifica-duvidas-sobre-reforma-tributaria/"
+  },
+  {
+    "name": "Pitchmaker",
+    "company": "Santander Brasil",
+    "project": "",
+    "use": "Generative AI assistant built on AWS that drafts personalized messages for investment advisors talking to high-income clients.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.baguete.com.br/noticias/santander-desenvolve-assistente-com-aws"
+  },
+  {
+    "name": "Agente CiDi IA",
+    "company": "Gobierno de la Provincia de Córdoba",
+    "project": "Ciudadano Digital (CiDi)",
+    "use": "Generative AI assistant in Córdoba's Ciudadano Digital portal that answers residents' common questions in natural language, 24/7.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://hoydia.com.ar/tecnologia/cordoba-presento-un-asistente-virtual-basado-en-inteligencia-artificial-generativa/"
+  },
+  {
+    "name": "Vera",
+    "company": "Pacífico Seguros",
+    "project": "",
+    "use": "AI virtual assistant that lets drivers report car insurance claims like broken windows or stolen parts without long phone calls.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://elperuano.pe/noticia/295189-choque-o-robo-la-ia-acelera-la-atencion-de-seguros-vehiculares-conoce-como"
+  },
+  {
+    "name": "TECgpt",
+    "company": "Tecnológico de Monterrey",
+    "project": "",
+    "use": "Private generative AI platform for students, faculty and researchers to ask questions, draft texts, summarize and build study guides.",
+    "category": "University",
+    "nameType": "brand",
+    "source": "https://mobiletime.la/?p=797444"
+  },
+  {
+    "name": "TECbot",
+    "company": "Tecnológico de Monterrey",
+    "project": "TECbot Holográfico",
+    "use": "Virtual assistant that answers by voice, recognizes images and can appear as a 3D hologram in classrooms and auditoriums.",
+    "category": "University",
+    "nameType": "brand",
+    "source": "https://mobiletime.la/?p=797444"
+  },
+  {
+    "name": "Ari",
+    "company": "Volaris",
+    "project": "",
+    "use": "AI agent that helps travelers 24/7 with flight status, baggage, extra services and travel policies.",
+    "category": "Airline",
+    "nameType": "human",
+    "source": "https://cms.volaris.com/es/informacion-util/contacto/chatbot-vane/"
+  },
+  {
+    "name": "Aurelia",
+    "company": "Claro (Ecuador)",
+    "project": "Customer service centers",
+    "use": "Claro's first generative AI virtual assistant, which identifies customers in service centers, handles their requests and routes them to an advisor.",
+    "category": "Telecom",
+    "nameType": "human",
+    "source": "https://www.eltelegrafo.com.ec/noticias/empresariales/215/nuevo-centro-de-atencion-a-clientes-claro-en-samborondon"
+  },
+  {
+    "name": "DIN",
+    "company": "Banco Central do Brasil",
+    "project": "",
+    "use": "The central bank's self-service chatbot for citizens, which is getting artificial intelligence to cover a wider range of topics.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://viva.com.br/noticias/chatbot-do-banco-central-passara-a-usar-ia-para-atender-cidadaos.html"
+  },
+  {
+    "name": "Yara",
+    "company": "Ypê",
+    "project": "",
+    "use": "ChatGPT-based assistant that answers home-cleaning questions and recommends the right Ypê products.",
+    "category": "Consumer goods",
+    "nameType": "human",
+    "source": "https://mundodomarketing.com.br/ype-apresenta-yara-assistente-ia-baseada-no-chatgpt"
+  },
+  {
+    "name": "Lug",
+    "company": "Grupo AD",
+    "project": "",
+    "use": "AI virtual agent that negotiates store and kiosk leases directly with prospective tenants across 44 shopping malls.",
+    "category": "Real estate",
+    "nameType": "brand",
+    "source": "https://neofeed.com.br/noticias-sobre/lu-do-magalu/"
+  },
+  {
+    "name": "Sofía",
+    "company": "Aseguradora General (Guatemala)",
+    "project": "WhatsApp, SMS, voice",
+    "use": "AI virtual assistant that gives instant car and medical insurance quotes over WhatsApp, text and voice messages, 24/7.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://emisorasunidas.com/empresas/2025/06/11/sofia-la-asistente-con-ia-de-aseguradora-general-ahora-cuenta-con-tecnologia-50/"
+  },
+  {
+    "name": "MentorIA",
+    "company": "Ministério da Gestão e Inovação (MGI) / Serpro",
+    "project": "Compras.gov.br",
+    "use": "AI assistant that helps Brazilian public servants plan procurements by answering questions and cross-referencing procurement laws and manuals.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://tiinside.com.br/04/03/2026/serpro-e-mgi-lancam-primeira-ferramenta-de-ia-voltada-para-compras-publicas/"
+  },
+  {
+    "name": "Norma",
+    "company": "Governo de Goiás",
+    "project": "Legisla Goiás / WhatsApp",
+    "use": "AI assistant that explains Goiás state legislation in plain language with sourced answers, via the Legisla Goiás portal or WhatsApp.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.rotajuridica.com.br/?p=160962"
+  },
+  {
+    "name": "GurIA",
+    "company": "Governo do Estado do Rio Grande do Sul",
+    "project": "rs.gov.br / WhatsApp",
+    "use": "Generative AI assistant that answers residents' questions about state services and the Plano Rio Grande reconstruction program by text or voice.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://estado.rs.gov.br/guria-amplia-sua-capacidade-de-interacao-e-passa-a-responder-perguntas-sobre-o-plano-rio-grande"
+  },
+  {
+    "name": "Avi24",
+    "company": "Banco Bolivariano (Ecuador)",
+    "project": "WhatsApp",
+    "use": "Conversational virtual agent on WhatsApp that automates nearly all customer queries and turns service chats into sales opportunities.",
+    "category": "Bank",
+    "nameType": "brand",
+    "source": "https://www.engageware.com/customer-stories/banco-bolivariano"
+  },
+  {
+    "name": "Julio",
+    "company": "SUNARP (Peru)",
+    "project": "Plataforma IA SUNARP",
+    "use": "Free AI platform that lets the public search registry rulings and binding precedents in natural language and compare legal criteria.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://elperuano.pe/noticia/298583-necesitas-un-criterio-registral-la-ia-sunarp-julio-te-ayuda-a-encontrarlo-al-instante"
+  },
+  {
+    "name": "Taína",
+    "company": "OGTIC (Dominican Republic)",
+    "project": "PLATIA",
+    "use": "Planned conversational AI assistant that helps Dominican citizens with public service procedures, appointments and payments by voice or text and sends proactive reminders.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://eldia.com.do/taina-devolvera-tiempo-a-ciudadanos-con-servicios-publicos-conectados/"
+  },
+  {
+    "name": "Aria",
+    "company": "Banco Atlántida El Salvador",
+    "project": "WhatsApp",
+    "use": "AI chatbot on the bank's official WhatsApp that answers customer questions and now lets Salvadorans receive remittances from the U.S.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://invatlan.hn/blogs/banco-atlantida-and-felix-transform-the-way-remittances-are-sent-from-the-united-states-to-el-salvador-now-a-whatsapp-message-is-all-it-takes"
+  },
+  {
+    "name": "CitizenAI",
+    "company": "National Payment and Innovation Company of Trinidad and Tobago (NPICTT)",
+    "project": "WhatsApp",
+    "use": "WhatsApp-based AI assistant that gives localized, data-driven answers grounded in Trinidad and Tobago information.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.ttt.live/?p=151183"
+  },
+  {
+    "name": "AJ CHAT",
+    "company": "Autoridad de Fiscalización del Juego (Bolivia)",
+    "project": "",
+    "use": "AI assistant on the gaming regulator's website that answers questions about lotteries, games of chance and promotions by voice or text.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://focusgn.com/latinoamerica/la-aj-de-bolivia-lanza-un-asistente-virtual-con-ia"
+  },
+  {
+    "name": "Taís",
+    "company": "TIM Brasil",
+    "project": "URA (phone IVR), app, WhatsApp",
+    "use": "TIM's virtual attendant on its phone line and digital channels, which is getting a generative AI layer.",
+    "category": "Telecom",
+    "nameType": "human",
+    "source": "https://teletime.com.br/07/08/2024/tim-tera-ura-com-inteligencia-artificial-generativa-embarcada-em-2025/"
+  }
+]

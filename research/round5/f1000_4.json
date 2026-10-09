@@ -1,0 +1,102 @@
+[
+ {
+  "name": "Sunny",
+  "company": "Marriott Vacations Worldwide",
+  "project": "Marriott Vacation Club app",
+  "use": "Chatbot in the Marriott Vacation Club app that answers owners' and guests' questions about their stay. English only, and not available in Asia-Pacific.",
+  "category": "Hospitality",
+  "nameType": "human",
+  "source": "https://tpd1.vacationlife.marriottvacationclubs.com/?p=73304",
+  "list": "Fortune 1000 #672"
+ },
+ {
+  "name": "ICE",
+  "company": "Rackspace Technology",
+  "project": "Intelligent Co-worker for the Enterprise",
+  "use": "Generative AI co-worker that answers employees' questions about company policies, procedures and standards from curated internal data. Also sold to clients as an accelerator on AWS Marketplace.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.rackspace.com/newsroom/rackspace-introduces-intelligent-co-worker-enterprise-accelerator-aws-marketplace",
+  "list": "Fortune 1000 #978"
+ },
+ {
+  "name": "RITA",
+  "company": "Rackspace Technology",
+  "project": "Rackspace Intelligent Technology Agent",
+  "use": "Internal AI agent that handles IT requests for staff, such as setting up RSA tokens, managing timesheets and checking ticket status.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.computable.nl/?p=347809",
+  "list": "Fortune 1000 #978"
+ },
+ {
+  "name": "MyKey",
+  "company": "KeyCorp",
+  "project": "KeyBank mobile app",
+  "use": "KeyBank's automated virtual assistant that handles customer questions and transactions in the app, and hands off to a human agent when needed.",
+  "category": "Banking",
+  "nameType": "brand",
+  "source": "https://emerj.com/artificial-intelligence-at-keybank",
+  "list": "Fortune 1000 #436"
+ },
+ {
+  "name": "C2AI",
+  "company": "Leidos Holdings",
+  "project": "Command and Control Agentic AI System",
+  "use": "Agentic AI system that takes in video, radio and other feeds during disasters and helps human commanders make faster decisions.",
+  "category": "Government & Defense",
+  "nameType": "brand",
+  "source": "https://www.nvidia.com/en-eu/customer-stories/leidos-uses-ai-agents-to-improve-disaster-response/",
+  "list": "Fortune 1000 #250"
+ },
+ {
+  "name": "Benefit Scout",
+  "company": "Securian Financial Group",
+  "project": "Benefit Scout decision-support tool",
+  "use": "Benefits decision tool with an AI chatbot that gives employees real-time help in understanding and choosing their workplace benefits.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://www.securian.com/employers/why-securian.html",
+  "list": "Fortune 1000 #464"
+ },
+ {
+  "name": "Ask 3M",
+  "company": "3M",
+  "project": "",
+  "use": "AI digital assistant that helps engineers find 3M adhesives and tapes and technical information for their design problems.",
+  "category": "Manufacturing",
+  "nameType": "brand",
+  "source": "https://news.3m.com/New-3M-AI-tools-accelerate-how-ideas-become-products",
+  "list": "Fortune 1000 #174"
+ },
+ {
+  "name": "ReefGPT",
+  "company": "Electronic Arts",
+  "project": "",
+  "use": "EA's internal AI chatbot for developers, used for coding and other work. It has been reported as error-prone.",
+  "category": "Gaming",
+  "nameType": "brand",
+  "source": "https://respawn.outlookindia.com/amp/story/esports/esports-news/eas-ai-tool-aimed-at-cutting-costs-creates-more-work-instead",
+  "list": "Fortune 1000 #490"
+ },
+ {
+  "name": "StarIQ",
+  "company": "Flagstar Financial",
+  "project": "Flagstar Bank",
+  "use": "Flagstar's in-house generative AI platform. It gives staff several AI models in one controlled place, answers questions about internal documents and policies with citations, and screens for sensitive data.",
+  "category": "Banking",
+  "nameType": "brand",
+  "source": "https://finviz.com/news/361686/flagstar-bank-announces-proprietary-technology-transformation",
+  "list": "Fortune 1000 #557"
+ },
+ {
+  "name": "Vera",
+  "company": "Costco Wholesale",
+  "project": "Costco Virtual Pet Care (AskVet)",
+  "use": "AI pet-care chatbot from AskVet, offered to Costco Executive Members, that answers questions about pet health and care.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://costcoguides.com/costco-virtual-pet-care/",
+  "list": "Fortune 1000 #12"
+ }
+]

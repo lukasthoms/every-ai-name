@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Project Mariner",
+    "company": "Alphabet (Google)",
+    "project": "Google DeepMind",
+    "use": "Research-prototype AI agent that browses the web in Chrome and carries out tasks for the user, up to ten at once. Available to U.S. Google AI Ultra subscribers.",
+    "category": "AI Labs & Big Tech",
+    "nameType": "brand",
+    "source": "https://blog.google/technology/google-deepmind/gemini-universal-ai-assistant/",
+    "list": "Fortune 1000 #7"
+  },
+  {
+    "name": "Project Astra",
+    "company": "Alphabet (Google)",
+    "project": "Google DeepMind",
+    "use": "Research prototype of a universal AI assistant that sees and hears in real time. Its features are being added to Gemini Live, Search and smart glasses.",
+    "category": "AI Labs & Big Tech",
+    "nameType": "brand",
+    "source": "https://blog.google/technology/google-deepmind/gemini-universal-ai-assistant/",
+    "list": "Fortune 1000 #7"
+  }
+]

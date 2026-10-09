@@ -1,0 +1,62 @@
+[
+ {
+  "name": "NORA",
+  "company": "Nationwide",
+  "project": "Nationwide's Online Response Assistant",
+  "use": "Customer chatbot giving 24-hour answers on products and claim status and helping with password resets, with handoff to live chat.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://agentblog.nationwide.com/agency-management/technology/insurance-chatbots-how-to-improve-the-customer-experience-with-ai/",
+  "list": "Fortune 1000 #72"
+ },
+ {
+  "name": "Arc",
+  "company": "Trimble",
+  "project": "Trimble Arc Agent",
+  "use": "Autonomous AI agent for transportation and logistics firms that handles data entry, support and maintenance tickets and report analysis across TMS, email and Salesforce.",
+  "category": "Logistics",
+  "nameType": "brand",
+  "source": "https://www.fleetowner.com/technology/article/55397354/trimble-arc-agent-makes-fleet-management-more-productive",
+  "list": "Fortune 1000 #818"
+ },
+ {
+  "name": "Chemille",
+  "company": "Celanese",
+  "project": "Chemille Digital Assistant (AskChemille)",
+  "use": "AI-powered platform that suggests suitable engineered materials based on a product's characteristics, intended use and certifications.",
+  "category": "Chemicals",
+  "nameType": "brand",
+  "source": "https://www.financialcontent.com/article/bizwire-2025-10-4-celanese-designing-the-future-at-k-2025",
+  "list": "Fortune 1000 #412"
+ },
+ {
+  "name": "SleepExpert.AI",
+  "company": "Mattress Firm (Somnigroup International)",
+  "project": "In-store sales associate tool",
+  "use": "Internal AI agent built on Google Gemini that gives Mattress Firm's Sleep Experts instant answers on products, promotions and financing, plus a roleplay Drill Mode for sales practice.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://www.griddynamics.com/blog/ai-agent-retail-sales-case-study",
+  "list": "Fortune 1000 #677"
+ },
+ {
+  "name": "Ella",
+  "company": "Equity Residential",
+  "project": "Anyone Home CRM leasing assistant",
+  "use": "Virtual leasing assistant that answers prospective renter inquiries and books apartment tour appointments.",
+  "category": "Real estate",
+  "nameType": "human",
+  "source": "https://data.larridin.com/data/ai-tracker/company/equity-residential/",
+  "list": "Fortune 1000 #917"
+ },
+ {
+  "name": "X.Assist",
+  "company": "Xerox",
+  "project": "X.Assist framework of AI agents",
+  "use": "Framework of AI agents supporting predictive service, inventory management, workflow orchestration and client support, aimed at handling 50-70% of work by 2027.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://therecycler.com/posts/xerox-named-leader-in-ai-vendor-landscape-2026-report/",
+  "list": "Fortune 1000 #565"
+ }
+]

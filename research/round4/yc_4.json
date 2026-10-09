@@ -1,0 +1,6 @@
+[
+  {"name": "Charlie", "company": "Tavus", "project": "PALs", "use": "Tavus's own conversational video AI persona. It greets users in the PAL Maker demo and helps them build their own AI humans.", "category": "AI Labs & Big Tech", "nameType": "human", "source": "https://www.tavus.io", "list": "YC Summer 2021"},
+  {"name": "Taylor", "company": "Domu Technology Inc.", "project": "", "use": "AI collections agent that opens on voice and follows up over text and email. It keeps one compliant conversation going from first contact to resolution.", "category": "Banking & Finance", "nameType": "human", "source": "https://www.domu.ai/", "list": "YC Summer 2024"},
+  {"name": "KAI", "company": "Kunduz", "project": "Kunduz", "use": "AI study assistant (Kunduz AI) that gives students instant step-by-step help with homework questions, alongside human experts.", "category": "Education", "nameType": "brand", "source": "https://kunduz.com/", "list": "YC Summer 2018"},
+  {"name": "Sparky", "company": "Flint", "project": "Flint", "use": "AI helper that guides students with hints and questions instead of answers. It also helps teachers build activities and grade work.", "category": "Education", "nameType": "brand", "source": "https://flintk12.com/", "list": "YC Summer 2023"}
+]

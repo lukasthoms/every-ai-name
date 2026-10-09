@@ -1,0 +1,22 @@
+[
+  {
+    "name": "AI360",
+    "company": "Sysco",
+    "project": "",
+    "use": "AI sales platform for Sysco's sales consultants that suggests selling opportunities, guides pricing and cuts admin work. For employees.",
+    "category": "Food Distribution",
+    "nameType": "brand",
+    "source": "https://www.digitalcommerce360.com/2025/10/31/sysco-puts-ai-at-the-center-of-its-sales-rebound-in-q1/",
+    "list": "Fortune 1000 #56"
+  },
+  {
+    "name": "JLL GPT",
+    "company": "Jones Lang LaSalle",
+    "project": "",
+    "use": "Large language model tool built for commercial real estate work. For JLL employees.",
+    "category": "Real Estate",
+    "nameType": "brand",
+    "source": "https://en.wikipedia.org/wiki/JLL_(company)",
+    "list": "Fortune 1000 #188"
+  }
+]

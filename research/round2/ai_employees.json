@@ -1,0 +1,515 @@
+[
+ {
+  "name": "Harmony",
+  "company": "SiriusXM",
+  "project": "Sierra Agent OS",
+  "use": "Customer support agent for SiriusXM listeners, handling complex account and subscription inquiries.",
+  "category": "Media / Customer service",
+  "nameType": "human",
+  "source": "https://sierra.ai/blog/same-platform-different-personalities"
+ },
+ {
+  "name": "Barbra",
+  "company": "ThirdLove",
+  "project": "Sierra Agent OS",
+  "use": "Acts as a bra fit expert and personal stylist helping customers shop.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://sierra.ai/blog/same-platform-different-personalities"
+ },
+ {
+  "name": "Duncan Smuthers",
+  "company": "Chubbies",
+  "project": "Sierra Agent OS",
+  "use": "Humorous, laid-back shopping and support assistant for the apparel brand.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://sierra.ai/blog/same-platform-different-personalities"
+ },
+ {
+  "name": "Katie",
+  "company": "Alta",
+  "project": "Alta AI Workforce",
+  "use": "AI outbound SDR agent that finds prospects, runs personalized email and LinkedIn outreach, and books meetings.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.altahq.com/lp/ai-workforce"
+ },
+ {
+  "name": "Alex",
+  "company": "Alta",
+  "project": "Alta AI Workforce",
+  "use": "AI inbound/calling agent that responds to and qualifies new leads quickly.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.altahq.com/lp/ai-workforce"
+ },
+ {
+  "name": "Luna",
+  "company": "Alta",
+  "project": "Alta AI Workforce",
+  "use": "AI RevOps/growth agent that connects CRM and data sources to surface buying signals and high-intent accounts.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.altahq.com/lp/ai-workforce"
+ },
+ {
+  "name": "Aiden Insight",
+  "company": "International Holding Company (IHC)",
+  "project": "",
+  "use": "AI board observer that attends IHC board meetings and provides real-time strategic analysis and recommendations.",
+  "category": "Investment / Corporate governance",
+  "nameType": "human",
+  "source": "https://ihcuae.com/media-centre/press-releases/ihc-unveils-aiden-insight-2-0-pioneering-ai-board-observer-reinforces-strategic-governance-with-real-time-q1-2025-insights"
+ },
+ {
+  "name": "Bosh",
+  "company": "Relevance AI",
+  "project": "",
+  "use": "Customizable AI BDR agent that researches prospects, sends personalized outreach, handles replies and books meetings.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://relevanceai.com/outbound"
+ },
+ {
+  "name": "Zara",
+  "company": "micro1",
+  "project": "",
+  "use": "AI recruiter that conducts structured first-round candidate interviews and scores responses for human recruiters.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://kb.micro1.ai/kb/what-is-micro1"
+ },
+ {
+  "name": "Mika",
+  "company": "Dictador",
+  "project": "",
+  "use": "Humanoid AI robot presented as the rum brand's CEO, making decisions in marketing, branding and customer engagement.",
+  "category": "Beverages / Spirits",
+  "nameType": "human",
+  "source": "https://dictador.com/mika-the-worlds-first-ai-humanoid-ceo-leading-dictador-into-the-future/"
+ },
+ {
+  "name": "Alex",
+  "company": "Alex AI (Apriora)",
+  "project": "",
+  "use": "AI recruiter that runs first-round candidate interviews by video, phone and text and handles scheduling.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://www.alex.com/candidate-love"
+ },
+ {
+  "name": "Raya",
+  "company": "Teammates.ai",
+  "project": "",
+  "use": "AI teammate for customer service across chat, voice, email and WhatsApp.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.teammates.ai"
+ },
+ {
+  "name": "Adam",
+  "company": "Teammates.ai",
+  "project": "",
+  "use": "AI sales teammate that handles outreach, qualification and meeting booking.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.teammates.ai"
+ },
+ {
+  "name": "Sara",
+  "company": "Teammates.ai",
+  "project": "",
+  "use": "AI interviewer that conducts candidate interviews and evaluates them.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://www.teammates.ai"
+ },
+ {
+  "name": "Alfred",
+  "company": "Motion",
+  "project": "Motion AI Employees",
+  "use": "AI executive assistant that handles meeting prep, notes and turning action items into tasks.",
+  "category": "Software / Productivity",
+  "nameType": "human",
+  "source": "https://www.usemotion.com/use-cases/startups"
+ },
+ {
+  "name": "Chip",
+  "company": "Motion",
+  "project": "Motion AI Employees",
+  "use": "AI sales rep that books intro calls, follows up with leads and updates the CRM.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.usemotion.com/use-cases/startups"
+ },
+ {
+  "name": "Clide",
+  "company": "Motion",
+  "project": "Motion AI Employees",
+  "use": "AI customer support specialist that drafts customer updates and escalates issues.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.usemotion.com/use-cases/startups"
+ },
+ {
+  "name": "Millie",
+  "company": "Motion",
+  "project": "Motion AI Employees",
+  "use": "AI project manager that turns specs and roadmaps into project plans and flags risks.",
+  "category": "Software / Productivity",
+  "nameType": "human",
+  "source": "https://www.usemotion.com/use-cases/startups"
+ },
+ {
+  "name": "Suki",
+  "company": "Motion",
+  "project": "Motion AI Employees",
+  "use": "AI marketing associate that drafts launch briefs and social posts and tracks competitors.",
+  "category": "Marketing",
+  "nameType": "human",
+  "source": "https://www.usemotion.com/use-cases/startups"
+ },
+ {
+  "name": "Dot",
+  "company": "Motion",
+  "project": "Motion AI Employees",
+  "use": "AI recruiter that screens candidates, schedules interviews and grades assessments.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://www.usemotion.com/use-cases/startups"
+ },
+ {
+  "name": "Spec",
+  "company": "Motion",
+  "project": "Motion AI Employees",
+  "use": "AI researcher that tracks competitors and industry shifts and compiles briefs.",
+  "category": "Software / Productivity",
+  "nameType": "human",
+  "source": "https://www.usemotion.com/use-cases/startups"
+ },
+ {
+  "name": "Jazon",
+  "company": "Lyzr",
+  "project": "",
+  "use": "Self-hosted AI SDR that automates prospect research, personalized emails, follow-ups and meeting booking.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.cmswire.com/the-wire/new-ai-sales-agent-matches-the-output-of-100-salespeople-at-fractional-cost"
+ },
+ {
+  "name": "Alisha",
+  "company": "Floworks",
+  "project": "",
+  "use": "Autonomous AI SDR that researches prospects, runs email and LinkedIn outreach and books sales calls.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.ycombinator.com/companies/floworks"
+ },
+ {
+  "name": "Joy",
+  "company": "Classet",
+  "project": "",
+  "use": "AI recruiter that engages applicants and runs 24/7 phone screens, delivering structured summaries to recruiters.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://www.classet.ai/compare/converzai"
+ },
+ {
+  "name": "Eliza",
+  "company": "BNY",
+  "project": "",
+  "use": "BNY's internal AI platform used by most of its staff, on which the bank runs its 'digital employees'.",
+  "category": "Banking",
+  "nameType": "human",
+  "source": "https://www.forrester.com/blogs/bny-built-its-digital-workforce-backward-and-its-working/"
+ },
+ {
+  "name": "Emily Ye",
+  "company": "WeBank",
+  "project": "",
+  "use": "Digital employee showcased by the Chinese digital bank as one of its 50+ AI digital employees.",
+  "category": "Banking",
+  "nameType": "human",
+  "source": "https://www.aap.com.au/aapreleases/cision20251104ae14948"
+ },
+ {
+  "name": "CoreMate",
+  "company": "Kirin Holdings",
+  "project": "",
+  "use": "AI executive with 12 AI personas that advises Kirin's executive committees and raises issues in management meetings.",
+  "category": "Beverages / Corporate governance",
+  "nameType": "brand",
+  "source": "https://www.kirinholdings.com/en/newsroom/release/2026/0528_03.html"
+ },
+ {
+  "name": "Rita",
+  "company": "7-Eleven",
+  "project": "Workday Paradox",
+  "use": "AI hiring assistant that screens applicants and schedules interviews via conversation.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://www.workday.com/en-in/customer-stories/a-h/7-eleven-streamlines-hiring-conversational-ai.html"
+ },
+ {
+  "name": "Ev-e",
+  "company": "General Motors",
+  "project": "Paradox",
+  "use": "Conversational recruiting assistant that answers candidate questions and schedules interviews by text or chat.",
+  "category": "Automotive / HR",
+  "nameType": "human",
+  "source": "https://paradox.ai/case-studies/general-motors"
+ },
+ {
+  "name": "Emma",
+  "company": "Great Wolf Lodge",
+  "project": "Paradox",
+  "use": "Recruiting assistant that helps candidates search for jobs, get answers and submit applications.",
+  "category": "Hospitality / HR",
+  "nameType": "human",
+  "source": "https://careers.greatwolf.com/"
+ },
+ {
+  "name": "Victoria Shi",
+  "company": "Ministry of Foreign Affairs of Ukraine",
+  "project": "",
+  "use": "AI-generated spokesperson who delivers verified consular updates on behalf of the ministry.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://www.maginative.com/article/ukraines-foreign-ministry-appoints-ai-spokesperson-for-consular-updates"
+ },
+ {
+  "name": "Lindy",
+  "company": "Lindy",
+  "project": "",
+  "use": "AI teammate/employee that plugs into your tools to handle email, scheduling, meetings and workflows.",
+  "category": "Software / Productivity",
+  "nameType": "human",
+  "source": "https://www.lindy.ai"
+ },
+ {
+  "name": "Ana",
+  "company": "WellSpan Health",
+  "project": "Hippocratic AI",
+  "use": "Generative AI voice agent that handles patient calls, scheduling and outreach such as post-discharge follow-up.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.wellspan.org/articles/2026/07/30/13/05/web---hippocractic-ai-partnership-expansion"
+ },
+ {
+  "name": "CAASI",
+  "company": "WellnessLiving",
+  "project": "",
+  "use": "AI front-desk receptionist and sales agent that answers clients, books appointments and captures leads by phone, chat and text.",
+  "category": "Software / Wellness",
+  "nameType": "brand",
+  "source": "https://www.stork.ai/en/wellnessliving-caasi"
+ },
+ {
+  "name": "Nezumi",
+  "company": "Shōden",
+  "project": "",
+  "use": "AI SDR 'employee' that automates outbound prospecting to book qualification meetings for SaaS startups.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://app.welcometothejungle.com/companies/Sh%C5%8Dden"
+ },
+ {
+  "name": "Duo",
+  "company": "Amplemarket",
+  "project": "",
+  "use": "AI sales copilot that surfaces intent signals, drafts multichannel outreach and handles follow-ups.",
+  "category": "Sales",
+  "nameType": "brand",
+  "source": "https://www.amplemarket.com/blog/introducing-amplemarket-duo-the-first-end-to-end-ai-sales-copilot"
+ },
+ {
+  "name": "Walter",
+  "company": "Marblism",
+  "project": "",
+  "use": "AI employee that builds websites for small businesses.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.marblism.com"
+ },
+ {
+  "name": "Gus",
+  "company": "Gusto",
+  "project": "",
+  "use": "AI assistant that answers payroll, benefits and HR questions and can carry out tasks for small business owners.",
+  "category": "HR / Payroll",
+  "nameType": "human",
+  "source": "https://www.cpapracticeadvisor.com/?p=110546"
+ },
+ {
+  "name": "Millie",
+  "company": "Renfrewshire Council",
+  "project": "ICS.AI SMART AI Platform",
+  "use": "AI digital advisor that answers residents' calls about council services and transfers complex cases to staff.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://www.renfrewshire.gov.uk/news/2025/renfrewshire-councils-digital-advisor-millie-wins-innovation-award"
+ },
+ {
+  "name": "Holly",
+  "company": "Hiring Agents",
+  "project": "",
+  "use": "AI recruiting agent that works for employers, posting jobs, sourcing and submitting candidates.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://cerebralvalley.beehiiv.com/p/hiring-agents-a-staffing-recruitment-agency-entirely-operated-by-ai-agents"
+ },
+ {
+  "name": "Hunter",
+  "company": "Hiring Agents",
+  "project": "",
+  "use": "AI agent representing job candidates that vets applicants and submits their profiles.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://cerebralvalley.beehiiv.com/p/hiring-agents-a-staffing-recruitment-agency-entirely-operated-by-ai-agents"
+ },
+ {
+  "name": "Rosie",
+  "company": "Rosie (heyrosie.com)",
+  "project": "",
+  "use": "AI phone receptionist for small businesses that answers calls 24/7, books appointments, takes messages and captures leads.",
+  "category": "Customer service / Small business",
+  "nameType": "human",
+  "source": "https://www.heyrosie.com/solutions/ai-receptionist"
+ },
+ {
+  "name": "Sally",
+  "company": "CallSally.ai",
+  "project": "",
+  "use": "AI patient concierge for dental practices that handles phone calls, scheduling and lead management.",
+  "category": "Dental / Healthcare",
+  "nameType": "human",
+  "source": "https://www.aacaligners.com/member-deals/callsallyai"
+ },
+ {
+  "name": "Kelsey",
+  "company": "Zuma",
+  "project": "",
+  "use": "AI leasing agent for apartment properties that answers inquiries, schedules tours, sends payment reminders and handles calls.",
+  "category": "Real estate",
+  "nameType": "human",
+  "source": "https://getzuma.com/faq"
+ },
+ {
+  "name": "Elise",
+  "company": "EliseAI",
+  "project": "LeasingAI",
+  "use": "AI leasing assistant that answers renter questions across text, chat, email and voice and schedules tours.",
+  "category": "Real estate",
+  "nameType": "human",
+  "source": "https://revyse.com/products/eliseai"
+ },
+ {
+  "name": "Vini AI",
+  "company": "Spyne",
+  "project": "",
+  "use": "Conversational AI BDC agent for car dealerships that answers calls and chats, qualifies leads and books appointments.",
+  "category": "Automotive",
+  "nameType": "brand",
+  "source": "https://www.spyne.ai/blogs/?p=30227"
+ },
+ {
+  "name": "Eva",
+  "company": "Gjensidige",
+  "project": "",
+  "use": "AI claims agent that handles insurance claims directly from customers around the clock.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.nhh.no/en/nhh-bulletin/article-archive/2025/april/claim-the-future/"
+ },
+ {
+  "name": "Sofie",
+  "company": "Gjensidige",
+  "project": "",
+  "use": "Internal AI agent that manages communication between departments on claims casework.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.nhh.no/en/nhh-bulletin/article-archive/2025/april/claim-the-future/"
+ },
+ {
+  "name": "Frank",
+  "company": "Gjensidige",
+  "project": "",
+  "use": "AI agent that handles claims communication with outside partners such as surveyors and builders.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.nhh.no/en/nhh-bulletin/article-archive/2025/april/claim-the-future/"
+ },
+ {
+  "name": "Sophia",
+  "company": "Savista",
+  "project": "",
+  "use": "Patient-facing AI voice agent that helps patients resolve healthcare bills and financial obligations.",
+  "category": "Healthcare revenue cycle",
+  "nameType": "human",
+  "source": "https://www.savistarcm.com/savista-launches-new-ai-digital-agent/"
+ },
+ {
+  "name": "Alli",
+  "company": "Allina Health",
+  "project": "SoundHound Amelia",
+  "use": "AI patient engagement agent that answers calls, books and reschedules appointments and answers general questions.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://itdigest.com/healthtech/soundhound-ai-allina-health-launch-ai-agent-for-patient-engagement/"
+ },
+ {
+  "name": "Emily",
+  "company": "MUSC Health",
+  "project": "SoundHound Amelia",
+  "use": "AI agent in MUSC Health's patient access center that helps patients manage appointments and answers non-clinical questions.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.silicon.co.uk/press-release/soundhound-ai-announces-partnership-with-musc-health-to-transform-patient-access-with-ai-agents"
+ },
+ {
+  "name": "Denise",
+  "company": "Primary Health Solutions",
+  "project": "SoundHound",
+  "use": "AI patient engagement agent that handles appointment scheduling, confirmations and cancellations by voice or text.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://coverager.com/soundhound-ai-deploys-conversational-platform-at-primary-health-solutions/"
+ },
+ {
+  "name": "Clara",
+  "company": "Hippo",
+  "project": "",
+  "use": "'Clara from Claims' is a 24/7 conversational AI voice agent that takes first notice of loss on homeowners claims.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://fintech.global/2026/04/14/hippo-rolls-out-ai-driven-claims-workflow-to-transform-operations/"
+ },
+ {
+  "name": "Clive",
+  "company": "Five Sigma",
+  "project": "",
+  "use": "AI claims adjuster agent that automates tasks across the insurance claims lifecycle for insurers, MGAs and TPAs.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://coverager.com/introducing-clive-the-insurance-industrys-first-ai-powered-claims-adjuster/"
+ },
+ {
+  "name": "Bonnie",
+  "company": "Ribbon",
+  "project": "",
+  "use": "AI interviewer that conducts candidate screening interviews for high-volume hiring.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://ribbon.ai/blog/ttw-2026-recap"
+ },
+ {
+  "name": "Neo",
+  "company": "PLAN-B NET ZERO",
+  "project": "Neo app",
+  "use": "Voice AI support assistant that answers energy tariff, billing and meter questions and gives saving tips.",
+  "category": "Energy",
+  "nameType": "brand",
+  "source": "https://www.ansa.it/amp/pressrelease/english/2025/12/12/innovative-support-ai-neo-launches-in-the-new-customer-app-from-plan_5c58e80f-9e2a-47fb-87b4-f752762a4137.html"
+ }
+]

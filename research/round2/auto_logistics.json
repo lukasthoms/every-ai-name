@@ -1,0 +1,218 @@
+[
+  {
+    "name": "ViVi",
+    "company": "VinFast",
+    "project": "ViVi 2.0",
+    "use": "In-car Vietnamese voice assistant woken with \"Hey VinFast\". Version 2.0 (2024) adds generative AI from VinBigdata for open questions, trip planning and car controls.",
+    "category": "Automotive",
+    "nameType": "human",
+    "source": "https://lsvn.vn/vf-8-lux-hut-khach-nhung-ngay-dau-mo-coc-nho-loat-trang-bi-thoi-thuong-1721373080-a145506.html"
+  },
+  {
+    "name": "MAIA",
+    "company": "Mahindra",
+    "project": "XEV 9e / BE 6 (TEQ_Talk)",
+    "use": "In-car AI assistant on Mahindra's electric SUVs, now powered by Google Gemini. It uses 17 specialised AI agents to handle vehicle functions and apps by conversation.",
+    "category": "Automotive",
+    "nameType": "brand",
+    "source": "https://www.autocarindia.com/car-news/all-mahindra-born-evs-to-get-google-gemini-by-january-2027-440590"
+  },
+  {
+    "name": "Xiao Ni",
+    "company": "Dongfeng Nissan",
+    "project": "Nissan N7",
+    "use": "Lifelike in-car AI assistant built on iFLYTEK Spark and DeepSeek-R1. It plans trips, recommends places and food, and answers questions about what it sees.",
+    "category": "Automotive",
+    "nameType": "human",
+    "source": "https://www.iflytek.com/en/news-events/news/259.html"
+  },
+  {
+    "name": "MoLA",
+    "company": "Huawei",
+    "project": "HarmonySpace cockpit",
+    "use": "Intelligent assistant at the core of Huawei's Harmony car cockpit. It is set to grow from carrying out commands into a personalized butler with scenario-based agents.",
+    "category": "Automotive",
+    "nameType": "brand",
+    "source": "https://autonews.gasgoo.com/articles/news/epicland-x9-debuts-huawei-ads-5-and-harmonyspace-6-cockpit-2077950334705041409"
+  },
+  {
+    "name": "AutoDJ",
+    "company": "Nissan",
+    "project": "",
+    "use": "Generative AI in-car personal agent shown with the Epollo mascot in 2025. It suggests destinations and content through natural voice conversation.",
+    "category": "Automotive",
+    "nameType": "brand",
+    "source": "https://innovatopia.jp/ai/ai-news/70616/"
+  },
+  {
+    "name": "Super Xiao Ling",
+    "company": "Leapmotor",
+    "project": "Leapmotor A10",
+    "use": "AI voice assistant in the cockpit, based on Alibaba's Qwen model. It handles voice commands and conversation in the car.",
+    "category": "Automotive",
+    "nameType": "human",
+    "source": "https://english.news18a.com/m/news/english_233228.html"
+  },
+  {
+    "name": "BMW Intelligent Personal Assistant",
+    "company": "BMW",
+    "project": "BMW Operating System X / iX3",
+    "use": "LLM-based in-car assistant built on Amazon Alexa+ and woken by saying \"BMW\". It handles multi-part requests about the car and general topics and remembers your preferences.",
+    "category": "Automotive",
+    "nameType": "brand",
+    "source": "https://www.bmwblog.com/2026/01/09/bmw-alexa-plus-intelligent-personal-assistant/"
+  },
+  {
+    "name": "Lucid Assistant",
+    "company": "Lucid Motors",
+    "project": "Lucid Air",
+    "use": "Hands-free voice assistant (\"Hey Lucid\") powered by SoundHound Chat AI. It controls navigation, climate and settings, and answers questions about the car manual, weather and more.",
+    "category": "Automotive",
+    "nameType": "brand",
+    "source": "https://electrek.co/2025/01/02/lucid-lcid-ev-drivers-gain-new-ai-assistant-hey-lucid/"
+  },
+  {
+    "name": "Rivian Assistant",
+    "company": "Rivian",
+    "project": "Rivian Unified Intelligence",
+    "use": "AI voice assistant (\"Hey Rivian\") rolled out by over-the-air update in 2026. It can control nearly every vehicle function and connects to apps such as Google Calendar.",
+    "category": "Automotive",
+    "nameType": "brand",
+    "source": "https://www.arenaev.com/rivian_assistant_starts_rolling_out_with_the_ability_to_control_every_aspect_of_your_ev-news-5875.php"
+  },
+  {
+    "name": "Voice Pilot",
+    "company": "Porsche",
+    "project": "Porsche Communication Management (PCM)",
+    "use": "Porsche's in-car voice assistant for controlling vehicle and infotainment functions. Amazon Alexa is being added alongside it in the 2026 PCM update.",
+    "category": "Automotive",
+    "nameType": "brand",
+    "source": "https://mezha.ua/news/porsche-onovit-pcm-sistemu-u-2026-roci-300728/"
+  },
+  {
+    "name": "Pia",
+    "company": "Pošta Slovenije",
+    "project": "Contact center",
+    "use": "AI voice assistant (Postal Interactive Assistant) that speaks naturally in 12 Slovene dialects. It answers calls about shipment tracking, services and prices.",
+    "category": "Postal / Logistics",
+    "nameType": "human",
+    "source": "https://www.timesofai.com/news/slovenia-postal-service-ai-voice-assistant/"
+  },
+  {
+    "name": "Peggie",
+    "company": "SingPost",
+    "project": "POPStop@Tampines",
+    "use": "Generative AI digital-human concierge shown on a large screen at a SingPost pickup station. It answers FAQs and helps customers buy and print stamps for parcels.",
+    "category": "Postal / Logistics",
+    "nameType": "human",
+    "source": "https://rsp.design/rsp-collaborates-with-singpost-to-launch-singapores-first-ai-concierge/"
+  },
+  {
+    "name": "Helena",
+    "company": "CTT – Correios de Portugal",
+    "project": "",
+    "use": "Generative AI virtual assistant for Portugal's postal service customers. Since 2026 it can also book Express shipments.",
+    "category": "Postal / Logistics",
+    "nameType": "human",
+    "source": "https://www.ipc.be/news-portal/general-news/2026/06/02/08/56/ctt-strengthens-its-digital-offering"
+  },
+  {
+    "name": "AskSV",
+    "company": "USPS",
+    "project": "SVWeb",
+    "use": "Internal generative AI chatbot for Postal Service managers. It answers surface visibility and logistics process questions from policy and training documents.",
+    "category": "Postal / Logistics",
+    "nameType": "brand",
+    "source": "https://news.usps.com/2025/07/14/new-chat-tool-answers-surface-visibility-logistics-questions/"
+  },
+  {
+    "name": "Haapi Assistant",
+    "company": "Hapag-Lloyd",
+    "project": "IBM watsonx",
+    "use": "Internal generative AI assistant that helps Hapag-Lloyd staff with API and interface questions and coordinates work between teams.",
+    "category": "Logistics",
+    "nameType": "brand",
+    "source": "https://hansa.news/hapag-lloyd-ai-assistant-for-interface-management/"
+  },
+  {
+    "name": "Tracy",
+    "company": "FourKites",
+    "project": "FourKites Digital Workforce / Intelligent Control Tower",
+    "use": "AI digital worker for shipment track and trace. She answers shipment inquiries, handles exceptions and keeps data accurate across systems.",
+    "category": "Logistics",
+    "nameType": "human",
+    "source": "https://www.fourkites.com/press/fourkites-introduces-the-industrys-first-digital-workforce-for-supply-chain-orchestration"
+  },
+  {
+    "name": "Sam",
+    "company": "FourKites",
+    "project": "FourKites Digital Workforce / Intelligent Control Tower",
+    "use": "AI digital worker for supplier collaboration that automates routine supply chain coordination tasks.",
+    "category": "Logistics",
+    "nameType": "human",
+    "source": "https://www.fourkites.com/press/fourkites-introduces-the-industrys-first-digital-workforce-for-supply-chain-orchestration"
+  },
+  {
+    "name": "CoDriver",
+    "company": "Parade",
+    "project": "CoDriver Voice",
+    "use": "AI agent for freight brokerages that answers carrier calls and emails. It turns them into quotes and covered loads.",
+    "category": "Logistics",
+    "nameType": "brand",
+    "source": "https://www.parade.ai/resources/codriver-voice-2-0"
+  },
+  {
+    "name": "Xiao Di",
+    "company": "Didi",
+    "project": "Didi app (AI travel assistant)",
+    "use": "AI ride-hailing assistant (v1.0 since March 2026) that turns spoken or typed requests into ride options. It handles needs like motion sickness or travelling with a pregnant passenger, plus multi-stop trips.",
+    "category": "Automotive",
+    "nameType": "human",
+    "source": "https://www.news.cn/tech/20260317/5df749b54baa416d8587216b2b8a0164/c.html"
+  },
+  {
+    "name": "Electra",
+    "company": "E.ON",
+    "project": "E.ON Drive Comfort app",
+    "use": "Multilingual AI chatbot for EV drivers. It finds nearby charging stations, gives directions and helps with charging problems across language barriers.",
+    "category": "Automotive",
+    "nameType": "human",
+    "source": "https://theenergyst.com/e-ons-ai-powered-tool-breaks-language-barriers-for-ev-drivers/"
+  },
+  {
+    "name": "Joule",
+    "company": "EV Connect",
+    "project": "EV Connect App",
+    "use": "AI support agent for EV charging that is linked to live network data. It can troubleshoot and remotely stop charging sessions.",
+    "category": "Automotive",
+    "nameType": "brand",
+    "source": "https://www.evconnect.com/blog/introducing-joule-ev-connects-ai-assisted-ev-charging-support-chatbot/"
+  },
+  {
+    "name": "Olivia",
+    "company": "Wevo Energy",
+    "project": "",
+    "use": "AI phone agent giving 24/7 EV charging support to drivers in Wevo-operated fleets.",
+    "category": "Automotive",
+    "nameType": "human",
+    "source": "https://www.powersystemsdesign.com/articles/wevo-energy-unveils-olivia-the-first-ai-phone-agent-for-ev-charging-support/8/22640"
+  },
+  {
+    "name": "Carol",
+    "company": "Correios (Brazil)",
+    "project": "",
+    "use": "Virtual assistant for Brazil's postal service, upgraded with a customized ChatGPT. She tracks items, handles refunds and complaints and schedules pickups 24/7.",
+    "category": "Postal / Logistics",
+    "nameType": "human",
+    "source": "https://www.tnh1.com.br/tnh1-variedades/correios-confirmam-a-noticia-que-a-maioria-ja-esperava-e-vai-fechar-as-portas-em-2026/"
+  },
+  {
+    "name": "Von Halsky",
+    "company": "InPost",
+    "project": "InPost Mobile app",
+    "use": "AI shopping assistant presented as a virtual dog and built on the Polish Bielik model. It finds products and completes purchases inside the parcel-locker app.",
+    "category": "Postal / Logistics",
+    "nameType": "human",
+    "source": "https://imagazine.pl/2026/03/17/inpost-asystent-ai-von-halsky-zakupy-w-aplikacji-bielik/"
+  }
+]

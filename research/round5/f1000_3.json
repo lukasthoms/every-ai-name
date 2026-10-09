@@ -1,0 +1,102 @@
+[
+ {
+  "name": "Bev",
+  "company": "BJ's Wholesale Club",
+  "project": "delight.ai",
+  "use": "AI shopping and support assistant for BJ's members. It recommends products, finds coupons, explains membership benefits and handles order and return questions.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://delight.ai/customers/bjs",
+  "list": "Fortune 1000 #207"
+ },
+ {
+  "name": "Callie",
+  "company": "Chewy",
+  "project": "Chewy Vet Care",
+  "use": "AI voice assistant at some Chewy Vet Care clinics. It handles appointment confirmations and scheduling follow-ups.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://www.autobound.ai/companies/chewy",
+  "list": "Fortune 1000 #357"
+ },
+ {
+  "name": "iX Hero",
+  "company": "Concentrix",
+  "project": "iX Product Suite",
+  "use": "Agentic AI app for contact-center advisors. It gives real-time coaching, transcripts and decision support so advisors answer customers faster.",
+  "category": "Customer service",
+  "nameType": "brand",
+  "source": "https://www.concentrix.com/about/news/concentrix-ix-hero-wins-tmc-2026-customer-product-year/",
+  "list": "Fortune 1000 #426"
+ },
+ {
+  "name": "Dawn",
+  "company": "ResMed",
+  "project": "ResMed website",
+  "use": "Generative AI sleep health concierge on ResMed's site. It answers questions about sleep apnea, ResMed products and CPAP therapy.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.resmed.com.au/about-dawn",
+  "list": "Fortune 1000 #698"
+ },
+ {
+  "name": "Tenjin GPT",
+  "company": "SAIC",
+  "project": "Tenjin data science platform",
+  "use": "Internal generative AI tool for SAIC employees. It summarizes, translates, researches, writes content and generates code.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://stocktitan.net/news/SAIC/saic-employees-embrace-generative-ai-with-the-launch-of-tenjin-36wv49qzf9qe.html",
+  "list": "Fortune 1000 #496"
+ },
+ {
+  "name": "AgentNet Assist",
+  "company": "First American Financial",
+  "project": "AgentNet",
+  "use": "Generative AI research assistant for title agents. It searches and summarizes First American's underwriting guidance and links to source documents.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://www.housingwire.com/articles/first-american-title-launches-ai-tool-for-agents/",
+  "list": "Fortune 1000 #570"
+ },
+ {
+  "name": "Navigator AI Assistant",
+  "company": "Ciena",
+  "project": "Navigator Network Control Suite",
+  "use": "Natural-language interface to Ciena's network control software. Operators type or speak requests instead of using menus or code.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.lightwaveonline.com/broadband/article/55403831/ciena-navigator-network-control-suite-ncs",
+  "list": "Fortune 1000 #773"
+ },
+ {
+  "name": "Paddock PRO",
+  "company": "Churchill Downs",
+  "project": "TwinSpires",
+  "use": "Agentic AI tool for TwinSpires bettors launched for the 2026 Kentucky Derby. It gives continuously updated information on horses, connections and track conditions.",
+  "category": "Gaming",
+  "nameType": "brand",
+  "source": "https://aws.amazon.com/blogs/gametech/author/ryankiel_games/",
+  "list": "Fortune 1000 #980"
+ },
+ {
+  "name": "AVA (Autonomous Virtual Assist)",
+  "company": "Arista Networks",
+  "project": "Arista EOS / CloudVision",
+  "use": "Agentic AI assistant for network operations. It correlates telemetry across wired, wireless and data center networks, diagnoses problems and proposes fixes for admins to approve.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.arista.com/en/company/news/press-release/24030-pr-20260520",
+  "list": "Fortune 1000 #522"
+ },
+ {
+  "name": "Turbo",
+  "company": "Booz Allen Hamilton",
+  "project": "Moveworks on ServiceNow (internal)",
+  "use": "Internal employee AI assistant run by Booz Allen's Chief Information Office. It automates employee IT and service requests through Moveworks and ServiceNow.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://talents.vaia.com/companies/booz-allen-hamilton/moveworks-servicenow-ai-technologist-151772902/",
+  "list": "Fortune 1000 #398"
+ }
+]

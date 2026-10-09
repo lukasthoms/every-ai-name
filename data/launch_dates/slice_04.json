@@ -1,0 +1,554 @@
+[
+ {
+  "name": "Georgia",
+  "company": "California Credit Union",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "June 16, 2025: California Credit Union announced the launch of Georgia virtual chatbot.",
+  "dateSource": "https://www.cuinsight.com/press-release/california-credit-union-launches-new-virtual-chatbot-to-enhance-member-experience-through-smart-technology/"
+ },
+ {
+  "name": "Poppy",
+  "company": "California Department of Technology",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "On July 1, 2026 Poppy moved from limited pilot to statewide availability.",
+  "dateSource": "https://www.cdt.ca.gov/newsroom/2026/07/poppy-california-digitals-assistant-now-available-statewide/"
+ },
+ {
+  "name": "Indy",
+  "company": "Cambridge Investment Research",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "Rethinking65, March 31, 2026: Cambridge launches Indy, an AI-powered chat assistant for advisors.",
+  "dateSource": "https://rethinking65.com/cambridge-launches-indy-ai-powered-chat-assistant-for-advisors/"
+ },
+ {
+  "name": "Cam",
+  "company": "Camden National Bank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ember",
+  "company": "Campfire",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Eno",
+  "company": "Capital One",
+  "launched": "2017-03",
+  "basis": "launched",
+  "evidence": "Capital One launched SMS chatbot Eno at SXSW in March 2017 as an invite-only pilot.",
+  "dateSource": "https://9to5mac.com/2017/03/10/capital-one-eno-sms-chatbot-credit-card-bank/"
+ },
+ {
+  "name": "Skye",
+  "company": "CarMax",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "EVA (Expert Virtual Assistant)",
+  "company": "Carolinas Telco Federal Credit Union",
+  "launched": "2023-01",
+  "basis": "launched",
+  "evidence": "Credit union 'Introducing EVA' announcement page dated January 9, 2023.",
+  "dateSource": "https://www.ctelco.org/introducing-eva/"
+ },
+ {
+  "name": "Hopla",
+  "company": "Carrefour",
+  "launched": "2023-06",
+  "basis": "launched",
+  "evidence": "June 2023: Carrefour launches ChatGPT-powered Hopla shopping chatbot.",
+  "dateSource": "https://www.consultancy.uk/news/34534/supermarket-giant-carrefour-launches-chatgpt-tools-for-shoppers"
+ },
+ {
+  "name": "uno.ia",
+  "company": "Carrefour Spain",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "April 2025 news: Carrefour launches uno.ia AI super-agent in Spain.",
+  "dateSource": "https://cross-border-magazine.com/carrefour-launches-ai-carrefour-in-spain/"
+ },
+ {
+  "name": "Wilson",
+  "company": "Cartage",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Shaqbot",
+  "company": "Carvana",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Sept 16, 2025: Shaq partners with Carvana to launch AI assistant called the Shaqbot.",
+  "dateSource": "https://peopleofcolorintech.com/articles/shaq-oneal-launches-ai-powered-assistant-called-the-shaqbot-with-carvana/"
+ },
+ {
+  "name": "Darn-ell",
+  "company": "Casey's General Stores",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "March 6, 2025 press release: Casey's introduces Darn-ell, AI-powered roast chatbot.",
+  "dateSource": "https://www.stocktitan.net/news/CASY/hi-i-m-darn-ell-an-ai-powered-chatbot-here-to-roast-guests-and-spill-qgzwatt7q74t.html"
+ },
+ {
+  "name": "Luna",
+  "company": "Casper",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Cassidy",
+  "company": "Cassidy",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Justin",
+  "company": "Catholic Answers",
+  "launched": "2024-04",
+  "basis": "launched",
+  "evidence": "Catholic Answers released AI app 'Father Justin' Apr 23, 2024; renamed 'Justin' a day later.",
+  "dateSource": "https://arkansas-catholic.org/2024/05/06/catholic-answers-receives-backlash-for-its-ai-priest/"
+ },
+ {
+  "name": "Ellis AI",
+  "company": "CBRE Group",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "CBRE: introduction of Ellis AI, self-service multi-model GenAI platform, in early 2023.",
+  "dateSource": "https://www.cbre.com/insights/articles/ellis-ai"
+ },
+ {
+  "name": "Charlie",
+  "company": "Cebu Pacific",
+  "launched": "2019-10",
+  "basis": "launched",
+  "evidence": "ABS-CBN Oct 8, 2019: Cebu Pacific officially launches 'Charlie' chatbot (trial since January 2019).",
+  "dateSource": "https://news.abs-cbn.com/business/10/08/19/cebu-pacific-officially-launches-charlie-chatbot-for-customer-support"
+ },
+ {
+  "name": "Kora",
+  "company": "Cedar",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "April 2025: Cedar launches 'Kora' AI voice agent to automate patient billing calls, ApolloMD early customer.",
+  "dateSource": "https://www.fiercehealthcare.com/ai-and-machine-learning/cedar-rolls-out-ai-voice-agent-tackle-patients-billing-questions"
+ },
+ {
+  "name": "Chemille",
+  "company": "Celanese",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Work & Co, May 15, 2025: Celanese launches Chemille digital assistant at AskChemille.com.",
+  "dateSource": "https://work.co/news/celanese-launches-chemille/"
+ },
+ {
+  "name": "Rhea",
+  "company": "CellCog",
+  "launched": "2026-07",
+  "basis": "announced",
+  "evidence": "Product Hunt post, July 2026: CellCog's AI Head of Growth Rhea is running its Product Hunt launch.",
+  "dateSource": "https://www.producthunt.com/p/cellcog/our-ai-head-of-growth-is-running-our-product-hunt-launch"
+ },
+ {
+  "name": "Sam",
+  "company": "Centra Credit Union",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Abhay",
+  "company": "Central Bureau of Investigation (India)",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "CBI launched AI chatbot 'Abhay' in April 2026, unveiled by CJI Surya Kant.",
+  "dateSource": "https://www.drishtiias.com/state-pcs-current-affairs/cbi-launched-ai-chatbot-abhay"
+ },
+ {
+  "name": "Xiao An (小安)",
+  "company": "Changan Automobile",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Max",
+  "company": "Changi Airport Group",
+  "launched": "2019-05",
+  "basis": "launched",
+  "evidence": "Changi Journeys article, May 2019, introduces MAX, Changi's new virtual assistant built with IBM Watson.",
+  "dateSource": "https://changiairport.com/corporate/media-centre/changijourneys/the-airport-never-sleeps/meet-MAX-changi-virtual-assistant.html"
+ },
+ {
+  "name": "Schwab Knowledge Assistant",
+  "company": "Charles Schwab",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Emerj: Schwab's Knowledge Assistant, a generative AI tool for reps, launched in 2024.",
+  "dateSource": "https://emerj.com/artificial-intelligence-at-charles-schwab-two-use-cases/"
+ },
+ {
+  "name": "Xiaoqi Tongxue (小奇同学)",
+  "company": "Chery",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "Chery AI Night, Jan 17, 2026, Wuhu: Chery released super AI agent 'Xiaoqi Tongxue'.",
+  "dateSource": "https://tech.ifeng.com/c/8pxWWcrjYAj"
+ },
+ {
+  "name": "Callie",
+  "company": "Chewy",
+  "launched": "2026-09",
+  "basis": "earliest mention",
+  "evidence": "CIO Dive, Sep 11, 2026: Chewy launched AI voice assistant Callie at some Vet Care locations.",
+  "dateSource": "https://www.autobound.ai/companies/chewy"
+ },
+ {
+  "name": "Jade",
+  "company": "Chime",
+  "launched": "2026",
+  "basis": "announced",
+  "evidence": "Chime Q4 2025 call: next-generation AI copilot Jade to launch as they move into Q2 2026.",
+  "dateSource": "https://www.chime.com/newsroom/news/chime-reports-strong-q4-and-full-year-2025-results-on-cnbc"
+ },
+ {
+  "name": "CAI (CBC AI)",
+  "company": "China Banking Corporation (Chinabank)",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "April 20, 2026: Chinabank has officially launched CBC AI (CAI) banking assistant.",
+  "dateSource": "https://www.smsupermalls.com/whats-new/news/more-than-100-years-of-trust-now-powered-by-genai-chinabank-introduces-cai"
+ },
+ {
+  "name": "Xiao Xin (小信)",
+  "company": "China CITIC Bank",
+  "launched": "2023-07",
+  "basis": "launched",
+  "evidence": "CITIC Bank: smart wealth-advisor digital human 'Xiao Xin' went live in July 2023.",
+  "dateSource": "https://www.sznews.com/news/content/2024-09/19/content_31222395.htm"
+ },
+ {
+  "name": "Bangde (帮得)",
+  "company": "China Construction Bank",
+  "launched": "2026-09",
+  "basis": "earliest mention",
+  "evidence": "Xinhua/cnfin Sept 17, 2026 report describes CCB's 'Bangde' assistant for customer managers.",
+  "dateSource": "https://www.cnfin.com/yw-lb/detail/20260917/4470937_1.html"
+ },
+ {
+  "name": "AI Xiao Ban (AI小伴)",
+  "company": "China Merchants Bank",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "CMB's 2026 Wealth Partner Forum (Aug 2026, Guangzhou) debuted 'AI Xiao Ban' for external partners.",
+  "dateSource": "https://wap.stockstar.com/detail/IG2026081200037090"
+ },
+ {
+  "name": "AI Xiao Zhao (AI小招)",
+  "company": "China Merchants Bank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Tuoguan 007 (托管007)",
+  "company": "China Merchants Securities",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "Cailianshe report (Mar 28, 2026) says China Merchants Securities created 'Tuoguan 007' digital employee.",
+  "dateSource": "https://finance.eastmoney.com/a/202603283687849134.html"
+ },
+ {
+  "name": "Zhao Xiaogu (招小顾)",
+  "company": "China Merchants Securities",
+  "launched": "2026-04",
+  "basis": "earliest mention",
+  "evidence": "Daily Economic News, Apr 17, 2026, describes China Merchants Securities' Zhao Xiaogu assistant.",
+  "dateSource": "https://www.mrjjxw.com/articles/2026-04-17/4343766.html"
+ },
+ {
+  "name": "Zhao Xiaoju (招小聚)",
+  "company": "China Merchants Securities",
+  "launched": "2026-04",
+  "basis": "earliest mention",
+  "evidence": "Daily Economic News, Apr 17, 2026, describes China Merchants Securities' Zhao Xiaoju assistant.",
+  "dateSource": "https://www.mrjjxw.com/articles/2026-04-17/4343766.html"
+ },
+ {
+  "name": "Zhao Xiaoshu (招小数)",
+  "company": "China Merchants Securities",
+  "launched": "2026-04",
+  "basis": "earliest mention",
+  "evidence": "Daily Economic News, Apr 17, 2026, describes China Merchants Securities' Zhao Xiaoshu assistant.",
+  "dateSource": "https://www.mrjjxw.com/articles/2026-04-17/4343766.html"
+ },
+ {
+  "name": "Lingxi",
+  "company": "China Mobile",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "July 2025 launch of Lingxi 2.0: 'over the past year Lingxi 1.0 served 800M+ visits', implying 1.0 launched 2024.",
+  "dateSource": "https://m.tech.china.com/articles/20250728/202507281705689.html"
+ },
+ {
+  "name": "TeleAgent",
+  "company": "China Telecom",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "July 18, 2026 at WAIC Shanghai, China Telecom AI formally launched TeleAgent Xingchen super agent, free to try.",
+  "dateSource": "https://www.jiemian.com/article/14788773.html"
+ },
+ {
+  "name": "Tongtong (Unicom Tone)",
+  "company": "China Unicom",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "May 16, 2025: China Unicom launched 'Zhijia Tongtong' TV-based home product built on the 'Tongtong' agent.",
+  "dateSource": "https://www.stdaily.com/web/gdxw/2025-05/17/content_341052.html"
+ },
+ {
+  "name": "Zhiying (智盈)",
+  "company": "China Zheshang Bank",
+  "launched": "2024-08",
+  "basis": "announced",
+  "evidence": "China Zheshang Bank announced digital employee 'Zhiying' in August 2024 (NBD report).",
+  "dateSource": "https://www.nbd.com.cn/articles/2026-06-25/4437383.html"
+ },
+ {
+  "name": "Ava Cado",
+  "company": "Chipotle",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Newsweek Feb 2025: Chipotle rolls out AI recruiting agent Ava Cado.",
+  "dateSource": "https://www.newsweek.com/nw-ai/chipotle-artificial-intelligence-ai-recruiting-agent-ava-cado-2037322"
+ },
+ {
+  "name": "Duncan Smuthers",
+  "company": "Chubbies",
+  "launched": "2025-03",
+  "basis": "earliest mention",
+  "evidence": "Sierra blog, March 20, 2025, presents Chubbies' agent Duncan Smuthers.",
+  "dateSource": "https://sierra.ai/blog/same-platform-different-personalities"
+ },
+ {
+  "name": "ChulaGENIE",
+  "company": "Chulalongkorn University",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "ChulaGENIE available to students and staff starting March 3, 2025.",
+  "dateSource": "https://www.chula.ac.th/en/news/224064"
+ },
+ {
+  "name": "Paddock PRO",
+  "company": "Churchill Downs",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "For the 2026 Kentucky Derby, TwinSpires introduced Paddock PRO (AWS blog Apr 30, 2026).",
+  "dateSource": "https://aws.amazon.com/blogs/gametech/author/ryankiel_games/"
+ },
+ {
+  "name": "CAI (CIBC AI)",
+  "company": "CIBC",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "May 27, 2025: CIBC announced bank-wide launch of CAI; pilot began July 2024.",
+  "dateSource": "https://cibc.mediaroom.com/2025-05-27-CIBC-launches-in-house-AI-platform-enterprise-wide-after-successful-pilot"
+ },
+ {
+  "name": "Navigator AI Assistant",
+  "company": "Ciena",
+  "launched": "2026-09",
+  "basis": "announced",
+  "evidence": "Lightwave, Sept 30, 2026, describes 'a new natural language interface - Navigator AI Assistant'.",
+  "dateSource": "https://www.lightwaveonline.com/broadband/article/55403831/ciena-navigator-network-control-suite-ncs"
+ },
+ {
+  "name": "EVA (Enhanced Virtual Assistant)",
+  "company": "CIMB",
+  "launched": "2016",
+  "basis": "launched",
+  "evidence": "EVA was first launched for retail customers in 2016 (SME version July 2021).",
+  "dateSource": "https://fintechnews.my/28862/ai/cimbs-eva-chatbot-now-available-to-sme-customers-at-all-times/"
+ },
+ {
+  "name": "CIRCUIT",
+  "company": "Cisco",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Adel",
+  "company": "Citadel Credit Union",
+  "launched": "2021-10",
+  "basis": "launched",
+  "evidence": "Posh case study and 2022 annual report: Citadel launched Adel voice assistant in October 2021.",
+  "dateSource": "https://www.posh.ai/client-stories/citadel"
+ },
+ {
+  "name": "Adele",
+  "company": "Citadele",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Citi Assist",
+  "company": "Citigroup",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Citi deployed Citi Assist and Citi Stylus to ~140,000 employees in eight countries, reported December 2024.",
+  "dateSource": "https://www.hcamag.com/us/specialization/hr-technology/citigroup-deploys-2-new-ai-tools-to-simplify-work-reports/517175"
+ },
+ {
+  "name": "Citi Stylus",
+  "company": "Citigroup",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Citi deployed Citi Assist and Citi Stylus to ~140,000 employees in eight countries, reported December 2024.",
+  "dateSource": "https://www.hcamag.com/us/specialization/hr-technology/citigroup-deploys-2-new-ai-tools-to-simplify-work-reports/517175"
+ },
+ {
+  "name": "CiZi",
+  "company": "Citizens Financial Group",
+  "launched": "2024-11",
+  "basis": "earliest mention",
+  "evidence": "Citizens release Nov 19, 2024 lists CiZi among features it 'has rolled out' in the mobile app.",
+  "dateSource": "https://investor.citizensbank.com/about-us/newsroom/latest-news/2024/citizens-enhances-consumer-onboarding-experience.aspx"
+ },
+ {
+  "name": "Sunny",
+  "company": "City and County of Denver (Denver 311)",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Route Fifty: 'Denver launched Sunny in 2024'; Colorado Sun Sept 2024 describes its first six months.",
+  "dateSource": "https://www.route-fifty.com/artificial-intelligence/2026/03/i-tested-3-city-ai-chatbots-heres-what-they-actually-do/412202/"
+ },
+ {
+  "name": "Benny the Brick",
+  "company": "City of Athens (Ohio)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "City introduced Benny via video July 29, 2025 and announced/unveiled it in early August 2025.",
+  "dateSource": "https://bloustein.rutgers.edu/new-city-chatbot-makes-information-more-accessible-mayor-says"
+ },
+ {
+  "name": "Ava",
+  "company": "City of Atlanta (Georgia)",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "Route Fifty: Atlanta introduced 'Ava' in 2023.",
+  "dateSource": "https://www.route-fifty.com/artificial-intelligence/2026/03/i-tested-3-city-ai-chatbots-heres-what-they-actually-do/412202/"
+ },
+ {
+  "name": "Archie",
+  "company": "City of Bakersfield (California)",
+  "launched": "2024-02",
+  "basis": "launched",
+  "evidence": "KBAK Feb 5, 2024: City of Bakersfield introduces 'Archie', a new AI-driven customer service platform.",
+  "dateSource": "https://bakersfieldnow.com/news/local/city-of-bakersfield-introduces-archie-a-new-ai-driven-customer-service-platform-kern-county-california"
+ },
+ {
+  "name": "BearBot",
+  "company": "City of Blair (Nebraska)",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "Blair Radio, July 31, 2026: City of Blair partnered with Citibot to launch BearBot.",
+  "dateSource": "https://www.blairradio.com/post/citibot-new-customer-seervice-solution-for-the-city-of-blair-website"
+ },
+ {
+  "name": "Brightly",
+  "company": "City of Brighton (Colorado)",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "April 7, 2025: City of Brighton launches Brightly, 24/7 multilingual AI assistant.",
+  "dateSource": "https://brightonco.gov/CivicAlerts.asp?AID=2700"
+ },
+ {
+  "name": "C'LIA",
+  "company": "City of Chartres (Chartres Métropole)",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Chartres' generative voice AI switchboard C'LIA went live February 2025.",
+  "dateSource": "https://acteurspublics.fr/articles/chartres-met-de-lintelligence-artificielle-dans-son-standard-telephonique/"
+ },
+ {
+  "name": "Greenie",
+  "company": "City of Clive (Iowa)",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "KCCI Jan 7, 2025: City of Clive launches new virtual assistant (Greenie, powered by Citibot).",
+  "dateSource": "https://www.kcci.com/article/city-of-clive-launches-new-virtual-assistant-to-help-website-visitors/63363652"
+ },
+ {
+  "name": "Agrippina",
+  "company": "City of Cologne (Stadt Köln)",
+  "launched": "2025-09",
+  "basis": "earliest mention",
+  "evidence": "Cologne Smart City Index 2025 release (Sept 11, 2025) mentions generative AI chatbot Agrippina.",
+  "dateSource": "https://www.stadt-koeln.de/politik-und-verwaltung/presseservice/smart-city-index-2025"
+ },
+ {
+  "name": "AskCOS",
+  "company": "City of Colorado Springs",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Denver7, May 21, 2024: Colorado Springs unveils new AI-powered chatbot AskCOS on city website.",
+  "dateSource": "https://www.denver7.com/news/state-news/colorado-springs-unveils-new-ai-powered-chatbot-askcos-on-city-website"
+ },
+ {
+  "name": "Frankie",
+  "company": "City of Franklin (Tennessee)",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "CitizenPortal Mar 28, 2025: Franklin, Tennessee introduces AI chat assistant Frankie.",
+  "dateSource": "https://www.citizenportal.ai/articles/2802662/Franklin-City/Williamson-County/Tennessee/Franklin-Tennessee-introduces-AI-chat-assistant-Frankie-for-citizen-inquiries"
+ },
+ {
+  "name": "Emma",
+  "company": "City of Gelsenkirchen",
+  "launched": "2024-09",
+  "basis": "announced",
+  "evidence": "Sept 13, 2024: Gelsenkirchen tests KI-assistant Emma in a field trial in citizen service.",
+  "dateSource": "https://cio.de/article/3699860/gelsenkirchen-testet-ki-assistentin.html"
+ },
+ {
+  "name": "LLMoin",
+  "company": "City of Hamburg (with Dataport)",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "LLMoin went into regular operation in Hamburg at the end of 2024 after a pilot (Dec 2025: rollout completed).",
+  "dateSource": "https://www.ki-syndikat.de/usecases/verwaltung/12-llm-verwaltungsassistent/"
+ },
+ {
+  "name": "Nate",
+  "company": "City of Hawthorne (California)",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Daily Breeze May 13, 2025: Hawthorne introduces Nate, an AI chatbot for city services.",
+  "dateSource": "https://www.dailybreeze.com/2025/05/13/hawthorne-introduces-nate-an-ai-chatbot-to-help-residents-with-city-services-and-information/"
+ }
+]

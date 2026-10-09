@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Local-only research tooling and scratch files (worklists, agent prompts, reference lists, helper scripts)
+_local/
+
+# Local Claude Code settings
+.claude/
+
+# Build output for the claude.ai artifact (scripts/build.py)
+build/
+
+# Python
+__pycache__/

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Gia",
+    "company": "McKesson",
+    "project": "McKesson Careers site",
+    "use": "Digital assistant that helps job candidates through McKesson's recruiting process and handles recruiting communications.",
+    "category": "Healthcare Distribution",
+    "nameType": "human",
+    "source": "https://careers.mckesson.com/en",
+    "list": "Fortune 1000 #9"
+  },
+  {
+    "name": "Zebra Companion",
+    "company": "Zebra Technologies",
+    "project": "",
+    "use": "Suite of AI agents for retail frontline employees covering knowledge/SOP lookup, product sales help, device troubleshooting and shelf merchandising checks.",
+    "category": "Electronics & Technology",
+    "nameType": "brand",
+    "source": "https://www.zebra.com/us/en/about-zebra/newsroom/press-releases/2025/zebra-technologies-introduces-new-ai-solutions-to-empower-retail-frontline-operations.html",
+    "list": "Fortune 1000 #667"
+  }
+]

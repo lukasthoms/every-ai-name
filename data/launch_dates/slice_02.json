@@ -1,0 +1,546 @@
+[
+ {
+  "name": "LingGuang",
+  "company": "Ant Group",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Business Wire release Nov 17 2025: Ant Group unveils LingGuang multimodal AI assistant",
+  "dateSource": "https://www.businesswire.com/news/home/20251117438567/en/Ant-Group-Unveils-China%E2%80%99s-First-Multimodal-AI-Assistant-with-Code-Driven-Outputs"
+ },
+ {
+  "name": "Florence",
+  "company": "Anterior",
+  "launched": "2024-06",
+  "basis": "announced",
+  "evidence": "Series A release Jun 2024 describes Florence, Anterior's AI clinical co-pilot, first applied to prior authorization",
+  "dateSource": "https://www.businesswire.com/news/home/20240610719247/en/Anterior-Secures-20-Million-Series-A-to-Unlock-Administrative-Efficiencies-for-Healthcare-Payers"
+ },
+ {
+  "name": "AVA",
+  "company": "Anthology (Blackboard)",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Blog 'AVA is Now Live in Blackboard', Sep 24 2025",
+  "dateSource": "https://community.blackboard.com/home/blogs/the-royal-flush-blackboard-deals-a-fresh-deck-of-innovations-in-las-vegas-2025-07-21"
+ },
+ {
+  "name": "Claude",
+  "company": "Anthropic",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "Anthropic 'Introducing Claude' post, March 14 2023",
+  "dateSource": "https://www.anthropic.com/news/introducing-claude"
+ },
+ {
+  "name": "Claude Code",
+  "company": "Anthropic",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Claude Code released as limited research preview alongside Claude 3.7 Sonnet, Feb 24 2025",
+  "dateSource": "https://www.anthropic.com/news/claude-3-7-sonnet"
+ },
+ {
+  "name": "Composer",
+  "company": "Anysphere",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Cursor blog Oct 29 2025: 'Composer is our new agent model'",
+  "dateSource": "https://cursor.com/blog/composer"
+ },
+ {
+  "name": "Enchanté",
+  "company": "Apple",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Macworld: 'Enchanté began rolling out around November 2025'",
+  "dateSource": "https://www.macworld.com/article/3038122/inside-enchante-apples-ai-chatbot-for-employee-productivity.html"
+ },
+ {
+  "name": "Siri",
+  "company": "Apple",
+  "launched": "2011-10",
+  "basis": "launched",
+  "evidence": "Siri debuted as an iPhone 4S feature, released October 2011",
+  "dateSource": "https://en.wikipedia.org/wiki/Siri"
+ },
+ {
+  "name": "Workout Buddy",
+  "company": "Apple",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Announced at WWDC June 2025; shipped with watchOS 26, released September 15 2025",
+  "dateSource": "https://www.techradar.com/health-fitness/smartwatches/watchos-26-finally-has-a-release-date-here-are-the-5-best-new-features"
+ },
+ {
+  "name": "Culinary Co-Pilot",
+  "company": "Aramark",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Aramark press release Oct 14 2025 introduces proprietary AI tool Culinary Co-Pilot",
+  "dateSource": "https://www.businesswire.com/news/home/20251014006035/en/Aramark-Strengthens-Industry-Leadership-with-Proprietary-New-AI-Tool"
+ },
+ {
+  "name": "SAM",
+  "company": "Aramark",
+  "launched": "2024-08",
+  "basis": "earliest mention",
+  "evidence": "Aug 12 2024 Aramark Collegiate Hospitality piece describes SAM, an enhanced virtual assistant on CampusDish websites",
+  "dateSource": "https://stocktitan.net/news/ARMK/humanity-and-technology-aramark-collegiate-hospitality-insights-feed-ya4xjcratlth.html"
+ },
+ {
+  "name": "AVA (Autonomous Virtual Assist)",
+  "company": "Arista Networks",
+  "launched": "2025-12",
+  "basis": "earliest mention",
+  "evidence": "Arista release Dec 10 2025 announces expansion of AVA agentic AI for AI Ops (original launch not found)",
+  "dateSource": "https://www.arista.com/en/company/news/press-release/22998-20251210"
+ },
+ {
+  "name": "BallotBot",
+  "company": "Arizona Secretary of State",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "StateScoop Jul 9 2026 reports Arizona Secretary of State launching BallotBot AI chatbot",
+  "dateSource": "https://statescoop.com/arizona-adrian-fontes-ai-chatbot/"
+ },
+ {
+  "name": "Sam",
+  "company": "Arizona State University",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "ASU News Aug 27 2024: Sam introduced to graduate students in IBC 633 course in summer 2024",
+  "dateSource": "https://news.asu.edu/20240827-science-and-technology-ai-powered-educational-experiences-underway-asu"
+ },
+ {
+  "name": "Tassel",
+  "company": "Arizona State University",
+  "launched": "2022",
+  "basis": "launched",
+  "evidence": "42Chat: 'Since the 2022 Spring commencement at ASU, Tassel has...'",
+  "dateSource": "https://blog.42chat.com/case-studies/arizona-state-university-casestudy"
+ },
+ {
+  "name": "Ava",
+  "company": "Arkansas Federal Credit Union",
+  "launched": "2023-09",
+  "basis": "earliest mention",
+  "evidence": "AFCU 'Virtual Chat Assistant' help page dated 9/20/2023: 'Meet Ava... your friendly virtual assistant'",
+  "dateSource": "https://www.afcu.org/?p=15914"
+ },
+ {
+  "name": "Howl",
+  "company": "Arkansas State University",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "A-State news Nov 8 2024: new 'Howl Chatbot' is now a resource students can use",
+  "dateSource": "https://www.astate.edu/about/news/a-state-introduces-chatbot-to-help-students-and-campus-visitors.html"
+ },
+ {
+  "name": "AVA",
+  "company": "Arlington County (Virginia)",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "ARLnow Sep 17 2025: new online chatbot answers questions about Arlington County services",
+  "dateSource": "https://www.arlnow.com/2025/09/17/new-online-chatbot-answers-questions-about-arlington-county-services/"
+ },
+ {
+  "name": "Aaron",
+  "company": "Artisan",
+  "launched": "2025-04",
+  "basis": "announced",
+  "evidence": "Series A coverage Apr 2025: Artisan preparing to launch two new agents, Aaron (inbound) and Aria, by year end",
+  "dateSource": "https://theaiinsider.tech/?p=33526"
+ },
+ {
+  "name": "Aria",
+  "company": "Artisan",
+  "launched": "2025-04",
+  "basis": "announced",
+  "evidence": "Series A coverage Apr 2025: Artisan preparing to launch two new agents, Aaron and Aria (meetings), by year end",
+  "dateSource": "https://theaiinsider.tech/?p=33526"
+ },
+ {
+  "name": "Ava",
+  "company": "Artisan",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "MyAruba Assistant",
+  "company": "Aruba Tourism Authority",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "Third-party profile: GuideGeek-Aruba partnership launched January 2024 as first country-wide custom tourism AI",
+  "dateSource": "https://brands.guidegeek.com/press/guidegeek-travel-genius-launches-custom-ai-powered-travel-assistant-with-aruba-its-first-in-the-caribbean"
+ },
+ {
+  "name": "AI Teammates",
+  "company": "Asana",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Asana Sep 25 2025: announces AI Teammates, now available in beta",
+  "dateSource": "https://www.businesswire.com/news/home/20250925695672/en"
+ },
+ {
+  "name": "Sofía",
+  "company": "Aseguradora General (Guatemala)",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Emisoras Unidas Jun 2025: 'Desde su lanzamiento en 2024', Sofía de Aseguradora General...",
+  "dateSource": "https://emisorasunidas.com/empresas/2025/06/11/sofia-la-asistente-con-ia-de-aseguradora-general-ahora-cuenta-con-tecnologia-50/"
+ },
+ {
+  "name": "ASOS Stylist",
+  "company": "ASOS",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "The Industry May 20 2026: ASOS launches AI stylist on ChatGPT for instant outfit discovery",
+  "dateSource": "https://www.theindustry.fashion/asos-launches-ai-stylist-on-chatgpt-for-instant-outfit-discovery/"
+ },
+ {
+  "name": "Nicole",
+  "company": "Aspire General Insurance",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "Fintech Global Mar 10 2026: Aspire adopts AI FNOL system (Nicole) with Liberate",
+  "dateSource": "https://fintech.global/2026/03/10/aspire-adopts-ai-fnol-system-with-liberate/"
+ },
+ {
+  "name": "Ava",
+  "company": "Aspire Indiana Health",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Zenni Claw",
+  "company": "ASUS",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "ASUS press release Jul 23 2026: Zenni Claw beta now available (first introduced at Computex 2026)",
+  "dateSource": "https://press.asus.com/news/press-releases/asus-releases-beta-version-of-zenni-claw/"
+ },
+ {
+  "name": "Ask AT&T",
+  "company": "AT&T",
+  "launched": "2023-06",
+  "basis": "launched",
+  "evidence": "AT&T CDO blog Sep 2023: 'initial internal launch back in June' of Ask AT&T",
+  "dateSource": "https://about.att.com/blogs/2023/expanding-ai-across-company.html"
+ },
+ {
+  "name": "Hebrew",
+  "company": "Athens State University",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Assia",
+  "company": "AtlantaSanad Assurance",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Financial Afrik Sep 19 2025: AtlantaSanad reinvents insurance with AI assistant Assia",
+  "dateSource": "https://www.financialafrik.com/en/2025/09/19/morocco-atlantasanad-reinvents-insurance-with-an-ai-assistant-for-policyholders/"
+ },
+ {
+  "name": "Rovo",
+  "company": "Atlassian",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "TechCrunch Oct 9 2024: Atlassian's Rovo AI is now generally available (after private beta from Apr 2024)",
+  "dateSource": "https://techcrunch.com/2024/10/09/atlassians-rovo-ai-is-now-generally-available/"
+ },
+ {
+  "name": "Anna",
+  "company": "Atrium Health",
+  "launched": "2026-05",
+  "basis": "earliest mention",
+  "evidence": "WSOC May 2026: Atrium Health pilot AI agent Anna reached 15,000 hypertension patients over about two weeks",
+  "dateSource": "https://www.wsoctv.com/news/local/how-ai-is-improving-care-reducing-burnout-charlottes-healthcare-systems/RCQCMI3QGBGXBB4BJEGR2HKF2Y/"
+ },
+ {
+  "name": "Harbot",
+  "company": "Auburn University Harbert College of Business",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Harbert news Aug 19 2025: Introducing Harbot, the college's new virtual assistant",
+  "dateSource": "https://harbert.auburn.edu/news/2025/08/introducing-harbot-harbert-colleges-new-virtual-assistant.html"
+ },
+ {
+  "name": "Emma",
+  "company": "Aura 300",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Irish Beauty Sep 7 2025: Liz McKeon partners with Aura 300 to launch AI Growth Engine for salons (Emma is its receptionist agent)",
+  "dateSource": "https://irishbeauty.ie/Aura-300-Liz-McKeon.html"
+ },
+ {
+  "name": "Nami",
+  "company": "Aura 300",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Irish Beauty Sep 7 2025: Aura 300 AI Growth Engine for salons launched (Nami is its ads agent)",
+  "dateSource": "https://irishbeauty.ie/Aura-300-Liz-McKeon.html"
+ },
+ {
+  "name": "Yuki",
+  "company": "Aura 300",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Irish Beauty Sep 7 2025: Aura 300 AI Growth Engine for salons launched (Yuki is its win-back agent)",
+  "dateSource": "https://irishbeauty.ie/Aura-300-Liz-McKeon.html"
+ },
+ {
+  "name": "AVA",
+  "company": "Aurelian",
+  "launched": "2025-08",
+  "basis": "earliest mention",
+  "evidence": "Volusia Sheriff: AI 'Ava' on non-emergency lines, official launch date Aug 1 2025 (Aurelian deployment)",
+  "dateSource": "https://www.volusiasheriff.gov/news/volusia-county-sheriff/non-emergency-calls-now-getting-assist-from-a-i-ava.stml"
+ },
+ {
+  "name": "CORA",
+  "company": "Aurelian",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Business Wire Dec 16 2025: Aurelian launches Cora, an AI copilot for 911 call-takers, with SNO911",
+  "dateSource": "https://www.businesswire.com/news/home/20251216814691/en"
+ },
+ {
+  "name": "Maria",
+  "company": "Austrian Airlines",
+  "launched": "2019-05",
+  "basis": "launched",
+  "evidence": "Lufthansa Group release May 8 2019: customer service via Messenger with assistants Elisa, Nelly and Maria (Austrian Airlines)",
+  "dateSource": "https://newsroom.lufthansagroup.com/en/lufthansa-swiss-and-austrian-airlines-customer-service-now-also-available-via-messenger-app/"
+ },
+ {
+  "name": "Scotty",
+  "company": "autarc",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "ADP Assist",
+  "company": "Automatic Data Processing",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "ADP release Jan 31 2024: ADP Assist with generative AI, in early release with some clients",
+  "dateSource": "https://mediacenter.adp.com/2024-01-31-ADP-R-Assist-with-Generative-AI-Features-Makes-HCM-Decisions-Easy,-Smart-and-Human"
+ },
+ {
+  "name": "ChatPaT",
+  "company": "Autonomous Province of Trento (Italy)",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Province of Trento release 3540, 25 Nov 2025: 'Online ChatPaT, il nuovo assistente virtuale della Provincia'",
+  "dateSource": "https://www.ufficiostampa.provincia.tn.it/Comunicati/Online-ChatPaT-il-nuovo-assistente-virtuale-della-Provincia-per-orientarsi-tra-i-servizi-pubblici"
+ },
+ {
+  "name": "AJ CHAT",
+  "company": "Autoridad de Fiscalización del Juego (Bolivia)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Focus Gaming News Aug 5 2025: Bolivia's AJ launches virtual assistant with AI",
+  "dateSource": "https://focusgn.com/latinoamerica/la-aj-de-bolivia-lanza-un-asistente-virtual-con-ia"
+ },
+ {
+  "name": "AVA",
+  "company": "Ava Voice Labs",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sidney",
+  "company": "AvalonBay Communities",
+  "launched": "2024-08",
+  "basis": "earliest mention",
+  "evidence": "Nareit Aug 7 2024: Sidney, AvalonBay's AI assistant, supports prospects' pre-tour needs",
+  "dateSource": "https://reit.com/news/articles/avalonbay-integrates-ai-opens-second-customer-care-center-to-advance-centralization"
+ },
+ {
+  "name": "Ava",
+  "company": "Avangrid (NYSEG, RG&E, CMP, UI)",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "Jun 19 2024: Avangrid rolling out AI assistant Ava to utility customers",
+  "dateSource": "https://www.renewableenergyworld.com/power-grid/avangrid-rolling-out-ai-assistant-to-utility-customers-in-new-york-connecticut-and-maine/"
+ },
+ {
+  "name": "Vicky",
+  "company": "AvaSure",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "HLTH Mar 5 2025: AvaSure introduces AI virtual care assistant (Vicky) for hospitals",
+  "dateSource": "https://hlth.com/insights/news/avasure-revolutionizes-hospital-operations-with-ai-virtual-care-assistant-2025-03-05"
+ },
+ {
+  "name": "Avery",
+  "company": "AveryIQ",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Axel",
+  "company": "Axel Travel",
+  "launched": "2025-10",
+  "basis": "earliest mention",
+  "evidence": "GWU media tip sheet Oct 2025 describes Axel as a new AI assistant that reprices flights and hotels",
+  "dateSource": "https://mediarelations.gwu.edu/node/16206"
+ },
+ {
+  "name": "Axis Aha!",
+  "company": "Axis Bank",
+  "launched": "2018-06",
+  "basis": "launched",
+  "evidence": "IANS Jun 8 2018: Axis Bank launches AI-powered chatbot Axis Aha!",
+  "dateSource": "https://www.business-standard.com/amp/article/news-ians/axis-bank-launches-ai-powered-chatbot-118060800006_1.html"
+ },
+ {
+  "name": "Wenxiaoyan (Ernie Bot)",
+  "company": "Baidu",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "SCMP Sep 2024: Baidu rebrands Ernie Bot as Wenxiaoyan in China (Ernie Bot itself launched 2023)",
+  "dateSource": "https://www.scmp.com/tech/big-tech/article/3277197/baidu-rebrands-ernie-bot-wenxiaoyan-china-stand-out-ai-rivals"
+ },
+ {
+  "name": "Sage",
+  "company": "Bain & Company",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "Bain release Sep 26 2023: Sage among AI tools rolled out across the firm in phases since early 2023",
+  "dateSource": "https://www.bain.com/about/media-center/press-releases/2023/bain--company-makes-pioneering-deployments-of-state-of-the-art-ai-tools-worldwide/"
+ },
+ {
+  "name": "Insurance Samjho",
+  "company": "Bajaj Allianz",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "Business Standard 7 Mar 2024: Bajaj Allianz General launches GenAI-powered bot 'Insurance Samjho'",
+  "dateSource": "https://www.outlookmoney.com/personal-finance/bajaj-allianz-launches-insurance-samjho-gen-ai-bot-to-simplify-insurance"
+ },
+ {
+  "name": "Lucy",
+  "company": "Baker Hughes",
+  "launched": "2025-12",
+  "basis": "earliest mention",
+  "evidence": "AWS re:Invent 2025 session (Dec 2025) on Baker Hughes' Leucipa production assistant Lucy",
+  "dateSource": "https://dev.to/kazuya_dev/aws-reinvent-2025-how-baker-hughes-is-driving-energy-innovation-with-aws-ai-aim347-hn1"
+ },
+ {
+  "name": "Bea",
+  "company": "Balance",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "YC Launches post Feb 2026: Balance, AI accounting firm for SMBs (AI accountant Bea)",
+  "dateSource": "https://www.ycombinator.com/launches/PRK-balance-ai-accounting-firm-for-smbs"
+ },
+ {
+  "name": "Ask Ellis",
+  "company": "Ballard Spahr",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Law360 Feb 26 2025: Ballard Spahr will roll out AI tools led by Ask Ellis chatbot",
+  "dateSource": "https://www.mlex.com/pulse/articles/2303347"
+ },
+ {
+  "name": "Chat BT",
+  "company": "Banca Transilvania",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "'Chat BT a fost lansat în ianuarie 2025' in the BT Pay app, built with DRUID",
+  "dateSource": "https://economedia.ro/banca-transilvania-a-lansat-un-asistent-virtual-cu-inteligenta-artificiala-in-aplicatia-bt-pay-dezvoltat-de-compania-de-software-druid.html"
+ },
+ {
+  "name": "Olivia",
+  "company": "Banco Azteca",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Avi24",
+  "company": "Banco Bolivariano (Ecuador)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "DIN",
+  "company": "Banco Central do Brasil",
+  "launched": "2019-01",
+  "basis": "launched",
+  "evidence": "Banco Central launched Din, virtual assistant for citizens, on Jan 24 2019 (AI upgrade announced May 2025)",
+  "dateSource": "https://www.moneytimes.com.br/banco-central-lanca-assistente-virtual-de-atendimento-ao-cidadao"
+ },
+ {
+  "name": "Gala",
+  "company": "Banco Galicia",
+  "launched": "2018",
+  "basis": "launched",
+  "evidence": "Galicia was first Argentine bank to launch WhatsApp customer service with Gala, in 2018; later moved to generative AI",
+  "dateSource": "https://infonegocios.info/y-ademas/banco-galicia-incorpora-whatsapp-en-atencion-al-cliente-con-gala"
+ },
+ {
+  "name": "Seven",
+  "company": "Banco Inter",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Inter: 'Since 2025, Seven has operated as a conversational agent'; agentic version launched May 5 2026",
+  "dateSource": "https://blog-us.inter.co/inter-lanca-seven-e-inaugura-nova-era-de-agentes-de-ia-com-o-cliente-no-comando-do-proprio-banco/"
+ },
+ {
+  "name": "MacroChat",
+  "company": "Banco Macro",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "El Economista Aug 11 2026: Banco Macro launched MacroChat, replacing BancoChat on WhatsApp",
+  "dateSource": "https://eleconomista.com.ar/finanzas/banco-macro-lanzo-macrochat-permite-transferir-pagar-servicios-operar-whatsapp-inteligencia-artificial-n97297"
+ },
+ {
+  "name": "AI-khan",
+  "company": "Bank ABB (Azerbaijan)",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Jun 4 2026: Bank ABB officially launched AI-nur and AI-khan to all customers after beta",
+  "dateSource": "https://mrem.bernama.com/viewsm.php?idm=54508"
+ },
+ {
+  "name": "AI-nur",
+  "company": "Bank ABB (Azerbaijan)",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Jun 4 2026: Bank ABB officially launched AI-nur and AI-khan to all customers after beta",
+  "dateSource": "https://mrem.bernama.com/viewsm.php?idm=54508"
+ },
+ {
+  "name": "AskGPS",
+  "company": "Bank of America",
+  "launched": "2025-09",
+  "basis": "announced",
+  "evidence": "ATM Marketplace Sep 30 2025: Bank of America announces AI assistant AskGPS for employees",
+  "dateSource": "https://www.atmmarketplace.com/news/bank-of-america-announces-ai-assistant-for-employees/"
+ },
+ {
+  "name": "Erica",
+  "company": "Bank of America",
+  "launched": "2018",
+  "basis": "launched",
+  "evidence": "BofA newsroom: 'Launched in 2018, Erica is deepening relationships with clients'",
+  "dateSource": "https://newsroom.bankofamerica.com/content/newsroom/press-releases/2025/08/a-decade-of-ai-innovation--bofa-s-virtual-assistant-erica-surpas.html.html"
+ }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "name": "Bradley",
+    "company": "South Carolina Department of Administration",
+    "project": "",
+    "use": "Statewide AI resident assistant built with Tyler Technologies. Answers questions on state services like DMV, taxes and courts.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.govtech.com/artificial-intelligence/south-carolina-ai-cyber-initiatives-reshape-services"
+  },
+  {
+    "name": "Eva",
+    "company": "Ohio Secretary of State",
+    "project": "Elections Virtual Assistant",
+    "use": "AI assistant for county election officials. Answers questions from Ohio's election official manual and calendar.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://highlandcountypress.com/larose-announces-today-his-office-has-trained-and-deployed-states-first-ai-powered-election"
+  },
+  {
+    "name": "DORA",
+    "company": "Missouri Department of Revenue",
+    "project": "",
+    "use": "Virtual assistant upgraded with generative AI in 2025. Answers tax, motor vehicle and driver licensing questions.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://dor.mo.gov/news/newsitem/uuid/2a2a2eef-d092-43c4-8f93-393cab167c75"
+  },
+  {
+    "name": "Mari",
+    "company": "Maricopa County (Arizona)",
+    "project": "Maricopa.gov",
+    "use": "AI virtual assistant on the county website built with IBM. Guides residents to the information they need.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.maricopa.gov/CivicAlerts.aspx?AID=3751"
+  },
+  {
+    "name": "BallotBot",
+    "company": "Arizona Secretary of State",
+    "project": "",
+    "use": "AI-powered election chatbot. Answers voter questions on registration, vote-by-mail and ballot tracking.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://statescoop.com/arizona-adrian-fontes-ai-chatbot/"
+  },
+  {
+    "name": "Ava",
+    "company": "City of Atlanta (Georgia)",
+    "project": "",
+    "use": "City website chatbot. Helps residents find city information, links and forms.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.route-fifty.com/artificial-intelligence/2026/03/i-tested-3-city-ai-chatbots-heres-what-they-actually-do/412202/"
+  },
+  {
+    "name": "SoonerGuide",
+    "company": "Oklahoma Health Care Authority",
+    "project": "SoonerCare",
+    "use": "AI assistant for Medicaid members on the web and helpline. Answers eligibility and income guideline questions in three languages.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.govtech.com/artificial-intelligence/oklahoma-launches-ai-chatbot-to-answer-medicaid-questions"
+  },
+  {
+    "name": "Iris",
+    "company": "Tennessee Department of Commerce & Insurance",
+    "project": "",
+    "use": "AI chatbot for licensed professionals, named after the state flower. Answers licensing questions 24/7 in English and Spanish.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://fox17.com/news/local/tennessee-launches-ai-chatbot-for-professional-licensing-help"
+  },
+  {
+    "name": "GABBY",
+    "company": "Georgia Secretary of State",
+    "project": "",
+    "use": "AI chatbot on the Secretary of State website. Gives Georgians quick answers about the office's services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://yahoo.com/news/politics/articles/georgias-secretary-state-website-rolls-183251515.html"
+  },
+  {
+    "name": "AVA",
+    "company": "Dane County (Wisconsin)",
+    "project": "Public Safety Communications",
+    "use": "AI voice assistant that answers the county's non-emergency line. Handles routine calls and passes details to dispatchers.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://spectrumlocalnews.com/product-pages/nyc/news/2026/08/18/dane-county-launches-ai-virtual-assistant-to-improve-non-emergency-call-handling"
+  },
+  {
+    "name": "AVA",
+    "company": "Arlington County (Virginia)",
+    "project": "Arlington Virtual Assistant",
+    "use": "AI chatbot across four county websites. Answers questions about county services, elections, libraries and transit.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.arlnow.com/2025/09/17/new-online-chatbot-answers-questions-about-arlington-county-services/"
+  },
+  {
+    "name": "TAMI",
+    "company": "City of Tampa (Florida)",
+    "project": "Tampa's Assistant for Municipal Information",
+    "use": "AI chat assistant on the city website. Answers resident questions using only official city content.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.tampa.gov/technology-and-innovation/meet-tami-your-ai-powered-city-assistant"
+  },
+  {
+    "name": "Hope",
+    "company": "Oklahoma Human Services",
+    "project": "",
+    "use": "Generative AI chatbot on the OKDHS website. Answers general questions about the agency's programs.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://oklahoma.gov/okdhs/notices/chatbot.html"
+  },
+  {
+    "name": "Alli",
+    "company": "City of Raleigh (North Carolina)",
+    "project": "",
+    "use": "Agentic AI IT service desk agent co-developed with ServiceNow. Resolves city employees' IT support requests.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://govtech.com/artificial-intelligence/this-new-raleigh-n-c-it-help-desk-agent-is-well-agentic"
+  },
+  {
+    "name": "Monty",
+    "company": "Montgomery County (Maryland)",
+    "project": "MC311",
+    "use": "AI chatbot for the county's 311 service, upgraded as Monty 2.0. Answers questions on 3,000+ topics in over 100 languages.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.montgomerycountymd.gov/news/montgomery-county-upgrades-monty-20-311-chatbot-powered-artificial-intelligence"
+  },
+  {
+    "name": "Mo",
+    "company": "Montgomery County (Pennsylvania)",
+    "project": "Voter Services",
+    "use": "Generative AI voter services chatbot built with Citibot. Answers questions on polling places and mail ballots.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://whyy.org/articles/pa-election-montgomery-county-chatbot-mo-voter-services/"
+  },
+  {
+    "name": "Oscie",
+    "company": "Osceola County (Florida)",
+    "project": "",
+    "use": "Bilingual AI chatbot on the county website and app. Answers questions and takes service requests.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.osceola.org/News/Osceola-County-Launches-AI-Chatbot-Oscie-to-Help-Navigate-County-Services"
+  },
+  {
+    "name": "Hannah",
+    "company": "Morris County Surrogate's Court (New Jersey)",
+    "project": "",
+    "use": "AI virtual assistant for probate, guardianship and estate questions. Answers calls, books appointments and sends reminders.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://wrnjradio.com/morris-county-surrogate-launches-ai-virtual-assistant-to-expand-public-access/"
+  },
+  {
+    "name": "My eCISO",
+    "company": "City of San Diego (San Diego Regional Cyber Lab)",
+    "project": "",
+    "use": "Free AI cybersecurity chatbot for small organizations. Interviews users and produces a cyber report card.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.sandiego.gov/cyber-lab/cyber-tools"
+  },
+  {
+    "name": "SAM",
+    "company": "Texas Regulatory Efficiency Office",
+    "project": "State Administration Manager",
+    "use": "AI assistant on a public website. Answers questions about state permits and licensing rules.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://statescoop.com/texas-efficiency-office-launches-ai-chatbot-to-help-public-navigate-regulations-licensing/"
+  },
+  {
+    "name": "ChatBWC",
+    "company": "Ohio Bureau of Workers' Compensation",
+    "project": "",
+    "use": "AI assistant built to ease the call center. Answers complex workers' comp policy questions.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.govtech.com/digitalstates2026"
+  },
+  {
+    "name": "RecoveryRachel",
+    "company": "RecoveryOhio (Office of Governor DeWine)",
+    "project": "",
+    "use": "AI voice and chat assistant. Helps Ohioans find mental health and addiction treatment providers.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.govtech.com/digitalstates2026"
+  },
+  {
+    "name": "River AI",
+    "company": "State of Iowa",
+    "project": "Ask River, River Current",
+    "use": "State platform of AI tools for employees. Includes Ask River for contract review and River Current for daily media reports.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.govtech.com/digitalstates2026"
+  },
+  {
+    "name": "Mattie Moo",
+    "company": "Wisconsin Department of Workforce Development",
+    "project": "",
+    "use": "Cow-themed virtual assistant on job center and unemployment pages. Being expanded with AI across state services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.govtech.com/digitalstates2026"
+  },
+  {
+    "name": "BearBot",
+    "company": "City of Blair (Nebraska)",
+    "project": "",
+    "use": "AI web chat on the city website built by Citibot. Answers resident questions and takes service requests in 70+ languages.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.blairradio.com/post/citibot-new-customer-seervice-solution-for-the-city-of-blair-website"
+  }
+]

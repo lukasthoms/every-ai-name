@@ -1,0 +1,407 @@
+[
+ {
+  "name": "Ginny",
+  "company": "Freedom First Credit Union",
+  "project": "Posh Voice Assistant",
+  "use": "AI voice assistant that answers the credit union's phone line. It verifies members, handles balances and routine tasks, and routes callers to staff.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/freedom-first-credit-union"
+ },
+ {
+  "name": "Terra",
+  "company": "Interra Credit Union",
+  "project": "Posh Voice Assistant",
+  "use": "24/7 conversational voice assistant on the main phone line. It offers full banking by phone and natural-language call routing.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/interra-credit-union"
+ },
+ {
+  "name": "Fiona",
+  "company": "Ion Bank",
+  "project": "Posh Digital Assistant",
+  "use": "Website digital assistant that answers customer questions about rates, online banking, Zelle and branches so customers can help themselves.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/ion-bank"
+ },
+ {
+  "name": "Fido",
+  "company": "Ion Bank",
+  "project": "Posh Knowledge Assistant",
+  "use": "Internal AI knowledge assistant that gives employees sourced answers from bank policies, procedures and onboarding documents.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/ion-bank"
+ },
+ {
+  "name": "Lumi",
+  "company": "Loyalty Credit Union",
+  "project": "Eltropy",
+  "use": "Virtual assistant on the website and app that offers financial coaching and rates. Logged-in members can use it for payments, transfers, balances and loan payoffs.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.cubroadcast.com/news/loyalty-credit-union-launches-new-virtual-assistant-named-lumi"
+ },
+ {
+  "name": "Dee",
+  "company": "Desert Financial Credit Union",
+  "project": "boost.ai",
+  "use": "AI virtual agent that answers member phone calls. It authenticates callers by voice biometrics and handles routine requests.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://boost.ai/announcements/boost-ai-gains-momentum-in-us-with-credit-union-pindrop-partnerships/"
+ },
+ {
+  "name": "Scout",
+  "company": "Meriwest Credit Union",
+  "project": "Kasisto KAI",
+  "use": "AI digital assistant in digital banking that helps members with account details, payments and account opening.",
+  "category": "Credit union",
+  "nameType": "brand",
+  "source": "https://tearsheet.co/artificial-intelligence/scouts-honored-to-help-meriwest-union-launches-a-digital-assistant-called-scout"
+ },
+ {
+  "name": "Sharon",
+  "company": "SCU Credit Union",
+  "project": "",
+  "use": "24/7 virtual assistant that answers member questions. It also checks balances, makes transfers and loan payments, and reports lost cards.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.scucu.com/say-hello-to-sharon.html"
+ },
+ {
+  "name": "Breezy",
+  "company": "Del-One Federal Credit Union",
+  "project": "",
+  "use": "AI-powered virtual assistant on web chat and phone. It answers banking questions, checks balances and history, and transfers funds.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.del-one.org/breezy-virtual-assistant/"
+ },
+ {
+  "name": "Molly",
+  "company": "Family First Credit Union",
+  "project": "",
+  "use": "AI chatbot on the website that answers questions in real time and hands users off to staff when needed.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://home.familyfirstny.com/family-first-introduces-new-ai-chatbot-molly/"
+ },
+ {
+  "name": "Coby",
+  "company": "Cobalt Credit Union",
+  "project": "Eltropy",
+  "use": "AI contact-center assistant across chat and voice that handles routine member inquiries 24/7.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://finovate.com/cobalt-credit-union-teams-up-with-eltropy-to-deploy-ai-voice"
+ },
+ {
+  "name": "Luna",
+  "company": "FirstLight Federal Credit Union",
+  "project": "Posh",
+  "use": "Virtual assistant in web chat, mobile banking and the phone line. It answers common questions and handles transfers, balances and recent transactions.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.firstlightfcu.org/access/access-extras/luna-virtual-assistant.html"
+ },
+ {
+  "name": "Chelsea",
+  "company": "Metro Credit Union",
+  "project": "Posh Voice Assistant",
+  "use": "Voice assistant integrated with core banking that handles over 60,000 member calls a month. It completes transactions and routes callers.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/metro-credit-union"
+ },
+ {
+  "name": "Sage",
+  "company": "One Nevada Credit Union",
+  "project": "Posh Digital Assistant",
+  "use": "24/7 AI digital assistant on the website and in online and mobile banking that answers member questions.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/meet-sage-one-nevadas-first-line-for-members"
+ },
+ {
+  "name": "CAM",
+  "company": "First Harvest Credit Union",
+  "project": "",
+  "use": "24/7 phone banking assistant, named for Camden, that answers questions and checks balances. It also transfers funds, takes loan payments and orders cashier's checks.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.firstharvestcu.com/resources/blog/first-harvest-credit-union-introduces-new-virtual-assistant/"
+ },
+ {
+  "name": "Fran",
+  "company": "Michigan State University Federal Credit Union",
+  "project": "boost.ai",
+  "use": "AI virtual agent on chat and phone that handles most member conversations. It covers account opening, loan payments and transfers in English and Spanish.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.boost.ai/case-studies/meet-fran-the-credit-union-virtual-agent-with-a-98-resolution-rate"
+ },
+ {
+  "name": "Gene",
+  "company": "Michigan State University Federal Credit Union",
+  "project": "boost.ai",
+  "use": "Internal AI chatbot that gives service representatives instant answers while they help members.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.boost.ai/announcements/msu-federal-credit-union-taps-boost-ai-for-customer-service-making-gains-in-efficiency-time-and-member-service-with-dual-virtual/"
+ },
+ {
+  "name": "Adel",
+  "company": "Citadel Credit Union",
+  "project": "Posh",
+  "use": "24/7 virtual assistant on web, app and phone. It answers questions, shows balances, moves money and helps report lost cards.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.citadelbanking.com/bank/adel"
+ },
+ {
+  "name": "Lee",
+  "company": "Hudson Valley Credit Union",
+  "project": "Posh Voice Assistant",
+  "use": "Voice assistant that answers the phone queue, routes members, and handles balance checks and simple transfers.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/hudson-valley-credit-union"
+ },
+ {
+  "name": "Penny",
+  "company": "4Front Credit Union",
+  "project": "Posh Voice Assistant",
+  "use": "AI voice assistant that answers member calls, answers questions and routes calls by topic.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/4front-credit-union"
+ },
+ {
+  "name": "Penny",
+  "company": "Pioneer Appalachia Federal Credit Union",
+  "project": "Posh Voice and Digital Assistant",
+  "use": "24/7 front line for member inquiries such as password resets, login issues and account questions. It routes calls that need a person.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/pioneer-appalachia-federal-credit-union"
+ },
+ {
+  "name": "Penny",
+  "company": "CPM Federal Credit Union",
+  "project": "Posh Voice Assistant",
+  "use": "Voice AI that replaced phone menus and handles more than 100 member intents, including after hours.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/client-story-cpm-federal-credit-union"
+ },
+ {
+  "name": "Heather",
+  "company": "Together Credit Union",
+  "project": "Posh Voice Assistant",
+  "use": "AI voice agent that resolves about two-thirds of inbound member calls and hands off to staff when needed.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/client-story-together-credit-union"
+ },
+ {
+  "name": "Kai",
+  "company": "Together Credit Union",
+  "project": "Posh Knowledge Assistant",
+  "use": "Internal AI knowledge assistant that gives staff one accurate reference during member interactions.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/client-story-together-credit-union"
+ },
+ {
+  "name": "Cam",
+  "company": "Camden National Bank",
+  "project": "Posh Voice Assistant",
+  "use": "Custom-branded AI voice assistant that answers customer questions, activates debit cards and enrolls online banking. It routes calls to agents when needed.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.posh.ai/client-stories/transforming-call-centers-how-ai-and-agents-work-together-for-exceptional-customer-experience"
+ },
+ {
+  "name": "Flora",
+  "company": "Florida Credit Union",
+  "project": "",
+  "use": "AI-powered virtual employee on chat, phone and online banking. It answers questions, checks balances, transfers funds and processes payments.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://flcu.org/contact-us/flora/"
+ },
+ {
+  "name": "EVA",
+  "company": "Achieva Credit Union",
+  "project": "",
+  "use": "Conversational phone assistant that lets members check balances, move money and stop payments by voice.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.cubroadcast.com/news/achieva-credit-union-introduces-eva-a-revolutionary-virtual-phone-assistant"
+ },
+ {
+  "name": "EVA (Expert Virtual Assistant)",
+  "company": "Carolinas Telco Federal Credit Union",
+  "project": "",
+  "use": "AI-powered website assistant that answers product questions, helps with online banking and finds ATMs.",
+  "category": "Credit union",
+  "nameType": "brand",
+  "source": "https://www.ctelco.org/introducing-eva/"
+ },
+ {
+  "name": "Ruth",
+  "company": "TruStone Financial Credit Union",
+  "project": "Eltropy",
+  "use": "AI chatbot, named for the credit union's first bookkeeper, that handles member conversations on the website and in digital banking.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.cunastrategicservices.com/content/human-empathy-meets-ai-efficiency"
+ },
+ {
+  "name": "Ivy",
+  "company": "Maple Federal Credit Union",
+  "project": "MiniBranch",
+  "use": "AI chatbot that answers member questions after hours and alongside staff. It passes members to a live chat when needed.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://thecreditunionconnection.com/introducing-ivy-maple-fcu-elevates-member-experience-with-minibranchs-cutting-edge-ai-assistant/"
+ },
+ {
+  "name": "Phil",
+  "company": "Financial Resources Federal Credit Union",
+  "project": "",
+  "use": "24/7 virtual assistant by phone and SMS that checks balances, transfers money, resets passwords and makes payments.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://myfinancialresources.org/our-favorite-virtual-assistant/"
+ },
+ {
+  "name": "Jeanie",
+  "company": "Fifth Third Bank",
+  "project": "Fifth Third mobile app",
+  "use": "AI banking assistant in the mobile app that handles more than 150 tasks through natural language, such as replacing cards and sending money.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://finviz.com/news/381791/fifth-thirds-jeanie-named-best-chatbot-by-tearsheet-ai-innovation-awards"
+ },
+ {
+  "name": "Truist Assist",
+  "company": "Truist",
+  "project": "Truist mobile and online banking",
+  "use": "AI-enhanced virtual assistant that answers common banking questions and hands clients off to contact center staff when needed.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://media.truist.com/2022-09-15-Truist-launches-Truist-Assist"
+ },
+ {
+  "name": "Zoey",
+  "company": "UNCLE Credit Union",
+  "project": "",
+  "use": "AI-powered digital assistant that answers website questions. It also checks balances, makes payments and transfers funds.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.unclecu.org/zoey/"
+ },
+ {
+  "name": "Ava",
+  "company": "Arkansas Federal Credit Union",
+  "project": "",
+  "use": "Virtual chat assistant that answers general banking questions about rates, loans and branches and connects members to live agents.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.afcu.org/?p=15914"
+ },
+ {
+  "name": "Ava Answers",
+  "company": "Illinois Community Credit Union",
+  "project": "Glia Virtual Assistant",
+  "use": "Branded cartoon virtual assistant that answers personal-finance questions 24/7 to build financial literacy, especially for teens.",
+  "category": "Credit union",
+  "nameType": "brand",
+  "source": "https://www.glia.com/case-study/iccu"
+ },
+ {
+  "name": "Tely",
+  "company": "Unitus Community Credit Union",
+  "project": "Glia Virtual Assistant",
+  "use": "Spanish-language virtual assistant that gives Hispanic members 24/7 help and simplifies financial concepts.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.glia.com/blog/credit-union-virtual-assistant-stories"
+ },
+ {
+  "name": "Val",
+  "company": "Royal Credit Union",
+  "project": "",
+  "use": "AI assistant on rcu.org that answers product questions, checks balances and history, and finds offices and ATMs.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://www.rcu.org/meet-val-our-virtual-assistant"
+ },
+ {
+  "name": "Val",
+  "company": "HealthShare Credit Union",
+  "project": "MiniBranch",
+  "use": "Virtual assistant deployed through MiniBranch to improve member service and access.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://thecreditunionconnection.com/?p=8333"
+ },
+ {
+  "name": "Star",
+  "company": "Star One Credit Union",
+  "project": "boost.ai",
+  "use": "24/7 virtual agent that answers member questions on hours, routing numbers and products, drawing on more than 500 intents.",
+  "category": "Credit union",
+  "nameType": "brand",
+  "source": "https://www.martechcube.com/?p=230474"
+ },
+ {
+  "name": "TD Clari",
+  "company": "TD Bank",
+  "project": "TD mobile app",
+  "use": "AI chatbot in the TD app that answers account questions, checks balances and spending history, and categorizes spending.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://td.com/ca/en/personal-banking/solutions/ways-to-bank/chatbot"
+ },
+ {
+  "name": "Alvie",
+  "company": "Desjardins",
+  "project": "Desjardins mobile app",
+  "use": "AI virtual assistant in the mobile app that summarizes transactions and flags unusual activity. It also gives personalized budgeting and cash-flow tips.",
+  "category": "Credit union",
+  "nameType": "human",
+  "source": "https://qorusglobal.com/content/29830-innovation-of-the-month-financial-insights-from-alvie-desjardins-ai-assistant"
+ },
+ {
+  "name": "Lumi Assistant",
+  "company": "BMO",
+  "project": "",
+  "use": "Internal AI assistant that gives BMO employees instant access to policies, procedures and job aids in English and French. It also summarizes documents.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://newsroom.bmo.com/2025-06-17-BMOs-AI-Powered-Lumi-Assistant-Recognized-for-Digital-Innovation"
+ },
+ {
+  "name": "CAI (CIBC AI)",
+  "company": "CIBC",
+  "project": "",
+  "use": "In-house generative AI platform for CIBC employees that summarizes documents, drafts emails and compiles research.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://cibc.mediaroom.com/2025-05-27-CIBC-launches-in-house-AI-platform-enterprise-wide-after-successful-pilot"
+ },
+ {
+  "name": "Scotia Navigator",
+  "company": "Scotiabank",
+  "project": "Scotia Intelligence",
+  "use": "Internal suite of assistive AI tools that helps Scotiabank employees with everyday work and gives developers coding help.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.fintech.ca/2026/04/14/scotiabank-launches-enterprise-ai-solution-employee-work/"
+ }
+]

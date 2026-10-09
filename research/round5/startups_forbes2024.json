@@ -1,0 +1,62 @@
+[
+ {
+  "name": "Sierra",
+  "company": "Sierra",
+  "project": "",
+  "use": "Conversational AI platform that businesses use to build customer-facing AI agents for chat, SMS, email and voice.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://sierra.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Genie",
+  "company": "Databricks",
+  "project": "Databricks AI/BI",
+  "use": "Conversational agent that lets business users ask questions of their company data in natural language.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.databricks.com/product/business-intelligence/genie",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Sana",
+  "company": "Sana Labs (Workday)",
+  "project": "",
+  "use": "Enterprise AI platform with AI agents that find company knowledge, act across apps and automate workflows; now part of Workday.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.sanalabs.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Rosie",
+  "company": "Rosebud AI",
+  "project": "Rosebud game maker",
+  "use": "AI assistant you chat with in Rosebud's game editor to write code and improve your game.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://rosebud.ai/tutorial",
+  "list": "AI-native startup · YC Summer 2019"
+ },
+ {
+  "name": "K Pro",
+  "company": "Owkin",
+  "project": "",
+  "use": "Agentic AI scientist that works with pharma research teams, coordinating AI skills and agents to decode complex biology.",
+  "category": "Healthcare",
+  "nameType": "brand",
+  "source": "https://www.owkin.com/newsfeed/owkin-brings-biology-super-intelligence-closer-to-reality-with-new-ai-infrastructure-for-biological-breakthroughs",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Leonardo.Ai",
+  "company": "Leonardo.Ai (Canva)",
+  "project": "",
+  "use": "Generative AI platform for creating images and video; acquired by Canva in 2024.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.maginative.com/article/canva-acquires-leonardo-ai/",
+  "list": "AI-native startup"
+ }
+]

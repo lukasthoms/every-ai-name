@@ -1,0 +1,122 @@
+[
+ {
+  "name": "Bella",
+  "company": "Bella (bellasales.io)",
+  "project": "Bella AI sales agent",
+  "use": "AI BDR that runs personalized LinkedIn and email outreach, qualifies prospects and books meetings.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://bellasales.io",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Clu",
+  "company": "Cleanlist AI",
+  "project": "Cleanlist GTM agent",
+  "use": "GTM agent that takes prospecting and data jobs from a one-sentence prompt in the app or Slack and can set up scheduled standing agents.",
+  "category": "Sales",
+  "nameType": "brand",
+  "source": "https://www.cleanlist.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Emma",
+  "company": "Revrag.ai",
+  "project": "Emma AI sales agent",
+  "use": "AI sales agent for B2B revenue teams that does 24/7 outreach and qualified lead generation across email, LinkedIn and calls.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.newswire.ca/news-releases/revrag-ai-unveils-its-first-ai-sales-agent-emma-a-game-changer-for-the-saas-industry-880875232.html",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Mindy",
+  "company": "1mind",
+  "project": "1mind Superhumans",
+  "use": "1mind's own AI 'Superhuman' virtual sales rep that talks with prospects and sources most of the company's pipeline.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.1mind.com/blog-articles/best-ai-sales-representatives",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Olivia",
+  "company": "Oliv AI",
+  "project": "Oliv revenue agents",
+  "use": "'Chief of AI Staff' agent that monitors sales and account activity, preps call briefs, updates the CRM and coordinates specialist agents like Prospector and Deal Driver.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.oliv.ai/agents/olivia",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Oliver",
+  "company": "Oliv AI",
+  "project": "Oliv revenue agents",
+  "use": "'Chief AI GTM Engineer' agent that learns what wins deals, turns it into playbook rules and orchestrates Oliv's specialist sales agents.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.oliv.ai/agents/oliver",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Hero",
+  "company": "Vivun",
+  "project": "Hero by Vivun",
+  "use": "AI sales teammate that listens on live sales calls and answers technical and product questions for reps in real time.",
+  "category": "Sales",
+  "nameType": "brand",
+  "source": "https://www.vivun.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Claygent",
+  "company": "Clay",
+  "project": "Clay",
+  "use": "AI research agents inside Clay that browse the web and data sources to research and enrich prospects, returning structured results with reasoning.",
+  "category": "Sales",
+  "nameType": "brand",
+  "source": "https://www.clay.com/claygent",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Roger",
+  "company": "Roger",
+  "project": "Roger AI SDR",
+  "use": "AI outbound sales rep that prospects, writes and sends outreach on LinkedIn and email, follows up and qualifies leads 24/7, overseen by a human SDR.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://hireroger.com",
+  "list": "AI-native startup · YC Summer 2024"
+ },
+ {
+  "name": "Cara",
+  "company": "Sparkbase",
+  "project": "Cara AI Sales Agent",
+  "use": "AI sales agent built for European companies that researches prospects in real time from websites, news and LinkedIn and writes personalized outreach.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.extruct.ai/hub/sparkbase-ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Scout",
+  "company": "Valley",
+  "project": "Valley Scout",
+  "use": "AI outbound assistant that learns what you sell and who you serve, then plans and runs LinkedIn prospecting tasks.",
+  "category": "Sales",
+  "nameType": "brand",
+  "source": "https://www.joinvalley.co/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Carly",
+  "company": "CalBot",
+  "project": "Carly",
+  "use": "AI sales assistant that runs outbound from reps' own mailboxes, answers inbound leads by email, text or AI voice call, and books meetings on the right rep's calendar.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.usecarly.com/blog/best-ai-sdr-tools/",
+  "list": "AI-native startup"
+ }
+]

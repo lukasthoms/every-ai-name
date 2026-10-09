@@ -1,0 +1,546 @@
+[
+ {
+  "name": "Paxton",
+  "company": "Paxton",
+  "launched": "2023-07",
+  "basis": "launched",
+  "evidence": "Paxton's seed-round announcement says the company first unveiled Paxton in July 2023 with early users from legal teams to large firms.",
+  "dateSource": "https://www.paxton.ai/post/paxton-ai-has-raised-6m-to-power-fast-highly-accurate-legal-research-and-drafting-using-ai"
+ },
+ {
+  "name": "Paychex WISE",
+  "company": "Paychex",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Paychex announced the WISE AI Platform for an agentic digital workforce on May 19, 2026.",
+  "dateSource": "https://www.paychex.com/newsroom/news-releases/announcing-wise-ai-for-agentic-workforce"
+ },
+ {
+  "name": "Pi",
+  "company": "Paytm",
+  "launched": "2026-09",
+  "basis": "announced",
+  "evidence": "Paytm Intelligence (Pi) unveiled at Global Fintech Fest in September 2026; offered to select customers.",
+  "dateSource": "https://www.freepressjournal.in/focused-view/paytm-intelligence-vijay-shekhar-sharmas-plan-to-turn-payments-scale-into-an-ai-business"
+ },
+ {
+  "name": "Pearl",
+  "company": "Pearl",
+  "launched": "2022-03",
+  "basis": "launched",
+  "evidence": "March 8, 2022: FDA clears Pearl's Second Opinion, first AI software to read dental x-rays.",
+  "dateSource": "https://hellopearl.com/news/fda-clears-worlds-first-ai-software-to-read-dental-x-rays-3e780"
+ },
+ {
+  "name": "Aimee",
+  "company": "Peerlogic",
+  "launched": "2025-07",
+  "basis": "earliest mention",
+  "evidence": "Peerlogic partner page (screenshot dated July 2025) introduces Aimee with Crown Council.",
+  "dateSource": "https://lp.peerlogic.com/peerlogic-crown-council"
+ },
+ {
+  "name": "FlyBot",
+  "company": "Pegasus Airlines",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Peloton IQ",
+  "company": "Peloton",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Bustle Oct 1, 2025 article on Peloton IQ launch.",
+  "dateSource": "https://www.bustle.com/wellness/peloton-iq-cross-training-wellness-launches"
+ },
+ {
+  "name": "ChatMBPP",
+  "company": "Penang Island City Council (MBPP)",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "Bernama 28/03/2026: MBPP launches Malaysia's first govt Gen-AI chatbot for public services.",
+  "dateSource": "https://bernama.com/en/news.php?id=2538433"
+ },
+ {
+  "name": "Gwen",
+  "company": "Penguin Ai",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "LionChat",
+  "company": "Penn State",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "Penn State launches AI-powered chatbot LionChat, published January 23, 2024.",
+  "dateSource": "https://www.psu.edu/news/academics/story/penn-state-launches-ai-powered-chatbot-assist-students-around-clock"
+ },
+ {
+  "name": "Penelope",
+  "company": "Pepper",
+  "launched": "2025-03",
+  "basis": "earliest mention",
+  "evidence": "Gorgias customer story on Pepper's AI agent Penelope, dated March 5, 2025.",
+  "dateSource": "https://www.gorgias.com/customers/pepper"
+ },
+ {
+  "name": "PepGenX",
+  "company": "PepsiCo",
+  "launched": "2025-06",
+  "basis": "earliest mention",
+  "evidence": "CIO Dive June 9, 2025 describes PepGenX as PepsiCo's internal sandbox integrated with Amazon Bedrock.",
+  "dateSource": "https://www.ciodive.com/news/PepsiCo-generative-AI-pilot-scale-strategy-agents/750095/"
+ },
+ {
+  "name": "Comet",
+  "company": "Perplexity",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Perplexity launched Comet AI browser July 9, 2025 for Max subscribers and waitlist invitees.",
+  "dateSource": "https://techcrunch.com/2025/07/09/perplexity-launches-comet-an-ai-powered-web-browser/"
+ },
+ {
+  "name": "Sage",
+  "company": "Perplexity",
+  "launched": "2026-09",
+  "basis": "earliest mention",
+  "evidence": "Decagon case study (Sept 2026) on Perplexity's AI agent Sage; no launch date given.",
+  "dateSource": "https://decagon.ai/case-studies/perplexity"
+ },
+ {
+  "name": "PetAI",
+  "company": "Petbarn",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "In October 2024, the brand launched PetAI.",
+  "dateSource": "https://www.insight.com/en_US/content-and-resources/case-studies/petai-an-ai-assistant-providing-personalised-pet-care-advice.html"
+ },
+ {
+  "name": "Charlie",
+  "company": "Pfizer",
+  "launched": "2024-02",
+  "basis": "announced",
+  "evidence": "Digiday Feb 22, 2024: Pfizer is building new generative AI platform 'Charlie'.",
+  "dateSource": "https://digiday.com/marketing/with-charlie-pfizer-is-building-a-new-generative-ai-platform-for-pharma-marketing/"
+ },
+ {
+  "name": "Phia",
+  "company": "Phia",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "Phia, from Phoebe Gates and Sophia Kianni, launched around April 24, 2025 on iOS and Chrome.",
+  "dateSource": "https://bravo-www.soapcentral.com/pop-culture/who-launched-phia-details-phoebe-gates-sophia-kianni-s-newly-launched-shopping-app"
+ },
+ {
+  "name": "UnionBot",
+  "company": "Philadelphia Union",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Inquirer Sept 29, 2025: club launched its mobile app Monday morning (with UnionBot).",
+  "dateSource": "https://www.inquirer.com/soccer/union-mobile-app-soccer-world-cup-chester-wsfs-sportsplex-20250929.html"
+ },
+ {
+  "name": "FAI",
+  "company": "Philippine Department of Trade and Industry (DTI)",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "DTI rolls out AI chatbot FAI, press release posted 13 June 2025.",
+  "dateSource": "https://fairtrade.dti.gov.ph/press-release/dti-rolls-out-ai-chatbot-to-fast-track-business-services-cut-red-tape/"
+ },
+ {
+  "name": "POLA",
+  "company": "Philippine Deposit Insurance Corporation (PDIC)",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "PDIC Online Assistant (POLA) unveiled during a ceremony on Oct. 14 [2025], now accessible on PDIC website.",
+  "dateSource": "https://www.philstar.com/business/2025/11/02/2484170/pdic-launches-ai-chatbot-enhance-public-service"
+ },
+ {
+  "name": "POLA (PDIC Online Assistant)",
+  "company": "Philippine Deposit Insurance Corporation (PDIC)",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "PDIC Online Assistant (POLA) unveiled during a ceremony on Oct. 14 [2025], now accessible on PDIC website.",
+  "dateSource": "https://www.philstar.com/business/2025/11/02/2484170/pdic-launches-ai-chatbot-enhance-public-service"
+ },
+ {
+  "name": "Terry",
+  "company": "Philippines Bureau of Internal Revenue (BIR)",
+  "launched": "2026-08",
+  "basis": "announced",
+  "evidence": "BIR and Ayala signed MOA Aug 25, 2026 to develop tax AI assistant 'Terry' in six-month partnership.",
+  "dateSource": "https://mb.com.ph/2026/08/27/bir-ayala-partner-on-ai-tool-to-streamline-tax-regulatory-analysis"
+ },
+ {
+  "name": "Kuya A",
+  "company": "Philippines Department of Information and Communications Technology (DICT)",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "DICT launched AI assistant on eGovPH Superapp on Monday, Sept. 21 [2026], introducing 'Kuya A'.",
+  "dateSource": "https://philstarlife.com/geeky/335319-dict-launches-new-ai-assistant-egovph-app-what-it-can-do"
+ },
+ {
+  "name": "Alakh AI",
+  "company": "Physics Wallah",
+  "launched": "2023-12",
+  "basis": "launched",
+  "evidence": "'Alakh AI', which it launched in December 2023, has attracted over 1.5 million users.",
+  "dateSource": "https://www.outlookbusiness.com/education/physics-wallahs-alakh-ai-education-suite-records-15-million-users-within-two-months"
+ },
+ {
+  "name": "Penny",
+  "company": "Pick n Pay",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "Penny, the rival Pick n Pay switched on in July [2026].",
+  "dateSource": "https://techcentral.co.za/checkers-answers-pick-n-pay-in-the-grocery-ai-race/284732/"
+ },
+ {
+  "name": "Zhi Xiao'an (智小安)",
+  "company": "Ping An Property & Casualty (Ping An Good Driver)",
+  "launched": "2024",
+  "basis": "earliest mention",
+  "evidence": "Zhi Xiao'an previously won Huanqiu '2024 technology innovation service case' award, per Dec 30, 2025 China Daily article.",
+  "dateSource": "https://cn.chinadaily.com.cn/a/202512/30/WS69537d4aa310942cc49995f0.html"
+ },
+ {
+  "name": "Penny",
+  "company": "Pioneer Appalachia Federal Credit Union",
+  "launched": "2026-08",
+  "basis": "earliest mention",
+  "evidence": "Posh client story (Aug 10, 2026) says Pioneer implemented voice and digital assistants named Penny.",
+  "dateSource": "https://www.posh.ai/client-stories/pioneer-appalachia-federal-credit-union"
+ },
+ {
+  "name": "Neo",
+  "company": "PLAN-B NET ZERO",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Zug/Berlin, December 12, 2025 - Innovative Support AI 'Neo' launches in new customer app.",
+  "dateSource": "https://www.ansa.it/amp/pressrelease/english/2025/12/12/innovative-support-ai-neo-launches-in-the-new-customer-app-from-plan_5c58e80f-9e2a-47fb-87b4-f752762a4137.html"
+ },
+ {
+  "name": "KAI",
+  "company": "PLDT",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "PLDT Inc. launches KAI AI assistant for enterprise teams, posted April 27, 2026.",
+  "dateSource": "https://www.telecomreviewasia.com/news/service-news/29011-pldt-inc-launches-kai-ai-assistant-for-enterprise-teams/"
+ },
+ {
+  "name": "Ellie",
+  "company": "PLDT Enterprise",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "PLDT post dated Mar 30, 2026 (mb.com.ph Apr 2): PLDT Enterprise introduces AI digital assistant Ellie.",
+  "dateSource": "https://mb.com.ph/2026/04/02/pldt-enterprise-introduces-ai-digital-assistant-ellie"
+ },
+ {
+  "name": "Al",
+  "company": "Popeyes UK",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "Restaurant Online June 4, 2024: Popeyes adopts AI technology (Al) for its drive-thrus.",
+  "dateSource": "https://www.restaurantonline.co.uk/Article/2024/06/04/Popeyes-adopts-AI-technology-for-its-drive-thrus/"
+ },
+ {
+  "name": "Pawla",
+  "company": "PortAventura World",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "PortAventura World lanza Pawla, noticia 18 jun. 2024.",
+  "dateSource": "https://www.cio.com/article/2151260/portaventura-world-lanza-pawla-el-chatbot-concebido-para-mejorar-la-experiencia-en-el-resort.html"
+ },
+ {
+  "name": "You Xiaobao (邮小宝)",
+  "company": "Postal Savings Bank of China",
+  "launched": "2025",
+  "basis": "earliest mention",
+  "evidence": "PSBC 2025 half-year report: investment banking trading robot 'You Xiaobao' answers bond underwriting inquiries (Xinhua, Sept 10, 2025).",
+  "dateSource": "https://www.news.cn/fortune/20250910/ec64e5bf15454f75929b2ac438d2973c/c.html"
+ },
+ {
+  "name": "You Xiaoying (邮小盈)",
+  "company": "Postal Savings Bank of China",
+  "launched": "2025",
+  "basis": "earliest mention",
+  "evidence": "PSBC 2025 half-year report: bill trading robot 'You Xiaoying' connected to interbank platform (Xinhua, Sept 10, 2025).",
+  "dateSource": "https://www.news.cn/fortune/20250910/ec64e5bf15454f75929b2ac438d2973c/c.html"
+ },
+ {
+  "name": "You Xiaozhu (邮小助)",
+  "company": "Postal Savings Bank of China",
+  "launched": "2026",
+  "basis": "earliest mention",
+  "evidence": "PSBC 2026 half-year report: trader assistant robot 'You Xiaozhu' processed over 12 trillion yuan (21st Century Business Herald, Sept 12, 2026).",
+  "dateSource": "https://m.sfccn.com/2026/9-12/3NMDE0MDZfMjIzOTA3NA.html"
+ },
+ {
+  "name": "Pia",
+  "company": "Pošta Slovenije",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb 18, 2025: Pošta Slovenije introducing AI voice assistant Pia.",
+  "dateSource": "https://www.timesofai.com/news/slovenia-postal-service-ai-voice-assistant/"
+ },
+ {
+  "name": "AVA (Aviation Assistant)",
+  "company": "Prague Airport",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "Feb 19, 2026: Prague Airport has launched the operation of digital assistant AVA.",
+  "dateSource": "https://kongres-magazine.eu/2026/02/prague-airport-introduces-digital-assistant/"
+ },
+ {
+  "name": "Bel",
+  "company": "Prefeitura de Belo Horizonte",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "57 mil solicitações atendidas desde o lançamento em dezembro de 2025.",
+  "dateSource": "https://prefeitura.pbh.gov.br/noticias/ferramenta-bel-completa-tres-meses-com-mais-de-57-mil-chats-atendidos"
+ },
+ {
+  "name": "Estela",
+  "company": "Prefeitura de Natal",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov 18, 2025 column on the lançamento da Estela - Assistente Virtual de Natal by mayor Paulinho Freire.",
+  "dateSource": "https://agorarn.com.br/coluna/natal-entra-na-era-da-ia-publica-com-estela/"
+ },
+ {
+  "name": "Premier League Companion",
+  "company": "Premier League",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Editorial 01 Jul 2025: Introducing the Premier League Companion, powered by Microsoft Copilot.",
+  "dateSource": "https://www.premierleague.com/en/news/4345260/what-is-the-premier-league-companion"
+ },
+ {
+  "name": "Penny",
+  "company": "Priceline",
+  "launched": "2023-06",
+  "basis": "launched",
+  "evidence": "June 28, 2023: Priceline announced Trip Intelligence with Penny, a generative AI travel assistant.",
+  "dateSource": "https://press.priceline.com/2023-summer-release/"
+ },
+ {
+  "name": "Denise",
+  "company": "Primary Health Solutions",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 3, 2025: SoundHound partnered with PHS to launch AI patient engagement platform named Denise.",
+  "dateSource": "https://coverager.com/soundhound-ai-deploys-conversational-platform-at-primary-health-solutions/"
+ },
+ {
+  "name": "Will",
+  "company": "Prince William County (Virginia)",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "On May 15, 2025, PWC 311 launched across four channels: web, mobile app, chatbot and live agent.",
+  "dateSource": "https://pwcva.gov/news/prince-william-county-311-marks-one-year-service-expands-access-and-capabilities"
+ },
+ {
+  "name": "Willow",
+  "company": "Prince William County (Virginia)",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Willow, the after-hours AI voice agent, introduced in summer 2025.",
+  "dateSource": "https://pwcva.gov/news/prince-william-county-311-marks-one-year-service-expands-access-and-capabilities"
+ },
+ {
+  "name": "ChatPG",
+  "company": "Procter & Gamble",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "CIO Dive (2023): ChatPG introduced in beta in February, officially launched to employees in September.",
+  "dateSource": "https://www.ciodive.com/news/procter-gamble-PG-chatgp-AI-openAI/697067/"
+ },
+ {
+  "name": "Flo",
+  "company": "Progressive",
+  "launched": "2017-10",
+  "basis": "launched",
+  "evidence": "Oct 17, 2017: Progressive announces Flo auto insurance bot available to all Facebook Messenger users.",
+  "dateSource": "https://progressive.mediaroom.com/2017-10-17-Want-to-chat-with-Flo-Progressive-Announces-New-Auto-Insurance-Bot"
+ },
+ {
+  "name": "Grace",
+  "company": "Providence",
+  "launched": "2020-03",
+  "basis": "launched",
+  "evidence": "Grace COVID-19 chatbot launched March 8 [2020]; test-launched in Washington in 2019.",
+  "dateSource": "https://blog.providence.org/digital-innovation/technology-partnerships-in-the-time-of-covid-19"
+ },
+ {
+  "name": "Lisa",
+  "company": "Psycho Bunny",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "Gorgias customer story on Psycho Bunny's AI agent Lisa, dated April 14, 2025.",
+  "dateSource": "https://www.gorgias.com/customers/psycho-bunny-cost-savings"
+ },
+ {
+  "name": "Alpha",
+  "company": "Public.com",
+  "launched": "2023-05",
+  "basis": "launched",
+  "evidence": "Crowdfund Insider May 2023: Investing platform Public launches Alpha, powered by OpenAI's GPT-4.",
+  "dateSource": "https://www.crowdfundinsider.com/2023/05/207353-investing-platform-public-launches-alpha-powered-by-openais-gpt-4-for-investment-research/"
+ },
+ {
+  "name": "Dylan",
+  "company": "Puma",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Puma, this month [April 2026], debuted AI 'digital human' concierge Dylan in Las Vegas flagship.",
+  "dateSource": "https://www.theatdb.com/news/pumas-ai-head-says-the-brand-is-still-giving-the-keys-to-the-consumer-as-it-invests-in-digital-concierge"
+ },
+ {
+  "name": "PIHU",
+  "company": "Punjab National Bank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Nada",
+  "company": "PureHealth",
+  "launched": "2025-12",
+  "basis": "announced",
+  "evidence": "PureHealth introduces pilot phase of Nada AI documentation tool (Dec 29, 2025).",
+  "dateSource": "https://purehealth.ae/purehealth-introduces-pilot-phase-of-nada-an-ai-based-tool-to-assist-doctors-in-documenting-medical-notes-during-patient-visits/"
+ },
+ {
+  "name": "ChatPwC",
+  "company": "PwC",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "ChatPwC rolled out to employees in phased approach in summer 2023 (per 2024 CIO Dive 'last summer').",
+  "dateSource": "https://www.ciodive.com/news/PwC-generative-AI-investment-upskilling-ChatPwC/690820/"
+ },
+ {
+  "name": "Sama",
+  "company": "Qatar Airways",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "March 2024: AI-powered digital human cabin crew Sama (2.0) launched; earlier non-AI metahuman Sama appeared in QVerse in 2022.",
+  "dateSource": "https://thedrum.com/news/2024/03/05/digital-human-ai-cabin-crew-sama-takes-qatar-airways-brand-experience-the-skies"
+ },
+ {
+  "name": "Zaki",
+  "company": "Qatar Islamic Bank (QIB)",
+  "launched": "2021-05",
+  "basis": "launched",
+  "evidence": "QIB is 1st bank in Qatar to launch AI virtual assistant 'Zaki', published May 03, 2021.",
+  "dateSource": "https://gulf-times.com/story/690549/QIB-is-1st-bank-in-Qatar-to-launch-AI-virtual-assi"
+ },
+ {
+  "name": "Saif",
+  "company": "Qatar Ministry of Commerce and Industry",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "23/05/2025: MOCI announced the launch of AI virtual assistants 'Smart Assistant' and 'Saif'.",
+  "dateSource": "https://www.qatar-tribune.com/article/177928/business/moci-unveils-ai-tools-smart-assistant-and-saif-in-digital-leap"
+ },
+ {
+  "name": "Piper",
+  "company": "Qualified",
+  "launched": "2024-04",
+  "basis": "launched",
+  "evidence": "April 2024: Qualified unveils Piper, your new AI SDR, at Product Reveal Event.",
+  "dateSource": "https://www.businesswire.com/news/home/20240416299521/en"
+ },
+ {
+  "name": "ICE",
+  "company": "Rackspace Technology",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "January 16, 2024 - Rackspace announced launch of ICE Accelerator on AWS Marketplace.",
+  "dateSource": "https://www.rackspace.com/newsroom/rackspace-introduces-intelligent-co-worker-enterprise-accelerator-aws-marketplace"
+ },
+ {
+  "name": "ERIC",
+  "company": "Raiffeisen Bank Romania",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Wall-street.ro Sept 14, 2026: Raiffeisen lanseaza un agent AI (ERIC) pentru antreprenori.",
+  "dateSource": "https://www.wall-street.ro/articol/banking/raiffeisen-lanseaza-un-agent-ai-pentru-antreprenori.html"
+ },
+ {
+  "name": "Ask Ralph",
+  "company": "Ralph Lauren",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Ask Ralph launched September 9 [2025] for US Ralph Lauren app users, built with Microsoft Azure OpenAI.",
+  "dateSource": "https://fashionunited.com/news/business/ask-ralph-ralph-lauren-launches-ai-powered-digital-stylist-with-microsoft/2025091168163"
+ },
+ {
+  "name": "Adri",
+  "company": "Rappi",
+  "launched": "2026-01",
+  "basis": "announced",
+  "evidence": "Jan 2026: Rappi lanzará un chatbot en WhatsApp llamado Adri.",
+  "dateSource": "https://www.descubre.vc/noticia/rappi-cumple-10-a-os-y-presenta-sus-planes-con-ia-y-chatbot-2026-01-20"
+ },
+ {
+  "name": "Rai",
+  "company": "Raymond James Financial",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "Jan 29, 2026: Raymond James has launched a proprietary digital AI operations agent called Rai.",
+  "dateSource": "https://pulse2.com/raymond-james-unveils-rai-a-proprietary-ai-operations-agent-for-internal-q&a-and-process-support/"
+ },
+ {
+  "name": "Project AVA",
+  "company": "Razer",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "Project AVA concept introduced at CES 2025 as esports AI coach; evolved at CES 2026.",
+  "dateSource": "https://www.razer.com/newsroom/product-news/project-ava/"
+ },
+ {
+  "name": "NOMI",
+  "company": "RBC Royal Bank",
+  "launched": "2017-08",
+  "basis": "announced",
+  "evidence": "Aug 28, 2017: RBC announced NOMI Insights and NOMI Find & Save in pilot; full launch expected that fall.",
+  "dateSource": "https://mobilesyrup.com/2017/08/28/rbc-artificial-intelligence-financial-assistance-customers/"
+ },
+ {
+  "name": "RealAssist AI",
+  "company": "Realtor.com",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "June 2, 2026 - Realtor.com today launched RealAssist AI.",
+  "dateSource": "https://www.googlecloudpresscorner.com/2026-06-02-Realtor-com-R-Launches-RealAssist-TM-AI-A-Completely-Reimagined-Way-to-Find-A-Home"
+ },
+ {
+  "name": "BotRTC",
+  "company": "Receita Federal (Brazil)",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "Feb 9, 2026: Receita Federal anunciou o lançamento do BotRTC.",
+  "dateSource": "https://amdjus.com.br/novo-chatbot-da-receita-federal-simplifica-duvidas-sobre-reforma-tributaria/"
+ },
+ {
+  "name": "Roxie",
+  "company": "Red Rocks Credit Union",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "BusinessWire Dec 10, 2025: Red Rocks Credit Union introduces Roxie, a new virtual assistant.",
+  "dateSource": "https://www.businesswire.com/news/home/20251210984536/en/Red-Rocks-Credit-Union-Introduces-Roxie-a-New-Virtual-Assistant-Designed-to-Transform-Member-Service"
+ },
+ {
+  "name": "Ask Redfin",
+  "company": "Redfin",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "March 2024: Redfin announced beta of Ask Redfin open to all U.S. iPhone app users; nationwide default May 2024.",
+  "dateSource": "https://www.businesswire.com/news/home/20240307524681/en"
+ }
+]

@@ -1,0 +1,546 @@
+[
+ {
+  "name": "Leon",
+  "company": "Generali Poland",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Leo",
+  "company": "Generali Switzerland",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Leonie",
+  "company": "Generali Switzerland",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Geordie",
+  "company": "Geordie AI",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Geordie emerged from stealth with $6.5M seed for its AI agent security platform (Sept 9, 2025).",
+  "dateSource": "https://www.businesswire.com/news/home/20250909556381/en"
+ },
+ {
+  "name": "George AI",
+  "company": "Georgia Department of Labor",
+  "launched": "2023-02",
+  "basis": "announced",
+  "evidence": "GDOL announced Monday (Feb 6, 2023) upgrades including its website virtual assistant George AI.",
+  "dateSource": "https://statescoop.com/?p=54323"
+ },
+ {
+  "name": "GABBY",
+  "company": "Georgia Secretary of State",
+  "launched": "2026-10",
+  "basis": "launched",
+  "evidence": "Georgia Secretary of State website rolls out AI chatbot GABBY (Oct 2026).",
+  "dateSource": "https://yahoo.com/news/politics/articles/georgias-secretary-state-website-rolls-183251515.html"
+ },
+ {
+  "name": "GUS",
+  "company": "Georgia Southern University",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Jill Watson",
+  "company": "Georgia Tech",
+  "launched": "2016",
+  "basis": "launched",
+  "evidence": "Jill Watson first introduced in 2016 using IBM's Watson platform.",
+  "dateSource": "https://www.newswise.com/articles/georgia-tech-s-jill-watson-outperforms-chatgpt-in-real-classrooms"
+ },
+ {
+  "name": "Wenquxing (文曲星)",
+  "company": "GF Securities",
+  "launched": "2026-04",
+  "basis": "earliest mention",
+  "evidence": "Apr 17, 2026: 广发证券率先探索投行大模型'投行AI文曲星', covering filing drafting and review.",
+  "dateSource": "https://www.mrjjxw.com/articles/2026-04-17/4343766.html"
+ },
+ {
+  "name": "Scout",
+  "company": "Giga",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Gigi",
+  "company": "Gigi",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Sifted: early version of Gigi launched in May (2025), 150k users in two days; relaunched as networking Sept 2025.",
+  "dateSource": "https://sifted.eu/articles/gigi-openai-sequoia-extension-round-us-move"
+ },
+ {
+  "name": "GitHub Copilot",
+  "company": "GitHub (Microsoft)",
+  "launched": "2022-06",
+  "basis": "launched",
+  "evidence": "GitHub Copilot generally available to individual developers June 21, 2022 (technical preview since June 2021).",
+  "dateSource": "https://github.blog/2022-07-14-github-copilot-is-generally-available-to-all-developers/"
+ },
+ {
+  "name": "Eva",
+  "company": "Gjensidige",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "April 22, 2025: Gjensidige are now implementing AI-agent Eva to handle claims.",
+  "dateSource": "https://www.nhh.no/en/nhh-bulletin/article-archive/2025/april/claim-the-future/"
+ },
+ {
+  "name": "Frank",
+  "company": "Gjensidige",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "April 2025 NHH article describes Gjensidige's AI agents Eva, Frank and Sofie being implemented.",
+  "dateSource": "https://www.nhh.no/en/nhh-bulletin/article-archive/2025/april/claim-the-future/"
+ },
+ {
+  "name": "Sofie",
+  "company": "Gjensidige",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "April 2025 NHH article describes Gjensidige's AI agents Eva, Frank and Sofie being implemented.",
+  "dateSource": "https://www.nhh.no/en/nhh-bulletin/article-archive/2025/april/claim-the-future/"
+ },
+ {
+  "name": "Gina",
+  "company": "Glamnetic",
+  "launched": "2024-12",
+  "basis": "earliest mention",
+  "evidence": "Gorgias case study (Dec 2024) describes Glamnetic's AI agent Gina acting on Shopify orders.",
+  "dateSource": "https://www.gorgias.com/customers/glamnetic-support"
+ },
+ {
+  "name": "Boti",
+  "company": "Gobierno de la Ciudad de Buenos Aires",
+  "launched": "2019-02",
+  "basis": "launched",
+  "evidence": "Boti WhatsApp chatbot launched February 2019; generative AI added in 2024.",
+  "dateSource": "https://www.iproup.com/innovacion/10038-boti-el-robot-del-gobierno-porteno-es-el-mejor-chatbot-corporativo-en-espanol"
+ },
+ {
+  "name": "Xoli",
+  "company": "Gobierno de la Ciudad de México (ADIP)",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "March 2026: CDMX now has Xoli, a chatbot for World Cup 2026 visitors.",
+  "dateSource": "https://www.xataka.com.mx/otros-1/cdmx-creo-ajolote-ia-para-mundial-2026-promete-decirle-a-turistas-que-hacer-ciudad-whatsapp"
+ },
+ {
+  "name": "Agente CiDi IA",
+  "company": "Gobierno de la Provincia de Córdoba",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "5 Dec 2025: El Gobierno de Córdoba lanzó 'Agente CiDi IA', ya disponible en cidi.cba.gov.ar.",
+  "dateSource": "https://hoydia.com.ar/tecnologia/cordoba-presento-un-asistente-virtual-basado-en-inteligencia-artificial-generativa/"
+ },
+ {
+  "name": "Ceci",
+  "company": "Gobierno del Estado de México (C5)",
+  "launched": "2026-07",
+  "basis": "announced",
+  "evidence": "22 Jul 2026: Governor Delfina Gómez presented Ceci, a virtual assistant, and K7 robot dog for C5.",
+  "dateSource": "https://www.poresto.com/mexico/2026/7/22/edomex-presenta-a-ceci-y-k7-asi-usaran-inteligencia-artificial-y-robots-en-el-c5.amp.html"
+ },
+ {
+  "name": "Airo",
+  "company": "GoDaddy",
+  "launched": "2024-02",
+  "basis": "launched",
+  "evidence": "Feb 26 [2024]: GoDaddy unveiled Airo, AI solution for small businesses.",
+  "dateSource": "https://www.marketingdive.com/news/godaddy-airo-generative-ai-tool-small-business-campaign/708453/"
+ },
+ {
+  "name": "Ray",
+  "company": "GoFundMe",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Gabi",
+  "company": "Goodcall",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Agent Smith",
+  "company": "Google",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "Mar 28, 2026 report: Google deployed internal AI coding agent Agent Smith; access restricted due to popularity.",
+  "dateSource": "https://www.shopifreaks.com/googles-internal-ai-coding-agent-agent-smith-became-so-popular-the-company-had-to-restrict-access/"
+ },
+ {
+  "name": "Goose",
+  "company": "Google",
+  "launched": "2024-02",
+  "basis": "earliest mention",
+  "evidence": "Feb 16, 2024: Google has reportedly introduced an AI called Goose for employees.",
+  "dateSource": "http://gigazine.net/gsc_news/en/20240216-google-employee-assistant-ai-model-goose"
+ },
+ {
+  "name": "Jules",
+  "company": "Google",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "May 20, 2025: Google debuts coding agent Jules, now in public preview; users can sign up.",
+  "dateSource": "https://techcrunch.com/snippet/3009702/google-debuts-a-coding-ai-agent-called-jules"
+ },
+ {
+  "name": "Go",
+  "company": "Gopuff",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Jun 6, 2026: Gopuff teams up with xAI to launch Go, an AI shopping assistant.",
+  "dateSource": "https://www.shopifreaks.com/gopuff-teams-up-with-xai-to-launch-go-an-ai-shopping-assistant-that-builds-a-predictive-cart-and-delivers-in-as-fast-as-15-minutes/"
+ },
+ {
+  "name": "Robot Max (Робот Макс)",
+  "company": "Gosuslugi (Russian Ministry of Digital Development)",
+  "launched": "2021",
+  "basis": "launched",
+  "evidence": "Robot Max appeared on Gosuslugi in 2021 (developed by RTLabs); generative-AI version launched later.",
+  "dateSource": "https://developers.sber.ru/portal/news/Robot-Max-gosuslugi-07-07-2021"
+ },
+ {
+  "name": "Dira",
+  "company": "GoTo Group",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "16 July 2024: GoTo launches new AI strategy with the introduction of Dira, AI fintech voice assistant.",
+  "dateSource": "https://gotocompany.com/en/news/press/goto-launches-new-ai-strategy-with-the-introduction-of-dira-the-first-ever-ai-based-fintech-voice-assistant-in-bahasa-indonesia"
+ },
+ {
+  "name": "Sahabat-AI",
+  "company": "GoTo Group & Indosat Ooredoo Hutchison",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "Nov 14, 2024: Indosat and GoTo launch Sahabat-AI, Indonesia's open-source LLM, at Indonesia AI Day.",
+  "dateSource": "https://www.gotocompany.com/en/news/press/indosat-ooredoo-hutchison-and-goto-launch-sahabat-ai-indonesias-open-source-llm-for-empowering-digital-sovereignty"
+ },
+ {
+  "name": "Diella",
+  "company": "Government of Albania",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "Wikipedia: Diella release 19 January 2025.",
+  "dateSource": "https://en.wikipedia.org/wiki/Diella_(AI_system)"
+ },
+ {
+  "name": "MIA",
+  "company": "Government of Argentina (Secretariat of Innovation, Science and Technology)",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "MIA, first AI agent of Argentina's national state, launched Sept 23, 2025 with Botmaker and Meta.",
+  "dateSource": "https://www.forbesargentina.com/innovacion/como-mia-primer-agente-ia-estado-nacional-primer-atisbo-lo-podra-hacer-n78697"
+ },
+ {
+  "name": "TINA",
+  "company": "Government of Argentina (Secretariat of Innovation, Science and Technology)",
+  "launched": "2022-11",
+  "basis": "launched",
+  "evidence": "El Gobierno lanzó TINA, la asistente virtual para trámites (Nov 2, 2022).",
+  "dateSource": "https://www.lanacion.com.ar/sociedad/el-gobierno-lanzo-tina-la-asistente-virtual-que-permitira-hacer-tramites-y-obtener-documentos-por-nid02112022/"
+ },
+ {
+  "name": "mAigov",
+  "company": "Government of Greece",
+  "launched": "2023-12",
+  "basis": "launched",
+  "evidence": "14.12.2023: Greece launches first-ever AI chatbot; citizens can now engage with mAigov.",
+  "dateSource": "https://tovima.com/society/greece-launches-first-ever-ai-chatbot-for-citizens"
+ },
+ {
+  "name": "Sarathi",
+  "company": "Government of Haryana (India)",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Haryana CM launches AI chatbot 'Sarathi' for enhanced citizen engagement (Mar 2025).",
+  "dateSource": "https://www.business-standard.com/india-news/haryana-cm-launches-ai-chatbot-sarathi-for-enhanced-citizen-engagement-125032300053_1.html"
+ },
+ {
+  "name": "Farah",
+  "company": "Government of Jordan (Ministry of Government Communication)",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Amman, Sept. 3, 2026 (Petra): government launches AI-powered digital spokesperson 'Farah'.",
+  "dateSource": "https://petra.gov.jo/index.php/en/news/government-launches-ai-powered-digital-spokesperson-farah"
+ },
+ {
+  "name": "KazTuristBot",
+  "company": "Government of Kazakhstan (Kazakhstan.Travel)",
+  "launched": "2026-02",
+  "basis": "announced",
+  "evidence": "1 Feb 2026: Kazakhstan will introduce an AI-powered digital assistant for tourists.",
+  "dateSource": "https://astanatimes.com/2026/02/kazakhstan-to-launch-ai-powered-digital-assistant-for-tourists/"
+ },
+ {
+  "name": "AMALIA",
+  "company": "Government of Portugal",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "AMALIA officially presented July 1, 2026 at Instituto Superior Técnico; announced Nov 2024 at Web Summit.",
+  "dateSource": "https://www.engium.uminho.pt/en/launch-of-amalia-the-first-large-scale-llm-in-european-portuguese/"
+ },
+ {
+  "name": "Norma",
+  "company": "Governo de Goiás",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "21 June 2025: A Casa Civil lançou oficialmente a Norma, primeira assistente virtual com IA.",
+  "dateSource": "https://www.rotajuridica.com.br/?p=160962"
+ },
+ {
+  "name": "GurIA",
+  "company": "Governo do Estado do Rio Grande do Sul",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "GurIA, generative AI assistant, launched June 2025 with second phase of rs.gov.br portal.",
+  "dateSource": "https://www.estado.rs.gov.br/governo-lanca-nova-fase-do-portal-rs-gov-br-com-foco-na-experiencia-do-cidadao-e-no-uso-de-inteligencia-artificial"
+ },
+ {
+  "name": "VICA",
+  "company": "GovTech Singapore",
+  "launched": "2021",
+  "basis": "earliest mention",
+  "evidence": "GovTech: VICA platform has been around since 2021, created during COVID-19 to replace Ask Jamie.",
+  "dateSource": "https://t.me/s/govtechbytes/1066"
+ },
+ {
+  "name": "Pair",
+  "company": "GovTech Singapore / Open Government Products",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "OGP has rolled out Pair since mid-2023 after a pilot announced March 2023.",
+  "dateSource": "https://www.undp.org/policy-centre/singapore/blog/pairing-ai-public-sector-impact-singapore"
+ },
+ {
+  "name": "MAI",
+  "company": "Grab",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "Grab: the Merchant AI Assistant (MAI), which we introduced in April [2025].",
+  "dateSource": "https://www.grab.com/inside-grab/stories/new-tools-we-launched-in-2025-for-grab-merchants-to-boost-efficiency/"
+ },
+ {
+  "name": "JoeBot",
+  "company": "Grand Valley State University",
+  "launched": "2026-02",
+  "basis": "announced",
+  "evidence": "Feb 6, 2026: 'Meet JoeBot, GVSU's Policy Expert Avatar Concept' pilot post.",
+  "dateSource": "https://www.gvsu.edu/ai/module/8dc66ca3-b595-4c18-8435-440b9b50bfe4/post/bf08170e-034b-4f0e-80c4-f63ef00be30d"
+ },
+ {
+  "name": "ADA",
+  "company": "Grand Valley State University (Seidman College of Business)",
+  "launched": "2022-09",
+  "basis": "launched",
+  "evidence": "Akbulut and Gillespie introduced ADA in MGT 268 during the Fall 2022 semester.",
+  "dateSource": "https://www.gvsu.edu/gvnext/2025/ai-chatbot-developed-at-seidman-enhances-students-understanding-of-software.htm"
+ },
+ {
+  "name": "Asphalt Guru",
+  "company": "Granite Construction",
+  "launched": "2025-05",
+  "basis": "earliest mention",
+  "evidence": "May 2025: Granite's new AI platform Asphalt Guru wins AGC Innovation of the Year.",
+  "dateSource": "https://www.agc.org/news/2025/05/05/watsonville-calif-based-granite-construction-awarded-innovative-tailored-ai-training-tool-designed"
+ },
+ {
+  "name": "Xiaowei Tongxue (小魏同学)",
+  "company": "Great Wall Motor (WEY)",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "Aug 3, 2026: WEY V9X first OTA brings new 小魏同学 Agent voice assistant online (Agent version).",
+  "dateSource": "https://www.autohome.com.cn/news/202608/1316184.html"
+ },
+ {
+  "name": "Emma",
+  "company": "Great Wolf Lodge",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Proteus",
+  "company": "Greywing",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Grace",
+  "company": "Grove AI (Hippocratic AI)",
+  "launched": "2026-07",
+  "basis": "announced",
+  "evidence": "July 2026 MedCity News on Grove AI voice agent Grace for clinical trial recruitment.",
+  "dateSource": "https://medcitynews.com/2026/07/grove-ai-voice-agent-agentic-clinical-trial-recruitment-hippocratic/"
+ },
+ {
+  "name": "GR 1",
+  "company": "Groww",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "Groww unveiled AI investing assistant GR 1 at Groww Next 2026; currently in beta as opt-in feature.",
+  "dateSource": "https://entrackr.com/news/groww-showcases-ai-powered-investing-tools-at-groww-next-2026-11168623"
+ },
+ {
+  "name": "Bah.IA",
+  "company": "Grupo Casas Bahia",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Bah.IA, copiloto lançado em 2024 para vendedores.",
+  "dateSource": "https://www.baguete.com.br/noticias/casas-bahia-chega-a-mil-agentes-de-ia"
+ },
+ {
+  "name": "Junhong Lingxi (君弘灵犀)",
+  "company": "Guotai Haitong Securities",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "CSI: in March 2024 Guotai Junan built industry-first 100B-param multimodal model 君弘灵犀.",
+  "dateSource": "https://cs.com.cn/qs/202411/t20241123_6456079.html"
+ },
+ {
+  "name": "Gus",
+  "company": "Gusto",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "September 16, 2024: Gusto Introduces 'Gus' AI Assistant for Small Businesses.",
+  "dateSource": "https://www.cpapracticeadvisor.com/?p=110546"
+ },
+ {
+  "name": "GIL",
+  "company": "GXO Logistics",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "June 26, 2025: GXO launches GXO IQ AI-first platform with interactive AI agent GIL.",
+  "dateSource": "https://investors.gxo.com/news-releases/news-release-details/gxo-launches-gxo-iq-first-its-kind-ai-first-platform-power/"
+ },
+ {
+  "name": "AI Tax Assist",
+  "company": "H&R Block",
+  "launched": "2023-12",
+  "basis": "launched",
+  "evidence": "H&R Block press release Dec 14, 2023 introduces AI Tax Assist generative AI experience.",
+  "dateSource": "https://www.hrblock.com/tax-center/newsroom/innovation/new-ai-tax-assist-diy/"
+ },
+ {
+  "name": "Sidekick",
+  "company": "H&R Block",
+  "launched": "2026",
+  "basis": "launched",
+  "evidence": "Mar 17, 2026 release: Sidekick for tax pros introduced 'this tax season' (2026).",
+  "dateSource": "https://www.stocktitan.net/news/HRB/h-r-block-s-ai-powered-tax-platform-earns-industry-recognition-as-e7ca1w9epfwl.html"
+ },
+ {
+  "name": "SARA",
+  "company": "Halton Regional Police Service (Ontario)",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov 10, 2025: Halton police non-emergency calls now greeted by AI voice SARA.",
+  "dateSource": "https://www.cp24.com/local/halton/2025/11/10/toronto-region-police-unit-turns-to-ai-to-help-answer-calls"
+ },
+ {
+  "name": "Haapi Assistant",
+  "company": "Hapag-Lloyd",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "Jan 2025: Hapag-Lloyd's generative AI Haapi Assistant supports staff with API/interface management.",
+  "dateSource": "https://hansa.news/hapag-lloyd-ai-assistant-for-interface-management/"
+ },
+ {
+  "name": "Luna",
+  "company": "HARMAN",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "At CES 2025, HARMAN unveiled Luna, visual avatar for its AI voice system.",
+  "dateSource": "https://www.cerence.com/newsroom/blog/the-rise-of-avatars-in-automotive-ai-assistants-a-new-era-of-interaction"
+ },
+ {
+  "name": "PatientGPT",
+  "company": "Hartford HealthCare (with K Health)",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "Mar 26, 2026: Hartford HealthCare and K Health launch PatientGPT in limited beta.",
+  "dateSource": "https://hitconsultant.net/2026/03/31/hartford-healthcare-k-health-launch-patientgpt-medical-records-ai/"
+ },
+ {
+  "name": "Harvard Student Compass",
+  "company": "Harvard College",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Sept 4, 2026 Crimson: Harvard launches AI advising chatbot Student Compass.",
+  "dateSource": "https://thecrimson.com/article/2026/9/4/ai-advising-chatbot"
+ },
+ {
+  "name": "KolokoloChat",
+  "company": "Hawaiʻi State Judiciary",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "May 2, 2025: Hawaiʻi State Judiciary marked Law Day 2025 by launching AI chatbot KolokoloChat.",
+  "dateSource": "https://www.hawaii.edu/news/2025/05/02/judiciary-ai-chatbot-launches/"
+ },
+ {
+  "name": "Val",
+  "company": "HealthShare Credit Union",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "July 11, 2024: HealthShare Credit Union unveils MiniBranch's new virtual assistant 'Val'.",
+  "dateSource": "https://thecreditunionconnection.com/?p=8333"
+ },
+ {
+  "name": "Hallie",
+  "company": "Heathrow Airport",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "June 11, 2025 Salesforce release: Heathrow has deployed Hallie, Agentforce agent on WhatsApp.",
+  "dateSource": "https://www.salesforce.com/uk/news/press-releases/2025/06/11/heathrow-airport-agentforce-passenger-experience/"
+ },
+ {
+  "name": "HelloïZ",
+  "company": "Hello bank! (BNP Paribas)",
+  "launched": "2017",
+  "basis": "launched",
+  "evidence": "HelloïZ v1 launched 2017; generative v2 with Mistral rolled out to all clients 11 March 2026.",
+  "dateSource": "https://group.bnpparibas/communique-de-presse/hello-bank-lance-son-assistant-conversationnel-booste-a-l-ia-generative"
+ },
+ {
+  "name": "Claire",
+  "company": "Henry Schein One (Henry Schein)",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Dec 2025: Henry Schein One launches embedded AI workflows incl. assistant Claire.",
+  "dateSource": "https://distributionstrategy.com/2025/12/henry-schein-one-launches-embedded-ai-workflows/"
+ },
+ {
+  "name": "GreenLake Intelligence",
+  "company": "Hewlett Packard Enterprise",
+  "launched": "2025-06",
+  "basis": "announced",
+  "evidence": "June 24, 2025: HPE launches GreenLake Intelligence, adds AI agents across hybrid cloud stack.",
+  "dateSource": "https://www.constellationr.com/blog-news/insights/hpe-launches-greenlake-intelligence-adds-ai-agents-throughout-hybrid-cloud-stack"
+ }
+]

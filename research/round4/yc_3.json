@@ -1,0 +1,242 @@
+[
+ {
+  "name": "Mo",
+  "company": "Momentic",
+  "project": "",
+  "use": "AI QA engineer that tests your app end to end and finds bugs before each release.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://momentic.ai",
+  "list": "YC Winter 2024"
+ },
+ {
+  "name": "Amy",
+  "company": "CombineHealth",
+  "project": "CombineHealth AI Workforce",
+  "use": "AI medical coder that automates coding and flags documentation gaps.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://www.combinehealth.ai/",
+  "list": "YC Winter 2023"
+ },
+ {
+  "name": "Mark",
+  "company": "CombineHealth",
+  "project": "CombineHealth AI Workforce",
+  "use": "AI medical biller that checks eligibility, submits claims and catches errors.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://www.combinehealth.ai/",
+  "list": "YC Winter 2023"
+ },
+ {
+  "name": "Adam",
+  "company": "CombineHealth",
+  "project": "CombineHealth AI Workforce",
+  "use": "AI A/R specialist that follows up with payers and tracks claim status.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://www.combinehealth.ai/",
+  "list": "YC Winter 2023"
+ },
+ {
+  "name": "Rachel",
+  "company": "CombineHealth",
+  "project": "CombineHealth AI Workforce",
+  "use": "AI appeal specialist that drafts claim appeal packets with evidence.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://www.combinehealth.ai/",
+  "list": "YC Winter 2023"
+ },
+ {
+  "name": "Taylor",
+  "company": "CombineHealth",
+  "project": "CombineHealth AI Workforce",
+  "use": "AI revenue cycle analyst that monitors KPIs and finds revenue leakage.",
+  "category": "Healthcare software",
+  "nameType": "human",
+  "source": "https://www.combinehealth.ai/",
+  "list": "YC Winter 2023"
+ },
+ {
+  "name": "Dane",
+  "company": "Broccoli AI",
+  "project": "",
+  "use": "AI customer service rep for home service businesses. Books jobs in ServiceTitan and dispatches on-call techs.",
+  "category": "Home services software",
+  "nameType": "human",
+  "source": "https://www.broccoli.com/",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Amy",
+  "company": "Broccoli AI",
+  "project": "",
+  "use": "AI receptionist that greets callers, transfers calls and blocks spam.",
+  "category": "Home services software",
+  "nameType": "human",
+  "source": "https://www.broccoli.com/",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Mark",
+  "company": "Broccoli AI",
+  "project": "",
+  "use": "AI happy-call specialist that follows up on customer satisfaction.",
+  "category": "Home services software",
+  "nameType": "human",
+  "source": "https://www.broccoli.com/",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Sean",
+  "company": "Broccoli AI",
+  "project": "",
+  "use": "AI sales agent that sells services like tune-ups and books customers.",
+  "category": "Home services software",
+  "nameType": "human",
+  "source": "https://www.broccoli.com/",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Brenda",
+  "company": "Broccoli AI",
+  "project": "",
+  "use": "AI agent that follows up on open estimates and helps customers book.",
+  "category": "Home services software",
+  "nameType": "human",
+  "source": "https://www.broccoli.com/",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Eric",
+  "company": "Broccoli AI",
+  "project": "",
+  "use": "AI agent that fills empty schedule slots by contacting past customers and leads.",
+  "category": "Home services software",
+  "nameType": "human",
+  "source": "https://www.broccoli.com/",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Hailey",
+  "company": "Broccoli AI",
+  "project": "",
+  "use": "AI agent that confirms and reschedules upcoming appointments.",
+  "category": "Home services software",
+  "nameType": "human",
+  "source": "https://www.broccoli.com/",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Laura",
+  "company": "Broccoli AI",
+  "project": "",
+  "use": "AI membership agent that renews memberships and signs up new members.",
+  "category": "Home services software",
+  "nameType": "human",
+  "source": "https://www.broccoli.com/",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Jessica",
+  "company": "Broccoli AI",
+  "project": "",
+  "use": "AI agent that reviews upcoming jobs nightly and fixes wrong job types.",
+  "category": "Home services software",
+  "nameType": "human",
+  "source": "https://www.broccoli.com/",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Rey",
+  "company": "Broccoli AI",
+  "project": "",
+  "use": "AI agent that reviews completed jobs and gives managers coaching insights.",
+  "category": "Home services software",
+  "nameType": "human",
+  "source": "https://www.broccoli.com/",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Samantha",
+  "company": "Leaping AI",
+  "project": "",
+  "use": "AI voice agent that handles customer support for homeowners and hands off to humans when needed.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.leapingai.com",
+  "list": "YC Winter 2025"
+ },
+ {
+  "name": "Patrick",
+  "company": "Leaping AI",
+  "project": "",
+  "use": "AI agent that qualifies homeowners and books in-home estimates.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.leapingai.com",
+  "list": "YC Winter 2025"
+ },
+ {
+  "name": "Jake",
+  "company": "Leaping AI",
+  "project": "",
+  "use": "AI operations agent that automates repetitive internal workflows.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.leapingai.com",
+  "list": "YC Winter 2025"
+ },
+ {
+  "name": "Proteus",
+  "company": "Greywing",
+  "project": "",
+  "use": "Conversational AI assistant for maritime operations data. Answers crewing, commercial and technical questions, also by voice in 40+ languages.",
+  "category": "Maritime software",
+  "nameType": "brand",
+  "source": "https://grey-wing.com/",
+  "list": "YC Winter 2021"
+ },
+ {
+  "name": "Sammy",
+  "company": "Humand",
+  "project": "Sammy AI",
+  "use": "AI assistant in the Humand employee app. Answers internal employee questions 24/7.",
+  "category": "HR / Recruiting",
+  "nameType": "human",
+  "source": "https://humand.co",
+  "list": "YC Winter 2022"
+ },
+ {
+  "name": "Guru",
+  "company": "ZOKO",
+  "project": "",
+  "use": "WhatsApp AI agent that answers customers' frequently asked questions for online stores.",
+  "category": "E-commerce / Customer service",
+  "nameType": "brand",
+  "source": "https://www.zoko.io/",
+  "list": "YC Winter 2021"
+ },
+ {
+  "name": "Wismo",
+  "company": "ZOKO",
+  "project": "",
+  "use": "WhatsApp AI agent that tracks orders and answers order-status questions.",
+  "category": "E-commerce / Customer service",
+  "nameType": "brand",
+  "source": "https://www.zoko.io/",
+  "list": "YC Winter 2021"
+ },
+ {
+  "name": "Sello",
+  "company": "ZOKO",
+  "project": "",
+  "use": "WhatsApp AI agent that takes orders around the clock.",
+  "category": "E-commerce / Sales",
+  "nameType": "brand",
+  "source": "https://www.zoko.io/",
+  "list": "YC Winter 2021"
+ }
+]

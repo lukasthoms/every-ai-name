@@ -1,0 +1,626 @@
+[
+ {
+  "name": "Gia",
+  "company": "McKesson",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Lilli",
+  "company": "McKinsey & Company",
+  "launched": "2023-08",
+  "basis": "launched",
+  "evidence": "August 16, 2023: McKinsey announced the launch of Lilli, its internal generative AI tool.",
+  "dateSource": "https://www.maginative.com/article/mckinsey-unveils-lilli-its-own-generative-ai-assistant/"
+ },
+ {
+  "name": "Alfred",
+  "company": "Medbridge",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "Medbridge launched its new AI agent, Alfred, in March 2024.",
+  "dateSource": "https://www.zendesk.com/customer/medbridge/"
+ },
+ {
+  "name": "Stephanie",
+  "company": "Medical Mutual of Ohio",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "KATE",
+  "company": "Mednition",
+  "launched": "2020-09",
+  "basis": "earliest mention",
+  "evidence": "Sept 2020 Mednition release: KATE already catching sepsis patients at Adventist Health White Memorial ED.",
+  "dateSource": "https://www.businesswire.com/news/home/20200901005432/en/Mednition-Introduces-Machine-Learning-Powered-Early-Sepsis-Detection-Model-that-Doubles-1hr-Sepsis-Bundle-Compliance"
+ },
+ {
+  "name": "Chase",
+  "company": "MeetChase",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Yezhednevny Geroy (Ежедневный герой)",
+  "company": "MegaFon",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "15 July 2025: В салонах МегаФона появился виртуальный помощник (virtual helper appeared in MegaFon stores).",
+  "dateSource": "https://new-retail.ru/novosti/retail/v_salonakh_megafona_poyavilsya_virtualnyy_pomoshchnik/"
+ },
+ {
+  "name": "Kangaroo Advisor",
+  "company": "Meituan",
+  "launched": "2025-07",
+  "basis": "announced",
+  "evidence": "July 2025 36Kr: Meituan has recently been internally testing Kangaroo Advisor, drawing on 4 million stores' data.",
+  "dateSource": "https://eu.36kr.com/en/p/3361734156224265"
+ },
+ {
+  "name": "Xiaomei",
+  "company": "Meituan",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Sep 12 2025: Meituan has launched Xiaomei, an agentic AI app powered by its LongCat model.",
+  "dateSource": "https://kr-asia.com/pulses/157293"
+ },
+ {
+  "name": "Xiaotuan",
+  "company": "Meituan",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Zhidongxi report dated Sept 19: Meituan launched AI search assistant Xiaotuan inside the Meituan app, complementing Xiaomei.",
+  "dateSource": "https://www.woshipm.com/it/6440340.html"
+ },
+ {
+  "name": "Spike",
+  "company": "Mendham Township School District (New Jersey)",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "March 2, 2026: MTSD has launched a new AI-powered website assistant named Spike.",
+  "dateSource": "https://www.mendhamtwp.org/mtsd-news1/news-archive"
+ },
+ {
+  "name": "Jan",
+  "company": "Menlo Research",
+  "launched": "2023-10",
+  "basis": "launched",
+  "evidence": "Earliest GitHub release of janhq/jan, v0.2.0, published 2023-10-13 (repo created Aug 2023).",
+  "dateSource": "https://github.com/janhq/jan/releases"
+ },
+ {
+  "name": "IAGO",
+  "company": "Mercado Bitcoin",
+  "launched": "2025-07",
+  "basis": "earliest mention",
+  "evidence": "July 2025 NeoFeed: IAGO, created as a support chatbot, evolved to recommend investments; original launch date not given.",
+  "dateSource": "https://neofeed.com.br/podcasts/revolucao-ia-8-fabricio-tota-vice-presidente-de-novos-negocios-do-mercado-bitcoin/"
+ },
+ {
+  "name": "Mago",
+  "company": "Mercado Pago",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Sept 16, 2026 article: Mercado Pago lanza Mago, su asistente IA para pymes.",
+  "dateSource": "https://ecosistemastartup.com/mercado-pago-lanza-mago-su-asistente-ia-para-pymes/"
+ },
+ {
+  "name": "MBUX Virtual Assistant",
+  "company": "Mercedes-Benz",
+  "launched": "2024-01",
+  "basis": "announced",
+  "evidence": "Jan 9, 2024: Mercedes-Benz announced at CES 2024 generative AI in its MBUX Virtual Assistant.",
+  "dateSource": "https://www.maginative.com/article/mercedes-benz-is-bringing-generative-ai-to-its-in-car-voice-assistant"
+ },
+ {
+  "name": "Mercedes-Benz Direct Chat",
+  "company": "Mercedes-Benz",
+  "launched": "2023-10",
+  "basis": "launched",
+  "evidence": "Oct 31, 2023: Mercedes-Benz introducing Direct Chat 'now'; most staff able to use it by year-end.",
+  "dateSource": "https://computerwoche.de/article/2829069/direct-chat-als-interne-chatgpt-anwendung-fuer-mitarbeitende.html"
+ },
+ {
+  "name": "GPTeal",
+  "company": "Merck",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "myGPT Suite",
+  "company": "Merck KGaA",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "MIA",
+  "company": "Merck Sharp & Dohme Federal Credit Union (MSDFCU)",
+  "launched": "2024-04",
+  "basis": "earliest mention",
+  "evidence": "Apr 15, 2024 news post: 'MIA, New & Improved' (enhanced version; original launch date unknown).",
+  "dateSource": "https://www.msdfcu.org/about/about/what-s-new/2024/04/15/mia--new---improved"
+ },
+ {
+  "name": "Scout",
+  "company": "Meriwest Credit Union",
+  "launched": "2023-12",
+  "basis": "launched",
+  "evidence": "December 18, 2023: Meriwest Credit Union launches a digital assistant called Scout.",
+  "dateSource": "https://tearsheet.co/artificial-intelligence/scouts-honored-to-help-meriwest-union-launches-a-digital-assistant-called-scout"
+ },
+ {
+  "name": "Meta AI",
+  "company": "Meta",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "Meta AI assistant introduced at Meta Connect, Sept 27, 2023, rolling out in beta in the US.",
+  "dateSource": "https://about.fb.com/news/2023/09/introducing-ai-powered-assistants-characters-and-creative-tools/"
+ },
+ {
+  "name": "Metamate",
+  "company": "Meta",
+  "launched": "2023-06",
+  "basis": "earliest mention",
+  "evidence": "The Verge's Alex Heath reported in June (2023) that Metamate was previewed to employees and tested with a small group.",
+  "dateSource": "https://businessinsider.nl/meta-director-who-used-to-work-for-elon-musk-says-companies-without-an-internal-ai-tool-are-already-behind-the-curve/"
+ },
+ {
+  "name": "Chelsea",
+  "company": "Metro Credit Union",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Franco Mibanco",
+  "company": "Mibanco (Colombia)",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Franco Mibanco chatbot: 'Lanzado en mayo de 2024', operated via WhatsApp.",
+  "dateSource": "https://www.valoraanalitik.com/mibanco-colombia-expectativas-2026/"
+ },
+ {
+  "name": "Ask Mike",
+  "company": "Michaels",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "Jul 23, 2026 (Retail Dive): Michaels launches AI shopping assistant Ask Mike.",
+  "dateSource": "https://www.theatdb.com/news/michaels-launches-ai-shopping-assistant"
+ },
+ {
+  "name": "Fran",
+  "company": "Michigan State University Federal Credit Union",
+  "launched": "2021-09",
+  "basis": "launched",
+  "evidence": "Fran relaunched (on Boost.ai) in September 2021; earlier original launch date not given.",
+  "dateSource": "https://www.boost.ai/case-studies/meet-fran-the-credit-union-virtual-agent-with-a-98-resolution-rate"
+ },
+ {
+  "name": "Gene",
+  "company": "Michigan State University Federal Credit Union",
+  "launched": "2021-11",
+  "basis": "earliest mention",
+  "evidence": "Nov 16, 2021 Boost.ai release: MSUFCU offers internal service chatbot 'Gene' to assist service representatives.",
+  "dateSource": "https://www.boost.ai/announcements/msu-federal-credit-union-taps-boost-ai-for-customer-service-making-gains-in-efficiency-time-and-member-service-with-dual-virtual/"
+ },
+ {
+  "name": "Zara",
+  "company": "micro1",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "micro1 research paper (April 2025) describes Zara AI recruiter as already deployed on its hiring platform.",
+  "dateSource": "https://arxiv.org/html/2507.02869v1"
+ },
+ {
+  "name": "Copilot",
+  "company": "Microsoft",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "Copilot in Windows began rolling out Sept 26, 2023; Bing Chat (Feb 2023) was renamed Copilot in Nov 2023.",
+  "dateSource": "https://blogs.microsoft.com/blog/2023/09/21/announcing-microsoft-copilot-your-everyday-ai-companion/"
+ },
+ {
+  "name": "Dragon Copilot",
+  "company": "Microsoft",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Unveiled March 3, 2025; Dragon Copilot generally available in May 2025 in U.S. and Canada.",
+  "dateSource": "https://www.maginative.com/article/microsoft-unveils-dragon-copilot-an-ai-assistant-for-clinicians/"
+ },
+ {
+  "name": "Gaming Copilot",
+  "company": "Microsoft",
+  "launched": "2025-03",
+  "basis": "announced",
+  "evidence": "March 13, 2025: Xbox debuts Copilot for Gaming, an AI-powered gaming companion (preview).",
+  "dateSource": "https://techcrunch.com/2025/03/13/xbox-debuts-a-new-ai-powered-gaming-companion"
+ },
+ {
+  "name": "Mico",
+  "company": "Microsoft",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 24, 2025: Copilot update introduces Mico, a blob avatar for voice mode.",
+  "dateSource": "https://www.theregister.com/2025/10/24/microsoft_clippy_copilot_update/"
+ },
+ {
+  "name": "MAYA AI",
+  "company": "Migros Türkiye",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "10 July 2026: Migros put its AI assistant MAYA AI into service.",
+  "dateSource": "https://webrazzi.com/2026/07/10/migros-yapay-zeka-asistani-maya-ai-ile-alisveris-aliskanliklarini-donusturuyor/"
+ },
+ {
+  "name": "Diia.AI",
+  "company": "Ministry of Digital Transformation of Ukraine",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "On 1 September 2025, Diia.AI became operational on the Diia portal.",
+  "dateSource": "https://www.pravda.com.ua/eng/news/2025/09/01/7528804/"
+ },
+ {
+  "name": "Victoria Shi",
+  "company": "Ministry of Foreign Affairs of Ukraine",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "May 1, 2024: Ukraine's foreign ministry appoints AI spokesperson Victoria Shi.",
+  "dateSource": "https://www.maginative.com/article/ukraines-foreign-ministry-appoints-ai-spokesperson-for-consular-updates"
+ },
+ {
+  "name": "MentorIA",
+  "company": "Ministério da Gestão e Inovação (MGI) / Serpro",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "March 4, 2026: Serpro e MGI lançam MentorIA, primeira ferramenta de IA para compras públicas.",
+  "dateSource": "https://tiinside.com.br/04/03/2026/serpro-e-mgi-lancam-primeira-ferramenta-de-ia-voltada-para-compras-publicas/"
+ },
+ {
+  "name": "Sidekicks",
+  "company": "Miro",
+  "launched": "2024-07",
+  "basis": "announced",
+  "evidence": "Sidekicks first appeared with Miro's Intelligent Canvas announcement (initial Product Leader, Agile Coach sidekicks).",
+  "dateSource": "https://www.computerworld.com/article/3476030/miro-launches-intelligent-canvas.html"
+ },
+ {
+  "name": "DORA",
+  "company": "Missouri Department of Revenue",
+  "launched": "2019",
+  "basis": "launched",
+  "evidence": "In 2019, the Missouri DOR launched a virtual assistant platform, DORA; AI upgrade announced June 4, 2025.",
+  "dateSource": "https://dor.mo.gov/news/newsitem/uuid/2a2a2eef-d092-43c4-8f93-393cab167c75"
+ },
+ {
+  "name": "Vibe (formerly Le Chat)",
+  "company": "Mistral AI",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Mistral renamed Le Chat to Vibe at its AI Now Summit, May 2026 (Le Chat itself launched Feb 2024).",
+  "dateSource": "https://en.wikipedia.org/wiki/Mistral_Vibe"
+ },
+ {
+  "name": "Aomaru Bank (あおまるバンク)",
+  "company": "Mizuho Bank",
+  "launched": "2026-05",
+  "basis": "announced",
+  "evidence": "May 18, 2026: Mizuho announced Aomaru Bank; inquiry-answer function to start in September in Mizuho Direct app.",
+  "dateSource": "https://www.watch.impress.co.jp/docs/news/2109414.html"
+ },
+ {
+  "name": "Wiz Chat",
+  "company": "Mizuho Financial Group",
+  "launched": "2023-06",
+  "basis": "launched",
+  "evidence": "In June 2023 we released 'Wiz Chat,' a text-generating AI assistant for our employees in Japan.",
+  "dateSource": "https://www.mizuhogroup.com/digital/aix-generative-ai"
+ },
+ {
+  "name": "mChat",
+  "company": "Moderna",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "Collaboration with OpenAI started in 2023 with the launch of Moderna's version of ChatGPT called mChat.",
+  "dateSource": "https://gizmodo.com/moderna-ceo-chatgpt-employees-vaccines-openai-1851435620"
+ },
+ {
+  "name": "Mo",
+  "company": "Momentic",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Momentic launched Mo on September 28, 2026, a QA agent testing web, iOS and Android apps.",
+  "dateSource": "https://aiweekly.co/alerts/momentic-debuts-mo-ai-agent-that-tests-apps-without-scripts"
+ },
+ {
+  "name": "Moni",
+  "company": "MoMo (M_Service)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Monica",
+  "company": "Monica (Butterfly Effect)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Monty",
+  "company": "Montgomery County (Maryland)",
+  "launched": "2024-10",
+  "basis": "earliest mention",
+  "evidence": "Oct 24, 2024: County upgrades to Monty 2.0 AI chatbot; original Monty launch date not stated.",
+  "dateSource": "https://www.montgomerycountymd.gov/news/montgomery-county-upgrades-monty-20-311-chatbot-powered-artificial-intelligence"
+ },
+ {
+  "name": "Mo",
+  "company": "Montgomery County (Pennsylvania)",
+  "launched": "2026-10",
+  "basis": "launched",
+  "evidence": "October 6, 2026: Montgomery County launches voter services chatbot 'Mo'.",
+  "dateSource": "https://whyy.org/articles/pa-election-montgomery-county-chatbot-mo-voter-services/"
+ },
+ {
+  "name": "Kimi",
+  "company": "Moonshot AI",
+  "launched": "2023-10",
+  "basis": "launched",
+  "evidence": "Wikipedia infobox: Kimi release October 2023.",
+  "dateSource": "https://en.wikipedia.org/wiki/Kimi_(chatbot)"
+ },
+ {
+  "name": "AI @ Morgan Stanley Assistant",
+  "company": "Morgan Stanley",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "Morgan Stanley rolled out AI @ Morgan Stanley Assistant to financial advisors in September 2023.",
+  "dateSource": "https://www.morganstanley.com/press-releases/key-milestone-in-innovation-journey-with-openai"
+ },
+ {
+  "name": "AskResearchGPT",
+  "company": "Morgan Stanley",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Began rolling out AskResearchGPT 'this summer' (2024) in the institutional securities group.",
+  "dateSource": "https://www.nbcnews.com/business/business-news/ai-trading-floor-morgan-stanley-expands-openai-powered-chatbot-tools-rcna176800"
+ },
+ {
+  "name": "Debrief",
+  "company": "Morgan Stanley",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "June 2024 (Quartz/CNBC): Morgan Stanley has a new OpenAI-powered assistant Debrief for advisors.",
+  "dateSource": "https://qz.com/morgan-stanley-openai-debrief-ai-chatbot-genai-1851561076"
+ },
+ {
+  "name": "Hannah",
+  "company": "Morris County Surrogate's Court (New Jersey)",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "Jan 29, 2026: Morris County surrogate launches AI virtual assistant to expand public access.",
+  "dateSource": "https://wrnjradio.com/morris-county-surrogate-launches-ai-virtual-assistant-to-expand-public-access/"
+ },
+ {
+  "name": "Alfred",
+  "company": "Motion",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Sept 2025: Motion's AI Employees (Alfred, Chip, Clide, Dot, Millie, Spec, Suki) reached 8-figure ARR within three months of launch.",
+  "dateSource": "https://www.businesswire.com/news/home/20250905188051/en/Motion-Raises-$60M-at-$550M-Valuation-to-Build-the-Agentic-Work-Suite-for-Businesses"
+ },
+ {
+  "name": "Chip",
+  "company": "Motion",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Sept 2025: Motion's AI Employees (Alfred, Chip, Clide, Dot, Millie, Spec, Suki) reached 8-figure ARR within three months of launch.",
+  "dateSource": "https://www.businesswire.com/news/home/20250905188051/en/Motion-Raises-$60M-at-$550M-Valuation-to-Build-the-Agentic-Work-Suite-for-Businesses"
+ },
+ {
+  "name": "Clide",
+  "company": "Motion",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Sept 2025: Motion's AI Employees (Alfred, Chip, Clide, Dot, Millie, Spec, Suki) reached 8-figure ARR within three months of launch.",
+  "dateSource": "https://www.businesswire.com/news/home/20250905188051/en/Motion-Raises-$60M-at-$550M-Valuation-to-Build-the-Agentic-Work-Suite-for-Businesses"
+ },
+ {
+  "name": "Dot",
+  "company": "Motion",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Sept 2025: Motion's AI Employees (Alfred, Chip, Clide, Dot, Millie, Spec, Suki) reached 8-figure ARR within three months of launch.",
+  "dateSource": "https://www.businesswire.com/news/home/20250905188051/en/Motion-Raises-$60M-at-$550M-Valuation-to-Build-the-Agentic-Work-Suite-for-Businesses"
+ },
+ {
+  "name": "Millie",
+  "company": "Motion",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Sept 2025: Motion's AI Employees (Alfred, Chip, Clide, Dot, Millie, Spec, Suki) reached 8-figure ARR within three months of launch.",
+  "dateSource": "https://www.businesswire.com/news/home/20250905188051/en/Motion-Raises-$60M-at-$550M-Valuation-to-Build-the-Agentic-Work-Suite-for-Businesses"
+ },
+ {
+  "name": "Spec",
+  "company": "Motion",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Sept 2025: Motion's AI Employees (Alfred, Chip, Clide, Dot, Millie, Spec, Suki) reached 8-figure ARR within three months of launch.",
+  "dateSource": "https://www.businesswire.com/news/home/20250905188051/en/Motion-Raises-$60M-at-$550M-Valuation-to-Build-the-Agentic-Work-Suite-for-Businesses"
+ },
+ {
+  "name": "Suki",
+  "company": "Motion",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Sept 2025: Motion's AI Employees (Alfred, Chip, Clide, Dot, Millie, Spec, Suki) reached 8-figure ARR within three months of launch.",
+  "dateSource": "https://www.businesswire.com/news/home/20250905188051/en/Motion-Raises-$60M-at-$550M-Valuation-to-Build-the-Agentic-Work-Suite-for-Businesses"
+ },
+ {
+  "name": "Sofiya",
+  "company": "Mount Sinai Health System",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "Sofiya pilot ran Jan 16 to Apr 16, 2025, calling 701 cath lab patients.",
+  "dateSource": "https://www.tctmd.com/news/ai-assistant-helps-prepare-patients-cardiac-cath"
+ },
+ {
+  "name": "MSC Concierge",
+  "company": "MSC Cruises",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 8, 2026: MSC Cruises unveiled MSC Concierge, available 24/7 via the MSC for Me app.",
+  "dateSource": "https://cruiseindustrynews.com/cruise-news/2026/05/msc-cruises-introduces-ai-powered-concierge-assistant/"
+ },
+ {
+  "name": "Maria (Мария)",
+  "company": "MTBank (Belarus)",
+  "launched": "2024-07",
+  "basis": "earliest mention",
+  "evidence": "July 2024: MTBank introduced virtual assistant into mobile app and messengers; earlier contact-center launch date not found.",
+  "dateSource": "https://www.comnews.ru/content/234481/2024-07-25/2024-w30/1018/mtbank-vnedril-virtualnogo-pomoschnika-mobilnoe-prilozhenie-i-messendzhery"
+ },
+ {
+  "name": "Zigi",
+  "company": "MTN Nigeria",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ms. Baza",
+  "company": "MTN Rwanda",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "27 October 2025: MTN Rwanda unveiled 'Ms. Baza', a new AI assistant.",
+  "dateSource": "https://allafrica.com/stories/202510270146.html"
+ },
+ {
+  "name": "Dunker",
+  "company": "Murray State University",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Emily",
+  "company": "MUSC Health",
+  "launched": "2024-08",
+  "basis": "announced",
+  "evidence": "Aug 28, 2024: SoundHound announces partnership with MUSC Health for AI agents (Emily) in patient access.",
+  "dateSource": "https://www.silicon.co.uk/press-release/soundhound-ai-announces-partnership-with-musc-health-to-transform-patient-access-with-ai-agents"
+ },
+ {
+  "name": "Ève",
+  "company": "Muséum d'Histoire Naturelle d'Autun (with Ask Mona)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Mya",
+  "company": "Mya Systems",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Maya",
+  "company": "Myntra",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "27-September-2023: Myntra has unveiled an AI-powered chatbot called Maya.",
+  "dateSource": "https://apparelresources.com/business-news/retail/myntra-launches-ai-powered-chatbot-maya-personalized-shopping-assistance"
+ },
+ {
+  "name": "Professor Leodar",
+  "company": "Nanyang Technological University (NTU Singapore)",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "Professor Leodar has handled more than 12,334 queries from 154 students since January 2024.",
+  "dateSource": "https://www.timeshighereducation.com/campus/when-use-ai-professor-and-why-you-might-not-need-one"
+ },
+ {
+  "name": "Sophia",
+  "company": "National Bank of Greece",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "G(ai)le",
+  "company": "National Gallery Singapore",
+  "launched": "2025-07",
+  "basis": "earliest mention",
+  "evidence": "Microsoft customer story dated July 2025 describes G(ai)le as the Gallery's new virtual guide; NCS reported rollout after pilot.",
+  "dateSource": "https://www.microsoft.com/customers/story/24629-national-gallery-singapore-azure-openai"
+ },
+ {
+  "name": "CitizenAI",
+  "company": "National Payment and Innovation Company of Trinidad and Tobago (NPICTT)",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Apr 23, 2026: Caribbean First: T&T launches WhatsApp-based AI assistant.",
+  "dateSource": "https://www.ttt.live/?p=151183"
+ },
+ {
+  "name": "AI Sense Maker",
+  "company": "National University of Singapore (NUS Libraries)",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "Jul 2026: NUS announced AI Sense Maker, first university in Southeast Asia to deploy conversational AI for research.",
+  "dateSource": "https://techcoffeehouse.com/2026/07/29/nus-launches-southeast-asias-first-conversational-ai-library-tool/"
+ },
+ {
+  "name": "Cora+",
+  "company": "NatWest",
+  "launched": "2023-11",
+  "basis": "announced",
+  "evidence": "November 7, 2023: NatWest and IBM announced Cora+ built with watsonx.",
+  "dateSource": "https://www.retailbankerinternational.com/news/natwest-and-ibm-partner-on-generative-ai-initiative/"
+ },
+ {
+  "name": "Ava",
+  "company": "Navan",
+  "launched": "2023-02",
+  "basis": "earliest mention",
+  "evidence": "Feb 2023: Navan integrated OpenAI's API with its AI virtual travel assistant Ava.",
+  "dateSource": "https://navan.com/about/press/navan-integrates-openai-and-chatgpt-across-product-set"
+ },
+ {
+  "name": "cotomi",
+  "company": "NEC",
+  "launched": "2023-07",
+  "basis": "announced",
+  "evidence": "NEC announced its own LLM (cotomi v1) in July 2023.",
+  "dateSource": "https://www.nec.com/en/global/techrep/journal/g23/n02/230203.html"
+ },
+ {
+  "name": "Enbi",
+  "company": "Nedbank",
+  "launched": "2021",
+  "basis": "launched",
+  "evidence": "Enbi, our AI-powered chatbot... Launched in 2021.",
+  "dateSource": "https://personal.nedbank.co.za/learn/blog/enbi-query-vs-complaint.html"
+ }
+]

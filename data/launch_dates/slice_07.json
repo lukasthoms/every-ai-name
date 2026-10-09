@@ -1,0 +1,570 @@
+[
+ {
+  "name": "Holly",
+  "company": "Eurowings Holidays (Lufthansa Group)",
+  "launched": "2024-02",
+  "basis": "launched",
+  "evidence": "Mallorca Magazin, 15 Feb 2024: Eurowings Holidays' new AI booking service Holly tested",
+  "dateSource": "https://www.mallorcamagazin.com/nachrichten/tourismus/2024/02/15/119083/mallorca-urlaub-buchen-mit-kunstlicher-intelligenz-funktioniert-der-neue-eurowings-service.html"
+ },
+ {
+  "name": "Joule",
+  "company": "EV Connect",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 27, 2026 blog introduces Joule, EV Connect's new AI support agent",
+  "dateSource": "https://www.evconnect.com/blog/introducing-joule-ev-connects-ai-assisted-ev-charging-support-chatbot/"
+ },
+ {
+  "name": "Eve",
+  "company": "Eve Legal",
+  "launched": "2023-10",
+  "basis": "launched",
+  "evidence": "Oct 25, 2023 blog: 'We are excited to introduce you to Eve, the legal AI purpose-built for plaintiff law firms'",
+  "dateSource": "https://www.eve.legal/blogs/introducing-eve"
+ },
+ {
+  "name": "Meesh",
+  "company": "Evil Geniuses",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "Jan 21, 2025: Evil Geniuses unveils AI chatbot Meesh with Theta Labs",
+  "dateSource": "https://www.strafe.com/news/read/evil-geniuses-unveils-ai-powered-chatbot-meesh-in-partnership-with-theta-labs/"
+ },
+ {
+  "name": "Mira",
+  "company": "eXp Realty",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "October 21, 2025: eXp Realty announced the launch of Mira at eXpcon Miami",
+  "dateSource": "https://www.agnt.inc/press-releases/exp-realty-launches-mira-ai-assistant/"
+ },
+ {
+  "name": "Luna",
+  "company": "eXp Realty (eXp World Holdings)",
+  "launched": "2023-06",
+  "basis": "launched",
+  "evidence": "Luna, launched in June 2023 and built on GPT-4, answers agent questions",
+  "dateSource": "https://getperspective.ai/blog/exp-realty-ai-strategy-cloud-brokerage-80000-agents-2026/markdown"
+ },
+ {
+  "name": "Bobbie",
+  "company": "Expand Energy",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "On May 15, Expand Energy introduced a new AI-driven tool (Bobbie)",
+  "dateSource": "https://www.expandenergy.com/?p=18070"
+ },
+ {
+  "name": "Layla",
+  "company": "Expedia Group",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "TechCrunch (Feb 2024): Layla launched in public last year with its AI-powered trip-planning bot; Expedia acquired it July 2026",
+  "dateSource": "https://techcrunch.com/2024/02/12/travel-startup-layla-acquires-flyr-backed-ai-itinerary-building-bot"
+ },
+ {
+  "name": "Romie",
+  "company": "Expedia Group",
+  "launched": "2024-05",
+  "basis": "announced",
+  "evidence": "May 14, 2024: Expedia unveils Romie, an AI travel buddy (alpha)",
+  "dateSource": "https://travelmarketreport.com/Air/articles/Expedia-Unveils-Romie-an-AI-Powered-Travel-Planner"
+ },
+ {
+  "name": "Boxy AI",
+  "company": "Extra Space Storage",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "EYQ",
+  "company": "EY",
+  "launched": "2023-10",
+  "basis": "launched",
+  "evidence": "October 2023 EY press release: EY launches AI platform EY.ai and large language model EYQ",
+  "dateSource": "https://www.ey.com/en_ie/newsroom/2023/10/ey-launches-artificial-intelligence-platform-ey-ai-and-large-language-model-eyq"
+ },
+ {
+  "name": "Adam",
+  "company": "F2",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "June 10, 2026: F2 announced $24M raise alongside launch of Adam, an AI deal team associate",
+  "dateSource": "https://www.businesswire.com/news/home/20260610638134/en/F2-Raises-$24M-to-Deploy-LLM-Agnostic-Operating-System-across-Private-Credit-Commercial-Banks"
+ },
+ {
+  "name": "Grocer genie",
+  "company": "FairPrice Group",
+  "launched": "2026-04",
+  "basis": "announced",
+  "evidence": "Apr 2026: FairPrice rollout includes Grocer genie staff app, deployed to all teams by end-2026",
+  "dateSource": "https://www.marketing-interactive.com/fairprice-to-expand-ai-powered-shopping-experience-across-more-outlets"
+ },
+ {
+  "name": "Molly",
+  "company": "Family First Credit Union",
+  "launched": "2024-12",
+  "basis": "launched",
+  "evidence": "December 18, 2024: Family First CU announces the launch of its new AI chatbot, Molly",
+  "dateSource": "https://home.familyfirstny.com/family-first-introduces-new-ai-chatbot-molly/"
+ },
+ {
+  "name": "Rachel and Akira (レイチェル / アキラ)",
+  "company": "FamilyMart (Japan)",
+  "launched": "2023-01",
+  "basis": "launched",
+  "evidence": "FamilyMart: humanlike AI assistants Rachel/Akira rolled out from January 2023; generative AI added July 2024",
+  "dateSource": "https://www.family.co.jp/company/news_releases/2024/20240802_01.html"
+ },
+ {
+  "name": "FET Zhiling (遠傳智靈)",
+  "company": "Far EasTone Telecommunications",
+  "launched": "2026-07",
+  "basis": "earliest mention",
+  "evidence": "FET showed in-house 'FET Zhiling' AI at AI WAVE SHOW opening July 31, 2026; already used internally",
+  "dateSource": "https://www.ctee.com.tw/news/20260801700112-430502"
+ },
+ {
+  "name": "FastwebMIIA",
+  "company": "Fastweb (Fastweb + Vodafone)",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "FastwebMIIA transparency sheet lists release date 29/05/2025, launched in FastwebAI Suite end of May 2025",
+  "dateSource": "https://www.fastweb.it/grandi-aziende/artificial-intelligence/fastweb-miia/documentazione-trasparenza-ai/sintesi%20contenuti%20training.pdf"
+ },
+ {
+  "name": "Feddy",
+  "company": "Federal Bank",
+  "launched": "2020",
+  "basis": "launched",
+  "evidence": "Google Cloud case study: Feddy virtual assistant introduced in 2020; official voice launch July 2021",
+  "dateSource": "https://cloud.google.com/customers/federal-bank"
+ },
+ {
+  "name": "Rose Amber",
+  "company": "Fenty Beauty",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Apr 7, 2026: Fenty Beauty launches AI-powered beauty advisor on WhatsApp",
+  "dateSource": "https://peopleofcolorintech.com/articles/fenty-beauty-launches-ai-powered-beauty-advisor-on-whatsapp/"
+ },
+ {
+  "name": "Scout",
+  "company": "Fetch",
+  "launched": "2024-12",
+  "basis": "earliest mention",
+  "evidence": "Dec 2024 Forethought release cites Fetch's AI agent resolving 250,000 inquiries in first 90 days",
+  "dateSource": "https://www.businesswire.com/news/home/20241205169784/en/Agentic-AI-Leader-Forethought-Achieves-One-Billion-Monthly-Customer-Interactions-Setting-New-Standard-in-Customer-Experience"
+ },
+ {
+  "name": "Kukua",
+  "company": "Fidelity Bank Ghana",
+  "launched": "2020",
+  "basis": "launched",
+  "evidence": "\"Since launching in 2020\" Kukua WhatsApp banking assistant",
+  "dateSource": "https://gna.org.gh/2024/06/fidelity-bank-grabs-two-awards-at-gitta/"
+ },
+ {
+  "name": "Freya",
+  "company": "Fidelity International",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "22/09/2025 Fidelity International has launched genAI conversational interface Freya",
+  "dateSource": "https://fstech.co.uk/fst/Fidelity_Launches_Conversational_GenAI_Tool.php"
+ },
+ {
+  "name": "Jeanie",
+  "company": "Fifth Third Bank",
+  "launched": "2020-05",
+  "basis": "launched",
+  "evidence": "Fifth Third introduced virtual assistant Jeanie in its mobile app in May 2020",
+  "dateSource": "https://www.businesswire.com/news/home/20231025833243/en/Fifth-Thirds-Virtual-Assistant-Jeanie-Now-Understands-30000-Phrases-Has-More-Capabilities-to-Help-Customers"
+ },
+ {
+  "name": "The Filmologist",
+  "company": "Filmland Spirits",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "January 28, 2026: Filmland Spirits announced The Filmologist, on duty 24/7 at FilmlandSpirits.com",
+  "dateSource": "https://www.fredminnick.com/2026/01/28/filmland-spirits-unvels-the-filmologist/"
+ },
+ {
+  "name": "Phil",
+  "company": "Financial Resources Federal Credit Union",
+  "launched": "2025-11",
+  "basis": "earliest mention",
+  "evidence": "'Meet Phil: Your Virtual Assistant' post on FRFCU site dated Nov 7, 2025",
+  "dateSource": "https://myfinancialresources.org/our-favorite-virtual-assistant/"
+ },
+ {
+  "name": "Ask FT",
+  "company": "Financial Times",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "May 30, 2024 interview: 'Two months ago, the FT ... launching its own generative AI tool called AskFT' (beta)",
+  "dateSource": "https://ftstrategies.com/en-gb/insights/what-has-the-ft-learned-about-launching-its-own-generative-ai-tool"
+ },
+ {
+  "name": "Jo",
+  "company": "Finanjo",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Finn",
+  "company": "Finn",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sisu",
+  "company": "Finnair",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Fred",
+  "company": "Fireflies.ai",
+  "launched": "2020-05",
+  "basis": "earliest mention",
+  "evidence": "May 2020 MIT News describes Fireflies' Fred, a note-taking virtual assistant joining calls",
+  "dateSource": "https://news.mit.edu/2020/fireflies-meetings-0521"
+ },
+ {
+  "name": "AgentNet Assist",
+  "company": "First American Financial",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Jul 28, 2025 HousingWire: First American Title launches AI tool AgentNet Assist for agents",
+  "dateSource": "https://www.housingwire.com/articles/first-american-title-launches-ai-tool-for-agents/"
+ },
+ {
+  "name": "Gabby",
+  "company": "First Financial Bank",
+  "launched": "2023-05",
+  "basis": "launched",
+  "evidence": "First Financial Bank launched KAI-powered digital assistant Gabby in May 2023",
+  "dateSource": "https://www.businesswire.com/news/home/20240222507922/en/First-Financial-Bank-Uses-Kasistos-AI-Powered-Digital-Assistant-to-Drive-27-Increase-in-New-Certificates-of-Deposit"
+ },
+ {
+  "name": "CAM",
+  "company": "First Harvest Credit Union",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "06/01/2026: First Harvest CU announces the launch of CAM",
+  "dateSource": "https://www.firstharvestcu.com/resources/blog/first-harvest-credit-union-introduces-new-virtual-assistant/"
+ },
+ {
+  "name": "Luna",
+  "company": "FirstLight Federal Credit Union",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Clive",
+  "company": "Five Sigma",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "July 17, 2024 - Five Sigma unveiled Clive, AI-powered insurance adjustment agent",
+  "dateSource": "https://coverager.com/introducing-clive-the-insurance-industrys-first-ai-powered-claims-adjuster/"
+ },
+ {
+  "name": "StarIQ",
+  "company": "Flagstar Financial",
+  "launched": "2026",
+  "basis": "launched",
+  "evidence": "June 15, 2026 Flagstar release: StarIQ 'Deployed in early 2026'",
+  "dateSource": "https://finviz.com/news/361686/flagstar-bank-announces-proprietary-technology-transformation"
+ },
+ {
+  "name": "Sparky",
+  "company": "Flint",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Aug 6, 2025 release notes: 'Introducing Flint V6: Meet Sparky'",
+  "dateSource": "https://flintk12.com/whats-new/flint-v6"
+ },
+ {
+  "name": "Flippi",
+  "company": "Flipkart",
+  "launched": "2023-10",
+  "basis": "launched",
+  "evidence": "Flipkart on Wednesday (October 4, 2023) launched ChatGPT-powered shopping assistant Flippi",
+  "dateSource": "https://inc42.com/buzz/flipkart-launches-chatgpt-powered-shopping-assistant-flippi"
+ },
+ {
+  "name": "Flora",
+  "company": "Florida Credit Union",
+  "launched": "2022",
+  "basis": "earliest mention",
+  "evidence": "FCU 2022 annual report: Flora handled over 390,000 member interactions in 2022",
+  "dateSource": "https://flcu.org/floridacreditunion/media/flipbook/2022-annual-report/16-17"
+ },
+ {
+  "name": "Fiona",
+  "company": "Flossy",
+  "launched": "2025-02",
+  "basis": "earliest mention",
+  "evidence": "Feb 3, 2025 podcast: Flossy co-founder describes AI receptionist Fiona handling scheduling",
+  "dateSource": "https://podcast.show/the-dental-marketer/episode/141665198/"
+ },
+ {
+  "name": "Alisha",
+  "company": "Floworks",
+  "launched": "2024-12",
+  "basis": "earliest mention",
+  "evidence": "Dec 2024 YourStory: inbound and outbound SDRs, both branded Alisha, fully functional and available",
+  "dateSource": "https://yourstory.com/2024/12/floworks-sales-automation-ai-employees"
+ },
+ {
+  "name": "Lila",
+  "company": "Flowtel",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Stacy",
+  "company": "Fluently",
+  "launched": "2024-10",
+  "basis": "earliest mention",
+  "evidence": "Fluently AI English Tutor app first released Oct 28, 2024 (aggregator listing); Stacy is its tutor",
+  "dateSource": "https://mwm.ai/>/apps/fluently-ai-english-tutor/6683289805"
+ },
+ {
+  "name": "a.PHiD",
+  "company": "FlyQuest",
+  "launched": "2024-12",
+  "basis": "announced",
+  "evidence": "Dec 9, 2024: FlyQuest to launch first esports AI chatbot a.PHiD on Theta EdgeCloud",
+  "dateSource": "https://flyquest.gg/blogs/news/flyquest-to-launch-the-first-ai-chatbot-for-esports-industry-powered-by-theta-edgecloud"
+ },
+ {
+  "name": "Lindi",
+  "company": "FlySafair",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "11 Jun 2025: FlySafair launches Lindi, AI travel assistant on WhatsApp (beta)",
+  "dateSource": "https://www.bizcommunity.com/article/flysafair-launches-lindi-a-new-ai-travel-assistant-582250a"
+ },
+ {
+  "name": "Adelaide",
+  "company": "Forbes",
+  "launched": "2023-10",
+  "basis": "launched",
+  "evidence": "Forbes launched Adelaide generative AI search tool in beta, late October 2023",
+  "dateSource": "https://www.itechpost.com/articles/119498/20231026/forbes-generative-ai-search-engine-now-available.htm"
+ },
+ {
+  "name": "FortiAI-Assist",
+  "company": "Fortinet",
+  "launched": "2025-04",
+  "basis": "announced",
+  "evidence": "April 14, 2025: Fortinet expands FortiAI with FortiAI-Assist, FortiAI-Protect, FortiAI-SecureAI",
+  "dateSource": "https://n.yam.com/Article/20250414669290"
+ },
+ {
+  "name": "Anna",
+  "company": "Fountain",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Oct 2025 HR Tech: Fountain unveils agentic frontline OS 12-product suite; Anna AI Recruiter listed",
+  "dateSource": "https://www.fountain.com/news/fountain-unveils-agentic-first-frontline-operating-system-with-12-product-suite-at-hr-tech-2025"
+ },
+ {
+  "name": "Cue",
+  "company": "Fountain",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "April 14, 2026: Fountain launches Cue, an autonomous AI system for frontline hiring",
+  "dateSource": "https://www.fountain.com/news/fountain-launches-cue-an-autonomous-ai-system-to-run-frontline-hiring-and-workforce-operations"
+ },
+ {
+  "name": "Emma",
+  "company": "Fountain",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Oct 2025 HR Tech: Fountain 12-product agentic suite; Emma AI 24/7 Support listed",
+  "dateSource": "https://www.fountain.com/news/fountain-unveils-agentic-first-frontline-operating-system-with-12-product-suite-at-hr-tech-2025"
+ },
+ {
+  "name": "Sam",
+  "company": "Fountain",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Oct 2025 HR Tech: Fountain 12-product agentic suite; Sam AI Satisfaction listed",
+  "dateSource": "https://www.fountain.com/news/fountain-unveils-agentic-first-frontline-operating-system-with-12-product-suite-at-hr-tech-2025"
+ },
+ {
+  "name": "Sam",
+  "company": "FourKites",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "February 11, 2025: FourKites announced general availability of Tracy and Sam",
+  "dateSource": "https://www.fourkites.com/press/fourkites-introduces-the-industrys-first-digital-workforce-for-supply-chain-orchestration"
+ },
+ {
+  "name": "Tracy",
+  "company": "FourKites",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "February 11, 2025: FourKites announced general availability of Tracy and Sam",
+  "dateSource": "https://www.fourkites.com/press/fourkites-introduces-the-industrys-first-digital-workforce-for-supply-chain-orchestration"
+ },
+ {
+  "name": "EVA (Evolution Virtual Agent)",
+  "company": "Fourteen IP",
+  "launched": "2023-07",
+  "basis": "earliest mention",
+  "evidence": "July 2023 PolyAI blog: EVA rolled out at Marriott, Hilton, Hyatt, Choice after Dialogflow pilots",
+  "dateSource": "https://poly.ai/blog/how-three-hotel-chains-are-automating-front-desk-pbx-and-concierge-calls"
+ },
+ {
+  "name": "Ask Frasers",
+  "company": "Frasers Group",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "2026-04-10: Frasers launches Ask Frasers AI shopping assistant",
+  "dateSource": "https://www.sgieurope.com/retail/frasers-launches-ask-frasers-ai-shopping-assistant/120511.article"
+ },
+ {
+  "name": "Ginny",
+  "company": "Freedom First Credit Union",
+  "launched": "2022-09",
+  "basis": "launched",
+  "evidence": "In September 2022, Freedom First replaced their full phone menu with Ginny",
+  "dateSource": "https://www.posh.ai/client-stories/freedom-first-credit-union"
+ },
+ {
+  "name": "Giga",
+  "company": "Frontier Communications",
+  "launched": "2023-07",
+  "basis": "launched",
+  "evidence": "July 26, 2023: Introducing Giga, Frontier's AI-driven chatbot",
+  "dateSource": "https://newsroom.frontier.com/building-gigabit-america/meet-giga-frontiers-ai-driven-chatbot-is-ready-to-have-personalized-conversations/"
+ },
+ {
+  "name": "Kozuchi AI Agent",
+  "company": "Fujitsu",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "October 23, 2024: Fujitsu announced the global launch of Fujitsu Kozuchi AI Agent",
+  "dateSource": "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2024/1023-01.html"
+ },
+ {
+  "name": "Fern",
+  "company": "Furnished Finder",
+  "launched": "2025-08",
+  "basis": "earliest mention",
+  "evidence": "Team embedded AI agent Fern into product pages in August 2025 (deployed earlier, date unknown)",
+  "dateSource": "https://www.zendesk.com/customer/furnished-finder/"
+ },
+ {
+  "name": "Agent Guru",
+  "company": "FWD Life Insurance Thailand",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "17/06/2025: FWD Insurance launch of new feature Agent Guru on FWD CUBE app",
+  "dateSource": "https://www.kaohooninternational.com/markets/559665"
+ },
+ {
+  "name": "Sami",
+  "company": "G2 Esports",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "February 17, 2026: G2 Esports and Theta Labs launch AI agent Sami",
+  "dateSource": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/g2-esports-and-theta-labs-launch-ai-agent-sami-3433100"
+ },
+ {
+  "name": "Laia",
+  "company": "Galicia Seguros",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "5 June 2024: Galicia Seguros lanza asistente virtual Laia con IA generativa",
+  "dateSource": "https://www.forbesargentina.com/negocios/galicia-seguros-lanza-asistente-virtual-inteligencia-generativa-optimizar-atencion-cliente-n53972"
+ },
+ {
+  "name": "GIA",
+  "company": "Garanti BBVA Romania",
+  "launched": "2024-04",
+  "basis": "launched",
+  "evidence": "29 Apr 2024: Garanti BBVA lanseaza chatbot-ul GIA",
+  "dateSource": "https://www.revistabiz.ro/garanti-bbva-lanseaza-chatbot-ul-gia-pentru-a-facilita-interactiunea-cu-clientii/"
+ },
+ {
+  "name": "Active Intelligence",
+  "company": "Garmin",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Mar 27, 2025: Garmin launches Connect Plus with Active Intelligence (beta)",
+  "dateSource": "https://www.androidheadlines.com/2025/03/garmin-connect-plus-paid-subscription.html"
+ },
+ {
+  "name": "GCoach",
+  "company": "GCash (Mynt)",
+  "launched": "2024-09",
+  "basis": "earliest mention",
+  "evidence": "Sep 10, 2024 Mynt newsroom: GCoach AI is an interactive solution for money tips",
+  "dateSource": "https://mynt.com.ph/newsroom/gcash-harnesses-ai-solutions-to-accelerate-financial-inclusion"
+ },
+ {
+  "name": "Gigi",
+  "company": "GCash (Mynt)",
+  "launched": "2024-09",
+  "basis": "earliest mention",
+  "evidence": "Sep 10, 2024: GCash has launched chatbots including GIGI, 24/7 customer service chatbot",
+  "dateSource": "https://mynt.com.ph/newsroom/gcash-harnesses-ai-solutions-to-accelerate-financial-inclusion"
+ },
+ {
+  "name": "GINA",
+  "company": "GCash (Mynt)",
+  "launched": "2024-09",
+  "basis": "earliest mention",
+  "evidence": "Sep 10, 2024: GCash has launched chatbots including GINA, a lending collections agent",
+  "dateSource": "https://mynt.com.ph/newsroom/gcash-harnesses-ai-solutions-to-accelerate-financial-inclusion"
+ },
+ {
+  "name": "AI Wingmate",
+  "company": "GE Aerospace",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "September 23, 2024: GE Aerospace workforce has new assistant, AI Wingmate",
+  "dateSource": "https://www.geaerospace.com/news/press-releases/ge-aerospace-launches-company-wide-generative-ai-platform-employees"
+ },
+ {
+  "name": "Eva",
+  "company": "Geely",
+  "launched": "2026-01",
+  "basis": "announced",
+  "evidence": "Geely showed Eva emotional AI agent at CES 2026",
+  "dateSource": "https://english.news18a.com/news/english_243509.html"
+ },
+ {
+  "name": "Kate",
+  "company": "GEICO (Berkshire Hathaway)",
+  "launched": "2017-01",
+  "basis": "launched",
+  "evidence": "Kate launched in January 2017 on iOS",
+  "dateSource": "https://getperspective.ai/blog/geico-s-ai-chatbot-strategy-how-the-auto-insurance-giant-is-replacing-forms-with-conversations-in-2026/markdown"
+ },
+ {
+  "name": "Genrang.bot",
+  "company": "Gen.G",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "June 2025: Gen.G and Theta Labs launch Genrang Bot AI mascot",
+  "dateSource": "https://esportsinsider.com/2025/06/gen-g-theta-labs-genrang-bot-ai-launch"
+ }
+]

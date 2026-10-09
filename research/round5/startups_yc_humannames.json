@@ -1,0 +1,218 @@
+[
+ {
+  "name": "Axel",
+  "company": "Axel Travel",
+  "use": "AI travel agent that books flights and hotels at discounted rates.",
+  "category": "Travel",
+  "nameType": "human",
+  "source": "https://helloaxel.com/",
+  "list": "AI-native startup · YC Winter 2019"
+ },
+ {
+  "name": "Roger",
+  "company": "Roger",
+  "use": "AI SDR that finds prospects, writes personalized emails and books meetings around the clock.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://hireroger.com",
+  "list": "AI-native startup · YC Summer 2024"
+ },
+ {
+  "name": "Alex",
+  "company": "Alex",
+  "use": "AI coding assistant built into Xcode for iOS and Swift developers.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://alexcodes.app",
+  "list": "AI-native startup · YC Fall 2024"
+ },
+ {
+  "name": "Bud",
+  "company": "Bud",
+  "use": "Autonomous agent with its own computer, reachable by web, text or Telegram, that writes code, browses and makes documents.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.ycombinator.com/companies/bud",
+  "list": "AI-native startup · YC Winter 2025"
+ },
+ {
+  "name": "Clara",
+  "company": "Clara",
+  "use": "AI-powered primary care doctor service that is available around the clock.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://askclara.com",
+  "list": "AI-native startup · YC Spring 2026"
+ },
+ {
+  "name": "Lance",
+  "company": "Lance",
+  "use": "Collaborative AI agents for hotels, including an AI front desk that answers guest calls 24/7.",
+  "category": "Hospitality",
+  "nameType": "human",
+  "source": "https://www.lance.live",
+  "list": "AI-native startup · YC Winter 2026"
+ },
+ {
+  "name": "Laurence",
+  "company": "Laurence",
+  "use": "AI platform that runs autonomous, profit-focused Amazon advertising for brands.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://laurence.com",
+  "list": "AI-native startup · YC Winter 2026"
+ },
+ {
+  "name": "Walter",
+  "company": "Walter",
+  "use": "AI employee for manufacturing that reads documents, checks the data and enters it into the ERP.",
+  "category": "Manufacturing",
+  "nameType": "human",
+  "source": "https://www.walter.one",
+  "list": "AI-native startup · YC Spring 2026"
+ },
+ {
+  "name": "Thomas",
+  "company": "Thomas",
+  "use": "Autonomous AI agent presented as a virtual human founder who starts and runs companies.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://madebythomas.ai",
+  "list": "AI-native startup · YC Spring 2026"
+ },
+ {
+  "name": "Finn",
+  "company": "Finn",
+  "use": "AI wealth manager that monitors investing, cash, taxes and debt and suggests moves for approval.",
+  "category": "Banking",
+  "nameType": "human",
+  "source": "https://getfinn.us/",
+  "list": "AI-native startup · YC Winter 2023"
+ },
+ {
+  "name": "Hiro",
+  "company": "Hiro",
+  "use": "Agentic security team that finds security gaps, fixes them with PRs and produces audit evidence.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://hirosecure.com",
+  "list": "AI-native startup · YC Summer 2023"
+ },
+ {
+  "name": "Maia",
+  "company": "Maia",
+  "use": "AI relationship app that gives couples advice and suggestions 24/7.",
+  "category": "Consumer",
+  "nameType": "human",
+  "source": "https://www.ourmaia.com/",
+  "list": "AI-native startup · YC Winter 2024"
+ },
+ {
+  "name": "Karmen",
+  "company": "Karmen",
+  "use": "AI scheduling co-pilot that builds and edits construction schedules from project documents.",
+  "category": "Construction",
+  "nameType": "human",
+  "source": "https://www.karmenai.com",
+  "list": "AI-native startup · YC Fall 2024"
+ },
+ {
+  "name": "Asha",
+  "company": "Asha Health",
+  "use": "AI OS that lets medical practices launch their own AI clinic with AI agents.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://asha.health",
+  "list": "AI-native startup · YC Fall 2024"
+ },
+ {
+  "name": "Sira",
+  "company": "Sira",
+  "use": "AI HR manager for deskless workers that automates time tracking and scheduling.",
+  "category": "HR",
+  "nameType": "human",
+  "source": "https://sira.team",
+  "list": "AI-native startup · YC Summer 2025"
+ },
+ {
+  "name": "Freya",
+  "company": "Freya",
+  "use": "Voice AI agents and text-to-speech voices for enterprises.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://freyavoice.ai/",
+  "list": "AI-native startup · YC Summer 2025"
+ },
+ {
+  "name": "Burt",
+  "company": "Burt",
+  "use": "AI teammates for freight brokers and carriers that handle quoting, dispatch, tracking and paperwork.",
+  "category": "Logistics",
+  "nameType": "human",
+  "source": "https://www.burthq.com/",
+  "list": "AI-native startup · YC Winter 2026"
+ },
+ {
+  "name": "Robby",
+  "company": "Robby",
+  "use": "Sales platform for home services businesses with AI-generated follow-ups by call, text and email.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://tryrobby.com",
+  "list": "AI-native startup · YC Winter 2026"
+ },
+ {
+  "name": "Sila",
+  "company": "Sila",
+  "use": "Agent-native messaging app where teams and AI agents work in the same conversations.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://silahq.com",
+  "list": "AI-native startup · YC Winter 2026"
+ },
+ {
+  "name": "Vela",
+  "company": "Vela",
+  "use": "AI scheduling assistant that coordinates bookings for professional services and executive search.",
+  "category": "Recruiting",
+  "nameType": "human",
+  "source": "https://tryvela.ai",
+  "list": "AI-native startup · YC Winter 2026"
+ },
+ {
+  "name": "Juno",
+  "company": "Juno",
+  "use": "AI health assistant and symptom tracker for people with chronic illness, with voice logging.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://junocompanion.com/",
+  "list": "AI-native startup · YC Spring 2026"
+ },
+ {
+  "name": "Arden",
+  "company": "Arden",
+  "use": "AI agents that call, text and negotiate with borrowers to recover debts for lenders.",
+  "category": "Banking",
+  "nameType": "human",
+  "source": "https://ardentech.ai/",
+  "list": "AI-native startup · YC Spring 2026"
+ },
+ {
+  "name": "Derya",
+  "company": "Derya",
+  "use": "Industrial sales office that uses email, voice and text agents to run buyer conversations and close deals.",
+  "category": "Industrial",
+  "nameType": "human",
+  "source": "https://derya.ai/",
+  "list": "AI-native startup · YC Summer 2026"
+ },
+ {
+  "name": "Jarmin",
+  "company": "Jarmin",
+  "use": "AI employees for roles like paralegal, financial analyst and ML engineer, embedded in a team.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://jarmin.ai/",
+  "list": "AI-native startup · YC Fall 2025"
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Omni Assist",
+  "company": "Omnicom Group",
+  "project": "Omni platform",
+  "use": "Generative AI virtual assistant in Omnicom's Omni operating system that gives agency staff insights, notifications and recommendations across the campaign workflow.",
+  "category": "Advertising & Marketing",
+  "nameType": "brand",
+  "source": "https://www.cmswire.com/the-wire/with-omni-assist-omnicom-leverages-first-mover-access-to-open-ai-to-accelerate-the-timeline-from-insights-to-outcomes/",
+  "list": "Fortune 1000 #276"
+ },
+ {
+  "name": "LibertyGPT",
+  "company": "Liberty Mutual Insurance Group",
+  "project": "Internal",
+  "use": "Internal generative AI app used by more than 10,000 Liberty Mutual employees to summarize information and answer common questions.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://runtime.news/tag/liberty-mutual",
+  "list": "Fortune 1000 #91"
+ },
+ {
+  "name": "AskGartner",
+  "company": "Gartner",
+  "project": "Gartner client portal",
+  "use": "Generative AI tool for Gartner clients that gives instant, tailored answers drawn from Gartner's research, with citations to source documents.",
+  "category": "Research & Advisory",
+  "nameType": "brand",
+  "source": "https://gcom.pdo.aws.gartner.com/en/products/ask-gartner-faqs",
+  "list": "Fortune 1000 #561"
+ },
+ {
+  "name": "CiZi",
+  "company": "Citizens Financial Group",
+  "project": "Citizens mobile app",
+  "use": "24/7 AI virtual financial assistant in the Citizens mobile app that gives instant, personalized banking support.",
+  "category": "Banking",
+  "nameType": "brand",
+  "source": "https://investor.citizensbank.com/about-us/newsroom/latest-news/2024/citizens-enhances-consumer-onboarding-experience.aspx",
+  "list": "Fortune 1000 #341"
+ },
+ {
+  "name": "Chessie",
+  "company": "CSX",
+  "project": "ShipCSX portal",
+  "use": "AI assistant built with Microsoft Copilot Studio and embedded in CSX's ShipCSX freight portal; it answers customer questions about shipments and rail services.",
+  "category": "Transportation",
+  "nameType": "brand",
+  "source": "https://www.microsoft.com/en/customers/story/24556-csx-microsoft-copilot-studio/",
+  "list": "Fortune 1000 #301"
+ },
+ {
+  "name": "Boxy AI",
+  "company": "Extra Space Storage",
+  "project": "extraspace.com",
+  "use": "24/7 AI storage assistant on Extra Space Storage's website that answers questions on unit sizes, pricing and availability.",
+  "category": "Real Estate",
+  "nameType": "brand",
+  "source": "https://www.extraspace.com/self-storage/faq/can-i-rent-a-storage-unit-under-my-business-name/",
+  "list": "Fortune 1000 #861"
+ },
+ {
+  "name": "Rivet",
+  "company": "Crocs",
+  "project": "Crocs.com (Salesforce Agentforce)",
+  "use": "Agentforce-powered shopping and support agent that helps shoppers discover products, track orders and get answers in a single chat conversation.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://www.salesforce.com/customer-stories/crocs/service-shopping-superagent/",
+  "list": "Fortune 1000 #765"
+ }
+]

@@ -1,0 +1,398 @@
+[
+ {
+  "name": "Nagisa (ナギサ)",
+  "company": "KDDI (au)",
+  "project": "au Support AI Advisor",
+  "use": "Generative AI digital human that answers au customer support inquiries by voice, text and images.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://businessnetwork.jp/article/26184"
+ },
+ {
+  "name": "Aomaru Bank (あおまるバンク)",
+  "company": "Mizuho Bank",
+  "project": "Mizuho Direct app",
+  "use": "Conversational AI assistant built on Mizuho's mascot Aomaru that answers customer questions by text or voice, with procedures and investment advice to follow.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.watch.impress.co.jp/docs/news/2109414.html"
+ },
+ {
+  "name": "Agent i",
+  "company": "LY Corporation (LINE Yahoo)",
+  "project": "LINE / Yahoo! JAPAN",
+  "use": "AI agent brand that merges LINE AI and Yahoo! JAPAN's assistant, with agents for shopping, outings, weather and more.",
+  "category": "Internet",
+  "nameType": "brand",
+  "source": "https://webtan.impress.co.jp/n/2026/04/21/52520"
+ },
+ {
+  "name": "satto",
+  "company": "SoftBank Corp.",
+  "project": "satto workspace",
+  "use": "Generative AI agent that builds business documents and slide decks from a chat request, using internal data and the web.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.softbank.jp/corp/news/press/sbkk/2025/20250716_01/"
+ },
+ {
+  "name": "Rakuten AI",
+  "company": "Rakuten Group",
+  "project": "Rakuten Link / Rakuten Ichiba",
+  "use": "Agentic AI assistant that searches across Rakuten's services by text, voice or image and gives personalized shopping suggestions.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://webtan.impress.co.jp/n/2025/07/31/49834"
+ },
+ {
+  "name": "Wichef",
+  "company": "Sony Group",
+  "project": "In-car AI agent",
+  "use": "Rabbit-sheep AI character that talks with drivers on the in-car screen; Sony plans to license it to automakers from fiscal 2027.",
+  "category": "Automotive",
+  "nameType": "brand",
+  "source": "https://autotechinsight.spglobal.com/news/5290244/sony-plans-to-license-wichef-in-car-ai-agent-as-early-as-2027"
+ },
+ {
+  "name": "AI-CEO",
+  "company": "Sumitomo Mitsui Financial Group (SMBC)",
+  "project": "",
+  "use": "Internal chatbot and avatar modeled on group CEO Tatsu Nakajima that employees consult for executive-level advice.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.watch.impress.co.jp/docs/news/2037141.html"
+ },
+ {
+  "name": "SyncMe",
+  "company": "NTT Docomo",
+  "project": "",
+  "use": "Personal AI agent that uses d account data to understand each user and give tailored suggestions.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.itmedia.co.jp/mobile/spv/2603/16/news066.html"
+ },
+ {
+  "name": "A1 (Eiichi / えいいち)",
+  "company": "Tokyo Metropolitan Government",
+  "project": "",
+  "use": "Generative AI platform that lets about 60,000 Tokyo government employees build and use no-code AI apps for their work.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://www.metro.tokyo.lg.jp/information/press/2026/04/2026040920"
+ },
+ {
+  "name": "Soudan AI-Te (そうだん AI-Te)",
+  "company": "Ebina City (with Ageck and EggAI)",
+  "project": "",
+  "use": "Generative AI avatar at the city hall counter that guides residents around the building and helps with services.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://aismiley.co.jp/ai_news/agekke-interactive-ai-poc/"
+ },
+ {
+  "name": "NIKKEI KAI",
+  "company": "Nikkei",
+  "project": "",
+  "use": "Generative AI research service for businesses that answers questions with citations from Nikkei articles and economic data.",
+  "category": "Media",
+  "nameType": "brand",
+  "source": "https://aismiley.co.jp/ai_news/nikkei-shinbun-kai-ai/"
+ },
+ {
+  "name": "Kozuchi AI Agent",
+  "company": "Fujitsu",
+  "project": "Fujitsu Data Intelligence PaaS",
+  "use": "AI agent that breaks business problems into tasks and handles them on its own or with people, starting with sales and profitability meetings.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://info.archives.global.fujitsu/global/about/resources/news/press-releases/2024/1023-01.html"
+ },
+ {
+  "name": "cotomi",
+  "company": "NEC",
+  "project": "NEC AI Agent",
+  "use": "NEC's generative AI that powers its business AI agents, planning tasks and choosing tools to carry out work.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://cloud.watch.impress.co.jp/docs/news/2029355.html"
+ },
+ {
+  "name": "tsuzumi 2",
+  "company": "NTT",
+  "project": "",
+  "use": "Lightweight Japanese-language AI model that companies and local governments can run on-premises.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://group.ntt/en/newsrelease/2025/10/20/251020a.html"
+ },
+ {
+  "name": "Oshison LLM (おしそんLLM)",
+  "company": "Sompo Japan Insurance",
+  "project": "",
+  "use": "Internal generative AI that drafts answers to branch staff questions from manuals and Q&A content.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://it.impress.co.jp/articles/-/28150"
+ },
+ {
+  "name": "Poketomo (ポケとも)",
+  "company": "Sharp",
+  "project": "",
+  "use": "Pocket-sized conversational AI character, sold as a robot and an app, that chats with users and remembers past conversations.",
+  "category": "Electronics",
+  "nameType": "brand",
+  "source": "https://cgi.global.sharp/corporate/news/260105-a.html"
+ },
+ {
+  "name": "AI Sakura-san (AIさくらさん)",
+  "company": "Tifana.com",
+  "project": "",
+  "use": "AI avatar that staffs counters at city halls and government offices, guiding visitors and helping them fill in forms.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://aismiley.co.jp/?p=186843"
+ },
+ {
+  "name": "Arai Ai (新井あい)",
+  "company": "Yabushita Holdings",
+  "project": "",
+  "use": "Digital human 'full-time employee' that handles orders, delivery-date replies and quotes 24/7.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://prtimes.jp/main/html/rd/p/000000004.000162067.html"
+ },
+ {
+  "name": "AI Higashi (AIヒガシ)",
+  "company": "JBCC Holdings",
+  "project": "",
+  "use": "Generative AI avatar of the CEO that presents company policy and answers employee questions in real time.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.dreamnews.jp/press/0000296858"
+ },
+ {
+  "name": "AI Governor Yuriko (AI都知事ユリコ)",
+  "company": "Tokyo Metropolitan Government",
+  "project": "Yuriko's Voice",
+  "use": "AI avatar of Governor Yuriko Koike that shares city government information in her voice and in several languages.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://technews.tw/2026/04/22/yuriko/"
+ },
+ {
+  "name": "Epolo (エポロ)",
+  "company": "Nissan",
+  "project": "AutoDJ",
+  "use": "Nissan's mascot as a dashboard figure that talks with drivers by voice, suggesting destinations and giving weather and sightseeing information.",
+  "category": "Automotive",
+  "nameType": "brand",
+  "source": "https://www.watch.impress.co.jp/docs/news/2057675.html"
+ },
+ {
+  "name": "Buffmee",
+  "company": "KDDI",
+  "project": "",
+  "use": "Conversational AI service that answers questions from about 150 licensed publisher and media sources.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://businessnetwork.jp/article/36161"
+ },
+ {
+  "name": "Natural AI",
+  "company": "SoftBank Corp. (with Brain Technologies)",
+  "project": "Natural AI Phone",
+  "use": "AI agent built into the phone that learns user habits and carries out tasks across apps like booking and messaging.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.softbank.jp/sbnews/entry/20260420_02"
+ },
+ {
+  "name": "HARC Agents",
+  "company": "Hitachi Digital Services",
+  "project": "",
+  "use": "Library of more than 200 prebuilt AI agents for enterprise operations, plus a system for managing them.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.hitachids.com/blog/hitachi-digital-services-unveils-harc-agents-in-london-scaling-agentic-ai-for-mission-critical-operations/"
+ },
+ {
+  "name": "Crystal intelligence",
+  "company": "SB OAI Japan (SoftBank Group and OpenAI)",
+  "project": "",
+  "use": "Enterprise AI agent for Japanese companies that takes voice requests and automatically builds business workflows.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://businessnetwork.jp/article/31194/"
+ },
+ {
+  "name": "Sakana Chat",
+  "company": "Sakana AI",
+  "project": "",
+  "use": "Japanese chat AI powered by Sakana's Namazu model, built for natural Japanese conversation.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://sakana.ai/product-development-interview/"
+ },
+ {
+  "name": "Sakana Marlin",
+  "company": "Sakana AI",
+  "project": "",
+  "use": "Research agent that reasons deeply over long periods, meant to act as a virtual chief strategy officer.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://sakana.ai/product-development-interview/"
+ },
+ {
+  "name": "ixi-O",
+  "company": "LG Uplus",
+  "project": "",
+  "use": "On-device AI phone agent that records and summarizes calls, detects voice phishing in real time and suggests follow-ups.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.koreajoongangdaily.com/business/lgs-ai-phone-bot-will-soon-be-powered-by-google-gemini/12237858"
+ },
+ {
+  "name": "Mi:dm K (믿:음 K)",
+  "company": "KT",
+  "project": "",
+  "use": "KT's in-house Korean AI model used in its services and sold to public, finance and healthcare customers.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.hankyung.com/article/2026042151411"
+ },
+ {
+  "name": "EXAONE",
+  "company": "LG AI Research",
+  "project": "",
+  "use": "LG's AI model family that powers enterprise agents such as the NEXUS data compliance agent.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.lgresearch.ai/news/view?seq=578"
+ },
+ {
+  "name": "AI Seongbuk Talk",
+  "company": "Seongbuk-gu District Office (Seoul)",
+  "project": "",
+  "use": "Chatbot that answers residents' questions from district administrative data and points them to the responsible department.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://mbiz.heraldcorp.com/article/10823011"
+ },
+ {
+  "name": "HEYDI (헤이디)",
+  "company": "Hyundai Department Store",
+  "project": "",
+  "use": "AI shopping assistant that recommends stores, restaurants, pop-ups and gifts and plans shopping routes in its stores.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://byline.network/2025/10/19_938721/"
+ },
+ {
+  "name": "Moni",
+  "company": "Lotte Homeshopping",
+  "project": "",
+  "use": "AI assistant that answers partner suppliers' quality assurance questions and reviews guideline documents and test reports 24/7.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://claude.com/ko/customers/lotte-homeshopping"
+ },
+ {
+  "name": "Bellygungeumi (벨리궁그미)",
+  "company": "Lotte Homeshopping",
+  "project": "",
+  "use": "Internal chatbot based on the Belly Bear mascot that answers employee questions about HR, welfare and company life.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://byline.network/2024/12/11_lottehomeshopping/"
+ },
+ {
+  "name": "Aimember (아이멤버)",
+  "company": "Lotte Innovate (Lotte Group)",
+  "project": "",
+  "use": "Lotte Group's generative AI platform for translation, summaries, code, custom chatbots and meeting notes, also sold to other companies.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.smarttoday.co.kr/ko-kr/articles/71959"
+ },
+ {
+  "name": "Golden Secretary (金秘書)",
+  "company": "E.SUN Bank",
+  "project": "",
+  "use": "Generative AI customer service system that quickly finds information to answer customer requests.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.ctee.com.tw/news/20250519701265-430304"
+ },
+ {
+  "name": "GENIE",
+  "company": "E.SUN Bank",
+  "project": "",
+  "use": "Internal generative AI work assistant and agent platform for E.SUN employees.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.ctee.com.tw/news/20250519701265-430304"
+ },
+ {
+  "name": "FET Zhiling (遠傳智靈)",
+  "company": "Far EasTone Telecommunications",
+  "project": "",
+  "use": "In-house AI for operations, customer service, HR, finance and legal work, also offered to business customers.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.ctee.com.tw/news/20260801700112-430502"
+ },
+ {
+  "name": "myAgent (Taiwan Mobile Lobster / 台灣大龍蝦)",
+  "company": "Taiwan Mobile",
+  "project": "",
+  "use": "Enterprise AI assistant that understands intent and automates tasks across company knowledge bases and systems, first for employees then business customers.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.bnext.com.tw/article/91726/taiwanmobile260804"
+ },
+ {
+  "name": "CiviClaw",
+  "company": "Taipei City Government",
+  "project": "",
+  "use": "AI agent being built for city employees that carries out multi-step tasks like drafting reports, with human review.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://udn.com/news/story/7323/9581312"
+ },
+ {
+  "name": "TAIDE",
+  "company": "TAIDE project (Taiwan National Science and Technology Council)",
+  "project": "",
+  "use": "Taiwan's open traditional-Chinese AI model used by government agencies, hospitals and companies to draft documents.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://technews.tw/2025/08/27/gemma-3-taide-series-launched/"
+ },
+ {
+  "name": "Zenni Claw",
+  "company": "ASUS",
+  "project": "",
+  "use": "Agentic AI assistant on ASUS devices that turns prompts into guided workflows for work, travel and daily planning.",
+  "category": "Electronics",
+  "nameType": "brand",
+  "source": "https://press.asus.com/news/press-releases/asus-releases-beta-version-of-zenni-claw/"
+ },
+ {
+  "name": "Rachel and Akira (レイチェル / アキラ)",
+  "company": "FamilyMart (Japan)",
+  "project": "",
+  "use": "Humanlike AI assistants on store tablets that advise managers on ordering and displays and voice-search operations manuals.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://www.family.co.jp/company/news_releases/2024/20240802_01.html"
+ },
+ {
+  "name": "Oshaberi Slimey",
+  "company": "Square Enix",
+  "project": "Dragon Quest X Online",
+  "use": "Gemini-powered slime companion that chats with players by voice and gives hints to help new players.",
+  "category": "Games",
+  "nameType": "brand",
+  "source": "https://mynintendonews.com/2026/03/22/square-enix-announces-it-will-integrate-googles-generative-ai-gemini-into-popular-online-game-dragon-quest-x/"
+ }
+]

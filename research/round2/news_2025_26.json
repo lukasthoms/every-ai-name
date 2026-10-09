@@ -1,0 +1,353 @@
+[
+  {
+    "name": "Arlo",
+    "company": "Octopus Energy",
+    "project": "Kraken",
+    "use": "AI email support assistant that answers routine customer questions such as tariff renewals, payment dates and account details. Sensitive or complex cases go to human advisers.",
+    "category": "Utilities",
+    "nameType": "human",
+    "source": "https://octopus.energy/press/more-news-press-releases/octopus-energy-s-ai-trial-wins-customer-approval/"
+  },
+  {
+    "name": "Alex",
+    "company": "Newfoundland Power",
+    "project": "",
+    "use": "24/7 generative AI virtual assistant with an avatar on the utility's website. It helps with account questions, outages and FAQs.",
+    "category": "Utilities",
+    "nameType": "human",
+    "source": "https://www.electricity.ca/programs/centre-of-excellence/powering-service-innovation/"
+  },
+  {
+    "name": "ClutchBot",
+    "company": "Houston Rockets",
+    "project": "Houston Rockets website",
+    "use": "AI version of the team's bear mascot Clutch. It answers fan questions about schedules, tickets, stats and team news.",
+    "category": "Sports",
+    "nameType": "brand",
+    "source": "https://cryptoslate.com/press-releases/houston-rockets-launch-generative-ai-mascot-powered-by-theta-decentralized-gpu-infrastructure/"
+  },
+  {
+    "name": "Ella AI",
+    "company": "Vivrelle",
+    "project": "",
+    "use": "AI stylist that helps members build outfits for any occasion. It lets them borrow, shop and resell luxury items in one flow.",
+    "category": "Luxury",
+    "nameType": "human",
+    "source": "https://retailboss.co/vivrelle-unveils-ella-ai-stylist-innovation-luxury-fashion-members/"
+  },
+  {
+    "name": "Grapevine",
+    "company": "The Wine Engine",
+    "project": "",
+    "use": "AI sommelier that recommends wines and food pairings based on a taste quiz. It also gives simplified tasting notes.",
+    "category": "Alcohol/wine",
+    "nameType": "brand",
+    "source": "https://www.vinetur.com/en/amp/2025061988936/artificial-intelligence-sommelier-debuts-with-new-digital-wine-platform-in-the-united-states.html"
+  },
+  {
+    "name": "Eva",
+    "company": "Gjensidige",
+    "project": "",
+    "use": "AI claims agent that handles customers' insurance claims directly, around the clock. The goal is for it to handle up to 70% of individual customers' claims.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://www.nhh.no/link/acf2a1f3dfdb4324b18754b93a911a9a.aspx"
+  },
+  {
+    "name": "Miya",
+    "company": "Maxis",
+    "project": "Maxis app",
+    "use": "Generative AI in-app assistant ('Maxis Intelligence, Your Assistant') for bills, roaming passes and contract details. It also guides users to devices and plans.",
+    "category": "Telecom",
+    "nameType": "human",
+    "source": "https://www.maxis.com.my/en/about-maxis/newsroom/2025/october/maxis-pioneers-gen-ai-powered-conversational-in-app-assistant/"
+  },
+  {
+    "name": "ixi-O",
+    "company": "LG Uplus",
+    "project": "",
+    "use": "On-device AI call agent that records and summarizes calls. It also detects voice-phishing scam calls in real time.",
+    "category": "Telecom",
+    "nameType": "brand",
+    "source": "https://www.telecomtv.com/content/telcos-and-ai-channel/south-korea-s-lg-uplus-expands-its-ai-strategy-51723/"
+  },
+  {
+    "name": "Dylan",
+    "company": "Puma",
+    "project": "Puma Las Vegas flagship",
+    "use": "AI 'digital human' concierge on an in-store screen that recommends products and answers shopper questions. It specializes in running gear.",
+    "category": "Fashion",
+    "nameType": "human",
+    "source": "https://www.theatdb.com/news/pumas-ai-head-says-the-brand-is-still-giving-the-keys-to-the-consumer-as-it-invests-in-digital-concierge"
+  },
+  {
+    "name": "The Filmologist",
+    "company": "Filmland Spirits",
+    "project": "FilmlandSpirits.com",
+    "use": "Sarcastic virtual bartender chatbot that tracks orders, finds retailers and suggests cocktails and food pairings.",
+    "category": "Alcohol/wine",
+    "nameType": "brand",
+    "source": "https://www.fredminnick.com/2026/01/28/filmland-spirits-unvels-the-filmologist/"
+  },
+  {
+    "name": "Xiaomei",
+    "company": "Meituan",
+    "project": "Xiaomei app",
+    "use": "Agentic AI app powered by Meituan's LongCat model. It orders food by voice and books restaurants.",
+    "category": "Consumer services",
+    "nameType": "human",
+    "source": "https://kr-asia.com/pulses/157293"
+  },
+  {
+    "name": "Oto",
+    "company": "Otonomus Hotel",
+    "project": "",
+    "use": "AI humanoid robot concierge ('Chief Vibes Officer') that greets guests and suggests restaurants. It speaks more than 50 languages.",
+    "category": "Hospitality",
+    "nameType": "human",
+    "source": "https://euronews.com/next/2026/01/06/meet-oto-the-robot-concierge-welcoming-guests-at-an-ai-powered-hotel-in-las-vegas"
+  },
+  {
+    "name": "Pixie",
+    "company": "Checkers (Shoprite Group)",
+    "project": "Sixty60",
+    "use": "AI shopping assistant that predicts reorders and builds baskets. Its Smart Chat feature can turn photos, recipes or chats into a grocery basket.",
+    "category": "Retail",
+    "nameType": "human",
+    "source": "https://techcentral.co.za/checkers-answers-pick-n-pay-in-the-grocery-ai-race/284732/"
+  },
+  {
+    "name": "Penny",
+    "company": "Pick n Pay",
+    "project": "Pick n Pay app",
+    "use": "Gemini-based conversational shopping assistant that takes text, voice or images. It turns requests such as recipes into basket items.",
+    "category": "Retail",
+    "nameType": "human",
+    "source": "https://techcentral.co.za/checkers-answers-pick-n-pay-in-the-grocery-ai-race/284732/"
+  },
+  {
+    "name": "Vaani",
+    "company": "Inka",
+    "project": "Inkasure",
+    "use": "Voice AI insurance assistant built on Gemini that gives personalized insurance guidance in English, Hindi, Marathi and Telugu. It helps users compare policies and book expert consultations.",
+    "category": "Insurance",
+    "nameType": "human",
+    "source": "https://www.medianews4u.com/inka-unveils-vaani-to-transform-insurance-with-indias-first-voice-ai-platform/"
+  },
+  {
+    "name": "Navi",
+    "company": "State Farm",
+    "project": "Next Gen Good Neighbor",
+    "use": "AI digital assistant in State Farm's agent platform. It helps agents quickly find price quotes and policy details.",
+    "category": "Insurance",
+    "nameType": "brand",
+    "source": "https://newsroom.statefarm.com/state-farm-details-next-gen-good-neighbor/"
+  },
+  {
+    "name": "BayutGPT",
+    "company": "Bayut (Dubizzle Group)",
+    "project": "Bayut",
+    "use": "AI chat assistant on the UAE property portal. It helps users decide where to live, with market data and neighbourhood stats.",
+    "category": "Real estate",
+    "nameType": "brand",
+    "source": "https://www.onlinemarketplaces.com/?p=100981"
+  },
+  {
+    "name": "Workout Buddy",
+    "company": "Apple",
+    "project": "watchOS / Apple Watch Workout app",
+    "use": "AI workout coach that gives spoken pep talks, real-time milestones and post-workout summaries. It uses your workout data and fitness history.",
+    "category": "Fitness",
+    "nameType": "brand",
+    "source": "https://techcrunch.com/2025/06/09/apples-new-workout-buddy-helps-you-sweat-smarter"
+  },
+  {
+    "name": "Karnak Chat",
+    "company": "Egypt Ministry of Communications and Information Technology",
+    "project": "",
+    "use": "Conversational AI assistant built on the Karnak LLM. It understands Modern Standard Arabic and Egyptian colloquial Arabic.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://menastartupdigest.com/?p=49188"
+  },
+  {
+    "name": "Sana",
+    "company": "India Today Group (Aaj Tak)",
+    "project": "",
+    "use": "AI news anchor that presents news bulletins across India Today Group channels.",
+    "category": "Media",
+    "nameType": "human",
+    "source": "https://medianews4u.com/india-today-groups-anchor-ai-sana-wins-her-first-set-of-accolades-at-inma-global-media-awards-2024"
+  },
+  {
+    "name": "Ask Mike",
+    "company": "Michaels",
+    "project": "",
+    "use": "AI shopping assistant that gives craft shoppers personalized product recommendations instead of keyword filters.",
+    "category": "Retail",
+    "nameType": "human",
+    "source": "https://www.theatdb.com/news/michaels-launches-ai-shopping-assistant"
+  },
+  {
+    "name": "Ask Shipt",
+    "company": "Shipt (Target)",
+    "project": "Shipt app",
+    "use": "AI shopping assistant that builds grocery carts from meal photos or text prompts. It works across more than 100 retailers.",
+    "category": "Retail",
+    "nameType": "brand",
+    "source": "https://www.supermarketnews.com/grocery-technology/shipt-launches-ai-shopping-assistant-that-builds-carts-from-photos-text-prompts"
+  },
+  {
+    "name": "G(ai)le",
+    "company": "National Gallery Singapore",
+    "project": "",
+    "use": "AI docent that answers visitors' questions about artworks in English, Mandarin, Malay and Tamil. It also helps staff draft tour content.",
+    "category": "Museum",
+    "nameType": "human",
+    "source": "https://www.microsoft.com/customers/story/24629-national-gallery-singapore-azure-openai"
+  },
+  {
+    "name": "Bott Stevens",
+    "company": "New Jersey Devils",
+    "project": "New Jersey Devils website",
+    "use": "AI chatbot named after Devils legend Scott Stevens. It answers fan questions about schedules, tickets, stats and merchandise using official NHL data.",
+    "category": "Sports",
+    "nameType": "human",
+    "source": "https://cryptonews.net/news/blockchain/30692617/"
+  },
+  {
+    "name": "Sir Lancelbot",
+    "company": "Vegas Golden Knights",
+    "project": "vegasgoldenknights.com",
+    "use": "AI customer-service chatbot on the team website that answers fan questions 24/7.",
+    "category": "Sports",
+    "nameType": "human",
+    "source": "https://www.foleyentertainmentgroup.com/category/vegas-golden-knights/"
+  },
+  {
+    "name": "Ask Ellis",
+    "company": "Ballard Spahr",
+    "project": "",
+    "use": "Generative AI chatbot for the firm's lawyers, named after a co-founding attorney. It leads the firm's custom suite of AI tools.",
+    "category": "Legal",
+    "nameType": "human",
+    "source": "https://www.mlex.com/pulse/articles/2303347"
+  },
+  {
+    "name": "Goo",
+    "company": "Triumvir Law",
+    "project": "",
+    "use": "In-house AI legal assistant for Indian law that drafts notices, does legal research and generates contracts.",
+    "category": "Legal",
+    "nameType": "brand",
+    "source": "https://desikaanoon.in/triumvir-law-incorporates-lucio-and-its-ai-assistant-goo/"
+  },
+  {
+    "name": "Sami",
+    "company": "G2 Esports",
+    "project": "G2 website and Discord",
+    "use": "AI agent based on G2's mascot. It answers fan questions about rosters, match schedules, standings and G2 lore.",
+    "category": "Gaming",
+    "nameType": "human",
+    "source": "https://www.mynewsdesk.com/uk/swipe-right/pressreleases/g2-esports-and-theta-labs-launch-ai-agent-sami-3433100"
+  },
+  {
+    "name": "a.PHiD",
+    "company": "FlyQuest",
+    "project": "flyquest.gg and Discord",
+    "use": "AI chatbot and digital mascot that answers fan questions 24/7 about the roster, matches, player stats and merchandise.",
+    "category": "Gaming",
+    "nameType": "brand",
+    "source": "https://flyquest.gg/blogs/news/flyquest-to-launch-the-first-ai-chatbot-for-esports-industry-powered-by-theta-edgecloud"
+  },
+  {
+    "name": "Digi",
+    "company": "Dignitas",
+    "project": "DIGFort Discord",
+    "use": "AI agent in the form of the Dignitas mascot. It answers tournament rule and schedule questions in the team's 70,000-player Fortnite server.",
+    "category": "Gaming",
+    "nameType": "human",
+    "source": "https://www.blockchaingamer.biz/?p=39754"
+  },
+  {
+    "name": "Genrang.bot",
+    "company": "Gen.G",
+    "project": "geng.gg and Discord",
+    "use": "Bilingual English/Korean AI mascot that answers fan questions about Gen.G's teams and history. It also runs Discord giveaways.",
+    "category": "Gaming",
+    "nameType": "brand",
+    "source": "https://aijourn.com/?p=339269"
+  },
+  {
+    "name": "Nimbus",
+    "company": "Cloud9",
+    "project": "Club9",
+    "use": "Cloud9-branded AI chatbot with live tournament updates and team stats. Fans earn loyalty XP for using it.",
+    "category": "Gaming",
+    "nameType": "brand",
+    "source": "https://www.blockchaingamer.biz/amp/news/38694/cloud9-partners-theta-esports-ai-chatbot-nimbus/"
+  },
+  {
+    "name": "Quakebot",
+    "company": "San Jose Earthquakes",
+    "project": "sjearthquakes.com",
+    "use": "The club's official AI chatbot. It answers fan questions about matches, tickets, lineups, stats, venue info and team news.",
+    "category": "Sports",
+    "nameType": "brand",
+    "source": "https://www.sjearthquakes.com/news/news-san-jose-earthquakes-to-launch-ai-chatbot-powered-by-theta-edgecloud"
+  },
+  {
+    "name": "UnionBot",
+    "company": "Philadelphia Union",
+    "project": "Philadelphia Union app",
+    "use": "AI chatbot in the club's app that answers questions about the club, Subaru Park and the WSFS Bank Sportsplex.",
+    "category": "Sports",
+    "nameType": "brand",
+    "source": "https://www.inquirer.com/soccer/union-mobile-app-soccer-world-cup-chester-wsfs-sportsplex-20250929.html"
+  },
+  {
+    "name": "Captain",
+    "company": "Bundesliga (DFL)",
+    "project": "Bundesliga app",
+    "use": "AI chat assistant built with AWS for live stats, match history, tactical analysis and video highlights. It also has a daily quiz Coach Mode.",
+    "category": "Sports",
+    "nameType": "brand",
+    "source": "https://www.sportsvideo.org/2026/06/03/bundesliga-launches-ai-assistant-captain-in-official-app-developed-with-aws/"
+  },
+  {
+    "name": "Meesh",
+    "company": "Evil Geniuses",
+    "project": "EG website and Discord",
+    "use": "AI chatbot version of the EG mascot that does trash talk and trivia. It shares schedules, standings, rosters and player stats.",
+    "category": "Gaming",
+    "nameType": "human",
+    "source": "https://www.strafe.com/news/read/evil-geniuses-unveils-ai-powered-chatbot-meesh-in-partnership-with-theta-labs/"
+  },
+  {
+    "name": "Dell",
+    "company": "University of Lynchburg",
+    "project": "",
+    "use": "AI chatbot based on the Hornet mascot that answers students' questions about anything Lynchburg-related.",
+    "category": "Education",
+    "nameType": "human",
+    "source": "https://www.lynchburg.edu/university-of-lynchburg-tech-pioneers-featured-in-uk-publication/"
+  },
+  {
+    "name": "Rose Amber",
+    "company": "Fenty Beauty",
+    "project": "WhatsApp",
+    "use": "AI beauty advisor on WhatsApp that gives product recommendations, tutorials and reviews. It also answers skin-concern questions.",
+    "category": "Beauty",
+    "nameType": "human",
+    "source": "https://peopleofcolorintech.com/articles/fenty-beauty-launches-ai-powered-beauty-advisor-on-whatsapp/"
+  },
+  {
+    "name": "Xinhua Yudian",
+    "company": "Xinhua News Agency",
+    "project": "",
+    "use": "AI newsbot built on Xinhua's data. It handles news Q&A, source tracing, fact verification and article drafting.",
+    "category": "Media",
+    "nameType": "brand",
+    "source": "https://www.technologykhabar.com/?p=245373"
+  }
+]

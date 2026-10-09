@@ -1,0 +1,749 @@
+[
+  {
+    "name": "Rivy",
+    "company": "City of Riverside, California",
+    "project": "riversideca.gov / 311 line",
+    "use": "AI chat and voice assistant that answers residents' questions about city services, permits, agendas and programs 24/7.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://riversideca.gov/press/city-riverside-launches-%E2%80%9Crivy%E2%80%9D-ai-chat-and-voice-assistant-improve-city-services-community"
+  },
+  {
+    "name": "Rocky Bot",
+    "company": "City of Knoxville 311 Center (Tennessee)",
+    "project": "knoxvilletn.gov / text line",
+    "use": "24/7 AI bot that answers questions about city services and takes service requests like missed trash pickups or potholes, in 75 languages.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.yahoo.com/news/knoxville-311-launches-rocky-bot-192952498.html"
+  },
+  {
+    "name": "Poppy",
+    "company": "California Department of Technology",
+    "project": "Poppy: California's Digital Assistant",
+    "use": "State-built generative AI assistant for California state employees, used to draft documents, summarize material and research policy.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.cdt.ca.gov/newsroom/2026/07/poppy-california-digitals-assistant-now-available-statewide/"
+  },
+  {
+    "name": "BärGPT",
+    "company": "Berlin Senate Chancellery (Senatskanzlei Berlin)",
+    "project": "",
+    "use": "Berlin's in-house AI assistant for public administration staff. It chats, drafts, translates, summarizes and searches uploaded documents.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2025/pressemitteilung.1619432.php"
+  },
+  {
+    "name": "Sali",
+    "company": "City of Salinas, California",
+    "project": "salinas.gov / text",
+    "use": "AI virtual assistant that helps residents find information on city services, permits and public notices 24/7.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://localnewsmatters.org/2026/07/04/meet-sali-salinas-new-ai-virtual-assistant-ready-to-help-residents-access-city-services/"
+  },
+  {
+    "name": "Sunny",
+    "company": "City and County of Denver (Denver 311)",
+    "project": "denvergov.org/Sunny, SMS, WhatsApp",
+    "use": "AI chatbot that answers residents' questions and connects them to city services 24/7, in many languages.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.denvergazette.com/?p=345381"
+  },
+  {
+    "name": "Bobbi",
+    "company": "Thames Valley Police and Hampshire & Isle of Wight Constabulary",
+    "project": "Force websites (Salesforce Agentforce)",
+    "use": "AI digital assistant that answers non-emergency police questions and hands high-risk conversations to human staff.",
+    "category": "Government (police)",
+    "nameType": "human",
+    "source": "https://www.salesforce.com/news/stories/bobbi-agentforce-transforms-law-enforcement/"
+  },
+  {
+    "name": "Ava",
+    "company": "Akron Police Department (Ohio)",
+    "project": "Non-emergency phone line",
+    "use": "AI voice assistant that answers non-emergency police calls, routes callers and collects information for dispatchers.",
+    "category": "Government (police)",
+    "nameType": "human",
+    "source": "https://spectrumnews1.com/oh/columbus/news/2025/12/15/akron-police-ai-non-emergency"
+  },
+  {
+    "name": "SARA",
+    "company": "Halton Regional Police Service (Ontario)",
+    "project": "Non-emergency phone line",
+    "use": "Smart Answering Routing Assistant: AI voice system that fields non-emergency calls and transfers callers to human communicators when needed.",
+    "category": "Government (police)",
+    "nameType": "human",
+    "source": "https://www.cp24.com/local/halton/2025/11/10/toronto-region-police-unit-turns-to-ai-to-help-answer-calls"
+  },
+  {
+    "name": "Aimee",
+    "company": "Thurrock Council (UK)",
+    "project": "Council phone line",
+    "use": "Voice AI assistant that answers phone calls about council tax, discounts and exemptions.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.thurrock.gov.uk/news/customer-service/introducing-aimee-here-to-help-with-council-tax-questions"
+  },
+  {
+    "name": "Millie",
+    "company": "Renfrewshire Council (Scotland)",
+    "project": "Council phone line (ICS.AI)",
+    "use": "AI digital advisor that answers routine resident calls about council services 24/7 and transfers complex calls to staff.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.renfrewshire.gov.uk/news/2025/renfrewshire-councils-digital-advisor-millie-wins-innovation-award"
+  },
+  {
+    "name": "Laurel",
+    "company": "City of Menlo Park, California",
+    "project": "menlopark.gov (Citibot)",
+    "use": "Virtual assistant that helps residents find information on city services, events and meetings, 24/7 in 70+ languages.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.menlopark.gov/News-articles/City-news/20260817City-of-Menlo-Park-launches-virtual-assistant-Laurel"
+  },
+  {
+    "name": "Amina",
+    "company": "Dubai Police",
+    "project": "Dubai Police website",
+    "use": "AI virtual assistant that guides users through Dubai Police online services.",
+    "category": "Government (police)",
+    "nameType": "human",
+    "source": "https://gulfnews.com/uae/government/dubai-police-unveils-12-ai-innovations-at-gitex-global-2025-1.500311526"
+  },
+  {
+    "name": "Mahboub",
+    "company": "Dubai Roads and Transport Authority (RTA)",
+    "project": "RTA channels / DubaiNow",
+    "use": "RTA's corporate virtual assistant that helps customers with transport and licensing services.",
+    "category": "Government (transit)",
+    "nameType": "human",
+    "source": "https://gulfnews.com/uae/dubai-rtas-mahboub-upgrade-makes-digital-services-smarter-1.500238072"
+  },
+  {
+    "name": "Saif",
+    "company": "Qatar Ministry of Commerce and Industry",
+    "project": "MOCI website and app",
+    "use": "AI virtual assistant that answers questions on commercial activities and trade names and helps users complete ministry services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.qatar-tribune.com/article/177928/business/moci-unveils-ai-tools-smart-assistant-and-saif-in-digital-leap"
+  },
+  {
+    "name": "GovGPT",
+    "company": "Abu Dhabi Department of Government Enablement",
+    "project": "",
+    "use": "Sovereign, bilingual AI assistant for Abu Dhabi government employees that searches government knowledge and lets staff build custom agents.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://dge.gov.ae/en/news/2025-gitex-wrap-day-5"
+  },
+  {
+    "name": "AutoGov",
+    "company": "Abu Dhabi Department of Government Enablement",
+    "project": "TAMM 4.0",
+    "use": "Billed as an 'AI public servant' that automatically handles recurring tasks such as licence renewals, utility payments and appointments.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://dge.gov.ae/en/news/2025-gitex-wrap-day-5"
+  },
+  {
+    "name": "George AI",
+    "company": "Georgia Department of Labor",
+    "project": "dol.georgia.gov",
+    "use": "AI chatbot that answers questions from job seekers, unemployment claimants and employers on the GDOL website.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://statescoop.com/?p=54323"
+  },
+  {
+    "name": "Lumi",
+    "company": "City of Heidelberg (Germany)",
+    "project": "heidelberg.de (Aleph Alpha)",
+    "use": "LLM-based citizen assistant that answers questions about the city and its administrative services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.heidelberg.de/Digitale-Stadt/datenschutzhinweise"
+  },
+  {
+    "name": "ELSE",
+    "company": "Landkreis Emsland and Landkreis Grafschaft Bentheim (Germany)",
+    "project": "District website (Onlim)",
+    "use": "AI chatbot on the district website that answers residents' questions, starting with health topics.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://kommunal.de/chatbot-else-muckl-kommunen"
+  },
+  {
+    "name": "WienBot",
+    "company": "City of Vienna (Austria)",
+    "project": "WienBot app",
+    "use": "The city's AI chatbot that answers residents' and visitors' questions about Vienna's services and city information.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.wien.gv.at/pdf/magistratsdirektion/veroeffentlichte-anfragen/anfrage-ki-stadtverwaltung.pdf"
+  },
+  {
+    "name": "CourtHelp",
+    "company": "Superior Court of California, County of Los Angeles",
+    "project": "lacourt.ca.gov",
+    "use": "AI virtual assistant that guides court users through services, jury registration, filing instructions and traffic ticket tasks.",
+    "category": "Government (courts)",
+    "nameType": "brand",
+    "source": "https://www.smdp.com/superior-court-expands-online-tool-to-handle-traffic-tickets/"
+  },
+  {
+    "name": "AskDISHA 2.0",
+    "company": "Indian Railway Catering and Tourism Corporation (IRCTC)",
+    "project": "IRCTC website and app",
+    "use": "AI virtual assistant for booking and cancelling train tickets, checking refunds and PNR status, with voice support in several languages.",
+    "category": "Government (transit)",
+    "nameType": "brand",
+    "source": "https://www.businesstoday.in/amp/personal-finance/news/story/irctc-askdisha-2-ai-assistant-train-ticket-booking-refund-cancellation-478255-2025-05-29"
+  },
+  {
+    "name": "Navvie",
+    "company": "NJ Transit",
+    "project": "njtransit.com",
+    "use": "AI chatbot that helps riders get trip-planning and travel information on NJ Transit's redesigned website.",
+    "category": "Government (transit)",
+    "nameType": "brand",
+    "source": "https://bronx.news12.com/nj-transit-debuts-ai-powered-chatbot-website-and-upcoming-app-upgrades"
+  },
+  {
+    "name": "Samadhan Didi",
+    "company": "India Department of Administrative Reforms and Public Grievances",
+    "project": "CPGRAMS",
+    "use": "AI voice chatbot that lets citizens file and track public grievances by speaking in their own language.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.drishtiias.com/state-pcs-current-affairs/samadhan-didi-ai-voice-chatbot-launched/print_manually"
+  },
+  {
+    "name": "Cortez",
+    "company": "Manatee County (Florida)",
+    "project": "mymanatee.org",
+    "use": "24/7 digital assistant that answers questions on garbage pickup, property taxes, permits, parks and county meetings.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.mymanatee.org/connect/news-and-information/news-and-information/article-detail/government-relations---legislative-affairs/2025/10/07/manatee-county-launches--cortez----new-online-chatbot-to-help-citizens-get-answers-faster"
+  },
+  {
+    "name": "Pinestein",
+    "company": "Village of Pinecrest (Florida)",
+    "project": "pinecrest-fl.gov (Citibot)",
+    "use": "AI web chat assistant that answers questions, takes service requests and connects residents to staff in 75+ languages.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.pinecrest-fl.gov/Government/Communications-Division/News/Pinecrest-Launches-247-Multilingual-Web-Chat-Assistant"
+  },
+  {
+    "name": "Will",
+    "company": "Prince William County (Virginia)",
+    "project": "PWC 311 (Citibot)",
+    "use": "AI chatbot in the county's 311 service that answers common questions, often on taxes and real estate, and guides service requests.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://pwcva.gov/news/prince-william-county-311-marks-one-year-service-expands-access-and-capabilities"
+  },
+  {
+    "name": "HippoBOT",
+    "company": "City of Hutto (Texas)",
+    "project": "huttotx.gov (Citibot)",
+    "use": "24/7 web chat assistant that helps residents find city information, report issues and reach departments.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.cbsaustin.com/news/local/hutto-rolls-out-hippobot-a-247-ai-chatbot-for-city-services-and-issue-reports"
+  },
+  {
+    "name": "Lizzie",
+    "company": "City of Belmont (California)",
+    "project": "belmont.gov (Granicus GXA)",
+    "use": "AI digital agent that helps residents find information and connect with city services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://granicus.com/wp-content/uploads/Resource-Success-Story-Belmont-CA-and-GXA.pdf"
+  },
+  {
+    "name": "Oak Parker",
+    "company": "Village of Oak Park (Illinois)",
+    "project": "oak-park.us (Granicus GXA)",
+    "use": "AI chatbot that answers resident questions about permits, grants, zoning rules and Village Hall services in 75 languages.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.oak-park.us/News-articles/Village-of-Oak-Park-launches-AI-powered-digital-agent-to-enhance-service-delivery"
+  },
+  {
+    "name": "Timi",
+    "company": "Timișoara Municipality (Romania)",
+    "project": "Municipal website",
+    "use": "AI virtual assistant that answers residents' questions by text or voice, books ID appointments and routes complaints.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.bta.bg/en/news/balkans/1060242-timisoara-municipality-launches-ai-powered-virtual-assistant-for-citizens-servic"
+  },
+  {
+    "name": "Nate",
+    "company": "City of Hawthorne (California)",
+    "project": "City and police websites (Citibot)",
+    "use": "AI chatbot that answers questions about city programs, public works and permits; named after Nathaniel Hawthorne.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.citibot.io/news"
+  },
+  {
+    "name": "Frankie",
+    "company": "City of Franklin (Tennessee)",
+    "project": "franklintn.gov (Citibot)",
+    "use": "Generative AI web chat assistant that answers questions, takes service requests and connects residents with staff in 75 languages.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.citibot.io/news"
+  },
+  {
+    "name": "Greenie",
+    "company": "City of Clive (Iowa)",
+    "project": "Citibot",
+    "use": "AI chatbot that answers residents' questions about city services.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.citibot.io/news"
+  },
+  {
+    "name": "Archie",
+    "company": "Ogden City (Utah)",
+    "project": "Citibot",
+    "use": "AI chatbot that answers residents' questions about city services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.citibot.io/news"
+  },
+  {
+    "name": "Archie",
+    "company": "City of Bakersfield (California)",
+    "project": "Citibot",
+    "use": "AI chatbot that answers residents' questions about city services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.citibot.io/news"
+  },
+  {
+    "name": "Piper",
+    "company": "City of Revere (Massachusetts)",
+    "project": "Citibot",
+    "use": "AI chatbot that answers residents' questions about city services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.citibot.io/news"
+  },
+  {
+    "name": "Sal (Ask Sal)",
+    "company": "Saline County",
+    "project": "Citibot",
+    "use": "AI chatbot that answers residents' questions about county services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.citibot.io/news"
+  },
+  {
+    "name": "Baldi",
+    "company": "Baldwin County (Alabama)",
+    "project": "Citibot",
+    "use": "AI customer service chat assistant for county residents.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.citibot.io/news"
+  },
+  {
+    "name": "Sawyer",
+    "company": "Town of Mount Pleasant (South Carolina)",
+    "project": "Citibot",
+    "use": "AI chatbot that answers residents' questions about town services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.citibot.io/news"
+  },
+  {
+    "name": "Sunnie",
+    "company": "City of Isle of Palms (South Carolina)",
+    "project": "Citibot",
+    "use": "AI chat and text assistant that answers residents' questions about city services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.citibot.io/news"
+  },
+  {
+    "name": "AIDA",
+    "company": "City of Coral Gables (Florida)",
+    "project": "Smart City Hub / 311",
+    "use": "Artificial Intelligence Digital Assistant that helps residents navigate the city's Smart City Hub and e-government tools.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://govlaunch.com/collections/chatbots"
+  },
+  {
+    "name": "Della",
+    "company": "Delaware Division of Motor Vehicles",
+    "project": "dmv.de.gov",
+    "use": "AI-powered chatbot that helps DMV website visitors with driver services, vehicle services and general questions.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://news.delaware.gov/2024/08/01/dmv-introduces-new-chatbot-della"
+  },
+  {
+    "name": "MIA",
+    "company": "Government of Argentina (Secretariat of Innovation, Science and Technology)",
+    "project": "TINA / Mi Argentina",
+    "use": "The national state's first AI agent, built on Meta's Llama, helping entrepreneurs and small businesses with procedures and Mi Argentina users with state services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://mercado.com.ar/tecnologia/botmaker-y-meta-presentan-mia-el-primer-agente-de-ia-del-estado-nacional"
+  },
+  {
+    "name": "TINA",
+    "company": "Government of Argentina (Secretariat of Innovation, Science and Technology)",
+    "project": "WhatsApp, Mi Argentina, argentina.gob.ar",
+    "use": "Official government chatbot giving 24/7 access to more than 600 procedures from 72 national agencies.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://mercado.com.ar/tecnologia/botmaker-y-meta-presentan-mia-el-primer-agente-de-ia-del-estado-nacional"
+  },
+  {
+    "name": "GovGuide Nigeria",
+    "company": "Nigeria Federal Ministry of Communications, Innovation and Digital Economy",
+    "project": "",
+    "use": "Multilingual voice and text AI chatbot (built on Meta Llama) that gives Nigerians information on government services in English, Hausa, Igbo and Yoruba.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://fmcide.gov.ng/fmcide-and-meta-launch-govguide-nigeria-an-ai-powered-government-services-chatbot/"
+  },
+  {
+    "name": "Service-Wise GPT",
+    "company": "Office of the Head of the Civil Service of the Federation (Nigeria)",
+    "project": "",
+    "use": "AI assistant for Nigerian civil servants that answers questions on public service rules and drafts memos and policy analysis.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://techpoint.africa/2025/01/30/nigeria-launches-ai-service-wise-gpt/"
+  },
+  {
+    "name": "Candelaria",
+    "company": "Bogotá Tourism Institute (Instituto Distrital de Turismo)",
+    "project": "visitbogota.co / Visit Bogotá app",
+    "use": "Generative AI tourism assistant that gives visitors 24/7 information, recommendations and itineraries for Bogotá.",
+    "category": "Government (tourism)",
+    "nameType": "human",
+    "source": "https://bogota.gov.co/en/international/candelaria-bogota-tourism-chatbot-debuts-madrid-spain-2025"
+  },
+  {
+    "name": "FOXI",
+    "company": "Visit Leicester",
+    "project": "visitleicester.info",
+    "use": "Tourism AI chatbot (Find Out Xtra Info) that answers questions on attractions, events, dining and accommodation in Leicester and Leicestershire.",
+    "category": "Government (tourism)",
+    "nameType": "brand",
+    "source": "https://www.travelextra.ie/visit-leicester-introduces-englands-first-official-tourism-ai-chatbot/"
+  },
+  {
+    "name": "Felix",
+    "company": "North Carolina Division of Employment Security",
+    "project": "MyNCUIBenefits",
+    "use": "Generative AI chatbot that helps people file new unemployment insurance claims and answers questions about the application.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.des.nc.gov/news/press-releases/2025/02/21/filing-unemployment-insurance-gets-easier-new-online-chat-system-launches"
+  },
+  {
+    "name": "Ask Ziyad",
+    "company": "Zakat, Tax and Customs Authority (ZATCA), Saudi Arabia",
+    "project": "",
+    "use": "Generative AI digital assistant that answers zakat, tax and customs questions by voice or text using ZATCA's published guidelines.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://zatca.gov.sa/en/MediaCenter/News/Pages/Askziyad-zatca-digital-assistant-2025.aspx"
+  },
+  {
+    "name": "Nusuk AI",
+    "company": "Saudi Ministry of Hajj and Umrah",
+    "project": "Nusuk app",
+    "use": "AI assistant that answers pilgrims' questions about Hajj, Umrah and visitation in 180+ languages and directs them to services.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://haj.gov.sa/en/Media-Center/Ministry-News/2026/Ministry-of-Hajj-and-Umrah-Earns-AI-Ethics-Seal-for-Nusuk-AI-Service"
+  },
+  {
+    "name": "eGov GPT",
+    "company": "Kazakhstan Ministry of Artificial Intelligence and Digital Development",
+    "project": "eGov portal",
+    "use": "AI assistant where citizens describe their situation in plain text and it finds the right public service, prepares the application and returns the result.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://astanatimes.com/2026/08/egov-gpt-expansion-advances-kazakhstans-digital-government-push/"
+  },
+  {
+    "name": "AI Boogi News",
+    "company": "Busan Metropolitan City (South Korea)",
+    "project": "",
+    "use": "Generative AI chatbot voiced by the city mascot Boogi that answers questions about Busan policies by voice or text, with a 3D character.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.busan.go.kr/eng/ai-translated-press-releases/1731840"
+  },
+  {
+    "name": "Vaidya AI",
+    "company": "Brihanmumbai Municipal Corporation (BMC)",
+    "project": "WhatsApp",
+    "use": "AI WhatsApp chatbot that helps Mumbai residents find civic health facilities, check health-scheme eligibility and give feedback.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.freepressjournal.in/mumbai/mumbai-bmc-launches-ai-powered-whatsapp-chatbot-vaidya-ai-for-public-healthcare-services"
+  },
+  {
+    "name": "Abhay",
+    "company": "Central Bureau of Investigation (India)",
+    "project": "",
+    "use": "AI chatbot that lets citizens check whether a notice claiming to be from the CBI is genuine, to fight 'digital arrest' scams.",
+    "category": "Government (police)",
+    "nameType": "human",
+    "source": "https://www.drishtiias.com/state-pcs-current-affairs/cbi-launched-ai-chatbot-abhay"
+  },
+  {
+    "name": "Willow",
+    "company": "Prince William County (Virginia)",
+    "project": "PWC 311 after-hours line",
+    "use": "AI voice agent that answers 311 calls after hours and routes urgent issues to emergency services.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://pwcva.gov/news/prince-william-county-311-marks-one-year-service-expands-access-and-capabilities"
+  },
+  {
+    "name": "KolokoloChat",
+    "company": "Hawaiʻi State Judiciary",
+    "project": "",
+    "use": "AI chatbot that gives court users 24/7 answers, forms and self-help resources, including for self-represented litigants.",
+    "category": "Government (courts)",
+    "nameType": "brand",
+    "source": "https://www.hawaii.edu/news/2025/05/02/judiciary-ai-chatbot-launches/"
+  },
+  {
+    "name": "Koko",
+    "company": "Seychelles Tourism Department",
+    "project": "",
+    "use": "AI travel assistant chatbot that gives visitors personalised guidance for trips to Seychelles.",
+    "category": "Government (tourism)",
+    "nameType": "human",
+    "source": "https://nation.sc/articles/23593/tourism-department-launches-ai-travel-assistant-koko-at-digital-tourism-summit"
+  },
+  {
+    "name": "Frankie",
+    "company": "Visit Frisco (City of Frisco, Texas)",
+    "project": "visitfrisco.com (GuideGeek)",
+    "use": "AI travel chatbot that answers visitor questions and suggests hotels, restaurants, shops and events in Frisco.",
+    "category": "Government (tourism)",
+    "nameType": "human",
+    "source": "https://www.visitfrisco.com/press-room/frisco-named-winner-idcs-2026-smart-cities-north-america-awards"
+  },
+  {
+    "name": "Sara",
+    "company": "Saudi Tourism Authority",
+    "project": "Visit Saudi / Spirit of Saudi",
+    "use": "AI digital human tour guide that answers questions and builds personalised itineraries for travel in Saudi Arabia.",
+    "category": "Government (tourism)",
+    "nameType": "human",
+    "source": "https://www.listmag.com/en/travel-stay/luxury-travel/saudi-tourism-authority-introduces-sara-the-kingdoms-ai-tour-guide-2873"
+  },
+  {
+    "name": "Darcie",
+    "company": "Derby City Council (UK)",
+    "project": "Council website and phone line",
+    "use": "Generative AI digital helper that answers residents' questions on bins, planning, adult social care and more, in English and nine other languages.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://derby.gov.uk/news/2025/may/councils-digital-helper-darcie-gets-next-generation-upgrade-for-phone-calls/"
+  },
+  {
+    "name": "Ali",
+    "company": "Derby City Council (UK)",
+    "project": "Council housing services",
+    "use": "AI digital helper that answers housing enquiries for Derby residents.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://derby.gov.uk/news/2025/may/councils-digital-helper-darcie-gets-next-generation-upgrade-for-phone-calls/"
+  },
+  {
+    "name": "Ellis",
+    "company": "New York City Tourism + Conventions",
+    "project": "GuideGeek",
+    "use": "AI chat platform that gives meeting and convention planners guidance on New York City in 45 languages.",
+    "category": "Government (tourism)",
+    "nameType": "human",
+    "source": "https://www.bizbash.com/event-production-planning/us-snl50-experience-nyc-tourism-s-new-ai-tool-for-planners-destinations-international-la-wildfire-recovery-fund-and-more"
+  },
+  {
+    "name": "Chessie",
+    "company": "Visit Baltimore",
+    "project": "baltimore.org (GuideGeek)",
+    "use": "AI travel assistant that builds itineraries and answers questions about Baltimore neighborhoods, food and events.",
+    "category": "Government (tourism)",
+    "nameType": "human",
+    "source": "https://baltimore.org/press-releases/visit-baltimore-and-guidegeek-launch-chessie-an-ai-travel-assistant-for-charm-city/"
+  },
+  {
+    "name": "Batho Pele AI Chatbot",
+    "company": "South Africa Department of Public Service and Administration",
+    "project": "",
+    "use": "AI chatbot (Meta Llama) that gives citizens and public servants quick access to public-service policies, circulars and legislation.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://iol.co.za/news/partnered/2026-08-03-innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot-title/"
+  },
+  {
+    "name": "Govbot",
+    "company": "Japan Ministry of Internal Affairs and Communications",
+    "project": "",
+    "use": "Shared national/local AI chatbot that answers common resident questions on My Number, child-rearing and tax thresholds.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://aismiley.co.jp/ai_news/mic-govbot-ai-chatbot/"
+  },
+  {
+    "name": "Farah",
+    "company": "Government of Jordan (Ministry of Government Communication)",
+    "project": "",
+    "use": "AI digital government spokesperson that delivers official government information to citizens in clear, simple form.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://petra.gov.jo/index.php/en/news/government-launches-ai-powered-digital-spokesperson-farah"
+  },
+  {
+    "name": "Brightly",
+    "company": "City of Brighton (Colorado)",
+    "project": "brightonco.gov / text (Citibot)",
+    "use": "24/7 AI virtual assistant that answers routine questions, takes service requests and connects residents to staff in 75 languages.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://brightonco.gov/CivicAlerts.asp?AID=2700"
+  },
+  {
+    "name": "AskCOS",
+    "company": "City of Colorado Springs",
+    "project": "coloradosprings.gov (Citibot)",
+    "use": "Generative AI chatbot that answers residents' questions using only information from the city's website.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.denver7.com/news/state-news/colorado-springs-unveils-new-ai-powered-chatbot-askcos-on-city-website"
+  },
+  {
+    "name": "CurioCity",
+    "company": "City of Peachtree Corners (Georgia)",
+    "project": "City website (Citibot)",
+    "use": "24/7 chat assistant that answers questions, takes service requests and routes residents to the right department.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.wsbtv.com/news/local/gwinnett-county/peachtree-corners-launches-ai-assistant-247-residential-needs/UKBPECU3TFGN7NS3EFWM755KSM"
+  },
+  {
+    "name": "Humphrey",
+    "company": "Village of Orland Park (Illinois)",
+    "project": "Village website (Citibot)",
+    "use": "AI chatbot named after the village's first mayor that answers questions about services, permits, meetings and events in 70+ languages.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.govtech.com/artificial-intelligence/chicago-suburb-launches-new-chatbot-named-humphrey"
+  },
+  {
+    "name": "Trudy",
+    "company": "Town of Vernon (Connecticut)",
+    "project": "After-hours phone line (Polimorphic)",
+    "use": "AI voice line named after a longtime town hall receptionist that answers callers' questions and takes service requests 24/7.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://polimorphic.com/articles/alexa-soon-to-have-a-sister-in-vernon-named-trudy"
+  },
+  {
+    "name": "Kuya A",
+    "company": "Philippines Department of Information and Communications Technology (DICT)",
+    "project": "eGovPH app (eGovAI)",
+    "use": "AI assistant that helps Filipinos find government information, navigate public services, translate and complete digital transactions.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://philstarlife.com/geeky/335319-dict-launches-new-ai-assistant-egovph-app-what-it-can-do"
+  },
+  {
+    "name": "POLA",
+    "company": "Philippine Deposit Insurance Corporation (PDIC)",
+    "project": "PDIC website",
+    "use": "PDIC Online Assistant: AI chatbot that answers public inquiries about deposit insurance.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.philstar.com/business/2025/11/02/2484170/pdic-launches-ai-chatbot-enhance-public-service"
+  },
+  {
+    "name": "Terry",
+    "company": "Philippines Bureau of Internal Revenue (BIR)",
+    "project": "",
+    "use": "Tax AI assistant that helps BIR staff find, compare and analyze tax regulations and rulings with cited sources.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://tribune.net.ph/2026/08/30/bir-ayala-team-up-powering-tax-ai-terry-2"
+  },
+  {
+    "name": "Millie",
+    "company": "City of Markham (Ontario)",
+    "project": "markham.ca (Chatbot 3.0)",
+    "use": "AI virtual assistant, fronted by the city's butterfly mascot, that answers questions from the city website 24/7 and connects users to agents.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://www.markhammuseum.ca/about-city-markham/news/news-releases/markham-introduces-millie-canadas-first-municipal-mascot-and-latest-version-of-citys-leading-edge-ai-chatbot"
+  },
+  {
+    "name": "Ana",
+    "company": "Valladolid City Council (Spain)",
+    "project": "Council website",
+    "use": "Generative AI virtual assistant that answers citizens' questions about procedures, activities, facilities and subsidies.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://luceit.com/en/customer-success-stories/valladolid-city-council-google-cloud-gen-ai/"
+  },
+  {
+    "name": "AL21",
+    "company": "Alicante City Council (Spain)",
+    "project": "Municipal website / e-office",
+    "use": "AI virtual assistant trained on calls to the city's 010 line that helps residents find information and complete procedures.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.elindependiente.com/espana/valencia/2024/01/18/alicante-lanza-una-ia-pionera-que-ha-sido-entrenada-con-miles-de-llamadas-al-telefono-municipal/amp/"
+  },
+  {
+    "name": "AskCA",
+    "company": "State of California (Office of Governor Newsom)",
+    "project": "ask.ca.gov",
+    "use": "AI digital assistant that helps Californians find state and local services organized around life events like jobs, business and disaster recovery.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://www.gov.ca.gov/2026/09/09/government-made-easier-governor-newsom-introduces-askca-a-new-ai-powered-tool-for-californians/"
+  },
+  {
+    "name": "Nebraska Navigator",
+    "company": "State of Nebraska",
+    "project": "Nebraska.gov",
+    "use": "Resident-assistance AI chatbot on the state's main website that helps people find state services and information.",
+    "category": "Government",
+    "nameType": "brand",
+    "source": "https://governor.nebraska.gov/node/9947"
+  },
+  {
+    "name": "Kommune-Kiri",
+    "company": "Roskilde Kommune and other Danish municipalities",
+    "project": "Municipal websites (boost.ai)",
+    "use": "Shared conversational AI that answers citizens' questions on municipal websites 24/7 and passes complex queries to staff.",
+    "category": "Government",
+    "nameType": "human",
+    "source": "https://boost.ai/case-studies/kommune-kiri-roskilde-kommune"
+  }
+]

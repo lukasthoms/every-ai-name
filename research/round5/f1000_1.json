@@ -1,0 +1,152 @@
+[
+ {
+  "name": "IDA",
+  "company": "Ingram Micro",
+  "project": "Xvantage (Intelligent Digital Assistant)",
+  "use": "Intelligent Digital Assistant powering Ingram Micro's Xvantage platform, driving proactive sales engagements and quote-to-order conversions.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://ceointerviews.ai/interview/1015764/",
+  "list": "Fortune 1000 #95"
+ },
+ {
+  "name": "AgenTeq",
+  "company": "Ingram Micro",
+  "project": "Xvantage",
+  "use": "Brand for Ingram Micro's agentic AI capabilities in Xvantage, covering 400+ AI/ML models including the Sales Brief Agent for sales teams.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://channelbuzz.ca/2026/03/icymi-ingram-micro-bets-big-on-agentic-ai-memory-pricing-pain-deepens-and-the-channel-gets-mental-health-community-46016/",
+  "list": "Fortune 1000 #95"
+ },
+ {
+  "name": "Shaqbot",
+  "company": "Carvana",
+  "project": "Shaqvana.com",
+  "use": "AI customer assistant that speaks in Shaquille O'Neal's voice and helps shoppers browse inventory and answer car-buying questions.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://peopleofcolorintech.com/articles/shaq-oneal-launches-ai-powered-assistant-called-the-shaqbot-with-carvana/",
+  "list": "Fortune 1000 #314"
+ },
+ {
+  "name": "Giga",
+  "company": "Frontier Communications",
+  "project": "Website and MyFrontier app",
+  "use": "AI chatbot that checks balances, compares bills, manages appointments and troubleshoots service issues 24/7.",
+  "category": "Customer service",
+  "nameType": "brand",
+  "source": "https://newsroom.frontier.com/building-gigabit-america/meet-giga-frontiers-ai-driven-chatbot-is-ready-to-have-personalized-conversations/",
+  "list": "Fortune 1000 #583"
+ },
+ {
+  "name": "Assist",
+  "company": "Motorola Solutions",
+  "project": "SVX body camera / speaker mic",
+  "use": "AI assistant on the SVX device that helps first responders with real-time translation, policy guidance, plate and license lookups and report verification.",
+  "category": "Government & public safety",
+  "nameType": "brand",
+  "source": "https://www.verdict.co.uk/motorola-ai-emergency-svx/",
+  "list": "Fortune 1000 #392"
+ },
+ {
+  "name": "Kate",
+  "company": "GEICO (Berkshire Hathaway)",
+  "project": "GEICO Mobile app",
+  "use": "Virtual assistant in the GEICO Mobile app that answers policy, billing and document questions for policyholders.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://getperspective.ai/blog/geico-s-ai-chatbot-strategy-how-the-auto-insurance-giant-is-replacing-forms-with-conversations-in-2026/markdown",
+  "list": "Fortune 1000 #6"
+ },
+ {
+  "name": "Claire",
+  "company": "Henry Schein One (Henry Schein)",
+  "project": "Henry Schein One support",
+  "use": "Multilingual 24/7 support assistant that dental software customers reach by chat or phone.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://distributionstrategy.com/2025/12/henry-schein-one-launches-embedded-ai-workflows/",
+  "list": "Fortune 1000 #333"
+ },
+ {
+  "name": "Ask.Watsco",
+  "company": "Watsco",
+  "project": "",
+  "use": "Internal AI assistant used by more than 2,000 Watsco employees to handle customer requests faster.",
+  "category": "Wholesale",
+  "nameType": "brand",
+  "source": "https://distributionstrategy.com/2025/08/why-watsco-is-turning-up-the-heat-on-digital-operations/",
+  "list": "Fortune 1000 #486"
+ },
+ {
+  "name": "ChatHUE",
+  "company": "Behr Paint Company (Masco)",
+  "project": "behr.com",
+  "use": "AI agent built on Google Gemini and Behr's color data that helps homeowners choose paint colors through chat.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://paintmag.com/behr-partners-with-google-for-online-color-tool/",
+  "list": "Fortune 1000 #478"
+ },
+ {
+  "name": "Rai",
+  "company": "Raymond James Financial",
+  "project": "",
+  "use": "Proprietary AI operations agent that answers employees' operational questions in a chat, tailored to each user's role and entitlements.",
+  "category": "Banking",
+  "nameType": "brand",
+  "source": "https://pulse2.com/raymond-james-unveils-rai-a-proprietary-ai-operations-agent-for-internal-q&a-and-process-support/",
+  "list": "Fortune 1000 #294"
+ },
+ {
+  "name": "ScentChat",
+  "company": "IFF (International Flavors & Fragrances)",
+  "project": "",
+  "use": "AI-powered messaging app that collects real-time consumer feedback on fragrances via WhatsApp and Messenger and generates insight reports for perfumers.",
+  "category": "Chemicals",
+  "nameType": "brand",
+  "source": "https://technode.global/prnasia/iff-adds-real-time-consumer-feedback-into-fragrance-creation-with-introduction-of-ai-powered-scentchat-app/",
+  "list": "Fortune 1000 #369"
+ },
+ {
+  "name": "Gingham Genius",
+  "company": "Bath & Body Works",
+  "project": "",
+  "use": "Generative AI fragrance finder where shoppers describe a scent or candle in a conversational interface and get personalized recommendations.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://www.retaildive.com/news/bath-body-works-generative-ai-tool-fragrance/725765/",
+  "list": "Fortune 1000 #506"
+ },
+ {
+  "name": "Luna",
+  "company": "eXp Realty (eXp World Holdings)",
+  "project": "",
+  "use": "GPT-4-based support chatbot that answers eXp real estate agents' questions around the clock.",
+  "category": "Real estate",
+  "nameType": "human",
+  "source": "https://getperspective.ai/blog/exp-realty-ai-strategy-cloud-brokerage-80000-agents-2026/markdown",
+  "list": "Fortune 1000 #709"
+ },
+ {
+  "name": "Asphalt Guru",
+  "company": "Granite Construction",
+  "project": "Asphalt Basics E-Learning",
+  "use": "Internal AI platform that answers employees' paving technical questions and offers interactive training from Granite's knowledge base.",
+  "category": "Construction",
+  "nameType": "brand",
+  "source": "https://investor.graniteconstruction.com/news-and-events/press-releases/granites-asphalt-guru-wins-agc-innovation-year-award",
+  "list": "Fortune 1000 #775"
+ },
+ {
+  "name": "UP Chat",
+  "company": "Union Pacific",
+  "project": "",
+  "use": "Secure internal LLM chatbot built by Union Pacific's tech team so employees can brainstorm, analyze data and draft recaps without public ChatGPT.",
+  "category": "Transportation",
+  "nameType": "brand",
+  "source": "https://www.up.com/news/service/ai-chatgpt-tool-it-240205",
+  "list": "Fortune 1000 #177"
+ }
+]

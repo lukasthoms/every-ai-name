@@ -1,0 +1,682 @@
+[
+ {
+  "name": "Alice",
+  "company": "11x",
+  "launched": "2023-10",
+  "basis": "launched",
+  "evidence": "11x publicly launched with $2m pre-seed; first digital worker SDR Alice; MIT AI Agent Index lists deployment Oct 28, 2023.",
+  "dateSource": "https://aiagentindex.mit.edu/2024/alice"
+ },
+ {
+  "name": "Jordan",
+  "company": "11x",
+  "launched": "2024-08",
+  "basis": "earliest mention",
+  "evidence": "Lyzr comparison article dated Aug 20, 2024 already covers 11x's AI phone rep Jordan.",
+  "dateSource": "https://www.lyzr.ai/blog/jazon-vs-jordan/"
+ },
+ {
+  "name": "Julian",
+  "company": "11x",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Mindy",
+  "company": "1mind",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "1mind publicly launched Nov 10, 2025 with $40M and its Superhumans; Mindy is flagship Superhuman.",
+  "dateSource": "https://www.vcaonline.com/news/2025111005/1mind-publicly-launches-with-40-million-to-usher-in-new-era-of-ai-led-sales-with-highly-skilled-persuasive-and-emotionally-intelligent-superhumans-/"
+ },
+ {
+  "name": "Ask 3M",
+  "company": "3M",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "June 22, 2026: 3M launches Ask 3M, available now at ask.3m.com (previewed at CES 2026).",
+  "dateSource": "https://news.3m.com/2026-06-22-3M-launches-Ask-3M,-an-AI-powered-tool-for-faster-access-to-technical-expertise"
+ },
+ {
+  "name": "Penny",
+  "company": "4Front Credit Union",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Rita",
+  "company": "7-Eleven",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "ContractMatrix",
+  "company": "A&O Shearman",
+  "launched": "2023-12",
+  "basis": "launched",
+  "evidence": "A&O launched ContractMatrix contract drafting and review tool with Microsoft and Harvey, Dec 2023.",
+  "dateSource": "https://legaltechnology.com/ao-launches-contract-drafting-review-tool-in-partnership-with-microsoft-and-harvey/"
+ },
+ {
+  "name": "SOFia",
+  "company": "Abanca",
+  "launched": "2024-12",
+  "basis": "launched",
+  "evidence": "Abanca estrena asistente virtual con IA generativa (Dec 2, 2024).",
+  "dateSource": "https://www.merca2.es/2024/12/02/abanca-estrena-un-asistente-virtual-que-utiliza-ia-generativa-para-atender-consultas-de-clientes-2085069/"
+ },
+ {
+  "name": "Libre Assist",
+  "company": "Abbott Laboratories",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "Jan 5, 2026: Abbott is launching Libre Assist during CES 2026.",
+  "dateSource": "https://abbott.mediaroom.com/2026-01-05-Abbotts-new-Libre-Assist-app-feature-tackles-a-top-need-for-people-living-with-diabetes-in-the-moment-food-decisions"
+ },
+ {
+  "name": "Abby",
+  "company": "Abby",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Anna",
+  "company": "ABN AMRO",
+  "launched": "2020",
+  "basis": "launched",
+  "evidence": "ABN AMRO: 'Chatbot Anna has been our digital client assistant since 2020.'",
+  "dateSource": "https://www-pr1.abnamro.com/en/innovation/information/how-ai-helps-us-create-long-term-value"
+ },
+ {
+  "name": "Digi",
+  "company": "ABNB Federal Credit Union",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "ABNB launched its AI Voice assistant 'Digi' on December 16 (press release Feb 2026).",
+  "dateSource": "https://www.cuinsight.com/press-release/abnb-federal-credit-union-launches-new-eltropy-ai-voice-digital-assistant/"
+ },
+ {
+  "name": "Abby",
+  "company": "Absa",
+  "launched": "2026-06",
+  "basis": "earliest mention",
+  "evidence": "June 2026 coverage: AI chat agent Abby went live on Absa app and website with renewed Salesforce partnership.",
+  "dateSource": "https://techfinancials.co.za/2026/06/03/absa-salesforce-expand-strategic-collaboration-solidifying-ai-leadership-in-banking-across-africa/"
+ },
+ {
+  "name": "AutoGov",
+  "company": "Abu Dhabi Department of Government Enablement",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Abu Dhabi unveiled AutoGov at GITEX Global 2025 (October 2025).",
+  "dateSource": "https://dge.gov.ae/en/news/2025-gitex-wrap-day-5"
+ },
+ {
+  "name": "GovGPT",
+  "company": "Abu Dhabi Department of Government Enablement",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "During GITEX Global 2025 Abu Dhabi entities launched GovGPT, the sovereign AI assistant.",
+  "dateSource": "https://dge.gov.ae/en/news/2025-gitex-wrap-day-5"
+ },
+ {
+  "name": "TAMM AI Assistant",
+  "company": "Abu Dhabi Department of Government Enablement",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "DGE launched TAMM 3.0 with TAMM AI Assistant at GITEX Global 2024 (WAM, 16 Oct 2024).",
+  "dateSource": "https://meatechwatch.com/2024/10/16/abu-dhabi-launches-tamm-3-0-a-revolutionary-ai-powered-government-services-platform/"
+ },
+ {
+  "name": "ALL Concierge",
+  "company": "Accor",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Sep 25, 2026: Accor takes ALL Concierge out of pilot, launching it to guests worldwide.",
+  "dateSource": "https://www.travelagentcentral.com/hotels/accor-launches-ai-travel-companion-scale"
+ },
+ {
+  "name": "The Butler",
+  "company": "Accor",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Accor launched The Butler for hotel staff alongside ALL Concierge global rollout (Sep 2026).",
+  "dateSource": "https://www.hospitalitynet.org/news/4134546/accor-reaches-a-new-milestone-with-all-concierge-hospitalitys-first-end-to-end-conversational-travel-companion-deployed-at-scale"
+ },
+ {
+  "name": "Hey ARMA",
+  "company": "Ace Hardware",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "April 28, 2026: Ace Hardware has launched 'Hey ARMA' AI assistant for associates.",
+  "dateSource": "https://newsroom.acehardware.com/2026-04-28-Ace-Hardware-Introduces-AI-Assistant-to-Strengthen-In-Store-Service"
+ },
+ {
+  "name": "EVA",
+  "company": "Achieva Credit Union",
+  "launched": "2024-08",
+  "basis": "launched",
+  "evidence": "8/27/2024: Achieva Credit Union announced today the launch of EVA virtual phone assistant.",
+  "dateSource": "https://www.cubroadcast.com/news/achieva-credit-union-introduces-eva-a-revolutionary-virtual-phone-assistant"
+ },
+ {
+  "name": "Ada",
+  "company": "Ada",
+  "launched": "2017",
+  "basis": "launched",
+  "evidence": "Ada Support launched its automated chat platform from stealth with $2.5M seed (2017).",
+  "dateSource": "https://versionone.vc/?p=2781"
+ },
+ {
+  "name": "Ada",
+  "company": "Ada Health",
+  "launched": "2016",
+  "basis": "launched",
+  "evidence": "Ada Health app soft-launched late 2016 as symptom checker after pivot to patients.",
+  "dateSource": "https://en.wikipedia.org/wiki/Ada_Health"
+ },
+ {
+  "name": "Shankarani",
+  "company": "Adi Shankara Institute of Engineering and Technology (ASIET)",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Shankarani launch event 26 March 2025, launched by Kalady panchayat president.",
+  "dateSource": "https://www.adishankara.ac.in/artificial-intelligence-and-data-science/event-details/shankarini-launch"
+ },
+ {
+  "name": "Firefly",
+  "company": "Adobe",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "March 21, 2023: Adobe introduced Firefly and launched beta of first Firefly model.",
+  "dateSource": "https://news.adobe.com/assets/downloads/pdfs/2023/3/032123adobefirefly.pdf"
+ },
+ {
+  "name": "Erin",
+  "company": "Aer Lingus",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Sep 15, 2026: Aer Lingus updates app with an AI bot named Erin.",
+  "dateSource": "https://www.travelextra.ie/aer-lingus-updates-app-with-new-light-cards-and-ai-bot-named-erin/"
+ },
+ {
+  "name": "Aerobot",
+  "company": "Aeromexico",
+  "launched": "2016-12",
+  "basis": "launched",
+  "evidence": "Dec 6, 2016: Aeromexico introduces Aerobot, first airline chatbot in the Americas, on Messenger.",
+  "dateSource": "https://www.newswire.ca/news-releases/aeromexico-introduces-aerobot-the-first-airline-chatbot-in-the-americas-605035346.html"
+ },
+ {
+  "name": "ADRYX",
+  "company": "Aeroporti di Roma (Rome Fiumicino)",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "22 Oct 2025: ADR launched AI Virtual Assistant (ADRYX mascot) on WhatsApp and adr.it, built with AWS and Storm Reply.",
+  "dateSource": "https://press.aboutamazon.com/aws/2025/10/aeroporti-di-roma-transforms-passenger-experience-with-ai-virtual-assistant-powered-by-aws-and-storm-reply"
+ },
+ {
+  "name": "Valtra Coach",
+  "company": "AGCO",
+  "launched": "2025-11",
+  "basis": "announced",
+  "evidence": "Valtra Coach proof-of-concept AI assistant shown at AGRITECHNICA 2025 (Nov 2025).",
+  "dateSource": "https://www.stocktitan.net/news/AGCO/agco-to-showcase-full-line-innovation-and-smart-farming-technologies-jj1pcu3wwe4m.html"
+ },
+ {
+  "name": "John",
+  "company": "AgentCollect",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sarah",
+  "company": "AgentCollect",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Yiming (一明)",
+  "company": "Agricultural Bank of China",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "Mar 30, 2026 results briefing: ABC president says bank has built enterprise AI digital employee 'Yiming'.",
+  "dateSource": "https://www.thepaper.cn/newsDetail_forward_32863120"
+ },
+ {
+  "name": "Abi",
+  "company": "AIB (Allied Irish Banks)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Aneta",
+  "company": "Air Bank",
+  "launched": "2020",
+  "basis": "launched",
+  "evidence": "Aneta ran in Air Bank web chat from mid-2020; voice version in My Air app Feb 2021.",
+  "dateSource": "https://www.svetandroida.cz/air-bank-asistentka-aneta-mobilni-aplikace/"
+ },
+ {
+  "name": "FOX",
+  "company": "Air France",
+  "launched": "2024-05",
+  "basis": "earliest mention",
+  "evidence": "May 30, 2024 article lists FOX among AI tools used by Air France.",
+  "dateSource": "https://www.air-journal.fr/2024-05-30-pamelia-charlie-talia-les-differentes-ia-utilisees-par-air-france-5256049.html"
+ },
+ {
+  "name": "PAMELIA",
+  "company": "Air France",
+  "launched": "2024-05",
+  "basis": "earliest mention",
+  "evidence": "May 30, 2024 article describes PAMELIA (in testing, to be deployed at CDG in 2025).",
+  "dateSource": "https://www.air-journal.fr/2024-05-30-pamelia-charlie-talia-les-differentes-ia-utilisees-par-air-france-5256049.html"
+ },
+ {
+  "name": "TALIA",
+  "company": "Air France",
+  "launched": "2024-05",
+  "basis": "earliest mention",
+  "evidence": "May 30, 2024 article: TALIA internal ChatGPT-style tool used daily by Air France staff.",
+  "dateSource": "https://www.air-journal.fr/2024-05-30-pamelia-charlie-talia-les-differentes-ia-utilisees-par-air-france-5256049.html"
+ },
+ {
+  "name": "AI.g",
+  "company": "Air India",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "Air India's GenAI virtual agent AI.g (initially 'Maharaja') in pilot/deployed from March 2023; WhatsApp access Jan 2024.",
+  "dateSource": "https://www.airindia.com/in/en/newsroom/press-release/virtual-travel-assistant-on-whatsapp.html"
+ },
+ {
+  "name": "Oscar",
+  "company": "Air New Zealand",
+  "launched": "2017-02",
+  "basis": "launched",
+  "evidence": "Feb 2017: Air New Zealand launched Oscar (Bravo Oscar Tango) as a beta help chatbot on its website.",
+  "dateSource": "https://www.travelweekly.com.au/article/chatbot-oscar-to-man-airnz-help-desk/"
+ },
+ {
+  "name": "Aira",
+  "company": "Aira (getaira.io)",
+  "launched": "2026-07",
+  "basis": "earliest mention",
+  "evidence": "Stork.AI directory lists Aira AI front office as shipped Jul 15, 2026.",
+  "dateSource": "https://www.stork.ai/en/aira"
+ },
+ {
+  "name": "Ask Bo",
+  "company": "AirAsia",
+  "launched": "2023-02",
+  "basis": "launched",
+  "evidence": "Feb 8, 2023: Capital A launches AI-powered 'Ask Bo' chatbot, replacing AVA.",
+  "dateSource": "https://www.futuretravelexperience.com/2023/02/capital-a-launches-new-ai-powered-ask-bo-chatbot-for-transparent-enhanced-customer-experience/"
+ },
+ {
+  "name": "Olive",
+  "company": "Airgoods",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ami",
+  "company": "AiSDR",
+  "launched": "2023-08",
+  "basis": "launched",
+  "evidence": "AiSDR's AI SDR product publicly launched August 2023 (Ami is its AI agent).",
+  "dateSource": "https://itcluster.lviv.ua/en/ukrainian-founded-startup-aisdr-raises-3m-uses-ai-to-replace-humans-in-sales/"
+ },
+ {
+  "name": "Ava",
+  "company": "Akron Police Department (Ohio)",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Dec 15, 2025: Akron police announced it's implementing AI assistant 'Ava' for non-emergency calls.",
+  "dateSource": "https://spectrumnews1.com/oh/columbus/news/2025/12/15/akron-police-ai-non-emergency"
+ },
+ {
+  "name": "Albert",
+  "company": "Albert (Zoomd)",
+  "launched": "2017-03",
+  "basis": "earliest mention",
+  "evidence": "March 2017 Business Wire: Cosabella's move to AI platform Albert (Adgorithms).",
+  "dateSource": "https://www.businesswire.com/news/home/20170315005068/en/Cosabella%E2%80%99s-Move-AI-Moves-Lot-Lingerie"
+ },
+ {
+  "name": "Steijn",
+  "company": "Albert Heijn (Ahold Delhaize)",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "Launched Nov 2024 as 'Mijn AH Assistent'; renamed Steijn by April 2025 (RetailDetail, 22 Apr 2025).",
+  "dateSource": "https://retaildetail.be/fr/news/food/albert-heijn-donne-a-son-assistant-ia-un-visage-reconnaissable"
+ },
+ {
+  "name": "Chatico",
+  "company": "Alcaldía de Bogotá",
+  "launched": "2022-06",
+  "basis": "launched",
+  "evidence": "Alcaldía: virtual agent Chatico has served citizens since June 2022 (portal pilot from Nov 2021).",
+  "dateSource": "https://bogota.gov.co/mi-ciudad/gestion-publica/bogota-con-chatico-gano-premio-ucci-innovacion-iberoamericana-2025"
+ },
+ {
+  "name": "Alex",
+  "company": "Alex",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Alex Sidebar ('Cursor for Xcode') launched via YC F24 Launch post; 1,200 signups in first week.",
+  "dateSource": "https://www.ycombinator.com/launches/MD4-alex-sidebar-the-cursor-for-xcode"
+ },
+ {
+  "name": "Alex",
+  "company": "Alex AI (Apriora)",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "April 2025 Apriora x Tracker partnership: AI interviewer Alex auto-creates interviews.",
+  "dateSource": "https://www.alex.com/blog-posts/apriora-x-tracker-partnership-announcement"
+ },
+ {
+  "name": "Alexi",
+  "company": "Alexi",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Alfa (Альфа)",
+  "company": "Alfa-Bank",
+  "launched": "2025-09",
+  "basis": "announced",
+  "evidence": "Sep 17, 2025: Alfa-Bank introduces voice AI assistant 'Alfa' integrated into cash-register terminals.",
+  "dateSource": "https://www.comnews.ru/digital-economy/content/241289/2025-09-17/2025-w38/1012/alfa-bank-vnedryaet-golosovogo-ii-pomoschnika-kassovye-terminaly"
+ },
+ {
+  "name": "Alfa-Intellekt (Альфа-Интеллект)",
+  "company": "Alfa-Bank",
+  "launched": "2026-10",
+  "basis": "launched",
+  "evidence": "Oct 6, 2026: Alfa-Bank launched AI that analyzes client spending.",
+  "dateSource": "https://www1.ru/news/2026/10/06/440611-alfa-bank-zapustil-ii-kotoryi-analiziruet-traty-klienta-i-gotovitsia-samostoiatelno-oplacivat-pokupki.html"
+ },
+ {
+  "name": "Alfie",
+  "company": "Alfies (Austria)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Aug 2025: Alfies setzt ab sofort auf einen KI-Einkaufsassistenten.",
+  "dateSource": "https://www.leadersnet.at/news/91841,alfies-setzt-ab-sofort-auf-einen-ki-einkaufsassistenten.html"
+ },
+ {
+  "name": "Quark",
+  "company": "Alibaba",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "March 13, 2025: Alibaba released new Quark app as flagship AI super assistant (Quark existed earlier as search app).",
+  "dateSource": "https://www.alibabagroup.com/en-US/document-1837325276262957056"
+ },
+ {
+  "name": "Qwen",
+  "company": "Alibaba",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov 17, 2025: Alibaba launched public beta of Qwen app (merging Tongyi app); Qwen models since Apr 2023.",
+  "dateSource": "https://www.alibabagroup.com/document-1928528945544691712"
+ },
+ {
+  "name": "Taobao Wenwen",
+  "company": "Alibaba (Taobao)",
+  "launched": "2023-09",
+  "basis": "announced",
+  "evidence": "Sep 13, 2023: Taobao internally testing ChatGPT-like shopping assistant Taobao Wenwen (beta from Sep 14).",
+  "dateSource": "https://yicaiglobal.com/news/alibabas-taobao-tests-chatgpt-like-shopping-assistant-taobao-wenwen"
+ },
+ {
+  "name": "Accio",
+  "company": "Alibaba.com",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "12 Nov 2024: Alibaba arms merchants with Accio AI assistant for sourcing.",
+  "dateSource": "https://www.scmp.com/tech/big-tech/article/3286241/alibaba-arms-merchants-ai-assistant-streamline-cross-border-sourcing"
+ },
+ {
+  "name": "AL21",
+  "company": "Alicante City Council (Spain)",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "Jan 18, 2024: Alicante lanza AL21, IA entrenada con llamadas al 010.",
+  "dateSource": "https://www.elindependiente.com/espana/valencia/2024/01/18/alicante-lanza-una-ia-pionera-que-ha-sido-entrenada-con-miles-de-llamadas-al-telefono-municipal/amp/"
+ },
+ {
+  "name": "Alice",
+  "company": "Alice.tech",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Alice.tech joined YC Winter 2025 and launched its product publicly; raised $4.8M May 2025.",
+  "dateSource": "https://www.ypulse.com/newsfeed/2025/05/07/ai-powered-study-aid-startup-alice-tech-just-raised-4-8m/"
+ },
+ {
+  "name": "AllianzGPT",
+  "company": "Allianz",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "AllianzGPT officially launched September 1, 2023 for employees.",
+  "dateSource": "https://www.lemondeinformatique.fr/actualites/lire-allianz-accelere-dans-l-ia-avec-anthropic-98997.html"
+ },
+ {
+  "name": "Project Nemo",
+  "company": "Allianz",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Allianz: Project Nemo launched in Australia in July 2025, built and deployed in under 100 days.",
+  "dateSource": "https://allianz.com/en/mediacenter/news/articles/251103-when-the-storm-clears-so-should-the-claim-queue.html"
+ },
+ {
+  "name": "Allie",
+  "company": "Allianz Taiwan",
+  "launched": "2018-05",
+  "basis": "launched",
+  "evidence": "May 2018: Allianz Taiwan Life has launched AI customer assistant Allie with IBM.",
+  "dateSource": "https://www.insurancebusinessmag.com/asia/news/breaking-news/allianz-taiwan-ibm-team-up-to-launch-aipowered-customer-assistant-102012.aspx"
+ },
+ {
+  "name": "Alli",
+  "company": "Allina Health",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "May 30, 2025: SoundHound and Allina Health launch AI agent Alli for patient engagement.",
+  "dateSource": "https://itdigest.com/healthtech/soundhound-ai-allina-health-launch-ai-agent-for-patient-engagement/"
+ },
+ {
+  "name": "ALLIE",
+  "company": "Allstate",
+  "launched": "2026-07",
+  "basis": "announced",
+  "evidence": "Allstate CEO disclosed ALLIE agentic AI platform, still in development, on Q2 2026 earnings call.",
+  "dateSource": "https://www.ciodive.com/news/allstate-allie-platform-agentic-AI/827487/"
+ },
+ {
+  "name": "Ally Assist",
+  "company": "Ally Bank",
+  "launched": "2015-05",
+  "basis": "launched",
+  "evidence": "May 18, 2015: Ally expanded its mobile app to include Ally Assist virtual assistant (iPhone).",
+  "dateSource": "https://www.finextra.com/pressarticle/59848/ally-bank-adds-virtual-assistant-to-mobile-app"
+ },
+ {
+  "name": "Dana",
+  "company": "Alpha Bank Romania",
+  "launched": "2023",
+  "basis": "earliest mention",
+  "evidence": "Q1 2023 report: Dana handles credit requests on Alpha Bank webchat; DRUID upgrade announced July 9, 2024.",
+  "dateSource": "https://www.revistabiz.ro/alpha-bank-romania-a-incheiat-primul-trimestru-din-2023-cu-un-profit-net-de-11-mil-euro/"
+ },
+ {
+  "name": "Project Astra",
+  "company": "Alphabet (Google)",
+  "launched": "2024-05",
+  "basis": "announced",
+  "evidence": "Google DeepMind unveiled Project Astra prototype universal AI assistant at I/O, May 14, 2024.",
+  "dateSource": "https://mobilesyrup.com/2024/05/14/google-unveils-project-astra-the-future-of-ai-assistants/"
+ },
+ {
+  "name": "Project Mariner",
+  "company": "Alphabet (Google)",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "May 20, 2025: Google rolls out Project Mariner to US AI Ultra subscribers (announced as prototype Dec 2024).",
+  "dateSource": "https://techcrunch.com/2025/05/20/google-rolls-out-project-mariner-its-web-browsing-ai-agent/"
+ },
+ {
+  "name": "Rolo",
+  "company": "Alphawatch AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Alex",
+  "company": "Alta",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Mar 5, 2025: Alta emerged from stealth with $7M seed, introducing AI agents Katie, Luna and Alex.",
+  "dateSource": "https://pulse2.com/alta-7-million-seed-closed-for-ai-revenue-workforce-solutions"
+ },
+ {
+  "name": "Katie",
+  "company": "Alta",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Mar 5, 2025: Alta emerged from stealth with $7M seed, introducing AI agents Katie, Luna and Alex.",
+  "dateSource": "https://pulse2.com/alta-7-million-seed-closed-for-ai-revenue-workforce-solutions"
+ },
+ {
+  "name": "Luna",
+  "company": "Alta",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Mar 5, 2025: Alta emerged from stealth with $7M seed, introducing AI agents Katie, Luna and Alex.",
+  "dateSource": "https://pulse2.com/alta-7-million-seed-closed-for-ai-revenue-workforce-solutions"
+ },
+ {
+  "name": "AVA",
+  "company": "Altice USA (Optimum)",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Altice USA spokesperson: AVA developed in-house and rolled out in 2024; Gemini enhancement announced May 2025.",
+  "dateSource": "https://www.mobileworldlive.com/french/altice-fait-appel-a-lia-de-google-cloud-pour-booster-son-service-clients/"
+ },
+ {
+  "name": "Chidi",
+  "company": "ALX",
+  "launched": "2025-11",
+  "basis": "announced",
+  "evidence": "Nov 18, 2025: Anthropic, Rwanda and ALX partnership to bring Chidi to learners.",
+  "dateSource": "https://www.anthropic.com/news/rwandan-government-partnership-ai-education"
+ },
+ {
+  "name": "Alexa for Shopping",
+  "company": "Amazon",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 2026: Amazon discontinued Rufus for Alexa for Shopping agent.",
+  "dateSource": "https://www.modernretail.co/technology/marketplace-briefing-why-amazon-discontinued-its-ai-powered-rufus-chatbot-for-alexa-shopping-agent/"
+ },
+ {
+  "name": "Alexa+",
+  "company": "Amazon",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Announced Feb 26, 2025; early access rollout to US customers began March 31, 2025.",
+  "dateSource": "https://decrypt.co/317605/amazon-rolling-out-enhanced-alexa"
+ },
+ {
+  "name": "Cedric",
+  "company": "Amazon",
+  "launched": "2024-10",
+  "basis": "earliest mention",
+  "evidence": "Oct 4, 2024: Amazon has introduced internal chatbot Cedric for employees (reports).",
+  "dateSource": "https://greyjournal.net/news/amazon-introduces-cedric-internal-chatbot-for-employees/"
+ },
+ {
+  "name": "Kiro",
+  "company": "Amazon Web Services",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "July 14, 2025: AWS launched Kiro, an IDE powered by AI agents (preview).",
+  "dateSource": "https://www.constellationr.com/insights/news/aws-launches-kiro-ide-powered-ai-agents"
+ },
+ {
+  "name": "Amie",
+  "company": "Amie",
+  "launched": "2022-03",
+  "basis": "announced",
+  "evidence": "Mar 17, 2022: Amie calendar app debuted on Product Hunt/TechCrunch with waitlist; public launch planned for 2023.",
+  "dateSource": "https://techcrunch.com/2022/03/17/amie-is-a-new-calendar-app-with-a-social-twist"
+ },
+ {
+  "name": "Amira",
+  "company": "Amira Learning",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Duo",
+  "company": "Amplemarket",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "Sep 10, 2024: announce the launch of AI Sales Copilot Amplemarket Duo.",
+  "dateSource": "https://www.amplemarket.com/blog/introducing-amplemarket-duo-the-first-end-to-end-ai-sales-copilot"
+ },
+ {
+  "name": "Ellie",
+  "company": "Amtelco",
+  "launched": "2026-02",
+  "basis": "announced",
+  "evidence": "Amtelco announced AI virtual agent Ellie in Feb 2026 (Business Wire 2026-02-16).",
+  "dateSource": "https://www.businesswire.com/news/home/20260216480969/en"
+ },
+ {
+  "name": "Julie (Ask Julie)",
+  "company": "Amtrak",
+  "launched": "2012-10",
+  "basis": "launched",
+  "evidence": "Oct 3, 2012: Amtrak launches 'Ask Julie' virtual online assistant on Amtrak.com.",
+  "dateSource": "https://www.metro-magazine.com/news/amtrak-launches-virtual-online-assistant"
+ },
+ {
+  "name": "Andi",
+  "company": "Andi",
+  "launched": "2023-02",
+  "basis": "launched",
+  "evidence": "Feb 1, 2023: Andi generative AI search emerges from stealth, now generally available to all.",
+  "dateSource": "https://www.kmworld.com/Articles/News/News/Generative-AI-search-tool-built-for-accuracy-emerges-from-stealth--156942.aspx"
+ },
+ {
+  "name": "A-Fu (AQ)",
+  "company": "Ant Group",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "June 26, 2025: Ant Group launches AI healthcare app AQ.",
+  "dateSource": "https://www.businesswire.com/news/home/20250626728870/en/Ant-Group-Launches-AI-Healthcare-App-AQ-Amid-Push-into-Healthcare-Sector"
+ }
+]

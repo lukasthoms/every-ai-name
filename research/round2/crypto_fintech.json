@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Bibi",
+    "company": "Binance",
+    "project": "Binance app",
+    "use": "In-app AI assistant that summarizes crypto whitepapers in under 30 seconds and answers price, trend and trading questions.",
+    "category": "Crypto",
+    "nameType": "human",
+    "source": "https://coinfomania.com/binance-bibi-ai-whitepaper-summarizer-launch-2025/"
+  },
+  {
+    "name": "Kia",
+    "company": "KuCoin",
+    "project": "",
+    "use": "Crypto-native AI co-pilot that explains market data in plain language and sends personalized signals and market alerts.",
+    "category": "Crypto",
+    "nameType": "human",
+    "source": "https://www.valuethemarkets.com/cryptocurrency/news/kucoin-launches-kia-an-ai-assistant-for-enhanced-crypto-navigating"
+  },
+  {
+    "name": "HTX Holo",
+    "company": "HTX",
+    "project": "HTX app",
+    "use": "In-app AI assistant that interprets charts and news, surfaces trading opportunities and recommends Earn products.",
+    "category": "Crypto",
+    "nameType": "brand",
+    "source": "https://tradeinformer.com/broker-news/htx-reports-900-billion-volume-ai-assistant"
+  },
+  {
+    "name": "Gracy AI",
+    "company": "Bitget",
+    "project": "",
+    "use": "Animated digital-human AI modeled on CEO Gracy Chen that discusses market cycles, strategy and long-term thinking.",
+    "category": "Crypto",
+    "nameType": "human",
+    "source": "https://www.aap.com.au/aapreleases/globenewswire1001164612/"
+  },
+  {
+    "name": "BK Genie",
+    "company": "LBank",
+    "project": "Telegram / LBank app",
+    "use": "AI trading agent that aggregates trending events, gives market guidance and lets users trade through chat in Telegram.",
+    "category": "Crypto",
+    "nameType": "brand",
+    "source": "https://chainwire.org/2026/06/15/lbank-launches-bk-genie-the-first-ai-crypto-trading-assistant-on-telegram/"
+  },
+  {
+    "name": "Fred",
+    "company": "Coinbase",
+    "project": "Internal (Slack/email)",
+    "use": "Internal 'strategic executive agent' named after co-founder Fred Ehrsam that gives employees executive-level feedback and priority alignment.",
+    "category": "Crypto",
+    "nameType": "human",
+    "source": "https://cointelegraph.com/news/coinbase-introduces-two-ai-agents-assist-workers"
+  },
+  {
+    "name": "Balaji",
+    "company": "Coinbase",
+    "project": "Internal (Slack/email)",
+    "use": "Internal 'agent of chaos and creativity' modeled on former CTO Balaji Srinivasan that challenges employees' assumptions.",
+    "category": "Crypto",
+    "nameType": "human",
+    "source": "https://cointelegraph.com/news/coinbase-introduces-two-ai-agents-assist-workers"
+  },
+  {
+    "name": "IAGO",
+    "company": "Mercado Bitcoin",
+    "project": "",
+    "use": "AI agent that began as a customer-service chatbot and now gives personalized investment recommendations.",
+    "category": "Crypto",
+    "nameType": "human",
+    "source": "https://neofeed.com.br/podcasts/revolucao-ia-8-fabricio-tota-vice-presidente-de-novos-negocios-do-mercado-bitcoin/"
+  },
+  {
+    "name": "Vega",
+    "company": "Webull",
+    "project": "Webull app",
+    "use": "AI decision partner that gives personalized market insights, portfolio reviews and lets users place trades in plain language.",
+    "category": "Investing",
+    "nameType": "brand",
+    "source": "https://www.webull.com/news/13833094760489984"
+  },
+  {
+    "name": "TigerGPT",
+    "company": "Tiger Brokers (UP Fintech)",
+    "project": "Tiger Trade app",
+    "use": "AI investment assistant that answers stock, options and market questions using Tiger's financial database.",
+    "category": "Investing",
+    "nameType": "brand",
+    "source": "https://www.aap.com.au/aapreleases/cision20250218ae21242/"
+  },
+  {
+    "name": "Ask IBKR",
+    "company": "Interactive Brokers",
+    "project": "PortfolioAnalyst",
+    "use": "AI tool that answers natural-language questions about portfolio performance, allocation, holdings and account activity.",
+    "category": "Investing",
+    "nameType": "brand",
+    "source": "https://goodmoneyguide.com/investing/interactive-brokers-launches-ask-ibkr-an-ai-tool-that-offers-instant-portfolio-insights/"
+  },
+  {
+    "name": "Freya",
+    "company": "Fidelity International",
+    "project": "Personal Investing platform",
+    "use": "Conversational AI that helps UK investing customers find information quickly, without giving financial advice.",
+    "category": "Investing",
+    "nameType": "human",
+    "source": "https://fstech.co.uk/fst/Fidelity_Launches_Conversational_GenAI_Tool.php"
+  },
+  {
+    "name": "GR 1",
+    "company": "Groww",
+    "project": "Groww app",
+    "use": "AI investing assistant that tracks markets and news sentiment and gives insights based on a user's portfolio.",
+    "category": "Investing",
+    "nameType": "brand",
+    "source": "https://entrackr.com/news/groww-showcases-ai-powered-investing-tools-at-groww-next-2026-11168623"
+  },
+  {
+    "name": "Moneybot",
+    "company": "Block",
+    "project": "Cash App",
+    "use": "AI assistant that analyzes spending, builds savings plans and can send money or trade stock and bitcoin after user confirmation.",
+    "category": "Fintech",
+    "nameType": "brand",
+    "source": "https://www.ksat.com/business/2025/11/13/cash-apps-moneybot-might-know-your-spending-habits-better-than-you-do/"
+  },
+  {
+    "name": "SoFi Coach",
+    "company": "SoFi",
+    "project": "SoFi app",
+    "use": "AI financial guide that reviews linked accounts to help with budgeting, credit, net worth and retirement questions.",
+    "category": "Fintech",
+    "nameType": "brand",
+    "source": "https://www.sofi.com/what-is-sofi-coach-and-how-does-it-work/"
+  },
+  {
+    "name": "Jade",
+    "company": "Chime",
+    "project": "Chime app",
+    "use": "AI copilot that gives members financial education and nudges them to act, like paying down debt or saving.",
+    "category": "Fintech",
+    "nameType": "human",
+    "source": "https://www.chime.com/newsroom/news/chime-reports-strong-q4-and-full-year-2025-results-on-cnbc"
+  },
+  {
+    "name": "Pi",
+    "company": "Paytm",
+    "project": "Paytm Intelligence",
+    "use": "Enterprise AI service offering agents to banks, lenders and insurers for sales, service, operations and fraud/credit checks.",
+    "category": "Fintech",
+    "nameType": "brand",
+    "source": "https://www.freepressjournal.in/focused-view/paytm-intelligence-vijay-shekhar-sharmas-plan-to-turn-payments-scale-into-an-ai-business"
+  },
+  {
+    "name": "Mago",
+    "company": "Mercado Pago",
+    "project": "Mercado Pago app",
+    "use": "Conversational AI assistant that answers balance and spending questions and handles payments for consumers and small businesses by text, voice or image.",
+    "category": "Fintech",
+    "nameType": "brand",
+    "source": "https://ecosistemastartup.com/mercado-pago-lanza-mago-su-asistente-ia-para-pymes/"
+  },
+  {
+    "name": "JAX",
+    "company": "Xero",
+    "project": "Xero",
+    "use": "'Just Ask Xero' AI financial superagent that automates bank reconciliations, data entry and getting paid, and gives business insights.",
+    "category": "Fintech",
+    "nameType": "brand",
+    "source": "https://www.xero.com/media-releases/xeros-ai-financial-superagent-jax-launches-powerful-new-features/"
+  },
+  {
+    "name": "Toshi",
+    "company": "Luno",
+    "project": "",
+    "use": "Customer-facing AI support agent for the Luno crypto exchange, working alongside its help centre.",
+    "category": "Crypto",
+    "nameType": "human",
+    "source": "https://jobs.dcg.co/companies/luno/jobs/55110667-senior-manager-conversational-ai-and-knowledge-base"
+  },
+  {
+    "name": "Concierge",
+    "company": "Expensify",
+    "project": "Expensify",
+    "use": "AI expense agent that creates and categorizes expenses, flags suspicious receipts, submits reports and answers support questions by chat, email or text.",
+    "category": "Fintech",
+    "nameType": "brand",
+    "source": "https://use.expensify.com/blog/expensify-concierge-expense-tracking-ai-agent"
+  },
+  {
+    "name": "Ava",
+    "company": "Navan",
+    "project": "Navan travel & expense",
+    "use": "AI virtual assistant that handles about half of Navan's traveler support interactions, such as trip changes.",
+    "category": "Fintech",
+    "nameType": "human",
+    "source": "https://thebusinesstravelmag.com/navan-files-to-go-public/"
+  },
+  {
+    "name": "Sidekick",
+    "company": "H&R Block",
+    "project": "",
+    "use": "AI assistant for H&R Block tax pros that returns expert-verified answers from the company's tax library in seconds during client appointments.",
+    "category": "Fintech",
+    "nameType": "brand",
+    "source": "https://www.stocktitan.net/news/HRB/h-r-block-s-ai-powered-tax-platform-earns-industry-recognition-as-e7ca1w9epfwl.html"
+  },
+  {
+    "name": "Indy",
+    "company": "Cambridge Investment Research",
+    "project": "",
+    "use": "AI chat assistant for financial advisors and staff that answers questions and helps complete tasks using the firm's own knowledge.",
+    "category": "Investing",
+    "nameType": "human",
+    "source": "https://rethinking65.com/cambridge-launches-indy-ai-powered-chat-assistant-for-advisors/"
+  },
+  {
+    "name": "Jo",
+    "company": "Finanjo",
+    "project": "Finanjo app",
+    "use": "AI money companion for young Indians that gives spending insights, predictive expense alerts and savings recommendations.",
+    "category": "Fintech",
+    "nameType": "human",
+    "source": "https://finanjo.com/"
+  },
+  {
+    "name": "SmartFile AI",
+    "company": "TaxAct",
+    "project": "TaxAct",
+    "use": "In-product tax assistant that answers questions, explains tax terms, guides users to forms and resolves eligible issues while filing.",
+    "category": "Fintech",
+    "nameType": "brand",
+    "source": "https://www.taxact.com/whats-new"
+  },
+  {
+    "name": "Agent Andrew",
+    "company": "TaxGPT",
+    "project": "",
+    "use": "AI agent that reviews uploaded tax returns to find missed deductions and errors.",
+    "category": "Fintech",
+    "nameType": "human",
+    "source": "https://www.taxgpt.com/ai-tax-assistant-for-individuals"
+  }
+]

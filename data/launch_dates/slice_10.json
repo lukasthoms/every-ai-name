@@ -1,0 +1,554 @@
+[
+ {
+  "name": "TARA",
+  "company": "ixigo",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "ixigo launches AI-native app with multimodal assistant TARA, May 13, 2026",
+  "dateSource": "https://india.entrepreneur.com/business-news/ixigo-launches-ai-native-app-with-multimodal-assistant-tara"
+ },
+ {
+  "name": "Jack",
+  "company": "Jack & Jill",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Oct 2025: since launching six months ago, 49,000 candidates have interacted with Jack",
+  "dateSource": "https://tech.eu/2025/10/16/british-ai-recruitment-startup-jack-jill-raises-20-million-dollars-to-expand-to-the-us/"
+ },
+ {
+  "name": "Jill",
+  "company": "Jack & Jill",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Oct 2025 coverage: Jack & Jill platform launched about six months earlier",
+  "dateSource": "https://tech.eu/2025/10/16/british-ai-recruitment-startup-jack-jill-raises-20-million-dollars-to-expand-to-the-us/"
+ },
+ {
+  "name": "Jamie",
+  "company": "Jamie",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "Jamie launched on Product Hunt on Jul 30, 2024",
+  "dateSource": "https://innolope.com/pulse/startups/69169bab1c4a6b1baf15caa0"
+ },
+ {
+  "name": "JAL-AI",
+  "company": "Japan Airlines",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "Part of a broader generative AI rollout launched in mid-2023",
+  "dateSource": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/05/08/transforming-japan-with-ai-5-companies-from-the-front-lines-of-innovation/"
+ },
+ {
+  "name": "Govbot",
+  "company": "Japan Ministry of Internal Affairs and Communications",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "Govbot began operating on March 26, 2024 (令和6年3月26日)",
+  "dateSource": "https://aismiley.co.jp/ai_news/mic-govbot-ai-chatbot/"
+ },
+ {
+  "name": "Jasper",
+  "company": "Jasper",
+  "launched": "2021-01",
+  "basis": "launched",
+  "evidence": "Launched Jan 2021 as Conversion.ai, renamed Jarvis then Jasper in early 2022 (original launch date)",
+  "dateSource": "https://www.aiwiki.ai/wiki/jasper_ai/raw"
+ },
+ {
+  "name": "AI Higashi (AIヒガシ)",
+  "company": "JBCC Holdings",
+  "launched": "2024-04",
+  "basis": "launched",
+  "evidence": "AI Higashi first used at JBCC Group kickoff meeting on April 3, 2024",
+  "dateSource": "https://www.dreamnews.jp/press/0000296858"
+ },
+ {
+  "name": "Dongdong (东东)",
+  "company": "JD.com",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "At JDD conference on Sept 9, 2026 the new JD App officially debuted with native shopping AI agent Dongdong",
+  "dateSource": "https://www.bjnews.com.cn/detail/1789478067189351.html"
+ },
+ {
+  "name": "Jingyan",
+  "company": "JD.com",
+  "launched": "2023-11",
+  "basis": "launched",
+  "evidence": "IT之家 Nov 14, 2023: JD App has launched beta of Jingyan AI shopping assistant",
+  "dateSource": "https://www.ithome.com/0/732/548.htm"
+ },
+ {
+  "name": "JDI (Jefferies Data Intelligence)",
+  "company": "Jefferies Financial Group",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "Databricks blog (Mar 2, 2026) says JDI has been live for only a few weeks",
+  "dateSource": "https://www.databricks.com/en/blog/jefferies-modernizes-equity-research-scale-databricks-and-agentic-analytics"
+ },
+ {
+  "name": "Jenni",
+  "company": "Jenni AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Austral",
+  "company": "JetSMART",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Sept 29, 2025 article: results eight months after Austral's launch",
+  "dateSource": "https://chocale.cl/2025/09/como-las-aerolineas-estan-integrando-la-inteligencia-artificial/"
+ },
+ {
+  "name": "RIYA",
+  "company": "JioStar (Reliance)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Jio launches Frames, JioPC, RIYA, Voice Print at RIL AGM, Aug 29, 2025",
+  "dateSource": "https://www.businesstoday.in/amp/technology/news/story/from-wearables-to-ai-storytelling-jio-launches-frames-jiopc-riya-voice-print-at-ril-agm-491640-2025-08-29"
+ },
+ {
+  "name": "HopGPT",
+  "company": "Johns Hopkins University",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Hub article Dec 15, 2025: HopGPT generative AI platform launches",
+  "dateSource": "https://hub.jhu.edu/at-work/2025/12/15/hopgpt-generative-ai-platform-launches/"
+ },
+ {
+  "name": "Ask Jonnie",
+  "company": "Jonathan Alder Local Schools (Ohio)",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "In July 2025, Jonathan Alder Local Schools unveiled 'Ask Jonnie' AI chatbot on its website",
+  "dateSource": "https://www.alder.k12.oh.us/article/2370875"
+ },
+ {
+  "name": "JLL GPT",
+  "company": "Jones Lang LaSalle",
+  "launched": "2023-08",
+  "basis": "launched",
+  "evidence": "JLL developed JLL GPT for its employees and launched it in August 2023",
+  "dateSource": "https://en.wikipedia.org/wiki/JLL_(company)"
+ },
+ {
+  "name": "Connect Coach",
+  "company": "JPMorgan Chase",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "In 2024 J.P. Morgan Private Bank launched LLM Suite and Connect Coach, the advisor co-pilot",
+  "dateSource": "https://www.euromoney.com/article/2edzql8b9p53z7j0am5mp/awards/private-banking-awards/the-worlds-best-for-digital-solutions-2025-jpmorgan-private-bank"
+ },
+ {
+  "name": "LLM Suite",
+  "company": "JPMorgan Chase",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "FT/Silicon July 2024: LLM Suite introduced to parts of the bank earlier this year; ~50,000 staff have access",
+  "dateSource": "https://silicon.co.uk/ai/jpmorgan-chatbot-ai-573263"
+ },
+ {
+  "name": "JSense",
+  "company": "JS Bank",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Karachi, November 6, 2025: JS Bank has launched JSense, AI banking chatbot in mobile app",
+  "dateSource": "https://www.jsbl.com/js-bank-launches-pakistans-first-ai-chatbot-jsense-for-smarter-banking/"
+ },
+ {
+  "name": "Julius",
+  "company": "Julius",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Marvis",
+  "company": "Juniper Networks (HPE)",
+  "launched": "2021-05",
+  "basis": "launched",
+  "evidence": "Mist product update May 11, 2021: Marvis conversational interface chat window rollout first phase (announced July 2020)",
+  "dateSource": "https://www.juniper.net/documentation/us/en/software/mist/product-updates/2021/may-11th-2021-updates.html"
+ },
+ {
+  "name": "Kanana",
+  "company": "Kakao",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Kakao launched conversational AI app Kanana on app stores May 8, 2025 (beta)",
+  "dateSource": "https://v.daum.net/v/20250508185641755"
+ },
+ {
+  "name": "Willie",
+  "company": "Kansas State University",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "University launched its Willie the Wildcat virtual assistant program in January 2025",
+  "dateSource": "https://www.k-state.com/news/texts-from-willie.php"
+ },
+ {
+  "name": "Manu",
+  "company": "Kapiʻolani Community College",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Honolulu CC, Kapiʻolani CC and UH Maui College launched chatbots (Niu, Manu, Ulu) in August",
+  "dateSource": "https://www.hawaii.edu/news/2025/09/02/friendly-ai-chatbots-support-students/"
+ },
+ {
+  "name": "Kasper",
+  "company": "Kaspi.kz",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "On July 1, 2026, Kaspi.kz CEO introduced Kasper, a new AI assistant in the Kaspi Shop",
+  "dateSource": "https://forbes.kz/articles/mikhail-lomtadze-unveils-kasper-apersonal-aiassistant-from-kaspikz"
+ },
+ {
+  "name": "Koa",
+  "company": "Kauaʻi Community College",
+  "launched": "2025",
+  "basis": "earliest mention",
+  "evidence": "UH: students texted campus chatbots incl. Kauaʻi CC's Koa between Aug 1 and Dec 10, 2025",
+  "dateSource": "https://www.hawaii.edu/news/2026/01/11/uh-ai-chatbots-transforming-student-support/"
+ },
+ {
+  "name": "eGov GPT",
+  "company": "Kazakhstan Ministry of Artificial Intelligence and Digital Development",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "eGov GPT launched in April 2026; used more than 150,000 times since launch",
+  "dateSource": "https://primeminister.kz/en/news/all-state-bodies-of-kazakhstan-transferred-to-unified-qaztech-development-platform-31756"
+ },
+ {
+  "name": "Kate",
+  "company": "KBC Group",
+  "launched": "2020",
+  "basis": "launched",
+  "evidence": "KBC: '2020-2021: Launch of Kate'; introduced in KBC Mobile in the middle of the pandemic",
+  "dateSource": "https://newsroom.kbc.com/kate-five-years-and-five-milestones"
+ },
+ {
+  "name": "Buffmee",
+  "company": "KDDI",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "KDDI announced and started Buffmee service on July 28, 2026",
+  "dateSource": "https://businessnetwork.jp/article/36161"
+ },
+ {
+  "name": "Nagisa (ナギサ)",
+  "company": "KDDI (au)",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "KDDI announced Mar 3, 2025 that au AI advisor Nagisa launches March 10, 2025",
+  "dateSource": "https://businessnetwork.jp/article/26184"
+ },
+ {
+  "name": "KeanU AI",
+  "company": "Kean University",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Dec 16, 2025: Kean University has launched KeanU AI",
+  "dateSource": "https://www.kean.edu/news/kean-launches-keanu-ai-power-artificial-intelligence-use-across-campus"
+ },
+ {
+  "name": "Shuru",
+  "company": "Kenya Revenue Authority (KRA)",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 14, 2026: KRA rolls out WhatsApp tax filing via Shuru chatbot",
+  "dateSource": "https://www.dawan.africa/news/kra-rolls-out-whatsapp-tax-filing-as-shuru-chatbot-simplifies-returns"
+ },
+ {
+  "name": "MyKey",
+  "company": "KeyCorp",
+  "launched": "2022-09",
+  "basis": "launched",
+  "evidence": "KeyBank's MyKey conversational AI assistant launched in September 2022",
+  "dateSource": "https://emerj.com/artificial-intelligence-at-keybank"
+ },
+ {
+  "name": "Sheikha",
+  "company": "Khaleeji Bank",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "9 Jun 2026: Khaleeji Bank has launched 'Sheikha', AI-powered smart voice assistant",
+  "dateSource": "https://www.gccbusinessnews.com/?p=146671"
+ },
+ {
+  "name": "Khanmigo",
+  "company": "Khan Academy",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "Mar 14, 2023: Khan Academy launched limited pilot of GPT-4-powered Khanmigo",
+  "dateSource": "https://thejournal.com/articles/2023/03/14/khan-academy-pilots-gpt-4-powered-tool-khanmigo-for-teachers.aspx"
+ },
+ {
+  "name": "Burt",
+  "company": "Kinney Drugs",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Kinney Drugs introduced the AI assistant Burt back in May (article Aug 8, 2026)",
+  "dateSource": "https://www.live5news.com/2026/08/08/drugstore-chain-pulls-back-ai-assistant-after-receiving-hundreds-customer-complaints/"
+ },
+ {
+  "name": "CoreMate",
+  "company": "Kirin Holdings",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "CoreMate began supporting Kirin Group Executive Committee in July 2025; announced Sept 5, 2025",
+  "dateSource": "https://www.kirinholdings.com/en/newsroom/release/2025/0905_02.html"
+ },
+ {
+  "name": "Joy",
+  "company": "Kmart Australia (Wesfarmers)",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 28, 2026: Kmart is launching Gemini-powered AI shopping assistant Joy",
+  "dateSource": "https://www.smartcompany.com.au/artificial-intelligence/kmart-google-gemini-ai-shopping-assistant-joy/"
+ },
+ {
+  "name": "Maia",
+  "company": "Knuspr (Rohlik Group, Germany)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ask Kohl's",
+  "company": "Kohl's",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "Retail Dive July 30, 2026: Kohl's launched AI shopping assistant, announced in Wednesday press release",
+  "dateSource": "https://www.retaildive.com/news/kohls-ai-shopping-assistant/826585/"
+ },
+ {
+  "name": "Ruby",
+  "company": "Komerční banka",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Korika Chat (KChat)",
+  "company": "KORIKA (with Datasaur AI)",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "16 Sept 2025: Korika Chat resmi meluncur (officially launched)",
+  "dateSource": "https://investortrust.id/business/79172/korika-chat-resmi-meluncur-ai-buatan-indonesia-yang-siap-dipakai-bumn-sampai-umkm"
+ },
+ {
+  "name": "Keya",
+  "company": "Kotak Mahindra Bank",
+  "launched": "2018-04",
+  "basis": "launched",
+  "evidence": "Kotak introduced AI voicebot Keya April 2018 (Nuance); text chatbot on Active.AI later",
+  "dateSource": "https://www.medianama.com/2018/04/223-kotak-mahindra-voice-bot-keya/"
+ },
+ {
+  "name": "Clara AI",
+  "company": "KPMG",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "July 2024: KPMG announces AI integration into global smart audit platform KPMG Clara; 90,000 auditors to use KPMG Clara AI",
+  "dateSource": "https://kpmg.com/xx/en/media/press-releases/2024/07/kpmg-announces-ai-integration-into-global-smart-audit-platform-kpmg-clara.html"
+ },
+ {
+  "name": "KPMG Workbench",
+  "company": "KPMG",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "June 2025: KPMG launches multi-agent AI platform Workbench",
+  "dateSource": "https://www.accountingtoday.com/news/kpmg-launches-multi-agent-ai-platform-workbench"
+ },
+ {
+  "name": "KymChat",
+  "company": "KPMG Australia",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "22 March 2023: KPMG Australia launched a proprietary version of ChatGPT, KymChat",
+  "dateSource": "https://kpmg.com/au/en/media/media-releases/2023/03/kpmg-unveils-cutting-edge-private-chatgpt-software-march-2023.html"
+ },
+ {
+  "name": "The Cookbook",
+  "company": "Kraft Heinz",
+  "launched": "2025-09",
+  "basis": "announced",
+  "evidence": "Sept 25, 2025: Kraft Heinz pilots AI agent The Cookbook for ketchup production",
+  "dateSource": "https://www.ciodive.com/news/kraft-heinz-AI-agent-cookbook-ketchup-production/761046/"
+ },
+ {
+  "name": "Ella (PUBG Ally)",
+  "company": "Krafton",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "PUBG Ally entered public beta on June 17 (2026) in Arcade Mode",
+  "dateSource": "https://developer.nvidia.com/blog/how-krafton-built-pubg-ally-a-co-playable-character-powered-by-nvidia-ace/"
+ },
+ {
+  "name": "Sage",
+  "company": "Kroger",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Mi:dm K (믿:음 K)",
+  "company": "KT",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "The 1.0 model, starting point of Mi:dm K, was first unveiled in 2023 (2.0 in July 2025)",
+  "dateSource": "https://www.hankyung.com/article/2026042151411"
+ },
+ {
+  "name": "Kia",
+  "company": "KuCoin",
+  "launched": "2025-12",
+  "basis": "earliest mention",
+  "evidence": "Dec 31, 2025: KuCoin has introduced KIA, an AI assistant providing market insights",
+  "dateSource": "https://www.valuethemarkets.com/cryptocurrency/news/kucoin-launches-kia-an-ai-assistant-for-enhanced-crypto-navigating"
+ },
+ {
+  "name": "Fahad",
+  "company": "Kuwait Finance House (KFH)",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "27/06/2025: KFH has launched 'Fahad', Kuwait's first AI-powered virtual employee",
+  "dateSource": "https://www.kfh.com/en/home/Personal/news/2025/KFH-Launches-Fahad--Kuwait-s-First-AI-Powered-Virtual-Employee.html"
+ },
+ {
+  "name": "ShariaBot",
+  "company": "Kuwait Finance House (KFH)",
+  "launched": "2025-08",
+  "basis": "earliest mention",
+  "evidence": "KFH Aug 30, 2025: KFH has succeeded in deploying specialized virtual assistants including ShariaBot",
+  "dateSource": "https://www.kfh.com/en/home/Personal/news/2025/KFH-Reinforces-Banking-Leadership-with-Forward-Looking-AI-Initiatives.html"
+ },
+ {
+  "name": "Zoryana (Зоряна)",
+  "company": "Kyivstar",
+  "launched": "2016-03",
+  "basis": "launched",
+  "evidence": "Kyivstar launched assistant bot Zoryana in March 2016",
+  "dateSource": "https://dev.ua/news/kiyivstar-1681311603"
+ },
+ {
+  "name": "L'OréalGPT",
+  "company": "L'Oréal",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Trade report on April 2026 shareholder session: L'OréalGPT launched two years ago",
+  "dateSource": "https://consumergoods.com/loreal-ai-roadmap-overhaul-operations-consumer-experiences-workforce"
+ },
+ {
+  "name": "Beauty Genius",
+  "company": "L'Oréal Paris",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "L'Oréal 2024 annual report: Beauty Genius launched in the US, 50,000+ conversations in first two months",
+  "dateSource": "https://www.loreal-finance.com/en/annual-report-2024/beauty-tech-champion/"
+ },
+ {
+  "name": "ELSE",
+  "company": "Landkreis Emsland and Landkreis Grafschaft Bentheim (Germany)",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Chatbot ELSE was switched live at the end of 2024 (Ende 2024 freigeschaltet)",
+  "dateSource": "https://kommunal.de/chatbot-else-muckl-kommunen"
+ },
+ {
+  "name": "Amelia",
+  "company": "LATAM Airlines Group",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "Sept 25, 2024: LATAM Airlines Group has just launched generative AI platform Amelia",
+  "dateSource": "https://aviacionaldia.com/en/2024/09/latam-launches-amelia-an-ai-platform-for-employees-to-optimize-their-work-routines.html"
+ },
+ {
+  "name": "Lawrence",
+  "company": "Lawhive",
+  "launched": "2024-04",
+  "basis": "earliest mention",
+  "evidence": "TechCrunch Apr 15, 2024: Lawhive's in-house AI lawyer Lawrence built on its own LLM",
+  "dateSource": "https://techcrunch.com/?p=2691416"
+ },
+ {
+  "name": "LazzieChat",
+  "company": "Lazada",
+  "launched": "2023-05",
+  "basis": "launched",
+  "evidence": "Singapore, 24 May 2023: Lazada Group has released LazzieChat",
+  "dateSource": "https://news.microsoft.com/source/asia/2023/05/30/lazada-unveils-lazziechat-the-first-ecommerce-ai-chatbot-of-its-kind-in-se-asia/"
+ },
+ {
+  "name": "BK Genie",
+  "company": "LBank",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "June 15, 2026: LBank has officially launched BK Genie AI trading agent on Telegram",
+  "dateSource": "https://chainwire.org/2026/06/15/lbank-launches-bk-genie-the-first-ai-crypto-trading-assistant-on-telegram/"
+ },
+ {
+  "name": "Super Xiao Ling",
+  "company": "Leapmotor",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Fiona",
+  "company": "Leena AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Harrison",
+  "company": "Leena AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Iris",
+  "company": "Leena AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Clutch",
+  "company": "Lehigh University",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "Sept 18, 2024: Lehigh admissions office introduces live chatbot Clutch",
+  "dateSource": "https://thebrownandwhite.com/2024/09/18/lehigh-admissions-office-introduces-live-chatbot/"
+ },
+ {
+  "name": "C2AI",
+  "company": "Leidos Holdings",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AI Jim",
+  "company": "Lemonade",
+  "launched": "2016",
+  "basis": "launched",
+  "evidence": "AI Jim broke a world record in 2016 by autonomously paying a claim in under three seconds",
+  "dateSource": "https://www.fool.com/investing/2023/05/07/forget-chatgpt-1-ai-stock-down-91-wish-bought-dip"
+ }
+]

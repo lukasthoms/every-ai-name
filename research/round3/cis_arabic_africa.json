@@ -1,0 +1,164 @@
+[
+ {
+  "name": "Kasper",
+  "company": "Kaspi.kz",
+  "project": "Kaspi Shop",
+  "use": "AI shopping assistant that clarifies needs, compares products and recommends the best fit. Works by voice or text in Kazakh and Russian.",
+  "category": "Retail / Fintech",
+  "nameType": "human",
+  "source": "https://forbes.kz/articles/mikhail-lomtadze-unveils-kasper-apersonal-aiassistant-from-kaspikz"
+ },
+ {
+  "name": "Taya (Тая)",
+  "company": "T-Technologies (T-Bank)",
+  "project": "",
+  "use": "AI assistant that helps people make everyday financial decisions. In beta, with full launch planned for autumn 2026.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://adindex.ru/news/innovations/2026/07/20/347314.phtml"
+ },
+ {
+  "name": "Alfa-Intellekt (Альфа-Интеллект)",
+  "company": "Alfa-Bank",
+  "project": "",
+  "use": "AI assistant in the mobile app that analyzes a client's real transactions, helps with budgeting and investments, and is testing agent-based payments.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www1.ru/news/2026/10/06/440611-alfa-bank-zapustil-ii-kotoryi-analiziruet-traty-klienta-i-gotovitsia-samostoiatelno-oplacivat-pokupki.html"
+ },
+ {
+  "name": "Alfa (Альфа)",
+  "company": "Alfa-Bank",
+  "project": "Cash register terminals",
+  "use": "Voice AI helper built into point-of-sale terminals. It answers cashiers' questions and runs routine tasks such as opening shifts and taking payments by voice.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.comnews.ru/digital-economy/content/241289/2025-09-17/2025-w38/1012/alfa-bank-vnedryaet-golosovogo-ii-pomoschnika-kassovye-terminaly"
+ },
+ {
+  "name": "Robot Max (Робот Макс)",
+  "company": "Gosuslugi (Russian Ministry of Digital Development)",
+  "project": "",
+  "use": "Digital assistant on Russia's public services portal, upgraded with generative AI to answer citizens' questions about government services.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://xn--90aivcdt6dxbc.xn--p1ai/articles/news/na-gosuslugakh-zapustili-obnovlennogo-robota-maksa-s-generativnym-ii/"
+ },
+ {
+  "name": "Marusya (Маруся)",
+  "company": "VK",
+  "project": "",
+  "use": "Voice assistant built into VK apps and smart speakers. It answers questions, plays music, manages reminders and controls smart home devices.",
+  "category": "Technology",
+  "nameType": "human",
+  "source": "https://habr.com/ru/news/858124"
+ },
+ {
+  "name": "Yezhednevny Geroy (Ежедневный герой)",
+  "company": "MegaFon",
+  "project": "",
+  "use": "Virtual AI helper for MegaFon retail store employees. It answers staff questions about products and procedures.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://new-retail.ru/novosti/retail/v_salonakh_megafona_poyavilsya_virtualnyy_pomoshchnik/"
+ },
+ {
+  "name": "Maria (Мария)",
+  "company": "MTBank (Belarus)",
+  "project": "",
+  "use": "Virtual assistant that handles contact center calls and now chats in the mobile app and messengers for individual and business clients.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.comnews.ru/content/234481/2024-07-25/2024-w30/1018/mtbank-vnedril-virtualnogo-pomoschnika-mobilnoe-prilozhenie-i-messendzhery"
+ },
+ {
+  "name": "Zoryana (Зоряна)",
+  "company": "Kyivstar",
+  "project": "",
+  "use": "Kyivstar's virtual assistant, which handles about 60% of customer requests on its own. It is being upgraded with Ukraine's national LLM.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://mezha.ua/news/kyivstar-tech-integruye-nacionalnu-llm-u-vlasni-produkti-virtualniy-asistent-zoryana-stane-rozumnishoyu-312719/amp/"
+ },
+ {
+  "name": "AI-nur",
+  "company": "Bank ABB (Azerbaijan)",
+  "project": "",
+  "use": "Voice-enabled AI banking assistant. Customers use it to transfer money and block or reactivate cards.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://mrem.bernama.com/viewsm.php?idm=54508"
+ },
+ {
+  "name": "AI-khan",
+  "company": "Bank ABB (Azerbaijan)",
+  "project": "",
+  "use": "Voice-enabled AI banking assistant, the male counterpart to AI-nur. It handles transfers and card management by voice.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://mrem.bernama.com/viewsm.php?idm=54508"
+ },
+ {
+  "name": "AiZhan",
+  "company": "Home Credit Bank (Kazakhstan)",
+  "project": "",
+  "use": "Generative AI chatbot built on GPT-4 that answers customer questions about banking products and services.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://finance.kz/news/iskusstvennyy-intellekt-s-dushoy-kak-chat-bot-aizhan-ot-home-credit-bank-transformiruet-bankovskoe-obsluzhivanie"
+ },
+ {
+  "name": "Lola",
+  "company": "TBC Uzbekistan",
+  "project": "",
+  "use": "AI banking assistant, described as Central Asia's first, that serves TBC Uzbekistan customers.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://financialit.net/node/70431"
+ },
+ {
+  "name": "Genie",
+  "company": "TBC Bank (Georgia)",
+  "project": "",
+  "use": "Internal AI assistant for TBC Georgia employees, cited in the bank's 2026 innovation award.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://financialit.net/node/70431"
+ },
+ {
+  "name": "Ask Maryam (اسأل مريم)",
+  "company": "Egyptian Holding Company for Airports and Air Navigation (with Orange Egypt)",
+  "project": "Cairo International Airport",
+  "use": "AI digital assistant on airport kiosks that answers travelers' questions in Arabic and English about flights, procedures, facilities and transport.",
+  "category": "Airport",
+  "nameType": "human",
+  "source": "https://www.elwatannews.com/news/details/8260597"
+ },
+ {
+  "name": "Sawt IA",
+  "company": "Sensei Prod (Morocco)",
+  "project": "",
+  "use": "Voice AI assistant that understands Moroccan Darija. Businesses use it to answer phone calls, book appointments and handle customer requests.",
+  "category": "Technology",
+  "nameType": "brand",
+  "source": "https://lematin.ma/economie/sawt-ia-lassistant-vocal-marocain-en-darija-et-ia/316133/amp"
+ },
+ {
+  "name": "Muxlisa AI",
+  "company": "UZINFOCOM (Government of Uzbekistan)",
+  "project": "my.gov.uz Unified Portal of Interactive Public Services",
+  "use": "Uzbek-language voice assistant on the national public services portal. It helps users find services, application steps and required documents around the clock.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://uzinfocom.uz/news/332"
+ },
+ {
+  "name": "Shuru",
+  "company": "Kenya Revenue Authority (KRA)",
+  "project": "WhatsApp tax filing",
+  "use": "AI chatbot on WhatsApp that lets salaried taxpayers file their employment income tax returns in a few steps.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://www.dawan.africa/news/kra-rolls-out-whatsapp-tax-filing-as-shuru-chatbot-simplifies-returns"
+ }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Reggie",
+    "company": "Regions Bank",
+    "project": "",
+    "use": "Digital assistant in Regions Online Banking and the mobile app. It answers questions, makes quick account changes and connects customers to a banker.",
+    "category": "Bank",
+    "nameType": "human",
+    "source": "https://www.regions.com/digital-banking/digital-services/reggie-digital-assistant"
+  },
+  {
+    "name": "Webster",
+    "company": "Webster First Federal Credit Union",
+    "project": "interface.ai",
+    "use": "AI virtual assistant on the credit union's website that answers member questions.",
+    "category": "Credit union",
+    "nameType": "brand",
+    "source": "https://www.websterfirst.com/blog/introducing-our-new-virtual-assistant/"
+  },
+  {
+    "name": "MIA",
+    "company": "Merck Sharp & Dohme Federal Credit Union (MSDFCU)",
+    "project": "",
+    "use": "Virtual assistant that helps with loan applications, membership eligibility, transfers and password resets. It can hand members to a live representative.",
+    "category": "Credit union",
+    "nameType": "human",
+    "source": "https://www.msdfcu.org/about/about/what-s-new/2024/04/15/mia--new---improved"
+  },
+  {
+    "name": "Royce",
+    "company": "University Credit Union",
+    "project": "interface.ai",
+    "use": "AI virtual assistant on the website and phone line. It gives members 24/7 help with transactions and product sign-ups.",
+    "category": "Credit union",
+    "nameType": "human",
+    "source": "https://www.ucu.org/"
+  }
+]

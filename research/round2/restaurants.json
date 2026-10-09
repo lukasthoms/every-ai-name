@@ -1,0 +1,227 @@
+[
+ {
+  "name": "Julia",
+  "company": "White Castle",
+  "project": "Drive-thru voice ordering (SoundHound)",
+  "use": "Voice AI that takes customer orders at White Castle drive-thrus. Named after a longtime White Castle hostess.",
+  "category": "Restaurant",
+  "nameType": "human",
+  "source": "https://www.itbrew.com/stories/inside-white-castles-digital-transformation-efforts"
+ },
+ {
+  "name": "Lou AI",
+  "company": "Papa Johns",
+  "project": "Papa Johns app",
+  "use": "AI pizza assistant in the Papa Johns app. It builds a complete group order from everyone's preferences described in plain language.",
+  "category": "Restaurant",
+  "nameType": "human",
+  "source": "https://www.pmq.com/pizza-giant-unleashes-next-generation-ai-powered-pizza-assistant/"
+ },
+ {
+  "name": "DOM",
+  "company": "Domino's",
+  "project": "Domino's app and phone ordering",
+  "use": "Domino's voice ordering assistant. It takes orders in the app and over the phone and gives order status updates.",
+  "category": "Restaurant",
+  "nameType": "human",
+  "source": "https://data.larridin.com/data/ai-tracker/company/dominos/"
+ },
+ {
+  "name": "Archy",
+  "company": "McDonald's",
+  "project": "ArchIQ",
+  "use": "Drive-thru voice assistant that takes orders in English and Spanish. It is part of McDonald's Google-powered ArchIQ restaurant AI system, now in pilot.",
+  "category": "Restaurant",
+  "nameType": "human",
+  "source": "https://thenextweb.com/news/mcdonalds-archy-ai-drive-thru-english-spanish"
+ },
+ {
+  "name": "Byte Coach",
+  "company": "Yum! Brands",
+  "project": "Byte by Yum!",
+  "use": "AI recommendation tool for restaurant managers at KFC, Pizza Hut and other Yum! brands. It tailors daily operating routines using sales forecasts and customer reviews.",
+  "category": "Restaurant",
+  "nameType": "brand",
+  "source": "https://www.ciodive.com/news/Yum-Brands-AI-strategy-tacobell-pizzahut-KFC/804790/"
+ },
+ {
+  "name": "Q-Smart",
+  "company": "Yum China (KFC China)",
+  "project": "",
+  "use": "Hands-free AI assistant for KFC store managers in China, used through earphones and smartwatches. It helps with staff scheduling, inventory and food-quality checks.",
+  "category": "Restaurant",
+  "nameType": "brand",
+  "source": "https://www.hospitalityireland.com/technology/kfc-owner-unveils-ai-tool-in-china-to-boost-efficiency-210651"
+ },
+ {
+  "name": "AI Lucky",
+  "company": "Luckin Coffee",
+  "project": "",
+  "use": "Luckin's AI ordering agent, built with Volcano Engine. It lets customers buy coffee through Qwen, WeChat and Alipay.",
+  "category": "Coffee chain",
+  "nameType": "brand",
+  "source": "https://www.yicai.com/news/103280165.html"
+ },
+ {
+  "name": "Ailo",
+  "company": "iFood",
+  "project": "iFood app and WhatsApp",
+  "use": "Generative AI ordering agent that builds orders, applies coupons, remembers tastes and completes checkout inside WhatsApp or the iFood app.",
+  "category": "Food delivery",
+  "nameType": "brand",
+  "source": "https://consumidormoderno.com.br/ifood-whatsapp-canal-compras-agente-ailo/"
+ },
+ {
+  "name": "Xiaomei",
+  "company": "Meituan",
+  "project": "Xiaomei app (LongCat model)",
+  "use": "Meituan's AI agent app. Users can order food by voice, book restaurants and plan local outings.",
+  "category": "Food delivery",
+  "nameType": "human",
+  "source": "https://kr-asia.com/pulses/157293"
+ },
+ {
+  "name": "Xiaotuan",
+  "company": "Meituan",
+  "project": "Meituan app",
+  "use": "AI assistant inside the Meituan app. It searches for merchants and deals and can place orders, call rides and book tables for the user.",
+  "category": "Food delivery",
+  "nameType": "human",
+  "source": "https://www.ithome.com/0/982/080.htm"
+ },
+ {
+  "name": "Kangaroo Advisor",
+  "company": "Meituan",
+  "project": "",
+  "use": "AI business advisor for restaurant merchants, drawing on data from about 4 million stores. It advises on store locations, new dishes and operations.",
+  "category": "Food delivery",
+  "nameType": "brand",
+  "source": "https://eu.36kr.com/en/p/3361734156224265"
+ },
+ {
+  "name": "Xiao E",
+  "company": "Ele.me (Alibaba)",
+  "project": "Fengniao Crowdsourcing rider app",
+  "use": "Voice AI assistant for delivery riders. It accepts orders, sends weather and road alerts and helps riders choose orders.",
+  "category": "Food delivery",
+  "nameType": "brand",
+  "source": "https://www.ithome.com/0/863/321.htm"
+ },
+ {
+  "name": "MAI",
+  "company": "Grab",
+  "project": "GrabMerchant app",
+  "use": "Merchant AI Assistant that acts as a virtual business advisor for restaurants and shops on Grab. It suggests menu fixes, promotions and marketing ideas.",
+  "category": "Food delivery",
+  "nameType": "brand",
+  "source": "https://www.grab.com/inside-grab/stories/new-tools-we-launched-in-2025-for-grab-merchants-to-boost-efficiency/"
+ },
+ {
+  "name": "The Cookbook",
+  "company": "Kraft Heinz",
+  "project": "",
+  "use": "Internal AI agent that answers employee questions about ketchup production using the company's stored expertise. Built on Azure OpenAI and in pilot.",
+  "category": "Food & beverage brand",
+  "nameType": "brand",
+  "source": "https://www.ciodive.com/news/kraft-heinz-AI-agent-cookbook-ketchup-production/761046/"
+ },
+ {
+  "name": "NesGPT",
+  "company": "Nestlé",
+  "project": "",
+  "use": "Nestlé's private internal generative AI assistant. Employees use it to draft emails, analyze data, summarize documents and generate ideas.",
+  "category": "Food & beverage brand",
+  "nameType": "brand",
+  "source": "https://www.futuriom.com/articles/news/enterprise-ai-profile-nestlé/2025/10"
+ },
+ {
+  "name": "Andi",
+  "company": "Coca-Cola Andina",
+  "project": "Microsoft Copilot Studio (WhatsApp)",
+  "use": "HR assistant for Coca-Cola Andina employees on WhatsApp. It answers questions about benefits and HR policies and passes harder cases to HR.",
+  "category": "Food & beverage brand",
+  "nameType": "human",
+  "source": "https://www.microsoft.com/en/customers/story/26256-coca-cola-andina-microsoft-copilot-studio"
+ },
+ {
+  "name": "Olive",
+  "company": "Woolworths (Australia)",
+  "project": "Woolworths app",
+  "use": "Woolworths' AI shopping assistant. It now builds weekly meal plans, finds specials and suggests cheaper swaps.",
+  "category": "Supermarket",
+  "nameType": "human",
+  "source": "https://woolworthsgroup.com.au/au/en/our-newsroom/media-releases/latest-news/2026/woolworths-takes-the-hassle-out-of-the-weekly-shop-with-new-digi.html"
+ },
+ {
+  "name": "mycoles Assistant",
+  "company": "Coles",
+  "project": "",
+  "use": "Generative AI assistant for Coles' 115,000 staff. It answers HR questions such as leave and rostering and points staff to the right tools.",
+  "category": "Supermarket",
+  "nameType": "brand",
+  "source": "https://news.microsoft.com/source/asia/features/coles-partnership-with-microsoft-transforms-people-and-culture-experience-with-ai-solutions/"
+ },
+ {
+  "name": "Ollie",
+  "company": "Oliver's Real Food",
+  "project": "Drive-thru voice ordering (Sodaclick)",
+  "use": "Conversational AI that takes drive-thru orders by voice at Oliver's in Australia. It also answers questions about ingredients and allergens.",
+  "category": "Restaurant",
+  "nameType": "human",
+  "source": "https://www.newcastleherald.com.au/story/8794797/revolutionary-ai-drive-thru-debuts-at-olivers-in-australia/"
+ },
+ {
+  "name": "Al",
+  "company": "Popeyes UK",
+  "project": "Drive-thru AI Order Taker (Hi Auto)",
+  "use": "Voice AI that takes Popeyes UK drive-thru orders, answers menu questions and suggests meal combinations. Named after Popeyes founder Al Copeland.",
+  "category": "Restaurant",
+  "nameType": "human",
+  "source": "https://www.restaurantonline.co.uk/Article/2024/06/04/Popeyes-adopts-AI-technology-for-its-drive-thrus/"
+ },
+ {
+  "name": "Clementine",
+  "company": "Instacart",
+  "project": "Instacart Marketplace",
+  "use": "AI shopping assistant that turns a chat, grocery list or recipe into a ready-to-buy cart from the customer's chosen store. It also generates recipes and finds deals.",
+  "category": "Food delivery",
+  "nameType": "human",
+  "source": "https://theshelbyreport.com/2026/09/09/ai-shopping-assistants-debuted-by-instacart-shipt/"
+ },
+ {
+  "name": "Ask Shipt",
+  "company": "Shipt (Target)",
+  "project": "Shipt app and Shipt.com",
+  "use": "AI shopping assistant that builds a grocery cart from a description, an occasion, a budget or a photo of a dish.",
+  "category": "Food delivery",
+  "nameType": "brand",
+  "source": "https://theshelbyreport.com/2026/09/09/ai-shopping-assistants-debuted-by-instacart-shipt/"
+ },
+ {
+  "name": "Go",
+  "company": "Gopuff",
+  "project": "Gopuff app (built with xAI)",
+  "use": "AI shopping assistant that builds a predicted cart when the app opens. Users can also add items by voice through Grok.",
+  "category": "Food delivery",
+  "nameType": "brand",
+  "source": "https://www.shopifreaks.com/gopuff-teams-up-with-xai-to-launch-go-an-ai-shopping-assistant-that-builds-a-predictive-cart-and-delivers-in-as-fast-as-15-minutes/"
+ },
+ {
+  "name": "Jasmine",
+  "company": "Hostie AI",
+  "project": "",
+  "use": "AI phone host that answers restaurant calls. It handles questions about seating and menus and makes or changes reservations.",
+  "category": "Restaurant technology",
+  "nameType": "human",
+  "source": "https://www.hostie.ai/blogs/when-you-call-a-restaurant"
+ },
+ {
+  "name": "Rosie",
+  "company": "Rosie (heyrosie.com)",
+  "project": "",
+  "use": "AI answering service for restaurants that picks up calls 24/7. It books reservations, takes takeaway orders and answers menu questions.",
+  "category": "Restaurant technology",
+  "nameType": "human",
+  "source": "https://heyrosie.com/industries/restaurants"
+ }
+]

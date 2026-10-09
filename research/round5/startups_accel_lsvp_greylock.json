@@ -1,0 +1,72 @@
+[
+ {
+  "name": "Ada",
+  "company": "Ada",
+  "project": "",
+  "use": "AI customer service agents that answer customer inquiries and carry out tasks in a business's systems.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.ada.cx/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "August",
+  "company": "August AI",
+  "project": "",
+  "use": "AI health companion you chat with about symptoms. It connects you to licensed doctors, prescriptions and lab tests.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.meetaugust.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Ema",
+  "company": "Ema",
+  "project": "",
+  "use": "Enterprise platform of AI employees that automate routine work in HR, IT and finance.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.ema.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Leona",
+  "company": "Leona Health",
+  "project": "",
+  "use": "AI assistant for doctors that manages patient conversations on WhatsApp, tracking, reminding and replying 24/7.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.leona.health/en",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Flo",
+  "company": "Spendflo",
+  "project": "",
+  "use": "AI agent workforce for procurement and finance teams. It automates intake, approvals, contracts, renewals and accounts payable.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.spendflo.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Eve",
+  "company": "Eve Legal",
+  "project": "EveOS",
+  "use": "AI platform for plaintiff law firms that handles client intake, case work, legal research and case reviews.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.eve.legal/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Sierra",
+  "company": "Sierra",
+  "project": "",
+  "use": "AI platform that businesses use to build customer-facing agents across chat, voice and email.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://sierra.ai/",
+  "list": "AI-native startup"
+ }
+]

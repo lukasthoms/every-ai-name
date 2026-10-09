@@ -1,0 +1,506 @@
+[
+ {
+  "name": "AI Seongbuk Talk",
+  "company": "Seongbuk-gu District Office (Seoul)",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "Seongbuk-gu launched generative AI chatbot 'AI Seongbuk Talk', now live on district website (July 28, 2026).",
+  "dateSource": "https://mbiz.heraldcorp.com/article/10823011"
+ },
+ {
+  "name": "Now Assist",
+  "company": "ServiceNow",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "Now Assist for Virtual Agent/Search in limited release June 2023, slated GA in Vancouver release, September 2023.",
+  "dateSource": "https://businesswire.com/news/home/20230613524422/en/ServiceNow-introduces-new-generative-AI-solution-Now-Assist-for-Virtual-Agent-to-create-conversational-experiences-for-more-intelligent-self-service"
+ },
+ {
+  "name": "Koko",
+  "company": "Seychelles Tourism Department",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "Koko officially launched by Tourism department at Digital Tourism Summit, 27 September 2024.",
+  "dateSource": "https://nation.sc/articles/23593/tourism-department-launches-ai-travel-assistant-koko-at-digital-tourism-summit"
+ },
+ {
+  "name": "Nafa'a",
+  "company": "Sharjah Electricity, Water and Gas Authority (SEWA)",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "April 2025 Sharjah24 article already describes Nafa'a as SEWA's AI-powered virtual assistant addressing 90% of user needs.",
+  "dateSource": "https://sharjah24.ae/en/Articles/2025/04/24/a6"
+ },
+ {
+  "name": "Poketomo (ポケとも)",
+  "company": "Sharp",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "First Poketomo model's Nov 21, 2025 release delayed to December 5, 2025 for production reasons; 4,000+ orders.",
+  "dateSource": "https://dempa-digital.com/?p=701678"
+ },
+ {
+  "name": "Ask Shipt",
+  "company": "Shipt (Target)",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Shipt launches AI shopping assistant that builds carts from photos, text prompts (Sep 9, 2026).",
+  "dateSource": "https://www.supermarketnews.com/grocery-technology/shipt-launches-ai-shopping-assistant-that-builds-carts-from-photos-text-prompts"
+ },
+ {
+  "name": "Migoo",
+  "company": "Shopee",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Sea quietly launched Migoo consumer AI assistant around mid-June 2026 (Bloomberg report).",
+  "dateSource": "https://fintechnews.sg/133239/ai/sea-migoo-ai-chatbot/"
+ },
+ {
+  "name": "Sidekick",
+  "company": "Shopify",
+  "launched": "2023-07",
+  "basis": "announced",
+  "evidence": "July 18, 2023: Shopify is rolling out conversational generative AI chatbot named Sidekick for store owners.",
+  "dateSource": "https://voicebot.ai/2023/07/18/shopify-reveals-generative-ai-sidekick-for-shopping"
+ },
+ {
+  "name": "Pixie",
+  "company": "Shoprite Group (Checkers)",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Checkers' Sixty60 launched Pixie, South Africa's first AI shopping assistant, on 9 April 2026.",
+  "dateSource": "https://capeargus.co.za/business/2026-04-09-watch-sixty60-launches-pixie-south-africas-first-ai-shopping-assistant/"
+ },
+ {
+  "name": "Siena",
+  "company": "Siena AI",
+  "launched": "2023-11",
+  "basis": "launched",
+  "evidence": "Nov 16, 2023: Siena AI launched as 'world's first empathic AI customer service platform' with $4.7M seed.",
+  "dateSource": "https://techcrunch.com/2023/11/16/siena-ai-4-7m-ai-customer-service-agent/"
+ },
+ {
+  "name": "Sierra",
+  "company": "Sierra",
+  "launched": "2024-02",
+  "basis": "launched",
+  "evidence": "Sierra emerged from stealth on February 13, 2024, announcing its product and $110M funding.",
+  "dateSource": "https://fortune.com/2024/02/13/bret-taylor-clay-bavor-ai-startup-sierra-110-million-funding-sequoia-benchmark/"
+ },
+ {
+  "name": "Sila",
+  "company": "Sila",
+  "launched": "2026",
+  "basis": "earliest mention",
+  "evidence": "Sila is a Y Combinator Winter 2026 startup; agent-native messaging app on App Store.",
+  "dateSource": "https://www.ycombinator.com/companies/sila"
+ },
+ {
+  "name": "Simple AI",
+  "company": "Simple. (Attijariwafa bank)",
+  "launched": "2026-10",
+  "basis": "launched",
+  "evidence": "Hespress: Simple. lance le premier assistant bancaire conversationnel et transactionnel basé sur l'IA au Maroc (2026-10-07).",
+  "dateSource": "https://fr.hespress.com/491458-simple-lance-le-premier-assistant-bancaire-conversationnel-et-transactionnel-base-sur-lia-au-maroc.html"
+ },
+ {
+  "name": "Kris",
+  "company": "Singapore Airlines",
+  "launched": "2017-12",
+  "basis": "launched",
+  "evidence": "12 December 2017 - Singapore Airlines today launched a beta chatbot named 'Kris'.",
+  "dateSource": "https://www.singaporeair.com/en_UK/de/corporate/newsroom/press-release/2017/October-December/ne2417-171212/"
+ },
+ {
+  "name": "Peach",
+  "company": "Singapore General Hospital",
+  "launched": "2024-12",
+  "basis": "launched",
+  "evidence": "Peach was soft-launched in December 2024 for doctors at SGH's Preoperative Assessment Clinic.",
+  "dateSource": "https://www.sgh.com.sg/news/patient-care/ai-chatbot-to-help-sgh-save-money--time-with-pre-surgery-assessm"
+ },
+ {
+  "name": "Peggie",
+  "company": "SingPost",
+  "launched": "2024-04",
+  "basis": "launched",
+  "evidence": "RSP collaborates with SingPost to launch Singapore's first AI concierge (article dated 2024-04-05).",
+  "dateSource": "https://rsp.design/rsp-collaborates-with-singpost-to-launch-singapores-first-ai-concierge/"
+ },
+ {
+  "name": "Shirley",
+  "company": "Singtel",
+  "launched": "2026-03",
+  "basis": "announced",
+  "evidence": "Mar 2026: Singtel and Sierra introduce AI agents for customer support, including Shirley.",
+  "dateSource": "https://www.telecomreviewasia.com/news/technology-news/28671-singtel-sierra-introduce-ai-agents-for-customer-support/"
+ },
+ {
+  "name": "Buddy",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Cassie",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Dexter",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Emmie",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Gigi",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Milli",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Penn",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Scouty",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Seomi",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Soshie",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Vizzy",
+  "company": "Sintra",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Sintra's AI helpers product launched in May 2024 (per seed-round coverage); helper part of the lineup.",
+  "dateSource": "https://tech.eu/2025/06/10/lithuanian-ai-startup-sintra-secures-17m-seed-empowering-smbs-with-ai-helpers/"
+ },
+ {
+  "name": "Sira",
+  "company": "Sira",
+  "launched": "2025",
+  "basis": "earliest mention",
+  "evidence": "Sira, YC Summer 2025 startup, launched AI HR manager for hourly teams via YC launch post; no exact date.",
+  "dateSource": "https://www.ycombinator.com/companies/sira"
+ },
+ {
+  "name": "Missi Six",
+  "company": "Six Flags Entertainment",
+  "launched": "2024-04",
+  "basis": "announced",
+  "evidence": "Six Flags press release 29 Apr 2024 announcing generative AI digital concierge with Google Cloud.",
+  "dateSource": "https://investors.sixflags.com/news/press-releases/press-release-details/2024/news-04-29-2024-151517809/default.aspx"
+ },
+ {
+  "name": "GaiA",
+  "company": "SK hynix",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "SK hynix beta-opened GaiA Biz AI agent services in July 2025 and LLM Chat for all employees in early August 2025.",
+  "dateSource": "https://news.skhynix.co.kr/ai-platform-gaia-launching-2025/"
+ },
+ {
+  "name": "A. (A.Dot)",
+  "company": "SK Telecom",
+  "launched": "2022-05",
+  "basis": "launched",
+  "evidence": "May 2022: SK Telecom launched a beta version of A. personal AI assistant for Android phones.",
+  "dateSource": "https://www.koreatimes.co.kr/www/tech/2022/05/129_329222.html"
+ },
+ {
+  "name": "A.Dot Biz",
+  "company": "SK Telecom",
+  "launched": "2025-09",
+  "basis": "announced",
+  "evidence": "Sep 29, 2025: SKT said it will expand work AI agent A. Biz to 25 SK Group companies by year-end (tested earlier in 2025).",
+  "dateSource": "https://www.rcrwireless.com/20250930/ai-infrastructure/sk-telecom-ai-6"
+ },
+ {
+  "name": "Luna",
+  "company": "Skechers U.S.A.",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Skechers launched AI retail assistant Luna at Punggol Coast Mall store, Singapore, around May 2025, as a temporary activation.",
+  "dateSource": "https://www.retail-systems.com/rs/Skechers_Launches_In_Store_AI_Retail_Assistant_In_Singapore.php"
+ },
+ {
+  "name": "Laura",
+  "company": "Skoda",
+  "launched": "2019-11",
+  "basis": "announced",
+  "evidence": "Laura digital assistant debuted with fourth-gen Octavia (Nov 2019); ChatGPT link added 26 June 2024 via Cerence Chat Pro.",
+  "dateSource": "https://www.skoda-storyboard.com/en/press-releases/skodas-voice-assistant-laura-now-enhanced-with-chatgpt-capabilities/"
+ },
+ {
+  "name": "Slackbot",
+  "company": "Slack (Salesforce)",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "Redesigned AI Slackbot (unveiled Dreamforce Oct 2025) rolled out gradually from January 13, 2026 to Business+ and Enterprise+.",
+  "dateSource": "https://itbrief.com.au/story/salesforce-launches-ai-slackbot-as-workplace-agent"
+ },
+ {
+  "name": "Ash",
+  "company": "Slingshot AI",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "August 5, 2025: Slingshot AI announced the public launch of Ash, the first AI designed for therapy.",
+  "dateSource": "https://www.healthcareittoday.com/2025/08/05/slingshot-launches-ash-the-first-ai-designed-for-therapy/"
+ },
+ {
+  "name": "Sarah",
+  "company": "Smartfren (XLSMART)",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Smartfren introduces Sarah, AI virtual assistant for 24-hour customer access (2025-07-08).",
+  "dateSource": "https://gizmologi.id/news/telco/smartfren-kenalkan-sarah-asisten-virtual-ai/"
+ },
+ {
+  "name": "My AI",
+  "company": "Snap",
+  "launched": "2023-02",
+  "basis": "launched",
+  "evidence": "February 27, 2023: Snap 'Say Hi to My AI' launched for Snapchat+ subscribers.",
+  "dateSource": "https://newsroom.snap.com/en-US/say-hi-to-my-ai"
+ },
+ {
+  "name": "Nora",
+  "company": "Social Development Bank (Saudi Arabia)",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "SDB announced at LEAP 2026 (Riyadh, Aug 31-Sep 3) the launch of Nora smart assistant; article 01 Sep 2026.",
+  "dateSource": "https://alriyadhdaily.com/article/fd1b67167a614c058ad6d40244c64fa8"
+ },
+ {
+  "name": "SoFi Coach",
+  "company": "SoFi",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "SoFi Coach is an AI-powered financial guide... Launched in June 2026.",
+  "dateSource": "https://www.sofi.com/what-is-sofi-coach-and-how-does-it-work/"
+ },
+ {
+  "name": "satto",
+  "company": "SoftBank Corp.",
+  "launched": "2025-07",
+  "basis": "announced",
+  "evidence": "July 16, 2025 SoftBank press release announces satto, with satto workspace to be offered around spring 2026.",
+  "dateSource": "https://www.softbank.jp/corp/news/press/sbkk/2025/20250716_01/"
+ },
+ {
+  "name": "Natural AI",
+  "company": "SoftBank Corp. (with Brain Technologies)",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Natural AI Phone (Brain Technologies) released by SoftBank on April 24, 2026; preorders from April 17.",
+  "dateSource": "https://www.softbank.jp/corp/news/press/sbkk/2026/20260417_03/"
+ },
+ {
+  "name": "Vanessa",
+  "company": "Soho House",
+  "launched": "2026",
+  "basis": "announced",
+  "evidence": "Soho House in 2026 note: 'We're launching Ask Vanessa' AI concierge in the Soho House app; no exact date.",
+  "dateSource": "https://www.sohohouse.com/en-us/house-notes/issue-006/house-tips/soho-house-in-2026"
+ },
+ {
+  "name": "Oshison LLM (おしそんLLM)",
+  "company": "Sompo Japan Insurance",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "Sompo Japan announced July 18, 2025 that Oshison LLM began operating at branches nationwide from June 2025.",
+  "dateSource": "https://it.impress.co.jp/articles/-/28150"
+ },
+ {
+  "name": "Sonia",
+  "company": "Sonia (Bloit Inc.)",
+  "launched": "2024-06",
+  "basis": "earliest mention",
+  "evidence": "TechCrunch June 26, 2024: Sonia's AI chatbot steps in for therapists (iOS app, YC W24).",
+  "dateSource": "https://techcrunch.com/2024/06/26/sonias-ai-chatbot-steps-in-for-therapists"
+ },
+ {
+  "name": "Wichef",
+  "company": "Sony Group",
+  "launched": "2026-08",
+  "basis": "announced",
+  "evidence": "26-Aug-2026: Sony plans to license Wichef in-car AI agent to automakers as early as fiscal 2027.",
+  "dateSource": "https://autotechinsight.spglobal.com/news/5290244/sony-plans-to-license-wichef-in-car-ai-agent-as-early-as-2027"
+ },
+ {
+  "name": "Batho Pele AI Chatbot",
+  "company": "South Africa Department of Public Service and Administration",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "Minister Buthelezi launches Batho Pele AI chatbot (IOL, 2026-08-03).",
+  "dateSource": "https://iol.co.za/news/partnered/2026-08-03-innovation-meets-impact-as-minister-buthelezi-launches-batho-pele-ai-chatbot-title/"
+ },
+ {
+  "name": "Bradley",
+  "company": "South Carolina Department of Administration",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Tyler press release: Bradley resident AI assistant has been operating since launching in September 2025.",
+  "dateSource": "https://www.stocktitan.net/news/TYL/south-carolina-expands-access-to-government-services-with-tyler-twe520e6lxvx.html"
+ },
+ {
+  "name": "Comet",
+  "company": "South Central Community School Corporation (Indiana)",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "08 January 2025: South Central is excited to launch an AI assistant, named Comet.",
+  "dateSource": "http://www.scentral.k12.in.us/information/news/introducing-comet-south-centrals-ai-assistant"
+ },
+ {
+  "name": "SparkasseGPT",
+  "company": "Sparkassen-Finanzgruppe",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Giga: Sparkasse startet neuen Service (SparkasseGPT), article dated 2025-05-08.",
+  "dateSource": "https://www.giga.de/tech/sparkasse-startet-neuen-service-und-blamiert-sich-sofort--01JT8F15A7DSM73JQ1JBT8GK1X"
+ },
+ {
+  "name": "Spellbook Associate",
+  "company": "Spellbook",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "Sep 04, 2024: Spellbook has launched Spellbook Associate, first AI agent for legal professionals.",
+  "dateSource": "https://www.lexpert.ca/news/features/spellbook-launches-ai-agent-for-lawyers-spellbook-associate/388301"
+ },
+ {
+  "name": "DJ Livi",
+  "company": "Spotify",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "In July 2024, Spotify introduced DJ Livi, a Spanish-speaking AI DJ.",
+  "dateSource": "https://en.wikipedia.org/wiki/DJ_X"
+ },
+ {
+  "name": "DJ X",
+  "company": "Spotify",
+  "launched": "2023-02",
+  "basis": "launched",
+  "evidence": "DJ X release February 22, 2023; launched February 2023 for Premium.",
+  "dateSource": "https://en.wikipedia.org/wiki/DJ_X"
+ },
+ {
+  "name": "Oshaberi Slimey",
+  "company": "Square Enix",
+  "launched": "2026-03",
+  "basis": "announced",
+  "evidence": "Mar 22, 2026: Square Enix announces Gemini integration into Dragon Quest X (Oshaberi Slimey).",
+  "dateSource": "https://mynintendonews.com/2026/03/22/square-enix-announces-it-will-integrate-googles-generative-ai-gemini-into-popular-online-game-dragon-quest-x/"
+ },
+ {
+  "name": "Yaana",
+  "company": "SriLankan Airlines",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "6 February 2025, Colombo: SriLankan Airlines' GPT-4 chatbot Yaana now live on corporate website.",
+  "dateSource": "https://www.srilankan.com/si_lk/corporate/news-details/582"
+ },
+ {
+  "name": "SC GPT",
+  "company": "Standard Chartered",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "27 March 2025 – Standard Chartered has launched SC GPT across 41 markets.",
+  "dateSource": "https://www.sc.com/en/press-release/standard-chartered-rolls-out-sc-gpt-advancing-ai-driven-innovation-in-banking"
+ },
+ {
+  "name": "ChatEHR",
+  "company": "Stanford Health Care",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "June 05, 2025: Clinicians can chat with medical records through new AI software, ChatEHR.",
+  "dateSource": "https://med.stanford.edu/news/all-news/2025/06/chatehr.html"
+ },
+ {
+  "name": "Star",
+  "company": "Star One Credit Union",
+  "launched": "2024-09",
+  "basis": "announced",
+  "evidence": "Sep 20, 2024: boost.ai announced Star One Credit Union as new customer for its virtual agent.",
+  "dateSource": "https://www.martechcube.com/?p=230474"
+ },
+ {
+  "name": "Green Dot Assist",
+  "company": "Starbucks",
+  "launched": "2025-06",
+  "basis": "announced",
+  "evidence": "Jun 10, 2025: Green Dot Assist will pilot in 35 stores, broader rollout in fiscal 2026.",
+  "dateSource": "https://www.geekwire.com/2025/starbucks-reveals-ai-powered-assistant-to-help-baristas-focus-more-on-coffee-and-customers/"
+ },
+ {
+  "name": "Starling Assistant",
+  "company": "Starling Bank",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "Starling launched agentic AI Starling Assistant for personal current accounts in March 2026; business rollout later.",
+  "dateSource": "https://fstech.co.uk/fst/Starling_Launches_UKs_First_Agentic_AI_Financial_Assistant.php"
+ },
+ {
+  "name": "SIA",
+  "company": "State Bank of India",
+  "launched": "2017-09",
+  "basis": "launched",
+  "evidence": "Business Today 2017-09-05 on SBI launching SIA, SBI Intelligent Assistant chatbot.",
+  "dateSource": "https://businesstoday.in/sectors/banks/sia-sbi-artificial-intelligence-customer-care-assistant-chatbot/story/259712.html"
+ },
+ {
+  "name": "AskCA",
+  "company": "State of California (Office of Governor Newsom)",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Sep 9, 2026: Governor Newsom introduces AskCA, a new AI-powered tool for Californians.",
+  "dateSource": "https://www.gov.ca.gov/2026/09/09/government-made-easier-governor-newsom-introduces-askca-a-new-ai-powered-tool-for-californians/"
+ }
+]

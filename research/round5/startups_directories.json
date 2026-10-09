@@ -1,0 +1,562 @@
+[
+ {
+  "name": "Ema",
+  "company": "Ema",
+  "project": "Universal AI Employee",
+  "use": "Enterprise agentic AI platform marketed as a 'Universal AI Employee' that automates routine work in HR, IT, finance and other departments.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.ema.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Jamie",
+  "company": "Jamie",
+  "project": "meetjamie.ai",
+  "use": "Bot-free AI meeting note-taker that captures online and in-person meetings and produces notes, briefings and searchable meeting knowledge.",
+  "category": "Productivity",
+  "nameType": "human",
+  "source": "https://www.meetjamie.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Howie",
+  "company": "Howie",
+  "project": "",
+  "use": "AI scheduling assistant that works your email and calendar to book meetings, protect your time and handle follow-ups.",
+  "category": "Productivity",
+  "nameType": "human",
+  "source": "https://howie.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Jenni",
+  "company": "Jenni AI",
+  "project": "",
+  "use": "AI writing and research workspace that helps students and academics read, write and cite sources.",
+  "category": "Education",
+  "nameType": "human",
+  "source": "https://jenni.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Monica",
+  "company": "Monica (Butterfly Effect)",
+  "project": "monica.im",
+  "use": "All-in-one AI assistant combining several models for chat, writing and research across web, browser extension, desktop and mobile.",
+  "category": "Productivity",
+  "nameType": "human",
+  "source": "https://monica.im",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Amie",
+  "company": "Amie",
+  "project": "amie.so",
+  "use": "AI meeting-notes and calendar app that records and summarizes calls without a bot and runs workday tasks with AI agents.",
+  "category": "Productivity",
+  "nameType": "human",
+  "source": "https://amie.so",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Jace",
+  "company": "Zeta Labs",
+  "project": "jace.ai",
+  "use": "AI executive assistant that organizes your inbox, drafts email replies and automates email-triggered tasks.",
+  "category": "Productivity",
+  "nameType": "human",
+  "source": "https://jace.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Sully",
+  "company": "Sully.ai",
+  "project": "",
+  "use": "AI agent platform for health systems with agents for front desk, scribing, consultation and medical coding, connected to the EHR.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.sully.ai",
+  "list": "AI-native startup · YC Summer 2021"
+ },
+ {
+  "name": "Jasper",
+  "company": "Jasper",
+  "project": "",
+  "use": "AI marketing workspace that uses specialized agents and a brand-context layer to carry marketing content from plan to launch.",
+  "category": "Marketing",
+  "nameType": "human",
+  "source": "https://www.jasper.ai",
+  "list": "AI-native startup · YC Winter 2018"
+ },
+ {
+  "name": "Martin",
+  "company": "Martin",
+  "project": "trymartin.com",
+  "use": "AI personal assistant that handles your calendar, email, texts, calls and apps like Slack and WhatsApp.",
+  "category": "Productivity",
+  "nameType": "human",
+  "source": "https://www.trymartin.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Eve",
+  "company": "Eve Legal",
+  "project": "EveOS",
+  "use": "AI platform for plaintiff law firms covering intake, casework, legal research, case review and firm analytics.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.eve.legal",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Paxton",
+  "company": "Paxton",
+  "project": "",
+  "use": "AI platform for litigation teams that brings case files, legal research and drafting into one workspace.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.paxton.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Mindy",
+  "company": "Mindy",
+  "project": "mindy.com",
+  "use": "Email-based AI assistant that tracks context and turns messages into action, later expanding into content work for creators and brands.",
+  "category": "Productivity",
+  "nameType": "human",
+  "source": "https://mindy.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Kody",
+  "company": "Kodus",
+  "project": "",
+  "use": "AI code reviewer that checks pull requests against team rules, flags bugs across linked repos and discusses feedback in the PR.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://kodus.io",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Jan",
+  "company": "Menlo Research",
+  "project": "jan.ai",
+  "use": "Free, open-source ChatGPT alternative that runs AI models locally or via your choice of providers.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://jan.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Victoria",
+  "company": "Vic.ai",
+  "project": "VicAgents",
+  "use": "Agent-powered accounts-payable inbox from Vic.ai, whose agentic AI automates AP and accounting work.",
+  "category": "Finance",
+  "nameType": "human",
+  "source": "https://www.vic.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Hubert",
+  "company": "Hubert",
+  "project": "hubert.ai",
+  "use": "AI interviewer that runs structured screening interviews for high-volume hiring and helps recruiters shortlist candidates.",
+  "category": "Recruiting",
+  "nameType": "human",
+  "source": "https://www.hubert.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Cassidy",
+  "company": "Cassidy",
+  "project": "cassidyai.com",
+  "use": "AI agent platform where business teams build no-code automations grounded in company knowledge, with IT governance controls.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.cassidyai.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Dex",
+  "company": "Thirdlayer",
+  "project": "",
+  "use": "Agent product that captures a company's operating knowledge and gives AI agents the context and tools to run business operations.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://thirdlayer.inc",
+  "list": "AI-native startup · YC Winter 2025"
+ },
+ {
+  "name": "Arthur",
+  "company": "Arthur AI",
+  "project": "",
+  "use": "Enterprise AI governance platform that discovers, monitors, secures and controls the cost of AI agents across an organization.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.arthur.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Abby",
+  "company": "Abby",
+  "project": "abby.gg",
+  "use": "AI companion app that acts as a conversational sounding board for stress and relationship worries, with optional matching to a human therapist.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.abby.gg",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Ona",
+  "company": "Ona (formerly Gitpod; part of OpenAI)",
+  "project": "ona.com",
+  "use": "Enterprise platform that runs AI background coding agents in the cloud to complete tasks end-to-end and return pull requests.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://ona.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Albert",
+  "company": "Albert (Zoomd)",
+  "project": "albert.ai",
+  "use": "Autonomous AI marketing platform that optimizes paid media campaigns across search, social and video channels.",
+  "category": "Marketing",
+  "nameType": "human",
+  "source": "https://albert.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Alexi",
+  "company": "Alexi",
+  "project": "",
+  "use": "AI platform for law firms that combines their knowledge, workflows and expertise in a secure system for legal research and work.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.alexi.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "ELSA",
+  "company": "ELSA",
+  "project": "ELSA Speak",
+  "use": "AI English-speaking app that gives personalized pronunciation and fluency lessons with real-time feedback.",
+  "category": "Education",
+  "nameType": "human",
+  "source": "https://elsaspeak.com/en/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Robin",
+  "company": "Robin AI",
+  "project": "",
+  "use": "AI legal intelligence platform that reviews, analyzes and manages contracts for enterprise legal teams.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://robinai.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Iris",
+  "company": "Iris.ai",
+  "project": "Axion, RSpace",
+  "use": "AI products that let manufacturing, life-sciences, energy and telecom teams use AI on their own documents and systems with controls on sources and reasoning.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://iris.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Julius",
+  "company": "Julius",
+  "project": "",
+  "use": "AI data workspace that analyzes spreadsheets and files, creates editable presentations and builds websites in one interface.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.ycombinator.com/companies/julius",
+  "list": "AI-native startup · YC Summer 2022"
+ },
+ {
+  "name": "Norm",
+  "company": "Norm Ai",
+  "project": "",
+  "use": "Builds AI agents with legal and regulatory compliance knowledge built in, alongside an affiliated law firm and consulting arm.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.norm.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Eliza",
+  "company": "Eliza Labs (elizaOS)",
+  "project": "elizaOS",
+  "use": "Personal AI agent that remembers, schedules, connects to your tools and acts for you, running on the open-source elizaOS agent operating system.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://elizaresearch.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Ivy",
+  "company": "Ivy.ai",
+  "project": "",
+  "use": "AI chatbots for education, health and public-sector organizations that answer constituent and student questions.",
+  "category": "Education",
+  "nameType": "human",
+  "source": "https://ivy.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Hugo",
+  "company": "Crisp",
+  "project": "Crisp support suite",
+  "use": "AI customer support agent that handles conversations on its own using the business's data and hands complex cases to human teammates.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.hugo.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Xaver",
+  "company": "Xaver",
+  "project": "",
+  "use": "AI software that helps banks, insurers and brokers advise on, sell and service pension and investment products.",
+  "category": "Banking",
+  "nameType": "human",
+  "source": "https://www.xaver.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "KaneAI",
+  "company": "TestMu AI (formerly LambdaTest)",
+  "project": "",
+  "use": "AI testing agent that creates, runs and updates web and mobile tests from plain-language instructions.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.testmuai.com/kane-ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Leah",
+  "company": "Leah (formerly ContractPodAi)",
+  "project": "",
+  "use": "Agentic legal AI that combines contract management, legal operations and procurement automation and carries out multi-step commercial tasks end to end.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://leahai.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Kira",
+  "company": "Kira Learning",
+  "project": "",
+  "use": "AI operating system for K-12 education that combines instruction, assessment and intervention for personalized learning at scale.",
+  "category": "Education",
+  "nameType": "human",
+  "source": "https://www.kira-learning.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Lucy",
+  "company": "Rechat",
+  "project": "",
+  "use": "Rechat's AI assistant for real-estate agents that drafts responses, produces marketing materials and handles tasks ahead of time.",
+  "category": "Real estate",
+  "nameType": "human",
+  "source": "https://rechat.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Andi",
+  "company": "Andi",
+  "project": "andisearch.com",
+  "use": "Conversational AI search engine that answers questions directly instead of returning a list of links.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://andisearch.com",
+  "list": "AI-native startup · YC Winter 2022"
+ },
+ {
+  "name": "Clare",
+  "company": "clare&me",
+  "project": "",
+  "use": "Conversational AI mental-health support built on clinical language models, offering self-help support and automating intake assessments for clinics and companies.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.clareandme.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Otto",
+  "company": "Otto",
+  "project": "ottotheagent.com",
+  "use": "AI executive assistant for business travel that plans and books flights and hotels, adjusts trips and follows company travel policy.",
+  "category": "Travel",
+  "nameType": "human",
+  "source": "https://www.ottotheagent.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Dot",
+  "company": "Dot (getdot.ai)",
+  "project": "",
+  "use": "AI data analyst that answers a team's data questions and delivers insights in Slack, Microsoft Teams and email.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.getdot.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Sally",
+  "company": "sally.io",
+  "project": "",
+  "use": "AI meeting assistant that joins online meetings, transcribes them and identifies decisions and tasks automatically.",
+  "category": "Productivity",
+  "nameType": "human",
+  "source": "https://sally.io/en/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Ellie",
+  "company": "Ellie (tryellie.com)",
+  "project": "",
+  "use": "AI email assistant that connects to Gmail or Outlook, learns your writing style and drafts replies for you to review and send.",
+  "category": "Productivity",
+  "nameType": "human",
+  "source": "https://tryellie.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Paige",
+  "company": "Paige AI",
+  "project": "",
+  "use": "AI company for cancer pathology offering diagnostic and biomarker tools and licensable pathology foundation models.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.paige.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Alba",
+  "company": "Paige AI",
+  "project": "",
+  "use": "Paige's AI co-pilot for pathologists, part of its AI cancer-pathology toolset.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.paige.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Harrison",
+  "company": "Harrison.ai",
+  "project": "Annalise",
+  "use": "AI medical-imaging tools for chest X-rays and head CTs that help clinicians prioritize urgent patients and speed up diagnosis.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://harrison.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Pearl",
+  "company": "Pearl",
+  "project": "hellopearl.com",
+  "use": "FDA-cleared dental AI that helps practices, DSOs and universities detect conditions on X-rays and streamline operations.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.hellopearl.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Nadia",
+  "company": "Valence",
+  "project": "",
+  "use": "Valence's AI leadership coach that gives managers on-demand coaching, supports mentoring at scale and guides reflection on decisions.",
+  "category": "HR",
+  "nameType": "human",
+  "source": "https://www.valence.co",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Rocky",
+  "company": "Rocky.ai",
+  "project": "",
+  "use": "No-code platform for building branded AI coaching, mentoring, training and role-play apps grounded in an organization's own content.",
+  "category": "HR",
+  "nameType": "human",
+  "source": "https://www.rocky.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Hudson",
+  "company": "Hudson Labs",
+  "project": "Co-Analyst",
+  "use": "AI-native research platform for public-market investors that analyzes SEC filings and earnings calls and flags securities risk.",
+  "category": "Finance",
+  "nameType": "human",
+  "source": "https://www.hudson-labs.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Rosalyn",
+  "company": "Rosalyn.ai",
+  "project": "",
+  "use": "AI-driven exam governance and remote proctoring platform using real-time multi-signal detection, identity assurance and human verification.",
+  "category": "Education",
+  "nameType": "human",
+  "source": "https://www.rosalyn.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Tess",
+  "company": "Tess AI",
+  "project": "",
+  "use": "Platform for companies to deploy AI agents ('Human AIs') at scale with built-in governance, visibility and control.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.tess.im",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Steve",
+  "company": "Steve AI",
+  "project": "steve.ai",
+  "use": "AI video generator that turns text, scripts, prompts, audio or images into finished videos without editing skills.",
+  "category": "Media",
+  "nameType": "human",
+  "source": "https://www.steve.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Lily",
+  "company": "Lily AI",
+  "project": "Lily Max",
+  "use": "AI that enriches retailers' product data to improve performance in ads, AI shopping tools and site search.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://www.lily.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Hank",
+  "company": "Hank AI",
+  "project": "AutoCoder",
+  "use": "AI-driven healthcare revenue-cycle software for medical coding and claims, backed by in-house coding experts.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://hank.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "To Do Machine",
+  "company": "To Do Machine",
+  "project": "iPhone, Mac and web app",
+  "use": "Personal productivity app customized to fit your brain. You tell it how you want it to work, and it redesigns itself.",
+  "category": "Productivity software",
+  "nameType": "brand",
+  "source": "https://todomachine.com",
+  "list": ""
+ }
+]

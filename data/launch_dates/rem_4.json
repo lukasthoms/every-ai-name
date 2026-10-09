@@ -1,0 +1,314 @@
+[
+ {
+  "name": "MIA GPT",
+  "company": "Mapfre",
+  "launched": "2024-02",
+  "basis": "announced",
+  "evidence": "Press 1 Feb 2024 reports MIA GPT pilot in Spanish offices; CIO says pilot began about a month before 9 Feb 2024.",
+  "dateSource": "https://www.geektopia.es/es/technology/2024/02/01/noticias/mia-gpt-la-nueva-inteligencia-artificial-para-la-red-comercial-de-mapfre.html"
+ },
+ {
+  "name": "Ivy",
+  "company": "Maple Federal Credit Union",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "Maple FCU press release dated 25 March 2024 introduces Ivy, MiniBranch AI assistant.",
+  "dateSource": "https://thecreditunionconnection.com/introducing-ivy-maple-fcu-elevates-member-experience-with-minibranchs-cutting-edge-ai-assistant/"
+ },
+ {
+  "name": "Alisson",
+  "company": "Marblism",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Cara",
+  "company": "Marblism",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Walter",
+  "company": "Marblism",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Marlie",
+  "company": "Marlie",
+  "launched": "2026-07",
+  "basis": "earliest mention",
+  "evidence": "Stork.ai listing says shipped Jul 15, 2026.",
+  "dateSource": "https://www.stork.ai/en/marlie"
+ },
+ {
+  "name": "Vox",
+  "company": "Marr Labs",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "YC Launch post dated 2024-03-08 for Marr Labs Vox voice agents.",
+  "dateSource": "https://www.ycombinator.com/launches/Kbe-marr-labs-ai-voice-agents-that-are-indistinguishable-from-humans"
+ },
+ {
+  "name": "Sunny",
+  "company": "Marriott Vacations Worldwide",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Mindy",
+  "company": "Mindy",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "EME",
+  "company": "Mutua Madrileña",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Annie",
+  "company": "My Social Practice (Dental Intelligence)",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "Blog post 'Annie AI Is In' carries an April 2025 URL date; DentistryIQ coverage July 2025.",
+  "dateSource": "https://mysocialpractice.com/annie-ai/"
+ },
+ {
+  "name": "Lyon Bot",
+  "company": "Nanyang Technological University (NTU Singapore)",
+  "launched": "2020-07",
+  "basis": "launched",
+  "evidence": "NTU and Google Cloud launched Lyon virtual assistant for freshmen, 22 Jul 2020; Gemini upgrade June 2025.",
+  "dateSource": "https://www.ntu.edu.sg/news/detail/ntu-singapore-and-google-cloud-develop-new-rapid-response-virtual-assistant-to-help-address-freshmen-queries"
+ },
+ {
+  "name": "NORA",
+  "company": "Nationwide",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Pepe",
+  "company": "Naturgy",
+  "launched": "2020",
+  "basis": "launched",
+  "evidence": "Sngular said in May 2021 that Pepe had just turned one year old; development July 2019 to Jan 2020.",
+  "dateSource": "https://www.sngular.com/insights/14/meet-pepe-naturgys-chatbot"
+ },
+ {
+  "name": "Harper",
+  "company": "NELFT NHS Foundation Trust",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Codex",
+  "company": "OpenAI",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "OpenAI launched Codex cloud software engineering agent as research preview on 16 May 2025.",
+  "dateSource": "https://openai.com/blog/introducing-codex"
+ },
+ {
+  "name": "Peggy",
+  "company": "PG&E",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Voice Pilot",
+  "company": "Porsche",
+  "launched": "2021-06",
+  "basis": "announced",
+  "evidence": "Porsche press release 18 June 2021 introduced PCM 6.0 with Voice Pilot ('Hey Porsche').",
+  "dateSource": "https://newsroom.porsche.com/dam/jcr:3a2238bb-71f1-47fe-82dd-c0961df0db82/PI20210618e_New%20Porsche%20infotainment%20system_knows%20more,%20does%20more%20and%20is%20a%20better%20listener.pdf"
+ },
+ {
+  "name": "Lucy",
+  "company": "Portland Federal Credit Union (PFCU)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Victor E. Bot",
+  "company": "Portland State University",
+  "launched": "2024",
+  "basis": "earliest mention",
+  "evidence": "PSU page says website access for all students starts Winter term 2024; texts at launch. Exact month not found.",
+  "dateSource": "https://www.pdx.edu/student-success/victorebot"
+ },
+ {
+  "name": "Ju",
+  "company": "Prefeitura de Jundiaí",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "Jundiai city launched Ju virtual assistant (IPTU services) on 19 Jan 2024.",
+  "dateSource": "https://jundiai.sp.gov.br/noticias/2024/01/19/em-transformacao-digital-prefeitura-lanca-assistente-virtual-com-servicos-de-iptu/"
+ },
+ {
+  "name": "DIRK",
+  "company": "R+V Versicherung",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Emmie",
+  "company": "R+V Versicherung",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Robin",
+  "company": "Rabobank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "RITA",
+  "company": "Rackspace Technology",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "ARI",
+  "company": "Raiffeisen Bank Romania",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "RAIA",
+  "company": "Raiffeisenbank (Czech Republic)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Rai",
+  "company": "RAKBANK",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "RAKBANK 2025 integrated report lists launching AI digital assistant Rai among 2025 achievements.",
+  "dateSource": "https://www.sustainabilityreports.com/national-bank-of-ras-al-khaimah/2025/annual-integrated-report"
+ },
+ {
+  "name": "Rakuten AI",
+  "company": "Rakuten Group",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Rakuten announced full-scale launch of Rakuten AI on 30 July 2025 (earlier Rakuten Link AI Oct 2024).",
+  "dateSource": "https://global.rakuten.com/corp/news/press/2025/0730_01.html"
+ },
+ {
+  "name": "Lucy",
+  "company": "Rechat",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "RecoveryRachel",
+  "company": "RecoveryOhio (Office of Governor DeWine)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Reggie",
+  "company": "Regions Bank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Bosh",
+  "company": "Relevance AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Robby",
+  "company": "Robby",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "Fondo blog dated 26 Feb 2026 and YC launch post: Robby launches agentic revenue growth for home services.",
+  "dateSource": "https://fondo.com/blog/robby2-launches"
+ },
+ {
+  "name": "Rocky",
+  "company": "Rocky.ai",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Roger",
+  "company": "Roger",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Hire Roger debuted on Product Hunt on 8 April 2026.",
+  "dateSource": "https://webmail.hunted.space/product/hire-roger"
+ },
+ {
+  "name": "Rondah",
+  "company": "Rondah AI",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "Rondah AI raised $1.8M pre-seed in April 2025 with product already in use by DSOs.",
+  "dateSource": "https://www.techstars.com/blog/advice/rondah-ai-co-founder-ceo-burhan-syed-rebuilding-dental-operations"
+ },
+ {
+  "name": "Rosalyn",
+  "company": "Rosalyn.ai",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Rosie",
+  "company": "Rosie (heyrosie.com)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ }
+]

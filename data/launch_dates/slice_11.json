@@ -1,0 +1,554 @@
+[
+ {
+  "name": "AI Maya",
+  "company": "Lemonade",
+  "launched": "2016-09",
+  "basis": "launched",
+  "evidence": "Dec 2016 article: official launch out of stealth three months ago; chatbot Maya handles sign-up",
+  "dateSource": "https://builtin.com/articles/nyc-startup-lemonade-raises-34m-reinvent-modern-insurance"
+ },
+ {
+  "name": "Maya",
+  "company": "Lemonade",
+  "launched": "2016-09",
+  "basis": "launched",
+  "evidence": "Dec 2016 article: official launch out of stealth three months ago; chatbot Maya handles sign-up",
+  "dateSource": "https://builtin.com/articles/nyc-startup-lemonade-raises-34m-reinvent-modern-insurance"
+ },
+ {
+  "name": "Goffredo",
+  "company": "LENE (Enel Group)",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Enel launched digital company LENE Oct 28 2025, with AI virtual assistant Goffredo",
+  "dateSource": "https://corporate.enel.it/content/dam/enel-common/press/en/2025-october/PR%20LENE.pdf"
+ },
+ {
+  "name": "LISA",
+  "company": "Lennar",
+  "launched": "2025-11",
+  "basis": "earliest mention",
+  "evidence": "Salesforce customer story dated Nov 25 2025 describes LISA agent",
+  "dateSource": "https://www.salesforce.com/customer-stories/lennar/"
+ },
+ {
+  "name": "Qira",
+  "company": "Lenovo / Motorola",
+  "launched": "2026-01",
+  "basis": "announced",
+  "evidence": "At CES 2026 (Jan 6-7), Lenovo introduced Qira cross-device AI",
+  "dateSource": "https://mobilesyrup.com/2026/01/06/lenovo-motorola-qira/"
+ },
+ {
+  "name": "Leo",
+  "company": "Leo AI",
+  "launched": "2023-05",
+  "basis": "launched",
+  "evidence": "Third-party profile says Leo AI launched in May 2023",
+  "dateSource": "https://yespress.io/leo-ai"
+ },
+ {
+  "name": "Leona",
+  "company": "Leona Health",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Dec 16 2025: Leona Health launches first AI co-pilot for doctors through WhatsApp",
+  "dateSource": "https://homebrew.co/blog/2025/12/16/leona-health-launches-the-first-ai-co-pilot-for-doctors-through-whatsapp-with-usd14m-in-seed-financing"
+ },
+ {
+  "name": "Leonardo.Ai",
+  "company": "Leonardo.Ai (Canva)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Pocket Coach",
+  "company": "Leroy Merlin France",
+  "launched": "2026-06",
+  "basis": "announced",
+  "evidence": "Leroy Merlin unveiled Pocket Coach at Connect Lille on 30 June 2026, already tested in store",
+  "dateSource": "https://www.republik-retail.fr/solutions-techno/omnicanal/leroy-merlin-entraine-ses-vendeurs-avec-une-ia-conversationnelle.html"
+ },
+ {
+  "name": "Stitch",
+  "company": "Levi Strauss & Co.",
+  "launched": "2025-11",
+  "basis": "announced",
+  "evidence": "Levi's introduced Stitch AI assistant for store teams, Nov 18 2025",
+  "dateSource": "https://fashionunited.com/news/business/levis-strauss-doubles-down-on-ai-introduces-services-for-employees-customers-and-retail/2025111869224"
+ },
+ {
+  "name": "Protégé",
+  "company": "LexisNexis",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "LexisNexis released Protege to general availability Jan 2025 after Aug 2024 preview",
+  "dateSource": "https://www.lawnext.com/2025/01/lexisnexis-launches-protege-ai-assistant-to-general-availability-promising-autonomous-completion-of-legal-tasks.html"
+ },
+ {
+  "name": "ixi-O",
+  "company": "LG Uplus",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "LG Uplus launched AI call agent ixi-O on Nov 7, 2024",
+  "dateSource": "https://www.kedglobal.com/newsView/ked202411070013"
+ },
+ {
+  "name": "Lixiang Tongxue",
+  "company": "Li Auto",
+  "launched": "2021",
+  "basis": "earliest mention",
+  "evidence": "Li Auto's voice assistant Li Xiang Tong Xue existed by Sept 2021 OTA 2.2; standalone app Dec 27 2024",
+  "dateSource": "https://cnevpost.com/2021/09/08/li-auto-to-roll-out-new-ota-update-for-vehicles-bring-english-language-support"
+ },
+ {
+  "name": "LibertyGPT",
+  "company": "Liberty Mutual Insurance Group",
+  "launched": "2025-02",
+  "basis": "earliest mention",
+  "evidence": "Feb 18 2025: LibertyGPT internal app used by 10,000+ employees",
+  "dateSource": "https://runtime.news/tag/liberty-mutual"
+ },
+ {
+  "name": "Vida",
+  "company": "Life360",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Lila",
+  "company": "Lila Sciences",
+  "launched": "2025-03",
+  "basis": "announced",
+  "evidence": "Mar 10 2025: Lila Sciences emerged from stealth with $200M to build scientific superintelligence",
+  "dateSource": "https://siliconangle.com/2025/03/10/lila-sciences-raises-200m-accelerate-autonomous-scientific-research/"
+ },
+ {
+  "name": "Lily",
+  "company": "Lily AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Linda AI",
+  "company": "Linda AI",
+  "launched": "2026-02",
+  "basis": "earliest mention",
+  "evidence": "Feb 4 2026 funding story: Linda AI already runs voice agents in dental clinics across Ireland and UK",
+  "dateSource": "https://tech.eu/2026/02/04/linda-ai-raises-eur26m-to-expand-ai-workflows-for-dental-practices/"
+ },
+ {
+  "name": "Lindy",
+  "company": "Lindy",
+  "launched": "2023-11",
+  "basis": "announced",
+  "evidence": "Nov 2023 Flo Crivello thread announcing Lindy as platform to build team of AI employees",
+  "dateSource": "https://threadreaderapp.com/thread/1721250514946732190.html"
+ },
+ {
+  "name": "Laila",
+  "company": "Linklaters",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "Linklaters introduced customised generative AI chatbot (Laila) in March 2023; upgraded Nov 2023",
+  "dateSource": "https://linklaters.com/about-us/news-and-deals/news/2023/november/linklaters-rolls-out-laila-the-firms-upgraded-chatbot"
+ },
+ {
+  "name": "Chip",
+  "company": "LIV Golf",
+  "launched": "2026-02",
+  "basis": "earliest mention",
+  "evidence": "Feb 6 2026 Salesforce story: Fan Caddie agent named Chip delivers news and stats to fans",
+  "dateSource": "https://www.salesforce.com/customer-stories/liv-golf-nick-connor-interview/"
+ },
+ {
+  "name": "Athena",
+  "company": "Lloyds Banking Group",
+  "launched": "2025-07",
+  "basis": "announced",
+  "evidence": "July 2025: Lloyds deploys Athena, its first large-scale GenAI product for customer service staff",
+  "dateSource": "https://www.fintechfutures.com/ai-in-fintech/lloyds-banking-group-deploys-first-large-scale-genai-product-athena"
+ },
+ {
+  "name": "PC Chat",
+  "company": "Loblaw Companies (PC Health)",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Sept 29 2026: Loblaw's PC Health launches chatbot PC Chat",
+  "dateSource": "https://www.cp24.com/news/2026/09/29/loblaws-pc-health-launches-chatbot-as-more-people-turn-to-ai-for-health-info-heres-what-to-know/"
+ },
+ {
+  "name": "LMText Navigator",
+  "company": "Lockheed Martin",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Oct 8 2024: Lockheed Martin introduced LMText Navigator to its U.S.-based workforce",
+  "dateSource": "https://www.lockheedmartin.com/en-us/news/features/2024/empowering-innovation-with-secure-generative-ai-across-enterprise.html"
+ },
+ {
+  "name": "Re",
+  "company": "Lojas Renner",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "30 Sept 2026: Renner lancou a Re, especialista de moda com IA, para mais de 2 milhoes de clientes",
+  "dateSource": "https://mercadoeconsumo.com.br/30/09/2026/inovacao/renner-transforma-ia-em-especialista-de-moda-para-clientes/"
+ },
+ {
+  "name": "Angel",
+  "company": "Los Angeles Tourism & Convention Board",
+  "launched": "2026-06",
+  "basis": "earliest mention",
+  "evidence": "June 2026 coverage: LA Tourism recently launched Angel, a World Cup AI concierge",
+  "dateSource": "https://alvinology.com/2026/06/18/ai-takes-centre-stage-as-u-s-host-cities-prepare-for-fifa-world-cup-2026-visitors/amp/"
+ },
+ {
+  "name": "Dustin",
+  "company": "Lotte Department Store",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "롯데백화점이 AI 쇼핑 챗봇 '더스틴'을 18일 공식 오픈 (Dec 18 2025)",
+  "dateSource": "https://biz.newdaily.co.kr/site/data/html/2025/12/17/2025121700359.amp.html"
+ },
+ {
+  "name": "Bellygungeumi (벨리궁그미)",
+  "company": "Lotte Homeshopping",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Moni",
+  "company": "Lotte Homeshopping",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "2024년 10월, 롯데홈쇼핑은 AI 어시스턴트 Moni를 런칭",
+  "dateSource": "https://claude.com/ko/customers/lotte-homeshopping"
+ },
+ {
+  "name": "Aimember (아이멤버)",
+  "company": "Lotte Innovate (Lotte Group)",
+  "launched": "2024-03",
+  "basis": "earliest mention",
+  "evidence": "March 2024: Lotte Data Communication applied AI platform 'Aimember' across all Lotte group companies",
+  "dateSource": "https://byline.network/2024/03/240321_002/"
+ },
+ {
+  "name": "MikeGPT",
+  "company": "Louisiana State University",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb 10 2025: LSU has launched MikeGPT, an AI assistant",
+  "dateSource": "https://lsu.edu/blog/2025/02/mikegpt_lsu_aitool.php"
+ },
+ {
+  "name": "Mylow",
+  "company": "Lowe's",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Mar 5 2025: Lowe's unveils Mylow, first AI-powered virtual home improvement assistant",
+  "dateSource": "https://corporate.lowes.com/newsroom/stories/inside-lowes/meet-mylow-lowes-unveils-first-ever-ai-powered-virtual-home-improvement-assistant"
+ },
+ {
+  "name": "Lumi",
+  "company": "Loyalty Credit Union",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "11/20/2025: Loyalty Credit Union announced the official launch of Lumi",
+  "dateSource": "https://www.cubroadcast.com/news/loyalty-credit-union-launches-new-virtual-assistant-named-lumi"
+ },
+ {
+  "name": "Lucid Assistant",
+  "company": "Lucid Motors",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "Jan 2 2025: Lucid EV drivers gain new AI assistant 'Hey Lucid' via update",
+  "dateSource": "https://electrek.co/2025/01/02/lucid-lcid-ev-drivers-gain-new-ai-assistant-hey-lucid/"
+ },
+ {
+  "name": "AI Lucky",
+  "company": "Luckin Coffee",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Luckin ordering agent (later Lucky AI) with Volcano Engine went live end of May 2025",
+  "dateSource": "https://stock.10jqka.com.cn/20260717/c678260847.shtml"
+ },
+ {
+  "name": "Elisa",
+  "company": "Lufthansa",
+  "launched": "2019-05",
+  "basis": "launched",
+  "evidence": "May 8 2019 press release: Lufthansa bot Elisa available via Facebook Messenger",
+  "dateSource": "https://newsroom.lufthansagroup.com/en/lufthansa-swiss-and-austrian-airlines-customer-service-now-also-available-via-messenger-app/"
+ },
+ {
+  "name": "George",
+  "company": "Lufthansa Group",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Tom",
+  "company": "Lumeris",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb 19 2025: Lumeris introduces Tom, AI-powered primary care offering, at ViVE 2025",
+  "dateSource": "https://www.lumeris.com/newsroom/lumeris-introduces-tom-an-ai-powered-breakthrough-to-transform-primary-care/"
+ },
+ {
+  "name": "Marvin",
+  "company": "Lush",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Agent i",
+  "company": "LY Corporation (LINE Yahoo)",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "LINE Yahoo began offering AI agent brand Agent i on April 20, 2026",
+  "dateSource": "https://webtan.impress.co.jp/n/2026/04/21/52520"
+ },
+ {
+  "name": "Lyft Advisor",
+  "company": "Lyft",
+  "launched": "2026-09",
+  "basis": "announced",
+  "evidence": "Lyft fall 2026 driver tools post introduces AI advisor using drivers' history",
+  "dateSource": "https://www.lyft.com/blog/posts/new-driver-tools-fall-2026"
+ },
+ {
+  "name": "Jazon",
+  "company": "Lyzr",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "May 10 2024: Lyzr has recently launched Jazon, AI sales agent",
+  "dateSource": "https://www.cmswire.com/the-wire/new-ai-sales-agent-matches-the-output-of-100-salespeople-at-fractional-cost"
+ },
+ {
+  "name": "Skott",
+  "company": "Lyzr",
+  "launched": "2024-06",
+  "basis": "announced",
+  "evidence": "June 2024: Lyzr unveils Skott, autonomous AI marketing agent",
+  "dateSource": "https://www.lyzr.ai/press-releases"
+ },
+ {
+  "name": "Ask Macy's",
+  "company": "Macy's",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Macy's and Google announced Ask Macy's on April 22 2026, scaled to all site users within a week",
+  "dateSource": "https://www.digitalcommerce360.com/2026/04/23/google-helps-develop-ask-macys-ai-agent/"
+ },
+ {
+  "name": "Lu",
+  "company": "Magazine Luiza (Magalu)",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov 5 2025: Magalu launched WhatsApp da Lu AI shopping; Lu persona itself predates as virtual saleswoman",
+  "dateSource": "https://mercadoeconsumo.com.br/05/11/2025/inovacao/magalu-lanca-funcionalidade-que-permite-realizar-todo-o-processo-de-compra-pelo-whatsapp/"
+ },
+ {
+  "name": "Raina",
+  "company": "MagicSchool",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Maia",
+  "company": "Maia",
+  "launched": "2023-10",
+  "basis": "launched",
+  "evidence": "Directory lists Maia couples app release date 2023-10-24",
+  "dateSource": "https://www.extruct.ai/hub/ourmaia-com/"
+ },
+ {
+  "name": "Myra",
+  "company": "MakeMyTrip",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Aug 7 2025: MakeMyTrip launches GenAI trip planner Myra (beta)",
+  "dateSource": "https://english.punjabkesari.com/india/2025/08/07/makemytrip-launches-genai-trip-planner-myra-for-seamless-travel-booking"
+ },
+ {
+  "name": "Mavis",
+  "company": "Malaysia Airlines",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "Feb 24 2026: Malaysia Airlines has launched Mavis, an AI-powered assistant",
+  "dateSource": "https://www.eplaneai.com/news/malaysia-airlines-introduces-ai-assistant-mavis-to-enhance-passenger-support"
+ },
+ {
+  "name": "MAYA",
+  "company": "Malaysia Airlines",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "MAYA debuted at Malaysia Airlines pavilion, MATTA Fair 5-7 Sept 2025",
+  "dateSource": "https://www.marketing-interactive.com/malaysia-airlines-introduces-ai-powered-cabin-crew-in-digital-push"
+ },
+ {
+  "name": "Cortez",
+  "company": "Manatee County (Florida)",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 6 2025: Manatee County announced the launch of Cortez, a new digital assistant",
+  "dateSource": "https://www.mymanatee.org/connect/news-and-information/news-and-information/article-detail/government-relations---legislative-affairs/2025/10/07/manatee-county-launches--cortez----new-online-chatbot-to-help-citizens-get-answers-faster"
+ },
+ {
+  "name": "Iris",
+  "company": "Mango",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Mango Stylist",
+  "company": "Mango",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "July 2 2025: Mango launches Mango Stylist AI fashion assistant in nine markets",
+  "dateSource": "https://www.retailitinsights.com/doc/mango-launches-mango-stylist-new-ai-powered-fashion-assistant-0001"
+ },
+ {
+  "name": "ChatMFC",
+  "company": "Manulife",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "March 2026 release: 100% global workforce coverage of proprietary GenAI assistant ChatMFC",
+  "dateSource": "https://www.manulife.com.mo/content/dam/insurance/hk/press-release/manulife-continues-to-strengthen-ai-investment-and-leadership-eng.pdf"
+ },
+ {
+  "name": "Eva",
+  "company": "Marblism",
+  "launched": "2026-01",
+  "basis": "earliest mention",
+  "evidence": "Jan 6 2026 article describes Marblism AI employees incl. this agent",
+  "dateSource": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Linda",
+  "company": "Marblism",
+  "launched": "2026-01",
+  "basis": "earliest mention",
+  "evidence": "Jan 6 2026 article describes Marblism AI employees incl. this agent",
+  "dateSource": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Penny",
+  "company": "Marblism",
+  "launched": "2026-01",
+  "basis": "earliest mention",
+  "evidence": "Jan 6 2026 article describes Marblism AI employees incl. this agent",
+  "dateSource": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Rachel",
+  "company": "Marblism",
+  "launched": "2026-01",
+  "basis": "earliest mention",
+  "evidence": "Jan 6 2026 article describes Marblism AI employees incl. this agent",
+  "dateSource": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Sonny",
+  "company": "Marblism",
+  "launched": "2026-01",
+  "basis": "earliest mention",
+  "evidence": "Jan 6 2026 article describes Marblism AI employees incl. this agent",
+  "dateSource": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Stan",
+  "company": "Marblism",
+  "launched": "2026-01",
+  "basis": "earliest mention",
+  "evidence": "Jan 6 2026 article describes Marblism AI employees incl. this agent",
+  "dateSource": "https://lilys.ai/en/notes/ai-solopreneur-20260106/ai-employees-run-business-marblism"
+ },
+ {
+  "name": "Mari",
+  "company": "Maricopa County (Arizona)",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "July 13 2026: Maricopa County has launched an AI-powered virtual assistant with IBM",
+  "dateSource": "https://www.maricopa.gov/CivicAlerts.aspx?AID=3751"
+ },
+ {
+  "name": "Pythia",
+  "company": "Marketing Greece (DiscoverGreece.com)",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "July 2 2024: Marketing Greece inaugurated digital assistant Pythia, in operation for a few days",
+  "dateSource": "https://www.amna.gr/en/article/831485/Pythia--a-new-digital-assistant-for-travelers--is-launched-on-Discover-Greece-platform"
+ },
+ {
+  "name": "Ask Bonvoy",
+  "company": "Marriott International",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Skift: Marriott's Ask Bonvoy formally launched in June 2026",
+  "dateSource": "https://skift.com/2026/07/28/ihg-joins-hilton-and-marriott-with-ai-search/"
+ },
+ {
+  "name": "Marsha",
+  "company": "Marshmallow",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Martin",
+  "company": "Martin",
+  "launched": "2024-03",
+  "basis": "earliest mention",
+  "evidence": "Product Hunt review of Martin dated March 2024 on company site",
+  "dateSource": "https://www.trymartin.com"
+ },
+ {
+  "name": "SleepExpert.AI",
+  "company": "Mattress Firm (Somnigroup International)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Miya",
+  "company": "Maxis",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "15 Oct 2025: Maxis today introduced Miya, gen AI in-app assistant",
+  "dateSource": "https://www.maxis.com.my/en/about-maxis/newsroom/2025/october/maxis-pioneers-gen-ai-powered-conversational-in-app-assistant/"
+ },
+ {
+  "name": "mAsystent AI",
+  "company": "mBank",
+  "launched": "2026-06",
+  "basis": "announced",
+  "evidence": "June 16 2026: mBank started pilot of mAsystent AI for selected customers",
+  "dateSource": "https://bezprawnik.pl/asysten-ai-w-mbanku/"
+ },
+ {
+  "name": "Archy",
+  "company": "McDonald's",
+  "launched": "2026-09",
+  "basis": "announced",
+  "evidence": "Sept 26 2026: McDonald's tests Archy, AI drive-thru voice, part of system rolling out from 2027",
+  "dateSource": "https://thenextweb.com/news/mcdonalds-archy-ai-drive-thru-english-spanish"
+ }
+]

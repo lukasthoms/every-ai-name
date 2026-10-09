@@ -1,0 +1,282 @@
+[
+ {
+  "name": "Bea",
+  "company": "Balance",
+  "project": "",
+  "use": "AI accountant that handles reconciliation, categorization and reporting for small businesses; founders can message it in Slack, WhatsApp or email, and human accountants review its work.",
+  "category": "Accounting",
+  "nameType": "human",
+  "source": "https://www.ycombinator.com/launches/PRK-balance-ai-accounting-firm-for-smbs",
+  "list": "AI-native startup · YC Winter 2026"
+ },
+ {
+  "name": "Jack",
+  "company": "Jack & Jill",
+  "project": "",
+  "use": "Conversational AI recruiting agent for job seekers that learns their skills and goals, finds matching jobs and helps with applications and interviews.",
+  "category": "Recruiting",
+  "nameType": "human",
+  "source": "https://vestbee.com/insights/articles/jack-and-jill-raises-20-m",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Jill",
+  "company": "Jack & Jill",
+  "project": "",
+  "use": "Conversational AI headhunter for hiring teams that captures role requirements and matches candidates from Jack's conversations.",
+  "category": "Recruiting",
+  "nameType": "human",
+  "source": "https://vestbee.com/insights/articles/jack-and-jill-raises-20-m",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Lawrence",
+  "company": "Lawhive",
+  "project": "",
+  "use": "In-house AI lawyer/paralegal built on Lawhive's own LLM that helps its solicitors with case work like summarising evidence and drafting documents.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://techcrunch.com/?p=2691416",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Sandra AI",
+  "company": "Sandra AI",
+  "project": "",
+  "use": "AI employee for car dealerships, starting with a multilingual AI receptionist named Sandra that handles inbound and outbound calls and messages.",
+  "category": "Automotive",
+  "nameType": "human",
+  "source": "https://www.ycombinator.com/companies/sandra-ai",
+  "list": "AI-native startup · YC Fall 2024"
+ },
+ {
+  "name": "Julius",
+  "company": "Julius",
+  "project": "",
+  "use": "AI data analyst platform that analyzes spreadsheets and files and builds presentations and websites.",
+  "category": "Software",
+  "nameType": "human",
+  "source": "https://www.ycombinator.com/companies/julius",
+  "list": "AI-native startup · YC Summer 2022"
+ },
+ {
+  "name": "GARY",
+  "company": "Docyt",
+  "project": "",
+  "use": "AI bookkeeper (Generative Accounting Retrieval sYstem) that automates expense handling, revenue accounting, reconciliation and the month-end close for small businesses and accounting firms.",
+  "category": "Accounting",
+  "nameType": "human",
+  "source": "https://siliconangle.com/2025/08/06/ai-bookkeeper-docyt-debuts-precision-trained-ai-agents-accelerate-accounting-automation/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Max",
+  "company": "Tezi",
+  "project": "",
+  "use": "Autonomous AI recruiting agent that sources candidates, reviews applications and books interviews, working inside Slack.",
+  "category": "Recruiting",
+  "nameType": "human",
+  "source": "https://venturebeat.com/business/meet-max-tezis-ai-powered-recruiting-partner-transforming-the-hiring-process",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Siena",
+  "company": "Siena AI",
+  "project": "",
+  "use": "AI customer experience platform for consumer brands whose agents handle support, shopping and social conversations.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.siena.cx",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Eve",
+  "company": "Eve Legal",
+  "project": "EveOS",
+  "use": "AI operating system for plaintiff law firms that handles client intake, case review, drafting and legal research.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.eve.legal",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Ema",
+  "company": "Ema",
+  "project": "",
+  "use": "\"Universal AI employee\" platform giving enterprises AI agents for HR, IT and finance work such as recruiting, onboarding and benefits.",
+  "category": "Business Software",
+  "nameType": "human",
+  "source": "https://www.ema.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Jasper",
+  "company": "Jasper",
+  "project": "",
+  "use": "AI workspace for marketing teams with purpose-built agents that carry out multistep marketing and content work.",
+  "category": "Marketing",
+  "nameType": "human",
+  "source": "https://www.jasper.ai",
+  "list": "AI-native startup · YC Winter 2018"
+ },
+ {
+  "name": "Carly",
+  "company": "CalBot",
+  "project": "",
+  "use": "AI assistant you email or text that schedules meetings and creates agents for email and CRM tasks.",
+  "category": "Business Software",
+  "nameType": "human",
+  "source": "https://www.usecarly.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Walter",
+  "company": "Walter",
+  "project": "",
+  "use": "AI employee for manufacturing back offices that logs into ERPs like SAP and Dynamics to enter purchase orders, order from suppliers and catch pricing errors.",
+  "category": "Manufacturing",
+  "nameType": "human",
+  "source": "https://www.ycombinator.com/companies/walter",
+  "list": "AI-native startup · YC Spring 2026"
+ },
+ {
+  "name": "Burt",
+  "company": "Burt",
+  "project": "",
+  "use": "Lets freight brokers and forwarders build AI teammates that track shipments, process documents, book carriers and audit invoices.",
+  "category": "Logistics",
+  "nameType": "human",
+  "source": "https://www.ycombinator.com/companies/burt",
+  "list": "AI-native startup · YC Winter 2026"
+ },
+ {
+  "name": "Bernard",
+  "company": "Bernard",
+  "project": "",
+  "use": "AI employees for appliance repair companies that handle customer communication, scheduling, dispatch and pre-visit diagnosis.",
+  "category": "Home services",
+  "nameType": "human",
+  "source": "https://www.ycombinator.com/companies/bernard",
+  "list": "AI-native startup · YC Summer 2026"
+ },
+ {
+  "name": "Ivo",
+  "company": "Ivo",
+  "project": "",
+  "use": "AI contract tool for in-house legal teams that reviews and redlines agreements and answers questions across contract repositories.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.ivo.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Ada",
+  "company": "Ada",
+  "project": "",
+  "use": "AI customer service agents for enterprises that resolve customer inquiries and take actions in business systems across channels.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.ada.cx",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Sierra",
+  "company": "Sierra",
+  "project": "",
+  "use": "Platform for building and running customer-facing AI agents across chat, voice and email.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://sierra.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Paxton",
+  "company": "Paxton",
+  "project": "",
+  "use": "AI workspace for litigation teams that connects case files, legal research and drafting with verifiable sources.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.paxton.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Skott",
+  "company": "Lyzr",
+  "project": "",
+  "use": "Lyzr's agentic AI marketer platform that runs marketing agents and workflows for enterprise marketing teams.",
+  "category": "Marketing",
+  "nameType": "human",
+  "source": "https://www.lyzr.ai/skott/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Aidan",
+  "company": "Sable",
+  "project": "",
+  "use": "AI employee that leads live product demos on a company's website, clicking through the product and answering buyers' questions in many languages.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.newswire.com/news/sable-raises-45m-to-build-the-first-ai-employee-that-can-click-see-and-explain",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Victoria",
+  "company": "Vic.ai",
+  "project": "VicAgents AP Inbox",
+  "use": "Agent-powered accounts payable inbox that processes vendor emails and invoices for finance teams.",
+  "category": "Accounting",
+  "nameType": "human",
+  "source": "https://www.vic.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Alexi",
+  "company": "Alexi",
+  "project": "",
+  "use": "Legal AI platform for law firms that combines research, drafting and analysis and adapts to the firm's own knowledge and playbooks.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.alexi.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Fred",
+  "company": "Fireflies.ai",
+  "project": "AskFred / AI Note Taker",
+  "use": "AI meeting notetaker bot (fred@fireflies.ai) that joins calls, transcribes them and answers questions about your meetings.",
+  "category": "Business Software",
+  "nameType": "human",
+  "source": "https://fireflies.ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Howie",
+  "company": "Howie",
+  "project": "",
+  "use": "AI assistant that handles email scheduling, calendar management and follow-ups.",
+  "category": "Business Software",
+  "nameType": "human",
+  "source": "https://www.howie.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Martin",
+  "company": "Martin",
+  "project": "",
+  "use": "AI personal assistant that manages your calendar, inbox, texts, calls and apps like WhatsApp and Slack, reachable by call, text or email.",
+  "category": "Business Software",
+  "nameType": "human",
+  "source": "https://www.trymartin.com",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Rhea",
+  "company": "CellCog",
+  "project": "",
+  "use": "AI employee that CellCog hired as its Head of Growth; it runs the company's Product Hunt launch plan and growth content. CellCog sells AI employees that form teams and manage each other.",
+  "category": "Marketing",
+  "nameType": "human",
+  "source": "https://www.producthunt.com/p/cellcog/our-ai-head-of-growth-is-running-our-product-hunt-launch",
+  "list": "AI-native startup"
+ }
+]

@@ -1,0 +1,682 @@
+[
+ {
+  "name": "studiGPT",
+  "company": "University of Graz",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "On 21 May 2025 Uni Graz became first Austrian university to launch AI chatbot studiGPT for all students.",
+  "dateSource": "https://www.uni-graz.at/en/news/studigpt-uni-graz-startet-ersten-ki-chatbot-fuer-studierende"
+ },
+ {
+  "name": "Lehua",
+  "company": "University of Hawaiʻi at Hilo",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "In August 2025, UH Hilo (Lehua) ... launched their chatbots.",
+  "dateSource": "https://www.hawaii.edu/news/2025/11/18/edsights-community-connector-award/"
+ },
+ {
+  "name": "ʻBow",
+  "company": "University of Hawaiʻi at Mānoa",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "UH Mānoa's 'Bow, introduced in 2023, was the first UH AI chatbot buddy.",
+  "dateSource": "https://www.hawaii.edu/news/2025/11/18/edsights-community-connector-award/"
+ },
+ {
+  "name": "Ulu",
+  "company": "University of Hawaiʻi Maui College",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "In August 2025, UH Hilo, Honolulu CC, Kapiʻolani CC and UH Maui College (Ulu) launched their chatbots.",
+  "dateSource": "https://www.hawaii.edu/news/2025/11/18/edsights-community-connector-award/"
+ },
+ {
+  "name": "Pueo",
+  "company": "University of Hawaiʻi–West Oʻahu",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "UH West Oʻahu (Pueo) and others followed during the fall 2025 semester with their chatbots.",
+  "dateSource": "https://www.hawaii.edu/news/2025/11/18/edsights-community-connector-award/"
+ },
+ {
+  "name": "Shasta",
+  "company": "University of Houston",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Daily Cougar, May 30 2025: UH launches AI chatbot (Shasta) to support students.",
+  "dateSource": "https://thedailycougar.com/2025/05/30/uh-launches-ai-chatbot-to-support-students/"
+ },
+ {
+  "name": "Illinois Chat",
+  "company": "University of Illinois Urbana-Champaign",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Illinois Chat has launched for the Fall 2025 semester and is available for anyone on campus.",
+  "dateSource": "https://www.ncsa.illinois.edu/research/project-highlights/illinois-chat/"
+ },
+ {
+  "name": "Ace",
+  "company": "University of Indianapolis",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Dell",
+  "company": "University of Lynchburg",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Lynchburg partnered with Druid in March 2025; Dell was officially rolled out in October [2025].",
+  "dateSource": "https://technologymagazine.com/company-reports/how-ai-is-reshaping-education-at-the-university-of-lynchburg"
+ },
+ {
+  "name": "TerpAI",
+  "company": "University of Maryland",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Sept 2025 Diamondback: nine months after launching TerpAI; faculty/staff first, students from spring semester.",
+  "dateSource": "https://dbknews.com/2025/09/19/umd-terpai-updates-aim-to-boost-campus-adoption"
+ },
+ {
+  "name": "Aila",
+  "company": "University of Melbourne",
+  "launched": "2024-07",
+  "basis": "announced",
+  "evidence": "Beta release available for staff in Canvas Playpen subjects from Monday 29 July 2024.",
+  "dateSource": "https://lms.unimelb.edu.au/updates/features-and-improvements/lms-integration-ai-learning-assistant"
+ },
+ {
+  "name": "Go Blue",
+  "company": "University of Michigan",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "ITS FY2025 report: Go Blue, the mobile AI app, was launched in February 2025.",
+  "dateSource": "https://its.umich.edu/accomplishments/2025/emerging-technology/detail"
+ },
+ {
+  "name": "Maizey",
+  "company": "University of Michigan",
+  "launched": "2023-08",
+  "basis": "launched",
+  "evidence": "In August 2023 U-M launched its GenAI platform with U-M GPT, U-M Maizey and the GPT Toolkit.",
+  "dateSource": "https://its.umich.edu/accomplishments/2025/emerging-technology/detail"
+ },
+ {
+  "name": "U-M GPT",
+  "company": "University of Michigan",
+  "launched": "2023-08",
+  "basis": "launched",
+  "evidence": "In August 2023 U-M launched its GenAI platform with U-M GPT, U-M Maizey and the GPT Toolkit.",
+  "dateSource": "https://its.umich.edu/accomplishments/2025/emerging-technology/detail"
+ },
+ {
+  "name": "Crisp",
+  "company": "University of Minnesota College of Food, Agricultural and Natural Resource Sciences",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Since launching in March 2025, Crisp has already made a meaningful impact.",
+  "dateSource": "https://cfans.umn.edu/news/meet-crisp-chatbot"
+ },
+ {
+  "name": "Roary",
+  "company": "University of Missouri",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "Mizzou students met Roary on Jan. 22, 2025.",
+  "dateSource": "https://murraystatenews.org/205931/features/edsights-chatbots-spark-varied-reactions-across-the-nation/"
+ },
+ {
+  "name": "Cornelius",
+  "company": "University of Nebraska–Lincoln",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "UNL launched Cornelius AI texting assistant on Monday, November 3, 2025.",
+  "dateSource": "https://newsroom.unl.edu/announce/topthings/19489/104538"
+ },
+ {
+  "name": "Sage",
+  "company": "University of Nevada, Reno",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "NOVA",
+  "company": "University of Nottingham Malaysia",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "15 Dec 2025 Salesforce release: University of Nottingham Malaysia deploys Agentforce (NOVA) for prospective students.",
+  "dateSource": "https://www.salesforce.com/ap/news/press-releases/2025/12/15/university-of-nottingham-malaysia-deploys-agentforce-to-create-a-seamless-experience-for-prospective-students/"
+ },
+ {
+  "name": "PittGPT",
+  "company": "University of Pittsburgh",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "August 22, 2025: PittGPT now available for all faculty and staff.",
+  "dateSource": "https://www.digital.pitt.edu/news/service-announcements/pittgpt-now-available-all-faculty-and-staff"
+ },
+ {
+  "name": "Portia",
+  "company": "University of Portsmouth",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Earlier MyPort page: Portia is your new AI chatbot due to be launched on 2 July 2025.",
+  "dateSource": "https://myport.port.ac.uk/it-support/student-it-support/meet-your-ai-chatbot-portia"
+ },
+ {
+  "name": "GPT.UP",
+  "company": "University of Potsdam",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Zum Wintersemester 2024/25 startet die Universität Potsdam GPT.UP (press release 16.10.2024).",
+  "dateSource": "https://www.fernstudi.net/news/ki-chat-assistent-gpt-up-startet-an-der-universitaet-potsdam"
+ },
+ {
+  "name": "Cogniti",
+  "company": "University of Sydney",
+  "launched": "2023-10",
+  "basis": "launched",
+  "evidence": "Cogniti's soft launch happened in October 2023.",
+  "dateSource": "https://news.microsoft.com/en-au/features/teaching-and-learning-in-the-ai-era-how-the-university-of-sydney-is-empowering-staff-and-students-with-ai-across-the-institution/"
+ },
+ {
+  "name": "UT Verse",
+  "company": "University of Tennessee",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "Sept 26 2023: UT brings new AI services to campus, including in-house UT Verse AI chat.",
+  "dateSource": "https://news.utk.edu/2023/09/26/ut-brings-new-ai-services-to-campus"
+ },
+ {
+  "name": "UT Sage",
+  "company": "University of Texas at Austin",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "July 30, 2025: UT Austin and AWS launch UT Sage, homegrown AI tutor platform (beta since March 2025).",
+  "dateSource": "https://tech.utexas.edu/news/ut-austin-and-aws-launch-ut-sage-ut-austins-homegrown-ai-tutor-platform"
+ },
+ {
+  "name": "RITA",
+  "company": "University of Texas at San Antonio",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "RITA pilot for 2025-26: first hello text went out Tuesday, Aug. 26 [2025].",
+  "dateSource": "https://www.utsa.edu/rita"
+ },
+ {
+  "name": "Navi",
+  "company": "University of Toronto",
+  "launched": "2020-09",
+  "basis": "launched",
+  "evidence": "U of T launched IBM-powered Navi virtual assistant for student mental health in September 2020.",
+  "dateSource": "https://www.utm.utoronto.ca/node/7643"
+ },
+ {
+  "name": "Swoop",
+  "company": "University of Utah",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AI Purple",
+  "company": "University of Washington",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "Starting today, July 15, 2026, you can use Purple, UW's generative AI tool.",
+  "dateSource": "https://it.uw.edu/purple-for-students/"
+ },
+ {
+  "name": "MAIA",
+  "company": "University of Westminster",
+  "launched": "2025-02",
+  "basis": "announced",
+  "evidence": "11 February 2025: Westminster is now piloting a Module AI Assistant (MAIA) in Blackboard.",
+  "dateSource": "https://www.westminster.ac.uk/current-students/news/westminster-is-piloting-ai-platform-learnwise"
+ },
+ {
+  "name": "Phlash",
+  "company": "University of Wisconsin–Green Bay",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "UW-Green Bay began texting students via Phlash on September 23, 2024; announced Oct 22, 2024.",
+  "dateSource": "https://news.uwgb.edu/2024/10/22"
+ },
+ {
+  "name": "AI Buddy",
+  "company": "University of Zurich",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "AI Buddy 1.0 was released in September 2025, initially for the Faculty of Business, Economics and Informatics.",
+  "dateSource": "https://ai-buddy.uzh.ch/en/FAQ.html"
+ },
+ {
+  "name": "askUZH",
+  "company": "University of Zurich",
+  "launched": "2026-07",
+  "basis": "announced",
+  "evidence": "13.07.2026: AI Buddy evolves into askUZH; askUZH introduced with expansion in Autumn Semester 2026.",
+  "dateSource": "https://about-ask.uzh.ch/en/news_events/past_news_events/askUZH-intro.html"
+ },
+ {
+  "name": "Scout",
+  "company": "UNSW Sydney",
+  "launched": "2024-09",
+  "basis": "announced",
+  "evidence": "Scout was initially piloted in T3 2024 with 1,000 students across 5 courses.",
+  "dateSource": "https://www.teaching.unsw.edu.au/scout"
+ },
+ {
+  "name": "Ask#1",
+  "company": "UOB",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "UOB 5 May 2026 release: Ask#1 rolled out to branch staff across Singapore in 2025.",
+  "dateSource": "UOB press release, 5 May 2026 (seen via web search; exact URL not captured)"
+ },
+ {
+  "name": "AskSV",
+  "company": "USPS",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "USPS News, July 14 2025: new chat tool AskSV answers surface visibility and logistics questions.",
+  "dateSource": "https://news.usps.com/2025/07/14/new-chat-tool-answers-surface-visibility-logistics-questions/"
+ },
+ {
+  "name": "Big Blue",
+  "company": "Utah State University",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 6 [2026] marked a soft launch of Big Blue with Logan campus summer undergraduates.",
+  "dateSource": "https://www.usu.edu/today/story/usu-launches-big-blue-sms-chatbot-to-strengthen-student-support-connection"
+ },
+ {
+  "name": "UU AI-Chat",
+  "company": "Utrecht University",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "DUB 09/09/2026: Utrecht University launches its own chatbot, UU AI-Chat; students and staff can now use it.",
+  "dateSource": "https://dub.uu.nl/en/news/utrecht-university-launches-its-own-chatbot"
+ },
+ {
+  "name": "Muxlisa AI",
+  "company": "UZINFOCOM (Government of Uzbekistan)",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "28.07.2025: Muxlisa AI voice assistant now works on the my.gov.uz portal.",
+  "dateSource": "https://uzinfocom.uz/news/332"
+ },
+ {
+  "name": "My Epic Assistant",
+  "company": "Vail Resorts",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "ViBi",
+  "company": "VakıfBank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Nadia",
+  "company": "Valence",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Valerie",
+  "company": "Valerie Health",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ana",
+  "company": "Valladolid City Council (Spain)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "VIKI",
+  "company": "ValueJet (Nigeria)",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "January 20, 2026: ValueJet has launched VIKI, an AI-powered digital concierge.",
+  "dateSource": "https://www.eplaneai.com/news/valuejet-introduces-viki-africas-first-full-scale-airline-ai-concierge"
+ },
+ {
+  "name": "Amplify",
+  "company": "Vanderbilt University",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ask Ilma",
+  "company": "Vanta",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Nina",
+  "company": "Vattenfall",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ved",
+  "company": "Vedantu",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov 14, 2025: Vedantu announced the launch of Ved, an AI-powered personal mentor.",
+  "dateSource": "https://cxotoday.com/media-coverage/vedantu-launches-ved-to-deliver-ai-driven-personalised-learning-across-india/"
+ },
+ {
+  "name": "Falcon",
+  "company": "Veeva Systems",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sir Lancelbot",
+  "company": "Vegas Golden Knights",
+  "launched": "2024-12",
+  "basis": "launched",
+  "evidence": "December 6, 2024: Vegas Golden Knights announced launch of AI chatbot Sir Lancelbot.",
+  "dateSource": "https://www.foleyentertainmentgroup.com/category/vegas-golden-knights/"
+ },
+ {
+  "name": "Vela",
+  "company": "Vela",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Vela",
+  "company": "VeloBank",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "2025.03.07: VeloBank właśnie wprowadził Vela, nową wirtualną asystentkę AI.",
+  "dateSource": "https://www.bankier.pl/smart/nowa-ai-w-velobanku-zmienia-zasady-gry-sprawdz-co-potrafi-vela"
+ },
+ {
+  "name": "Mochi",
+  "company": "Verbiflow",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Verizon Assistant",
+  "company": "Verizon",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "Jun 24, 2025: Verizon has launched an AI-powered customer service assistant powered by Gemini.",
+  "dateSource": "https://getcoai.com/news/can-you-satisfy-my-query-now-verizon-launches-gemini-powered-ai-customer-service-with-90-accuracy/"
+ },
+ {
+  "name": "VetsGPT",
+  "company": "Vetnio",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AVA",
+  "company": "VetPawer",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Victoria",
+  "company": "Vic.ai",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "VCB Digibot",
+  "company": "Vietcombank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "NEO",
+  "company": "Vietnam Airlines",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Viktor",
+  "company": "Viktor",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "Just three months after Viktor's public launch in February [2026].",
+  "dateSource": "https://www.shopifreaks.com/viktor-raises-75m-series-a-led-by-accel-to-build-ai-coworker-agent-embedded-in-slack-and-microsoft-teams-workspaces/"
+ },
+ {
+  "name": "Oak Parker",
+  "company": "Village of Oak Park (Illinois)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Humphrey",
+  "company": "Village of Orland Park (Illinois)",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "Aug 31 2026 article: village officially launched Humphrey last Tuesday.",
+  "dateSource": "https://www.govtech.com/artificial-intelligence/chicago-suburb-launches-new-chatbot-named-humphrey"
+ },
+ {
+  "name": "Pinestein",
+  "company": "Village of Pinecrest (Florida)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "ViVi",
+  "company": "VinFast",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Lucy",
+  "company": "Virgin Hotels",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Daisy",
+  "company": "Virgin Media O2",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Redi",
+  "company": "Virgin Money",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "Redi has supported over one million conversations since its launch in March 2023.",
+  "dateSource": "https://www.virginmoneyukplc.com/newsroom/article/redi-now-on-current-account/"
+ },
+ {
+  "name": "Ask Nirmal Anything",
+  "company": "Virgin Voyages",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "Mar 9 2026 release lists Ask Nirmal Anything, an agent clone of the CEO, among 1,500 AI agents.",
+  "dateSource": "https://www.virginvoyages.com/press/latest-releases/virgin-voyages-exceeds-1500-ai-agents-travel-ai-leader"
+ },
+ {
+  "name": "Email Ellie",
+  "company": "Virgin Voyages",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "Mar 9 2026 release: Email Ellie, flagship AI marketing assistant, among Virgin Voyages' AI agents.",
+  "dateSource": "https://www.virginvoyages.com/press/latest-releases/virgin-voyages-exceeds-1500-ai-agents-travel-ai-leader"
+ },
+ {
+  "name": "Rovey",
+  "company": "Virgin Voyages",
+  "launched": "2026-04",
+  "basis": "announced",
+  "evidence": "April 22, 2026: Virgin Voyages announced AI travel assistant Rovey, coming soon to VirginVoyages.com.",
+  "dateSource": "https://cruiseindustrynews.com/cruise-news/2026/04/virgin-introduces-ai-travel-assistant/"
+ },
+ {
+  "name": "WaveMaker",
+  "company": "Virgin Voyages",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "Mar 9 2026 release: WaveMaker, built for the groups team to manage group bookings.",
+  "dateSource": "https://www.virginvoyages.com/press/latest-releases/virgin-voyages-exceeds-1500-ai-agents-travel-ai-leader"
+ },
+ {
+  "name": "HokieAI",
+  "company": "Virginia Tech",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "23 Aug 2026: Virginia Tech has rolled out HokieAI, available to students, faculty and staff.",
+  "dateSource": "https://news.vt.edu/articles/2026/08/hokieai-access.html"
+ },
+ {
+  "name": "Viv",
+  "company": "Virta Health",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "Jan 10, 2025 release: Viv, Virta's AI Assistant, will roll out to members throughout 2025.",
+  "dateSource": "https://www.silicon.co.uk/press-release/virta-health-announces-record-and-accelerating-growth-at-a-scale-of-more-than-100m-in-annualized-revenue-driven-by-sustainable-weight-loss-and-glp-1-solutions"
+ },
+ {
+  "name": "Nora",
+  "company": "Vision Bank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Chessie",
+  "company": "Visit Baltimore",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "July 7, 2026: Visit Baltimore has launched Chessie, an AI travel assistant powered by GuideGeek.",
+  "dateSource": "https://baltimore.org/press-releases/visit-baltimore-and-guidegeek-launch-chessie-an-ai-travel-assistant-for-charm-city/"
+ },
+ {
+  "name": "Frankie",
+  "company": "Visit Frisco (City of Frisco, Texas)",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Implementation with GuideGeek began August 2025, testing, then launch in November [2025].",
+  "dateSource": "https://www.visitfrisco.com/press-room/frisco-named-winner-idcs-2026-smart-cities-north-america-awards"
+ },
+ {
+  "name": "FOXI",
+  "company": "Visit Leicester",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "February 11, 2025: Visit Leicester revealed the launch of FOXI, England's first official tourism AI chatbot.",
+  "dateSource": "https://www.travelextra.ie/visit-leicester-introduces-englands-first-official-tourism-ai-chatbot/"
+ },
+ {
+  "name": "Emerald",
+  "company": "Visit Seattle",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Viva",
+  "company": "Viva AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Lanxin Xiao V (蓝心小V)",
+  "company": "vivo",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ella AI",
+  "company": "Vivrelle",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Vivrelle launched Ella AI stylist, announced on September 4, 2025.",
+  "dateSource": "https://retailboss.co/vivrelle-unveils-ella-ai-stylist-innovation-luxury-fashion-members/"
+ },
+ {
+  "name": "Marusya (Маруся)",
+  "company": "VK",
+  "launched": "2019",
+  "basis": "launched",
+  "evidence": "Компания VK запустила свой голосовой помощник [Маруся] в 2019 году.",
+  "dateSource": "https://habr.com/ru/news/858124"
+ },
+ {
+  "name": "Rachel",
+  "company": "VNS Health",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "TOBi",
+  "company": "Vodafone",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ }
+]

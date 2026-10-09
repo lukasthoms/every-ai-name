@@ -1,0 +1,52 @@
+[
+ {
+  "name": "Crosby",
+  "company": "Crosby",
+  "project": "",
+  "use": "AI-powered law firm for commercial contracts. AI agents research and draft the work, and human attorneys review it.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.crosby.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Valerie",
+  "company": "Valerie Health",
+  "project": "",
+  "use": "AI growth partner for independent provider groups. It automates referrals, faxes, documents and scheduling.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.valeriehealth.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Leona",
+  "company": "Leona Health",
+  "project": "Leona app",
+  "use": "App that adds AI to doctors' WhatsApp. It schedules appointments, sends reminders, answers common patient questions and summarizes chats.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://leona.health/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Phia",
+  "company": "Phia",
+  "project": "",
+  "use": "AI-powered personal shopping assistant and agent.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://phia.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Greg",
+  "company": "Greg",
+  "project": "greg.app",
+  "use": "App for caring for and discovering plants. Index Ventures lists it in the AI/ML sector.",
+  "category": "Consumer",
+  "nameType": "human",
+  "source": "https://www.indexventures.com/companies/greg",
+  "list": "AI-native startup"
+ }
+]

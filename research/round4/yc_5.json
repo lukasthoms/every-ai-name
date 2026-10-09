@@ -1,0 +1,6 @@
+[
+  {"name": "Dot", "company": "GetDot", "project": "", "use": "AI data analyst that answers data questions for teams in Slack, Teams, email and the web app.", "category": "Data & Analytics", "nameType": "brand", "source": "https://getdot.ai", "list": "YC Summer 2021"},
+  {"name": "Dash", "company": "GovDash", "project": "", "use": "AI teammate for government contractors. Finds opportunities, builds capture plans, prices bids and drafts proposals.", "category": "Government contracting software", "nameType": "brand", "source": "https://govdash.com/", "list": "YC Winter 2022"},
+  {"name": "Rolo", "company": "Alphawatch AI", "project": "", "use": "AI assistant for deal teams that finds contacts, warm introductions and relationship coverage on request.", "category": "Finance", "nameType": "brand", "source": "https://alphawatch.ai", "list": "YC Winter 2023"},
+  {"name": "Ember", "company": "Campfire", "project": "Campfire ERP", "use": "Accounting assistant in Campfire's AI-native ERP that answers finance and accounting questions.", "category": "Accounting / ERP", "nameType": "brand", "source": "https://campfire.ai", "list": "YC Summer 2023"}
+]

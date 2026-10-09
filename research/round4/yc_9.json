@@ -1,0 +1,5 @@
+[
+  {"name": "Databunny", "company": "Databuddy", "project": "Databuddy", "use": "Built-in AI analyst that answers questions about your website analytics and shows the query behind each answer. It also watches metrics and flags real changes.", "category": "Software", "nameType": "brand", "source": "https://www.databuddy.cc", "list": "YC Fall 2026"},
+  {"name": "Alex", "company": "Cenote", "project": "", "use": "AI sales rep shown in Cenote's demo answering inbound calls for a pharmacy. It introduces itself as an AI rep.", "category": "Sales", "nameType": "human", "source": "https://www.joincenote.com/", "list": "YC Winter 2025"},
+  {"name": "Scout", "company": "Giga", "project": "", "use": "Agent-building agent that helps teams find and test improvements to their AI support agents.", "category": "Customer service", "nameType": "brand", "source": "https://giga.ai/", "list": "YC Summer 2023"}
+]

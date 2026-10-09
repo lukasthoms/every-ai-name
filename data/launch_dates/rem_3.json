@@ -1,0 +1,314 @@
+[
+ {
+  "name": "HARO",
+  "company": "Hang Seng Bank",
+  "launched": "2018-01",
+  "basis": "launched",
+  "evidence": "HARO available on website and app from 10 January 2018, first retail banking AI chatbot in Hong Kong.",
+  "dateSource": "https://www.marketing-interactive.com/hang-seng-launches-new-phase-of-services-for-its-ai-chatbot"
+ },
+ {
+  "name": "Hank",
+  "company": "Hank AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Harrison",
+  "company": "Harrison.ai",
+  "launched": "2021-07",
+  "basis": "launched",
+  "evidence": "Annalise CXR chest X-ray tool (Harrison.ai radiology, originally annalise.ai) launched July 2021 with I-MED.",
+  "dateSource": "https://i-med.com.au/articles/annalise-cxr"
+ },
+ {
+  "name": "CS50 Duck",
+  "company": "Harvard University (CS50)",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "CS50 duck chatbot tested and deployed to students in Summer and Fall 2023.",
+  "dateSource": "https://hcseattle.clubs.harvard.edu/article.html?aid=748"
+ },
+ {
+  "name": "Harvey",
+  "company": "Harvey",
+  "launched": "2022-11",
+  "basis": "announced",
+  "evidence": "Harvey legal AI covered by TechCrunch 23 Nov 2022 when it landed OpenAI funding; early access, later GA 2024.",
+  "dateSource": "https://techcrunch.com/2022/11/23/harvey-which-uses-ai-to-answer-legal-questions-lands-cash-from-openai"
+ },
+ {
+  "name": "ʻIolana",
+  "company": "Hawaiʻi Community College",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Hawaiʻi CC (ʻIolana) chatbot followed during the fall 2025 semester after August 2025 launches at other UH campuses.",
+  "dateSource": "https://www.hawaii.edu/news/2025/11/18/edsights-community-connector-award/"
+ },
+ {
+  "name": "EVA",
+  "company": "HDFC Bank",
+  "launched": "2017-03",
+  "basis": "launched",
+  "evidence": "HDFC Bank launched AI chatbot EVA in March 2017 with Senseforth; fintechfutures article dated 10 March 2017.",
+  "dateSource": "https://www.fintechfutures.com/ai-in-fintech/hdfc-bank-launches-ai-powered-virtual-assistant-eva"
+ },
+ {
+  "name": "Ebb",
+  "company": "Headspace",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Headspace launched empathetic AI companion Ebb for US consumer subscribers, press release 10 Oct 2024.",
+  "dateSource": "https://www.businesswire.com/news/home/20241010397470/en/Mental-Health-Company-Headspace-Launches-Empathetic-AI-Companion"
+ },
+ {
+  "name": "Ria",
+  "company": "Healthify",
+  "launched": "2017-10",
+  "basis": "announced",
+  "evidence": "Ria unveiled at HealthifyMe Ignite event Oct 2017 as AI nutritionist, rolled out in phases (later Ria 2.0 relaunch).",
+  "dateSource": "https://yourstory.com/2017/10/healthifyme-ria"
+ },
+ {
+  "name": "Heidi",
+  "company": "Heidi Health",
+  "launched": "2024-02",
+  "basis": "launched",
+  "evidence": "Heidi launched its AI scribe in February 2024 (formerly Oscer); secondary report.",
+  "dateSource": "https://www.mobihealthnews.com/news/anz/melbourne-based-heidi-health-expand-ai-scribe-capability-new-17m-fund"
+ },
+ {
+  "name": "Mia",
+  "company": "Hello Patient",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Clara",
+  "company": "Helvetia",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "Helvetia launched ChatGPT-based Clara chatbot as an experiment; press release 30 March 2023.",
+  "dateSource": "https://www.helvetia.com/ch/web/de/ueber-uns/news/medienmitteilungen/2023/20230330.html"
+ },
+ {
+  "name": "HAVI",
+  "company": "Hey Banco",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sam",
+  "company": "Infinitus Systems",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Iris",
+  "company": "Iris.ai",
+  "launched": "2016-10",
+  "basis": "launched",
+  "evidence": "Iris.ai launched public beta of its AI science assistant in October 2016 (TechCrunch, 25 Oct 2016).",
+  "dateSource": "https://techcrunch.com/2016/10/25/iris-ai-for-science"
+ },
+ {
+  "name": "Juno",
+  "company": "Juno",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "TechRound and YC profile say Juno launched in October 2025.",
+  "dateSource": "https://www.ycombinator.com/launches/QT7-juno-ai-health-assistant-for-chronic-illness"
+ },
+ {
+  "name": "Karmen",
+  "company": "Karmen",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Pipali",
+  "company": "Khoj",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Hello Casto",
+  "company": "Kingfisher (Castorama France)",
+  "launched": "2023-11",
+  "basis": "launched",
+  "evidence": "Castorama launched Hello Casto conversational AI DIY assistant; French article dated 29 November 2023.",
+  "dateSource": "https://ladn.eu/entreprises-innovantes/castorama-lance-son-premier-conseiller-virtuel-base-sur-lintelligence-artificielle-une-petite-revolution-dans-le-commerce/"
+ },
+ {
+  "name": "Kira",
+  "company": "Kira Learning",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "Kira Learning launched its AI-native K-12 platform on 23 April 2025.",
+  "dateSource": "https://thejournal.com/Articles/2025/04/30/Ed-Tech-Startup-Kira-Launches-AI-Native-Learning-Platform.aspx"
+ },
+ {
+  "name": "Kai",
+  "company": "Knowt",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Kody",
+  "company": "Kodus",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "KAI",
+  "company": "Kunduz",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "App Store listing for Kunduz KAI: AI Study Tutor says released June 2026.",
+  "dateSource": "https://appgoblin.info/apps/6772543947"
+ },
+ {
+  "name": "Lance",
+  "company": "Lance",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Laurence",
+  "company": "Laurence",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Leah",
+  "company": "Leah (formerly ContractPodAi)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Jake",
+  "company": "Leaping AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Patrick",
+  "company": "Leaping AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Samantha",
+  "company": "Leaping AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ari",
+  "company": "LedgerUp",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Legora",
+  "company": "Legora",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Leya rebranded as Legora on 19 Feb 2025 with new features; product existed earlier as Leya.",
+  "dateSource": "https://www.artificiallawyer.com/2025/02/19/legal-genai-pioneer-leya-rebrands-to-legora/"
+ },
+ {
+  "name": "Lexi",
+  "company": "Lexi (lexi.law)",
+  "launched": "2026-07",
+  "basis": "earliest mention",
+  "evidence": "Stork.ai listing shows Lexi shipped Jul 15, 2026.",
+  "dateSource": "https://www.stork.ai/en/lexi"
+ },
+ {
+  "name": "EXAONE",
+  "company": "LG AI Research",
+  "launched": "2021-12",
+  "basis": "announced",
+  "evidence": "LG unveiled EXAONE 1.0 hyperscale multimodal AI on 14 December 2021.",
+  "dateSource": "https://www.lg.co.kr/media/release/24227"
+ },
+ {
+  "name": "Aura",
+  "company": "Loop Earplugs",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Luna",
+  "company": "LunaBill",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "LunaBill YC post says since its launch in July it reached $764K contracted ARR (F25 batch).",
+  "dateSource": "https://ycombinator.com/companies/lunabill"
+ },
+ {
+  "name": "Toshi",
+  "company": "Luno",
+  "launched": "2025-07",
+  "basis": "earliest mention",
+  "evidence": "Luno job posting from July 2025 already refers to its AI agent Toshi.",
+  "dateSource": "https://jobs.dcg.co/companies/luno/jobs/55110667-senior-manager-conversational-ai-and-knowledge-base"
+ },
+ {
+  "name": "LiDiA",
+  "company": "Línea Directa",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Iris",
+  "company": "Magnifi Financial",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "MAIA",
+  "company": "Mahindra",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "Mahindra launched BE 6e and XEV 9e powered by MAIA on 26 November 2024.",
+  "dateSource": "https://www.mahindraelectricsuv.com/press-releases/be6-and-xev9e-launched.html"
+ }
+]

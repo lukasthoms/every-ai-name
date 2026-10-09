@@ -1,0 +1,26 @@
+[
+ {
+  "name": "Sadie",
+  "company": "Sadie AI (Valsoft)",
+  "launched": "2025-09",
+  "basis": "earliest mention",
+  "evidence": "OpenTable integration announced Sept 2025; product existed earlier, launch date not found",
+  "dateSource": "https://www.acnnewswire.com/press-release/english/102513/"
+ },
+ {
+  "name": "Bixby",
+  "company": "Samsung",
+  "launched": "2017-03",
+  "basis": "announced",
+  "evidence": "Bixby introduced with Galaxy S8 announcement, 29 March 2017",
+  "dateSource": "https://en.wikipedia.org/wiki/Bixby_(software)"
+ },
+ {
+  "name": "Harmony",
+  "company": "SiriusXM",
+  "launched": "2025-03",
+  "basis": "earliest mention",
+  "evidence": "Sierra blog post on SiriusXM Harmony dated 2025-03-20",
+  "dateSource": "https://sierra.ai/blog/same-platform-different-personalities"
+ }
+]

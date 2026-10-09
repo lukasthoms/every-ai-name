@@ -1,0 +1,314 @@
+[
+ {
+  "name": "Breezy",
+  "company": "Del-One Federal Credit Union",
+  "launched": "2024-02",
+  "basis": "earliest mention",
+  "evidence": "Del-One page about Breezy dated 2024-02-14; no launch announcement found",
+  "dateSource": "https://www.del-one.org/breezy-virtual-assistant/"
+ },
+ {
+  "name": "Delfina",
+  "company": "Delfina",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "Platform rolled out at HOPE Clinic Houston Sept 9, 2024 (press release Sept 12, 2024)",
+  "dateSource": "https://www.cbinsights.com/company/hope-clinic"
+ },
+ {
+  "name": "fleetAI",
+  "company": "Dentons",
+  "launched": "2023-08",
+  "basis": "launched",
+  "evidence": "Dentons announced fleetAI in August 2023, launched first to lawyers in UK, Ireland, Middle East",
+  "dateSource": "https://thelawyermag.com/au/news/general/dentons-to-launch-client-secure-version-of-chatgpt/456480"
+ },
+ {
+  "name": "DC Compass",
+  "company": "District of Columbia (Office of the Chief Technology Officer)",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "Public beta launched March 19, 2024 after six-month private beta",
+  "dateSource": "https://technical.ly/software-development/dc-compass-ai-tool-open-data/"
+ },
+ {
+  "name": "Eliza",
+  "company": "Eliza Labs (elizaOS)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ellie",
+  "company": "Ellie (tryellie.com)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sage",
+  "company": "Ellipsis Health",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "Ellipsis Health unveiled Sage with $45M Series A in June 2025",
+  "dateSource": "https://www.mobihealthnews.com/news/ellipsis-health-secures-45m-launches-ai-care-manager"
+ },
+ {
+  "name": "ELSA",
+  "company": "ELSA",
+  "launched": "2015",
+  "basis": "launched",
+  "evidence": "Review says the app launched in 2015, same year the company was founded",
+  "dateSource": "https://www.dell.com/nl-be/perspectives/ai-app-helps-non-native-english-speakers-ace-pronunciation/"
+ },
+ {
+  "name": "Ema",
+  "company": "Ema",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "Ema emerged from stealth with Universal AI Employee on March 5, 2024",
+  "dateSource": "https://techcrunch.com/2024/03/05/ema-a-universal-ai-employee-emerges-from-stealth-with-25m"
+ },
+ {
+  "name": "Rachel",
+  "company": "EmblemHealth",
+  "launched": "2026-07",
+  "basis": "earliest mention",
+  "evidence": "Hippocratic AI July 31, 2026 release says program already ran 50,000 heat outreaches before July 4 weekend 2026",
+  "dateSource": "https://secure.businesswire.com/news/home/20260731433739/en/Hippocratic-AI-Announces-New-Suite-of-Rapid-Response-Climate-Agents-as-Extreme-Weather-and-Record-Breaking-Heat-Escalate-Health-Threats"
+ },
+ {
+  "name": "Aspen Virtual Advisor",
+  "company": "Emerson (AspenTech)",
+  "launched": "2022-11",
+  "basis": "launched",
+  "evidence": "AspenTech aspenONE V14 release introduced Aspen Virtual Advisor for DMC3, Business Wire Nov 15, 2022",
+  "dateSource": "https://www.businesswire.com/news/home/20221115005404/en"
+ },
+ {
+  "name": "E-lectra",
+  "company": "Enel",
+  "launched": "2024-12",
+  "basis": "launched",
+  "evidence": "Enel launched voice assistant E-lectra in December 2024",
+  "dateSource": "https://agendadigitale.eu/smart-city/innovazione-per-lenergia-cosi-gli-assistenti-virtuali-cambiano-loperativita"
+ },
+ {
+  "name": "Eva",
+  "company": "Engine",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "Diginomica reports Engine launched customer-facing Eva bot in November 2024",
+  "dateSource": "https://diginomica.com/node/28927"
+ },
+ {
+  "name": "Big Lincoln",
+  "company": "Enjoy Illinois (Illinois Office of Tourism)",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "Illinois Office of Tourism relaunched EnjoyIllinois.com with Big Lincoln AI assistant on June 6, 2024",
+  "dateSource": "https://media.enjoyillinois.com/press-releases/springsummer-campaign-and-exciting-new-website-with-ai-capabilities/"
+ },
+ {
+  "name": "Quin",
+  "company": "Equinox",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ella",
+  "company": "Equity Residential",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Alfred",
+  "company": "Eskom",
+  "launched": "2021-07",
+  "basis": "launched",
+  "evidence": "Eskom launched chatbot Alfred with upgraded MyEskom app, statement dated 23 July 2021",
+  "dateSource": "https://www.engineeringnews.co.za/article/eskom-enhances-its-digital-platforms-2021-07-23"
+ },
+ {
+  "name": "Bürokratt (Kratt)",
+  "company": "Estonian Information System Authority (RIA)",
+  "launched": "2022",
+  "basis": "launched",
+  "evidence": "Beta tested in 2021; first official version launched in 2022",
+  "dateSource": "https://news.microsoft.com/en-cee/2022/11/28/virtual-assistant-brings-the-benefits-of-technology-to-every-citizen/"
+ },
+ {
+  "name": "Tori",
+  "company": "eToro",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "eToro unveiled Tori in rebuilt AI-first app at London event, July 7-8, 2026",
+  "dateSource": "https://fintech.global/2026/07/08/etoro-unveils-ai-first-app-with-proactive-agent-tori/"
+ },
+ {
+  "name": "EVA",
+  "company": "Eurobank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "myEVA",
+  "company": "Eurobank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Jesse",
+  "company": "Floworks",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Linda",
+  "company": "Floworks",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sam",
+  "company": "Floworks",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "KI.Assist@FU",
+  "company": "Freie Universität Berlin",
+  "launched": "2025-11",
+  "basis": "announced",
+  "evidence": "FU news Nov 28, 2025: chatbot offered starting winter semester 2025/26",
+  "dateSource": "https://www.fu-berlin.de/en/sites/drs/research-integrity/gwp-news/KI-Chatbot-FU.html"
+ },
+ {
+  "name": "Albert",
+  "company": "French Government (DINUM)",
+  "launched": "2024-04",
+  "basis": "announced",
+  "evidence": "Gabriel Attal presented Albert sovereign generative AI in April 2024; developed since June 2023",
+  "dateSource": "https://siecledigital.fr/2024/04/24/la-france-innove-avec-son-ia-albert-pour-transformer-ladministration-publique/"
+ },
+ {
+  "name": "Freddy",
+  "company": "Freshworks",
+  "launched": "2018",
+  "basis": "launched",
+  "evidence": "Freshworks unveiled Freddy AI engine at Refresh 18 in 2018 (genAI Freddy products June 2023)",
+  "dateSource": "https://itbrief.com.au/story/freshworks-launches-freddy-ai-agent-for-streamlined-support"
+ },
+ {
+  "name": "Ask MIA",
+  "company": "Fressnapf",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Freya",
+  "company": "Freya",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Gabbi",
+  "company": "Gabbi",
+  "launched": "2025-09",
+  "basis": "earliest mention",
+  "evidence": "Press releases dated Sept 11, 2025 call Gabbi first AI voice assistant for law firms",
+  "dateSource": "https://business.sherbrookerecord.com/sherbrookerecord/article/abnewswire-2025-9-11-law-firms-report-dramatic-case-capture-improvements-with-meet-gabbi-ai-voice-assistant"
+ },
+ {
+  "name": "Ugi",
+  "company": "Garanti BBVA",
+  "launched": "2016",
+  "basis": "launched",
+  "evidence": "Garanti BBVA says Ugi began in 2016; LLM-based renewal came later (Jan 2026 news)",
+  "dateSource": "https://www.milliyet.com.tr/advertorial/garanti-bbvanin-akilli-asistani-ugi-10-yasinda-10-yilda-bankaciligi-donusturen-yapay-zeka-7587112"
+ },
+ {
+  "name": "AskGartner",
+  "company": "Gartner",
+  "launched": "2025-08",
+  "basis": "announced",
+  "evidence": "Gartner announced it had begun rolling out AskGartner on its Q2 2025 earnings call, August 2025",
+  "dateSource": "https://www.insidermonkey.com/blog/gartner-inc-nyseit-q2-2025-earnings-call-transcript-1584699/"
+ },
+ {
+  "name": "Genie",
+  "company": "Gen Digital (Norton)",
+  "launched": "2023-08",
+  "basis": "launched",
+  "evidence": "Norton Genie scam detector released to public in early access, reported 1 August 2023",
+  "dateSource": "https://itwire.com/business-it-news/security/norton-launches-genie-scam-detector"
+ },
+ {
+  "name": "MillsChat",
+  "company": "General Mills",
+  "launched": "2024-02",
+  "basis": "launched",
+  "evidence": "CIO Dive Feb 22, 2024: General Mills introduced MillsChat to employees this month",
+  "dateSource": "https://www.ciodive.com/news/general-mills-generative-ai-tool-millschat/708234/"
+ },
+ {
+  "name": "Ev-e",
+  "company": "General Motors",
+  "launched": "2021-12",
+  "basis": "launched",
+  "evidence": "GM and Paradox launched EV-e in December 2021",
+  "dateSource": "https://hrmasia.com/gm-streamlines-the-recruitment-process-to-hire-the-best-talent/"
+ },
+ {
+  "name": "Gemini",
+  "company": "Google",
+  "launched": "2024-02",
+  "basis": "launched",
+  "evidence": "Bard assistant renamed Gemini in Feb 2024 (Gemini models announced Dec 2023)",
+  "dateSource": "https://blog.google/products/gemini/bard-gemini-advanced-app/"
+ },
+ {
+  "name": "NotebookLM",
+  "company": "Google",
+  "launched": "2023-07",
+  "basis": "launched",
+  "evidence": "Google launched NotebookLM (formerly Project Tailwind) as Labs experiment for US users, July 2023",
+  "dateSource": "https://www.analyticsvidhya.com/blog/2023/07/google-introduces-notebooklm-your-personalized-virtual-research-assistant/"
+ },
+ {
+  "name": "Alice",
+  "company": "Greater Alliance Federal Credit Union",
+  "launched": "2023",
+  "basis": "earliest mention",
+  "evidence": "Site banner 'Coming soon' around early 2023; page dated April 2023; exact go-live not found",
+  "dateSource": "https://www.greateralliance.org/alice-greater-alliance-digital-assistance/"
+ },
+ {
+  "name": "Lug",
+  "company": "Grupo AD",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "Mercado & Consumo, 4 Feb 2026: Grupo AD launched Lug; pilot began Nov 2025",
+  "dateSource": "https://mercadoeconsumo.com.br/04/02/2026/shopping-centers/grupo-ad-lanca-assistente-virtual-para-otimizar-a-locacao-de-espacos-em-shopping/"
+ }
+]

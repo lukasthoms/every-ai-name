@@ -1,0 +1,302 @@
+[
+ {
+  "name": "Aimee",
+  "company": "Peerlogic",
+  "project": "",
+  "use": "AI front-desk receptionist for dental and veterinary practices. It answers calls and texts, follows up on missed calls and books appointments after hours.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.peerlogic.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "ClaireAI 365",
+  "company": "ClaireAI",
+  "project": "",
+  "use": "AI voice receptionist for U.S. law firms. It answers calls 24/7, qualifies leads, runs conflict checks and books consultations.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.stork.ai/en/claireai-365",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Sadie",
+  "company": "Sadie AI (Valsoft)",
+  "project": "",
+  "use": "AI voice host for restaurants. It answers calls, takes reservations and takeout orders, and answers guest questions.",
+  "category": "Restaurants",
+  "nameType": "human",
+  "source": "https://www.newswire.com/news/foodtastic-taps-sadie-ai-as-preferred-voice-ai-partner",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Fiona",
+  "company": "Flossy",
+  "project": "",
+  "use": "AI receptionist for dental practices. It handles patient calls, texts and web chats and books or reschedules appointments 24/7.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.flossy.com/products/fiona",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Linda AI",
+  "company": "Linda AI",
+  "project": "",
+  "use": "Voice AI agents that answer dental clinic phone calls. They handle scheduling and front-desk admin.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://tech.eu/2026/02/04/linda-ai-raises-eur26m-to-expand-ai-workflows-for-dental-practices/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Gabi",
+  "company": "Goodcall",
+  "project": "",
+  "use": "AI agent that builds, tests and publishes a business's AI phone agent from plain-language instructions. It also writes the greeting and sets the phone agent's voice identity.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.goodcall.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Rondah",
+  "company": "Rondah AI",
+  "project": "",
+  "use": "AI receptionist for dental practices. It answers calls, schedules appointments and handles front-office tasks.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.rondah.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Emily",
+  "company": "DeepCura",
+  "project": "",
+  "use": "AI onboarding agent for DeepCura's AI medical receptionist. Practices call Emily, who sets up and drafts their receptionist from their specialty.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.deepcura.com/post/best-ai-medical-receptionist",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "STELLA",
+  "company": "STELLA Automotive AI",
+  "project": "STELLA Reception / service scheduling",
+  "use": "AI voice assistant that answers car dealership phones. It books, changes and confirms service appointments, answers common questions and routes calls.",
+  "category": "Automotive",
+  "nameType": "human",
+  "source": "https://mykaarma.com/partners/stella-automotive-ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "AVA",
+  "company": "VetPawer",
+  "project": "",
+  "use": "AI receptionist for veterinary practices. It answers calls, books appointments in real time, handles prescription refill requests and adds new clients.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.ezyvet.com/integration/vetpawer",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Marlie",
+  "company": "Marlie",
+  "project": "",
+  "use": "AI answering service for property managers. It handles tenant calls, screens prospective renters and triages maintenance emergencies 24/7.",
+  "category": "Real estate",
+  "nameType": "human",
+  "source": "https://www.stork.ai/en/marlie",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "CallJess",
+  "company": "CallJess",
+  "project": "",
+  "use": "AI receptionist for veterinary practices, built by vets. It answers calls, books appointments, triages emergencies and handles prescription refill requests.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.stork.ai/en/calljess",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "AVA",
+  "company": "Ava Voice Labs",
+  "project": "thanksava.com",
+  "use": "AI voice agent that works as a 24/7 front desk for businesses. It answers and routes calls, books appointments and captures leads in 40+ languages.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.thanksava.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Gabbi",
+  "company": "Gabbi",
+  "project": "",
+  "use": "AI voice receptionist and intake assistant built for law firms. It answers calls around the clock and handles client intake.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.meetgabbi.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Lexi",
+  "company": "Lexi (lexi.law)",
+  "project": "",
+  "use": "AI assistant for law firms that handles client intake, document management and case tracking.",
+  "category": "Legal",
+  "nameType": "human",
+  "source": "https://www.stork.ai/en/lexi",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Clara AI",
+  "company": "Clara AI",
+  "project": "",
+  "use": "Voice AI receptionist for local service businesses, mainly med spas. It answers calls 24/7, books and reschedules appointments and qualifies leads.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.stork.ai/en/clara-ai",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Aira",
+  "company": "Aira (getaira.io)",
+  "project": "",
+  "use": "AI front-office receptionist that handles calls 24/7, does intake and lead qualification, and books appointments.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://www.stork.ai/en/aira",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "The Daisy",
+  "company": "The Daisy",
+  "project": "",
+  "use": "AI salon and spa management platform for the GCC market. Its chat-based AI receptionist on WhatsApp and Instagram handles bookings, payments and marketing.",
+  "category": "Beauty & wellness",
+  "nameType": "human",
+  "source": "https://www.stork.ai/en/the-daisy",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Viva",
+  "company": "Viva AI",
+  "project": "",
+  "use": "AI dental receptionist presented as 'Viva herself'. It answers practice calls, runs outbound recall campaigns and speaks many languages.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.getviva.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Dentina",
+  "company": "Dentina",
+  "project": "",
+  "use": "AI dental receptionist built by a dentist and referred to as 'she'. It answers every call 24/7 and books patients.",
+  "category": "Healthcare",
+  "nameType": "brand",
+  "source": "https://www.dentina.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Annie",
+  "company": "My Social Practice (Dental Intelligence)",
+  "project": "Annie AI",
+  "use": "AI dental receptionist that answers inbound calls and web chat and makes outbound calls to unscheduled hygiene patients.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.dentistryiq.com/front-office/article/55303043/can-an-ai-receptionist-help-grow-your-practice-spoiler-yesheres-how",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Kevin",
+  "company": "Third Voice",
+  "project": "",
+  "use": "AI scheduling agent from Third Voice's dental voice platform. It answers calls and books appointments; callers can talk to Kevin live on the site.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.thirdvoice.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Ava",
+  "company": "Third Voice",
+  "project": "",
+  "use": "AI sales concierge voice agent on Third Voice's site. It talks with dental practices evaluating the platform.",
+  "category": "Sales",
+  "nameType": "human",
+  "source": "https://www.thirdvoice.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Ira",
+  "company": "Savvy Agents",
+  "project": "AI Receptionist",
+  "use": "AI receptionist for dental offices that answers patient calls and books appointments.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.savvyagents.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Sia",
+  "company": "Savvy Agents",
+  "project": "AI Scribe",
+  "use": "AI scribe for dental practices that writes up clinical notes.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.savvyagents.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Milo",
+  "company": "Savvy Agents",
+  "project": "AI Insurance Coordinator",
+  "use": "AI insurance coordinator for dental practices that handles insurance tasks such as verification.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.savvyagents.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Novi",
+  "company": "Savvy Agents",
+  "project": "AI Retention Manager",
+  "use": "AI retention manager for dental practices that follows up with patients to keep them coming back.",
+  "category": "Healthcare",
+  "nameType": "brand",
+  "source": "https://www.savvyagents.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Mia",
+  "company": "Hello Patient",
+  "project": "",
+  "use": "AI assistant that takes over a healthcare practice's calls and texts. It schedules appointments 24/7, verifies insurance, follows up on no-shows and runs recall campaigns.",
+  "category": "Healthcare",
+  "nameType": "human",
+  "source": "https://www.hellopatient.com/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "KIKI",
+  "company": "Kickcall",
+  "project": "",
+  "use": "AI phone receptionist trained on healthcare workflows. It answers practice calls and speaks naturally with patients.",
+  "category": "Healthcare",
+  "nameType": "brand",
+  "source": "https://www.kickcall.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Taylor",
+  "company": "Genius AI (GlossGenius)",
+  "project": "Reception",
+  "use": "Voice of Reception, Genius AI's AI front desk for salons, barbers, spas and other service businesses. It answers calls and texts 24/7 and books, reschedules or cancels appointments on the business's calendar.",
+  "category": "Customer service (salons & spas)",
+  "nameType": "human",
+  "source": "https://genius.ai/reception",
+  "list": ""
+ }
+]

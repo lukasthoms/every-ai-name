@@ -1,0 +1,610 @@
+[
+ {
+  "name": "Lumi",
+  "company": "City of Heidelberg (Germany)",
+  "launched": "2022-10",
+  "basis": "launched",
+  "evidence": "Heidelberg: KI-Bürgerassistenz Lumi went live Oct 2022 with Aleph Alpha (city news 24/27 Oct 2022)",
+  "dateSource": "https://www.heidelberg.de/Digitale-Stadt/startseite/aktuelles/24_10_2022+ki-buergerassistenz+lumi+soll+nutzerinnen+und+nutzer+kennenlernen.html"
+ },
+ {
+  "name": "HippoBOT",
+  "company": "City of Hutto (Texas)",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "Hutto rolls out HippoBOT, a 24/7 AI chatbot (CBS Austin, Mar 26 2026)",
+  "dateSource": "https://www.cbsaustin.com/news/local/hutto-rolls-out-hippobot-a-247-ai-chatbot-for-city-services-and-issue-reports"
+ },
+ {
+  "name": "Sunnie",
+  "company": "City of Isle of Palms (South Carolina)",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "IOP 2023 report: Sunnie will launch January 2024; city page says launched, with 4/24/2024 update",
+  "dateSource": "https://www.isleofpalms.gov/node/1280"
+ },
+ {
+  "name": "Rocky Bot",
+  "company": "City of Knoxville 311 Center (Tennessee)",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Knoxville 311 launches 'Rocky Bot' AI tool (WATE, May 1 2025)",
+  "dateSource": "https://www.yahoo.com/news/knoxville-311-launches-rocky-bot-192952498.html"
+ },
+ {
+  "name": "Millie",
+  "company": "City of Markham (Ontario)",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "Apr 9 2025 release: Millie is face of Chatbot 3.0, available on City's website",
+  "dateSource": "https://www.markhammuseum.ca/about-city-markham/news/news-releases/markham-introduces-millie-canadas-first-municipal-mascot-and-latest-version-of-citys-leading-edge-ai-chatbot"
+ },
+ {
+  "name": "Laurel",
+  "company": "City of Menlo Park, California",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "City of Menlo Park launches virtual assistant Laurel (news release dated 2026-08-17 per URL)",
+  "dateSource": "https://www.menlopark.gov/News-articles/City-news/20260817City-of-Menlo-Park-launches-virtual-assistant-Laurel"
+ },
+ {
+  "name": "Muckl",
+  "company": "City of Munich (Landeshauptstadt München)",
+  "launched": "2023",
+  "basis": "announced",
+  "evidence": "Muckl offers more info 'nach einer Testphase im Vorfeld der Landtags- und Bezirkswahlen' (Bavarian elections Oct 2023)",
+  "dateSource": "https://kommunal.de/chatbot-else-muckl-kommunen"
+ },
+ {
+  "name": "Ask Ontario",
+  "company": "City of Ontario (California)",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 26 2026 release: City of Ontario has launched 'Ask Ontario' digital assistant",
+  "dateSource": "https://www.ontarioca.gov/news/city-ontario-launches-ask-ontario-digital-assistant-improve-access-city-services"
+ },
+ {
+  "name": "CurioCity",
+  "company": "City of Peachtree Corners (Georgia)",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "WSB-TV Jun 30 2025: Peachtree Corners launches AI assistant for 24/7 residential needs",
+  "dateSource": "https://www.wsbtv.com/news/local/gwinnett-county/peachtree-corners-launches-ai-assistant-247-residential-needs/UKBPECU3TFGN7NS3EFWM755KSM"
+ },
+ {
+  "name": "Alli",
+  "company": "City of Raleigh (North Carolina)",
+  "launched": "2026-02",
+  "basis": "announced",
+  "evidence": "Smart Cities Dive Jul 24 2026: after a testing phase that began in February, Alli is now available department-wide",
+  "dateSource": "https://www.smartcitiesdive.com/news/ai-service-agent-raleigh-north-carolina-cio-servicenow/826154/"
+ },
+ {
+  "name": "Piper",
+  "company": "City of Revere (Massachusetts)",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Revere introduced Piper at 2025 State of the City; Revere Journal article Mar 26 2025",
+  "dateSource": "https://www.revere.org/news/post/meet-piper-the-city-of-revere-s-latest-innovation"
+ },
+ {
+  "name": "Rivy",
+  "company": "City of Riverside, California",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov 18 2025 release: City of Riverside announces the launch of 'Rivy' AI chat and voice assistant",
+  "dateSource": "https://riversideca.gov/press/city-riverside-launches-%E2%80%9Crivy%E2%80%9D-ai-chat-and-voice-assistant-improve-city-services-community"
+ },
+ {
+  "name": "Sali",
+  "company": "City of Salinas, California",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "Bay City News Jul 4 2026: City of Salinas has launched AI virtual assistant Sali",
+  "dateSource": "https://localnewsmatters.org/2026/07/04/meet-sali-salinas-new-ai-virtual-assistant-ready-to-help-residents-access-city-services/"
+ },
+ {
+  "name": "My eCISO",
+  "company": "City of San Diego (San Diego Regional Cyber Lab)",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "City press release Jun 27 2024 introduces My eCISO as new free resource for small businesses",
+  "dateSource": "https://sandiego.gov/insidesd/san-diego-regional-cyber-lab-supports-local-businesses-cyber-security-needs"
+ },
+ {
+  "name": "TAMI",
+  "company": "City of Tampa (Florida)",
+  "launched": "2026-01",
+  "basis": "announced",
+  "evidence": "'Meet TAMI' page dated Jan 27 2026; TAMI described as currently in beta",
+  "dateSource": "https://www.tampa.gov/technology-and-innovation/meet-tami-your-ai-powered-city-assistant"
+ },
+ {
+  "name": "WienBot",
+  "company": "City of Vienna (Austria)",
+  "launched": "2017-12",
+  "basis": "launched",
+  "evidence": "City of Vienna gives mid-December 2017 as WienBot start (prototype online Dec 2016)",
+  "dateSource": "https://futurezone.at/apps/wienbot-chatbot-chatgpt-alexa-assistenzsysteme-wien-jubilaeum/402286583"
+ },
+ {
+  "name": "ClaireAI 365",
+  "company": "ClaireAI",
+  "launched": "2026-07",
+  "basis": "earliest mention",
+  "evidence": "Stork.ai listing: ClaireAI 365 'shipped Jul 15, 2026'",
+  "dateSource": "https://www.stork.ai/en/claireai-365"
+ },
+ {
+  "name": "Clara",
+  "company": "Clara",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Y Combinator announced Clara launch May 14 2026; $12M pre-seed reported June 2026",
+  "dateSource": "https://dealroom.co/news/134983-circle-medical-founders-launch-clara-ai-primary-care-with-12m/"
+ },
+ {
+  "name": "Clare",
+  "company": "clare&me",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Joy",
+  "company": "Classet",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Cleo",
+  "company": "Cleo AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Aila",
+  "company": "Cleveland Clinic Abu Dhabi",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Jun 17 2026: Cleveland Clinic Abu Dhabi launches world's first clinical AI scientist 'Aila' with Owkin",
+  "dateSource": "https://www.gulftoday.ae/news/2026/06/17/cleveland-clinic-abu-dhabi-launches-worlds-first-clinical-ai-scientist-aila"
+ },
+ {
+  "name": "ClickUp Brain",
+  "company": "ClickUp",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "Jan 30 2024 press release: ClickUp announced ClickUp Brain; 'Try ClickUp Brain today'",
+  "dateSource": "https://clickup.com/blog/clickup-brain/"
+ },
+ {
+  "name": "Clifford Chance Assist",
+  "company": "Clifford Chance",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "Feb 2024: follows the global roll out last year of private AI tool Clifford Chance Assist",
+  "dateSource": "https://www.cliffordchance.com/news/news/2024/02/clifford-chance-generative-ai-microsoft.html"
+ },
+ {
+  "name": "Nimbus",
+  "company": "Cloud9",
+  "launched": "2025-05",
+  "basis": "announced",
+  "evidence": "May 14 2025: Cloud9 and Theta will develop Nimbus; expected to launch sometime in 2025",
+  "dateSource": "https://www.blockchaingamer.biz/amp/news/38694/cloud9-partners-theta-esports-ai-chatbot-nimbus/"
+ },
+ {
+  "name": "Coby",
+  "company": "Cobalt Credit Union",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Before end of 2024 Cobalt CU added generative AI to its contact center assistant Coby (intent system Aug 2024)",
+  "dateSource": "https://finovate.com/cobalt-credit-union-teams-up-with-eltropy-to-deploy-ai-voice"
+ },
+ {
+  "name": "Andi",
+  "company": "Coca-Cola Andina",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "Microsoft customer story dated 3/19/2026: Andi tested in Argentina, now used by 300+ employees",
+  "dateSource": "https://www.microsoft.com/en/customers/story/26256-coca-cola-andina-microsoft-copilot-studio"
+ },
+ {
+  "name": "Devin",
+  "company": "Cognition",
+  "launched": "2024-12",
+  "basis": "launched",
+  "evidence": "Devin unveiled in early access Mar 2024; generally available Dec 2024",
+  "dateSource": "https://cognition.ai/blog/devin-generally-available"
+ },
+ {
+  "name": "Balaji",
+  "company": "Coinbase",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Cointelegraph Apr 20 2026: Coinbase introduces two AI agents, Fred and Balaji, to assist workers",
+  "dateSource": "https://cointelegraph.com/news/coinbase-introduces-two-ai-agents-assist-workers"
+ },
+ {
+  "name": "Coinbase Advisor",
+  "company": "Coinbase",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Coinbase Advisor rolled out to US Coinbase One members ~Jun 17 2026 (previewed Dec 2025 System Update)",
+  "dateSource": "https://www.pymnts.com/mobile/2026/coinbase-expands-app-with-ai-investment-adviser-and-developer-platform/"
+ },
+ {
+  "name": "Fred",
+  "company": "Coinbase",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Cointelegraph Apr 20 2026: Coinbase introduces two AI agents, Fred and Balaji, to assist workers",
+  "dateSource": "https://cointelegraph.com/news/coinbase-introduces-two-ai-agents-assist-workers"
+ },
+ {
+  "name": "mycoles Assistant",
+  "company": "Coles",
+  "launched": "2025-10",
+  "basis": "earliest mention",
+  "evidence": "Microsoft feature Oct 24 2025: mycoles Assistant rolled out to 115,000 team members",
+  "dateSource": "https://news.microsoft.com/source/asia/features/coles-partnership-with-microsoft-transforms-people-and-culture-experience-with-ai-solutions/"
+ },
+ {
+  "name": "Clyde",
+  "company": "College of Charleston",
+  "launched": "2023-08",
+  "basis": "launched",
+  "evidence": "CofC Aug 15 2023: College is launching Clyde the Chatbot; first message went out Aug 29 2023",
+  "dateSource": "https://today.cofc.edu/2023/08/15/clyde-the-chatbot-to-provide-cofc-students-24-7-access-to-resources/"
+ },
+ {
+  "name": "Adam",
+  "company": "CombineHealth",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Amy",
+  "company": "CombineHealth",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Mark",
+  "company": "CombineHealth",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Rachel",
+  "company": "CombineHealth",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Taylor",
+  "company": "CombineHealth",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AIPARA",
+  "company": "Commercial Bank of Ceylon",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "Echelon Jul 2 2024: Commercial Bank of Ceylon has launched AI-powered AIPARA chatbot",
+  "dateSource": "https://echelon.lk/commercial-bank-revolutionizes-annual-report-culture-with-ai"
+ },
+ {
+  "name": "Ava",
+  "company": "Commerzbank",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "Apr 24 2025: Commerzbank launches AI banking avatar Ava; first customers using it since early April",
+  "dateSource": "https://www.commerzbank.de/group/newsroom/press-releases/avatar.html"
+ },
+ {
+  "name": "Ceba",
+  "company": "Commonwealth Bank of Australia",
+  "launched": "2018-01",
+  "basis": "launched",
+  "evidence": "NFCW Jan 23 2018: Commonwealth Bank has launched its chatbot Ceba",
+  "dateSource": "https://www.nfcw.com/technology/ceba/"
+ },
+ {
+  "name": "CommBank Companion",
+  "company": "Commonwealth Bank of Australia",
+  "launched": "2026-05",
+  "basis": "announced",
+  "evidence": "26 May 2026: CommBank Companion now in testing with employees and select business customers",
+  "dateSource": "https://www.commbank.com.au/articles/newsroom/2026/05/commbank-companion.html"
+ },
+ {
+  "name": "Sofia",
+  "company": "Comune di Rozzano (Italy)",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Il Giorno May 9 2026: trial phase over, Sofia is now ready for public use",
+  "dateSource": "https://www.ilgiorno.it/milano/cronaca/lassistente-virtuale-del-comune-a9c1ed26"
+ },
+ {
+  "name": "iX Hero",
+  "company": "Concentrix",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "May 22 2025: Concentrix launches iX Hero agentic AI apps",
+  "dateSource": "https://www.concentrix.com/about/news/concentrix-launches-ix-hero-agentic-ai-apps/"
+ },
+ {
+  "name": "Conni",
+  "company": "Conduent",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb 2025 press release: Conduent introduces Conni, new GenAI virtual assistant",
+  "dateSource": "https://www.stocktitan.net/news/CNDT/conduent-introduces-conni-the-new-gen-ai-virtual-assistant-for-1tt7jywszczs.html"
+ },
+ {
+  "name": "Cici",
+  "company": "Cornerstone Insurance (Nigeria)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Vanguard Aug 2025: Cornerstone Insurance launches AI-powered assistant Cici",
+  "dateSource": "https://www.vanguardngr.com/2025/08/cornerstone-insurance-launches-ai-powered-assistant/"
+ },
+ {
+  "name": "Carol",
+  "company": "Correios (Brazil)",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "Canaltech Mar 12 2024: ChatGPT-powered Carol went live Monday Mar 11 (assistant existed before upgrade)",
+  "dateSource": "https://canaltech.com.br/e-commerce/site-dos-correios-usa-o-chatgpt-para-atender-consumidores-282043/"
+ },
+ {
+  "name": "Homes AI",
+  "company": "CoStar Group (Homes.com)",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "CoStar on Feb 17 2026 announced the launch of Homes AI",
+  "dateSource": "https://ace.rismedia.com/2026/02/17/costar-launches-ai-experience-refining-future-home-shopping/"
+ },
+ {
+  "name": "Coursera Coach",
+  "company": "Coursera",
+  "launched": "2023-04",
+  "basis": "announced",
+  "evidence": "Coursera announced Coursera Coach powered by generative AI in April 2023, to be tested in coming months",
+  "dateSource": "https://campustechnology.com/Articles/2023/04/19/Coursera-Adds-ChatGPT-Powered-Learning-Tools.aspx?p=1"
+ },
+ {
+  "name": "Olive",
+  "company": "Cox Communications",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Oliver",
+  "company": "Cox Communications",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Penny",
+  "company": "CPM Federal Credit Union",
+  "launched": "2026-04",
+  "basis": "earliest mention",
+  "evidence": "Posh client-stories index: CPM FCU story dated Apr 9 2026 on replacing IVR with Posh voice AI",
+  "dateSource": "https://posh.ai/client-stories"
+ },
+ {
+  "name": "SAM",
+  "company": "Credit Union of Texas",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Hugo",
+  "company": "Crisp",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "Product Hunt: Crisp's Hugo AI agent launched on February 3rd, 2026",
+  "dateSource": "https://www.producthunt.com/products/crisp/launches/crisp-2"
+ },
+ {
+  "name": "Rivet",
+  "company": "Crocs",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Sep 2026 coverage: Crocs has deployed Agentforce-powered Rivet; Salesforce story dated Sep 10 2026",
+  "dateSource": "https://www.retailcustomerexperience.com/news/crocs-deploy-customer-support-agents/"
+ },
+ {
+  "name": "Crosby",
+  "company": "Crosby",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "TechCrunch Jun 17 2025: Sequoia-backed Crosby launches AI-powered law firm (soft launch Jan 2025)",
+  "dateSource": "https://techcrunch.com/2025/06/17/sequoia-backed-crosby-launches-a-new-kind-of-ai-powered-law-firm"
+ },
+ {
+  "name": "Charlotte AI",
+  "company": "CrowdStrike Holdings",
+  "launched": "2023-05",
+  "basis": "announced",
+  "evidence": "May 30 2023: CrowdStrike introduces Charlotte AI, in private customer preview",
+  "dateSource": "https://www.businesswire.com/news/home/20230530005207/en/CrowdStrike-Introduces-Charlotte-AI-to-Deliver-Generative-AI-Powered-Cybersecurity"
+ },
+ {
+  "name": "Chessie",
+  "company": "CSX",
+  "launched": "2025-06",
+  "basis": "earliest mention",
+  "evidence": "Microsoft story dated 6/23/2025: CSX 'recently launched' Chessie for ShipCSX",
+  "dateSource": "https://www.microsoft.com/en/customers/story/24556-csx-microsoft-copilot-studio/"
+ },
+ {
+  "name": "Helena",
+  "company": "CTT – Correios de Portugal",
+  "launched": "2023-11",
+  "basis": "launched",
+  "evidence": "CTT: 'Launched in November 2023, Helena pioneered the Portuguese market'",
+  "dateSource": "https://www.ipc.be/news-portal/general-news/2026/06/02/08/56/ctt-strengthens-its-digital-offering"
+ },
+ {
+  "name": "Blaze AI",
+  "company": "Cyble",
+  "launched": "2025-07",
+  "basis": "earliest mention",
+  "evidence": "Cyble Blaze AI product page dated Jul 10 2025; no launch release found",
+  "dateSource": "https://cyble.com/platforms/blaze-ai/"
+ },
+ {
+  "name": "Lumi",
+  "company": "D2L",
+  "launched": "2024-07",
+  "basis": "announced",
+  "evidence": "D2L press release Jul 9 2024 previewed D2L Lumi at Fusion 2024",
+  "dateSource": "https://www.d2l.com/en-mea/newsroom/d2l-lumi-helps-transform-the-learning-platform-experience/"
+ },
+ {
+  "name": "DanskeGPT",
+  "company": "Danske Bank",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "Danske Bank news Mar 14 2024: DanskeGPT released for internal use among employees",
+  "dateSource": "https://danskebank.com/news-and-insights/news-archive/news/2024/14032024"
+ },
+ {
+  "name": "Evie",
+  "company": "Dartmouth College",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Dartmouth announced Evergreen AI well-being tool Oct 10 2025; first chatbot due by December",
+  "dateSource": "https://home.dartmouth.edu/news/2025/10/announcing-evergreen-ai-tool-student-well-being"
+ },
+ {
+  "name": "Bits AI",
+  "company": "Datadog",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "El Profe de Finanzas",
+  "company": "Davivienda",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "Portafolio May 6 2024: Davivienda lanza El Profe de Finanzas",
+  "dateSource": "https://www.portafolio.co/economia/finanzas/davivienda-lanza-el-profe-de-finanzas-asistente-de-inteligencia-artificial-de-educacion-financiera-604223"
+ },
+ {
+  "name": "Vivi",
+  "company": "Davivienda",
+  "launched": "2024-03",
+  "basis": "earliest mention",
+  "evidence": "Valora Analitik Mar 20 2024 cites service models based on Vivi, AI virtual assistant",
+  "dateSource": "https://www.valoraanalitik.com/?p=368364"
+ },
+ {
+  "name": "DBS Joy",
+  "company": "DBS Bank",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Fortune Nov 10 2025: DBS Joy rolls out gen AI chatbot",
+  "dateSource": "https://fortune.com/2025/11/10/dbs-joy-rolls-out-gen-ai-chatbot"
+ },
+ {
+  "name": "DeepSeek",
+  "company": "DeepSeek",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "Wikipedia infobox: DeepSeek release 10 January 2025",
+  "dateSource": "https://en.wikipedia.org/wiki/DeepSeek_(chatbot)"
+ },
+ {
+  "name": "JD",
+  "company": "Deere",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Bloomberg Sep 1 2026: Deere & Co. launched JD, an AI assistant in Operations Center app",
+  "dateSource": "https://www.ttnews.com/articles/deere-launches-ai-assistant"
+ },
+ {
+  "name": "Della",
+  "company": "Delaware Division of Motor Vehicles",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "Delaware DMV: Della began assisting customers on the website in early June 2024",
+  "dateSource": "https://news.delaware.gov/2024/08/01/dmv-introduces-new-chatbot-della"
+ },
+ {
+  "name": "Delia",
+  "company": "Delgaz Grid (E.ON Group)",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Business Forum Jul 18 2025: Delgaz Grid has launched Delia, an AI-powered virtual assistant",
+  "dateSource": "https://www.businessforum.ro/energy/20250718/delgaz-grid-launches-ai-powered-chatbot-2066/amp"
+ },
+ {
+  "name": "PairD",
+  "company": "Deloitte",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "Tech Monitor Jan 8 2024: Deloitte rolls out PairD chatbot to 75,000 staff",
+  "dateSource": "https://www.techmonitor.ai/digital-economy/ai-and-automation/deloitte-ai-chatbot-big-four-accountancy-paird"
+ },
+ {
+  "name": "Zora AI",
+  "company": "Deloitte",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "DevX Mar 26 2025: Deloitte launches Zora AI for business automation",
+  "dateSource": "https://www.devx.com/daily-news/deloitte-launches-zora-ai-for-business-automation/"
+ },
+ {
+  "name": "Delta Concierge",
+  "company": "Delta Air Lines",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 2025: Delta announced launch of Delta Concierge, in beta for select group this month (unveiled CES Jan 2025)",
+  "dateSource": "https://www.eplaneai.com/ja/news/delta-introduces-generative-ai-virtual-assistant"
+ },
+ {
+  "name": "Ali",
+  "company": "Derby City Council (UK)",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "Derby: Darcie was introduced by the Council in 2023, alongside Ali for Derby Homes",
+  "dateSource": "https://derby.gov.uk/news/2025/may/councils-digital-helper-darcie-gets-next-generation-upgrade-for-phone-calls/"
+ },
+ {
+  "name": "Darcie",
+  "company": "Derby City Council (UK)",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "Derby: Darcie was introduced by the Council in 2023",
+  "dateSource": "https://derby.gov.uk/news/2025/may/councils-digital-helper-darcie-gets-next-generation-upgrade-for-phone-calls/"
+ }
+]

@@ -1,0 +1,82 @@
+[
+ {
+  "name": "Hey GURA",
+  "company": "Tractor Supply",
+  "project": "Store associate headsets",
+  "use": "Generative AI assistant that store employees query through headsets for product specs, recommendations, item locations and HR info.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://www.cio.com/article/2088569/tractor-supply-enlists-ai-to-deliver-legendary-customer-service.html",
+  "list": "Fortune 1000 #296"
+ },
+ {
+  "name": "GIL",
+  "company": "GXO Logistics",
+  "project": "GXO IQ",
+  "use": "Interactive AI agent in GXO's GXO IQ platform that answers operational questions and turns complex logistics data into recommendations.",
+  "category": "Logistics",
+  "nameType": "brand",
+  "source": "https://www.automatedwarehouseonline.com/gxo-iq-intelligently-manages-logistics-operations/",
+  "list": "Fortune 1000 #363"
+ },
+ {
+  "name": "Lyft Advisor",
+  "company": "Lyft",
+  "project": "Lyft Driver app",
+  "use": "On-demand chatbot in the Lyft driver app that answers drivers' questions using their own driving history and local conditions, such as where to find more rides.",
+  "category": "Transportation",
+  "nameType": "brand",
+  "source": "https://www.lyft.com/blog/posts/new-driver-tools-fall-2026",
+  "list": "Fortune 1000 #593"
+ },
+ {
+  "name": "Marvis",
+  "company": "Juniper Networks (HPE)",
+  "project": "Marvis AI Assistant / Mist AI",
+  "use": "Conversational AI assistant that helps network teams troubleshoot problems, understand network behavior and find Juniper documentation.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.juniper.net/documentation/us/en/software/juniper-routing-assurance/user-guide/Other/marvis-ai-assistant.html",
+  "list": "Fortune 1000 #658"
+ },
+ {
+  "name": "JD",
+  "company": "Deere",
+  "project": "John Deere Operations Center app",
+  "use": "AI assistant in Deere's Operations Center app that answers farmers' plain-language questions about their planting, treatment and harvest data.",
+  "category": "Agriculture",
+  "nameType": "brand",
+  "source": "https://www.ttnews.com/articles/deere-launches-ai-assistant",
+  "list": "Fortune 1000 #89"
+ },
+ {
+  "name": "Bobbie",
+  "company": "Expand Energy",
+  "project": "Owner Relations website",
+  "use": "AI Owner Relations assistant on Expand Energy's website that helps mineral owners update account info, check well status, learn about leasing and log community concerns.",
+  "category": "Energy",
+  "nameType": "human",
+  "source": "https://www.expandenergy.com/?p=18070",
+  "list": "Fortune 1000 #751"
+ },
+ {
+  "name": "Zaira",
+  "company": "Bakkt",
+  "project": "Bakkt Agent",
+  "use": "Conversational AI financial agent that lets users send money abroad through chat, handling onboarding, identity checks, funding and transfers.",
+  "category": "Fintech",
+  "nameType": "human",
+  "source": "https://tsh.io/portfolio/bakkt-zaira-agentic-payments",
+  "list": "Fortune 1000 #848"
+ },
+ {
+  "name": "One Wealth Assistant",
+  "company": "Northern Trust",
+  "project": "Wealth management",
+  "use": "AI assistant for Northern Trust wealth advisors that brings Northern Trust Institute insights directly into their workflows.",
+  "category": "Banking",
+  "nameType": "brand",
+  "source": "https://finance.yahoo.com/markets/stocks/articles/northern-trust-ntrs-q1-2026-150341437.html",
+  "list": "Fortune 1000 #269"
+ }
+]

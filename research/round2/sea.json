@@ -1,0 +1,452 @@
+[
+ {
+  "name": "VIRA",
+  "company": "Bank Central Asia (BCA)",
+  "project": "WhatsApp Bank BCA",
+  "use": "Chat-banking assistant on WhatsApp. It gives BCA product and promo info, finds branches and ATMs, and takes credit card and insurance applications.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.bca.co.id/id/vira"
+ },
+ {
+  "name": "Sabrina",
+  "company": "Bank Rakyat Indonesia (BRI)",
+  "project": "WhatsApp chat banking",
+  "use": "AI banking assistant on WhatsApp. It handles balance checks, statements, complaints, card blocking and branch or merchant lookups.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://ekonomi.republika.co.id/berita/sod09j423/chatbot-bri-sabrina-raih-anugerah-khusus-di-ajang-anugerah-inovasi-indonesia-2024"
+ },
+ {
+  "name": "MITA (Mandiri Intelligent Assistant)",
+  "company": "Bank Mandiri",
+  "project": "Online chat / Kopra",
+  "use": "Chat-based assistant that answers customer questions about Bank Mandiri products and services.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.bankmandiri.co.id/kopra-virtual-assistant1"
+ },
+ {
+  "name": "Veronika",
+  "company": "Telkomsel",
+  "project": "MyTelkomsel app",
+  "use": "Generative AI virtual assistant that handles most customer inquiries around the clock in the MyTelkomsel app and on messaging channels.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://www.telkomsel.com/en/about-us/sustainability/empower-people/customer-engagement"
+ },
+ {
+  "name": "Dira",
+  "company": "GoTo Group",
+  "project": "GoPay app",
+  "use": "Voice assistant in Bahasa Indonesia that lets GoPay users pay bills, transfer money and buy phone credit by speaking.",
+  "category": "Fintech",
+  "nameType": "human",
+  "source": "https://gotocompany.com/en/news/press/goto-launches-new-ai-strategy-with-the-introduction-of-dira-the-first-ever-ai-based-fintech-voice-assistant-in-bahasa-indonesia"
+ },
+ {
+  "name": "Sahabat-AI",
+  "company": "GoTo Group & Indosat Ooredoo Hutchison",
+  "project": "sahabat-ai.com / GoPay app",
+  "use": "Multilingual Indonesian chatbot built on a local 70B-parameter model. It answers questions in Indonesian and regional languages such as Javanese and Sundanese.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.fortuneidn.com/tech/indosat-dan-goto-luncurkan-sahabat-ai-chatbot-multi-bahasa-00-6cmtl-bvwr4x"
+ },
+ {
+  "name": "Gigi",
+  "company": "GCash (Mynt)",
+  "project": "GCash app",
+  "use": "24/7 customer service chatbot that answers common GCash questions in real time.",
+  "category": "Fintech",
+  "nameType": "human",
+  "source": "https://mynt.com.ph/newsroom/gcash-harnesses-ai-solutions-to-accelerate-financial-inclusion"
+ },
+ {
+  "name": "GINA",
+  "company": "GCash (Mynt)",
+  "project": "GCash lending",
+  "use": "AI agent that handles lending collections for GCash loan products.",
+  "category": "Fintech",
+  "nameType": "human",
+  "source": "https://mynt.com.ph/newsroom/gcash-harnesses-ai-solutions-to-accelerate-financial-inclusion"
+ },
+ {
+  "name": "GCoach",
+  "company": "GCash (Mynt)",
+  "project": "GCash app",
+  "use": "Interactive AI tool that gives users money tips and personal finance advice.",
+  "category": "Fintech",
+  "nameType": "brand",
+  "source": "https://mynt.com.ph/newsroom/gcash-harnesses-ai-solutions-to-accelerate-financial-inclusion"
+ },
+ {
+  "name": "BEA",
+  "company": "Bank of the Philippine Islands (BPI)",
+  "project": "BEA Chat",
+  "use": "24/7 AI digital assistant that answers banking questions, takes product applications and tracks service requests.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.bpi.com.ph/about-bpi/news/bpi-enhances-bea-chat-with-smarter-ai-powered-features-for-customer-support"
+ },
+ {
+  "name": "Moni",
+  "company": "MoMo (M_Service)",
+  "project": "MoMo app",
+  "use": "AI financial helper in the MoMo super-app that helps new users manage their spending.",
+  "category": "Fintech",
+  "nameType": "human",
+  "source": "https://vietnamfinance.vn/chuyen-minh-sau-1-thap-ky-momo-bien-thanh-tro-thu-tai-chinh-ai-d118061.html"
+ },
+ {
+  "name": "Reppy",
+  "company": "VPBank",
+  "project": "",
+  "use": "Multichannel virtual assistant chatbot for VPBank's individual customers.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.vpbank.com.vn/ve-chung-toi/giai-thuong/2025/vpbank-duoc-vinh-danh-doanh-nghiep-chuyen-doi-so-xuat-sac-tai-vnda-2025"
+ },
+ {
+  "name": "VCB Digibot",
+  "company": "Vietcombank",
+  "project": "",
+  "use": "24/7 virtual assistant that answers questions on cards, loans, rates and branches, and passes harder questions to human staff.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://fpt.ai/?p=14173"
+ },
+ {
+  "name": "CAI (CBC AI)",
+  "company": "China Banking Corporation (Chinabank)",
+  "project": "Website and Facebook Messenger",
+  "use": "GenAI banking assistant that answers questions, recommends products and checks credit card application status.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.smsupermalls.com/whats-new/news/more-than-100-years-of-trust-now-powered-by-genai-chinabank-introduces-cai"
+ },
+ {
+  "name": "Korika Chat (KChat)",
+  "company": "KORIKA (with Datasaur AI)",
+  "project": "",
+  "use": "Indonesian generative AI assistant on web and WhatsApp. It is used for public services, customer support and research.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://investortrust.id/business/79172/korika-chat-resmi-meluncur-ai-buatan-indonesia-yang-siap-dipakai-bumn-sampai-umkm"
+ },
+ {
+  "name": "FAI",
+  "company": "Philippine Department of Trade and Industry (DTI)",
+  "project": "iRegis website",
+  "use": "24/7 AI chatbot that answers questions about DTI business licensing and accreditation.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://fairtrade.dti.gov.ph/press-release/dti-rolls-out-ai-chatbot-to-fast-track-business-services-cut-red-tape/"
+ },
+ {
+  "name": "POLA (PDIC Online Assistant)",
+  "company": "Philippine Deposit Insurance Corporation (PDIC)",
+  "project": "PDIC website",
+  "use": "AI chatbot that answers depositor and stakeholder questions on the PDIC website.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://www.philstar.com/business/2025/11/02/2484170/pdic-launches-ai-chatbot-enhance-public-service"
+ },
+ {
+  "name": "PMX AI",
+  "company": "Zetrix AI (for Malaysian PM Anwar Ibrahim)",
+  "project": "WhatsApp",
+  "use": "AI avatar of Malaysia's prime minister on WhatsApp. It answers questions about government policies and services.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://says.com/my/tech/you-can-now-talk-to-pmx-ai-on-whatsapp"
+ },
+ {
+  "name": "ChatMBPP",
+  "company": "Penang Island City Council (MBPP)",
+  "project": "",
+  "use": "Multilingual generative AI chatbot for city services. It answers council questions and files complaint tickets with the right departments.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://bernama.com/en/news.php?id=2538433"
+ },
+ {
+  "name": "NurAI",
+  "company": "Zetrix AI",
+  "project": "NurAI app",
+  "use": "Shariah-aligned AI chatbot that answers questions on law, finance, health and Islamic studies in Malay, Indonesian, Arabic and English.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.zetrix.com/?p=6850"
+ },
+ {
+  "name": "Typhoon",
+  "company": "SCBX Group",
+  "project": "",
+  "use": "Thai-language large language model that powers chatbots, including a 24/7 assistant for Thai government officials.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.scb.co.th/en/about-us/news/jun-2025/scbx-ai-chatbot"
+ },
+ {
+  "name": "Sarah",
+  "company": "Smartfren (XLSMART)",
+  "project": "WhatsApp / MySmartfren app",
+  "use": "GenAI virtual assistant that answers questions about quota, packages, bills and promos 24/7.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://gizmologi.id/news/telco/smartfren-kenalkan-sarah-asisten-virtual-ai/"
+ },
+ {
+  "name": "Maya",
+  "company": "XL Axiata / AXIS (XLSMART)",
+  "project": "",
+  "use": "Virtual assistant on XL Axiata's and AXIS's digital customer service channels.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://gizmologi.id/news/telco/smartfren-kenalkan-sarah-asisten-virtual-ai/"
+ },
+ {
+  "name": "NEO",
+  "company": "Vietnam Airlines",
+  "project": "Vietnam Airlines website",
+  "use": "24/7 chatbot that helps travelers find information and get answers to their questions.",
+  "category": "Airline",
+  "nameType": "brand",
+  "source": "https://www.vietnamairlines.com/se/vi/help-desk/other-topics/Chat-with-vna"
+ },
+ {
+  "name": "Mari",
+  "company": "True Corporation",
+  "project": "",
+  "use": "Generative AI customer service agent across chat, phone and a humanoid robot. It fixes technical faults and changes mobile plans.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://btw.media/en/true-corporation-unveils-revolutionary-ai-powered-service-agent-mari-3-0"
+ },
+ {
+  "name": "MaiA",
+  "company": "Indonesia Ministry of Tourism",
+  "project": "indonesia.travel",
+  "use": "AI travel companion that recommends Indonesian destinations and builds trip itineraries.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://www.aap.com.au/aapreleases/cision20251128ae35062"
+ },
+ {
+  "name": "MONA",
+  "company": "Tan Chong Insure / GoInsuran.com",
+  "project": "",
+  "use": "AI virtual assistant that answers general insurance customer queries.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.tanchonggroup.com/say-hello-to-mona-kyra-your-virtual-insurance-assistants-powered-by-ai/"
+ },
+ {
+  "name": "KYRA",
+  "company": "Tan Chong Insure / GoInsuran.com",
+  "project": "",
+  "use": "AI virtual assistant that guides customers through motor insurance decisions.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.tanchonggroup.com/say-hello-to-mona-kyra-your-virtual-insurance-assistants-powered-by-ai/"
+ },
+ {
+  "name": "Z Buddy",
+  "company": "Zurich Malaysia",
+  "project": "WhatsApp",
+  "use": "AI assistant on WhatsApp for insurance and takaful agents. It automates renewals and policy lookups.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://www.qorusglobal.com/innovations/30922-z-buddy-aipowered-virtual-assistant-for-insurance-takaful-agents"
+ },
+ {
+  "name": "Igi",
+  "company": "Igloo",
+  "project": "",
+  "use": "AI travel insurance sales agent in Indonesia. It recommends plans, takes payment and issues the policy in one chat.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://technode.global/2026/06/09/singapores-insurtech-igloo-launches-ai-travel-insurance-assistant-in-indonesia-boosting-purchase-decision-44/"
+ },
+ {
+  "name": "Yoona",
+  "company": "Oona Insurance Indonesia",
+  "project": "WhatsApp / website",
+  "use": "GenAI chatbot that lets customers buy travel and flight-delay insurance and get support through WhatsApp.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://myoona.id/en/news-room/press-release/oona-insurance-launches-generative-ai-chatbot-enabled-by-yellow-ai/"
+ },
+ {
+  "name": "Ryt AI",
+  "company": "Ryt Bank (YTL & Sea)",
+  "project": "Ryt Bank app",
+  "use": "Conversational banking assistant that pays bills, sends money and tracks spending through chat in Malay, English or Manglish.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://fintech.global/2025/08/27/malaysia-unveils-ryt-bank-first-ai-powered-bank/"
+ },
+ {
+  "name": "Agent Guru",
+  "company": "FWD Life Insurance Thailand",
+  "project": "FWD CUBE app",
+  "use": "GenAI sales-support tool that helps insurance agents understand clients and recommend suitable plans.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://www.kaohooninternational.com/markets/559665"
+ },
+ {
+  "name": "Shirley",
+  "company": "Singtel",
+  "project": "Singtel customer care",
+  "use": "AI customer care assistant that understands Singlish. It handles troubleshooting, roaming sign-ups and add-on purchases.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://www.telecomreviewasia.com/news/technology-news/28671-singtel-sierra-introduce-ai-agents-for-customer-support/"
+ },
+ {
+  "name": "SARA",
+  "company": "Tenaga Nasional Berhad (TNB)",
+  "project": "TNB digital channels",
+  "use": "24/7 GenAI virtual assistant for Malaysia's power utility. It answers FAQs, updates customer details and takes outage and streetlight fault reports.",
+  "category": "Utility",
+  "nameType": "human",
+  "source": "https://aws.amazon.com/solutions/case-studies/tnb-case-study/"
+ },
+ {
+  "name": "JSense",
+  "company": "JS Bank",
+  "project": "JS Bank mobile app",
+  "use": "AI banking chatbot in the app. It gives product information, transaction guidance, branch details and account support.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://www.jsbl.com/js-bank-launches-pakistans-first-ai-chatbot-jsense-for-smarter-banking/"
+ },
+ {
+  "name": "ello",
+  "company": "easypaisa",
+  "project": "easypaisa app",
+  "use": "In-app AI chatbot, opened by shaking the phone, that gives 24/7 self-service support for the Pakistani digital bank.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://english.aaj.tv/news/330452473/easypaisa-rolls-out-ai-chatbot-ello-to-boost-in-app-customer-support"
+ },
+ {
+  "name": "DIA (Dialog Intelligent Assistant)",
+  "company": "Dialog Axiata",
+  "project": "WhatsApp / MyDialog app",
+  "use": "24/7 AI assistant that handles PIN resets, complaints, reconnections, package changes and roaming activation.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://dialog.lk/news/dialog-elevates-customer-support-with-ai-powered-dia"
+ },
+ {
+  "name": "AI-TARA",
+  "company": "Indian Bank",
+  "project": "",
+  "use": "Voice banking assistant in 10 languages. It lets customers make transfers and open fixed deposits by speaking.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.analyticsinsight.net/news/indian-bank-debuts-ai-tara-voice-banking-in-10-languages-at-global-fintech-fest-2026"
+ },
+ {
+  "name": "Feddy",
+  "company": "Federal Bank",
+  "project": "Website / WhatsApp / Alexa",
+  "use": "24/7 AI virtual assistant that answers banking questions and does balance checks, fund transfers and bill payments.",
+  "category": "Bank",
+  "nameType": "human",
+  "source": "https://www.federal.bank.in/feddy"
+ },
+ {
+  "name": "AskDISHA 2.0",
+  "company": "IRCTC (Indian Railways)",
+  "project": "IRCTC website and app",
+  "use": "AI assistant that books and cancels train tickets and tracks refunds by voice or text in several languages.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://www.businesstoday.in/amp/personal-finance/news/story/irctc-askdisha-2-ai-assistant-train-ticket-booking-refund-cancellation-478255-2025-05-29"
+ },
+ {
+  "name": "Aadhaar Mitra",
+  "company": "Unique Identification Authority of India (UIDAI)",
+  "project": "uidai.gov.in",
+  "use": "AI chatbot that answers Aadhaar questions, checks enrolment and PVC card status, and registers grievances.",
+  "category": "Government",
+  "nameType": "brand",
+  "source": "https://www.bankbazaar.com/aadhar-card/aadhaar-mitra.html"
+ },
+ {
+  "name": "Samadhan Didi",
+  "company": "India Department of Administrative Reforms and Public Grievances",
+  "project": "CPGRAMS",
+  "use": "AI voice chatbot that lets citizens file and track public grievances in simple language and local dialects.",
+  "category": "Government",
+  "nameType": "human",
+  "source": "https://www.drishtiias.com/state-pcs-current-affairs/samadhan-didi-ai-voice-chatbot-launched/print_manually"
+ },
+ {
+  "name": "OZ",
+  "company": "Zong 4G",
+  "project": "My Zong app",
+  "use": "AI chatbot that answers telecom service questions in real time in the app and on the website.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.phoneworld.com.pk/zong-launches-oz-an-ai-chatbot-to-revolutionize-customer-experience/"
+ },
+ {
+  "name": "ChulaGENIE",
+  "company": "Chulalongkorn University",
+  "project": "genie.chula.ac.th",
+  "use": "Campus generative AI assistant for students and staff, used for teaching, research and document work.",
+  "category": "University",
+  "nameType": "brand",
+  "source": "https://www.chula.ac.th/en/news/224064"
+ },
+ {
+  "name": "ILMUchat",
+  "company": "YTL AI Labs",
+  "project": "Ilmu.ai",
+  "use": "Malaysian-built AI chatbot on YTL's ILMU language model. It answers questions and searches the web in real time.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://nextrift.com/?p=41299"
+ },
+ {
+  "name": "AI Sense Maker",
+  "company": "National University of Singapore (NUS Libraries)",
+  "project": "",
+  "use": "Conversational research tool that answers plain-language questions with cited summaries drawn from NUS's digitised collections.",
+  "category": "University",
+  "nameType": "brand",
+  "source": "https://techcoffeehouse.com/2026/07/29/nus-launches-southeast-asias-first-conversational-ai-library-tool/"
+ },
+ {
+  "name": "AIPARA",
+  "company": "Commercial Bank of Ceylon",
+  "project": "Annual report",
+  "use": "GenAI chatbot that answers readers' questions about the bank's annual report, such as profit, strategy and AGM details.",
+  "category": "Bank",
+  "nameType": "brand",
+  "source": "https://echelon.lk/commercial-bank-revolutionizes-annual-report-culture-with-ai"
+ },
+ {
+  "name": "KAI",
+  "company": "PLDT",
+  "project": "PLDT Enterprise",
+  "use": "Internal assistant that gives PLDT Enterprise staff instant network and product information during client conversations.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.telecomreviewasia.com/news/service-news/29011-pldt-inc-launches-kai-ai-assistant-for-enterprise-teams/"
+ },
+ {
+  "name": "KAi",
+  "company": "DITO Telecommunity",
+  "project": "DITO app / eShop",
+  "use": "AI assistant that resolves most routine customer questions and handles in-chat transactions 24/7.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.telecomreviewasia.com/news/service-news/28976-dito-ai-platform-is-cutting-costs-and-enhancing-customer-support/"
+ }
+]

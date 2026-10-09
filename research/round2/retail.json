@@ -1,0 +1,245 @@
+[
+ {
+  "name": "Olive",
+  "company": "Woolworths Group (Australia)",
+  "project": "Woolworths app and website",
+  "use": "Customer assistant rebuilt as an agentic AI on Google Gemini Enterprise. It plans meals, builds baskets, finds specials and handles most contact-centre queries.",
+  "category": "Grocery",
+  "nameType": "human",
+  "source": "https://itwire.com/business-it-news/data/woolworths-olive-grows-up-from-refund-bot-to-agentic-shopping-companion"
+ },
+ {
+  "name": "Mandy",
+  "company": "Woolworths Group (Australia)",
+  "project": "Everyday Rewards",
+  "use": "Virtual assistant for Woolworths' Everyday loyalty, mobile and insurance businesses, such as claiming missing points. It is being upgraded into an agentic 'value companion'.",
+  "category": "Grocery",
+  "nameType": "human",
+  "source": "https://www.itnews.com.au/news/woolworths-to-remake-its-everyday-chatbot-into-an-agentic-loyalty-assistant-626978"
+ },
+ {
+  "name": "Ulta AI",
+  "company": "Ulta Beauty",
+  "project": "Ulta.com and Ulta Beauty app",
+  "use": "Gemini-powered beauty shopping assistant. It recommends and compares products based on skin type, hair goals and concerns, and helps build routines.",
+  "category": "Beauty retail",
+  "nameType": "brand",
+  "source": "https://www.ulta.com/guestservices/ways-to-shop/ai-chat"
+ },
+ {
+  "name": "Rakuten AI",
+  "company": "Rakuten Group",
+  "project": "Rakuten Ichiba app, Rakuten Link",
+  "use": "Agentic AI concierge across the Rakuten ecosystem. In the Rakuten Ichiba app it takes budget, purpose and images and recommends products.",
+  "category": "E-commerce",
+  "nameType": "brand",
+  "source": "https://www.telecomtv.com/content/ai/rakuten-integrates-cutting-edge-agentic-ai-tool-rakuten-ai-into-rakuten-ichiba-mobile-app-54595"
+ },
+ {
+  "name": "Sophie",
+  "company": "Saks Fifth Avenue (Saks Global)",
+  "project": "Saks customer service",
+  "use": "Voice and text AI assistant built with NLX and AWS. It handles order status, returns, gift cards, store help and price-match questions.",
+  "category": "Department store",
+  "nameType": "human",
+  "source": "https://www.mind.eu.com/retail/en/article/customer-service-with-ai-saks-reduces-calls-requiring-humans-by-20/"
+ },
+ {
+  "name": "Clementine",
+  "company": "Instacart",
+  "project": "Instacart app",
+  "use": "AI grocery shopping assistant that generates personalized recipes, finds deals and cheaper swaps, and turns photos of shopping lists into carts.",
+  "category": "Grocery",
+  "nameType": "human",
+  "source": "https://techcrunch.com/2026/09/09/instacart-launches-an-ai-grocery-shopping-assistant-called-clementine"
+ },
+ {
+  "name": "Coach by DICK'S",
+  "company": "DICK'S Sporting Goods",
+  "project": "DICK'S mobile app",
+  "use": "Agentic AI adviser built on Adobe Brand Concierge. It gives sport- and level-specific product recommendations, training tips and product education.",
+  "category": "Sporting goods retail",
+  "nameType": "brand",
+  "source": "https://www.retaildive.com/news/dicks-sporting-goods-launches-ai-adviser/821356/"
+ },
+ {
+  "name": "NikeAI",
+  "company": "Nike",
+  "project": "Nike App (iOS, US)",
+  "use": "Conversational shopping feature in beta in the Nike App. Shoppers describe what they need in plain language, such as gear for a 5K, and get matching products.",
+  "category": "Sportswear",
+  "nameType": "brand",
+  "source": "https://www.digitalcommerce360.com/2025/10/09/how-nike-is-using-ai/"
+ },
+ {
+  "name": "Dylan",
+  "company": "Puma",
+  "project": "AI Store Concierge, Las Vegas flagship",
+  "use": "AI 'digital human' concierge on a seven-foot screen in the store. It speaks 100+ languages, recommends products and answers questions on fit and tech.",
+  "category": "Sportswear",
+  "nameType": "human",
+  "source": "https://digiday.com/marketing/pumas-ai-head-says-the-brand-is-still-giving-the-keys-to-the-consumer-as-it-invests-in-digital-concierge/"
+ },
+ {
+  "name": "Sage",
+  "company": "Kroger",
+  "project": "Associate mobile app",
+  "use": "AI virtual assistant for store associates, built with IBM. It handles schedules, time off, pay stubs and policy or training questions.",
+  "category": "Grocery",
+  "nameType": "human",
+  "source": "https://www.grocerydive.com/news/kroger-ai-google-gemini-shopping-assistant-technology-associate-platform-sage-nrf-2026/809435/"
+ },
+ {
+  "name": "My Woolies Chef",
+  "company": "Woolworths Holdings (South Africa)",
+  "project": "MyDifference loyalty programme",
+  "use": "AI food assistant that suggests meal ideas and simplifies meal planning. It is in beta for selected loyalty members from September 2026.",
+  "category": "Grocery",
+  "nameType": "brand",
+  "source": "https://www.citizen.co.za/business/need-help-putting-a-meal-together-woolworths-introduces-ai-chef/"
+ },
+ {
+  "name": "Penny",
+  "company": "Pick n Pay",
+  "project": "Pick n Pay asap! app",
+  "use": "Gemini-powered grocery assistant that builds baskets through voice, text or photos. It suggests meals and budget-friendly lists using Smart Shopper data.",
+  "category": "Grocery",
+  "nameType": "human",
+  "source": "https://www.bizcommunity.com/article/pick-n-pay-rolls-out-gemini-powered-grocery-assistant-penny-175696a"
+ },
+ {
+  "name": "Pixie",
+  "company": "Shoprite Group (Checkers)",
+  "project": "Checkers Sixty60 app",
+  "use": "AI shopping assistant that predicts restocks and builds personalised baskets. Its Smart Chat feature accepts text, voice and images.",
+  "category": "Grocery",
+  "nameType": "human",
+  "source": "https://www.bizcommunity.com/article/sixty60-upgrades-pixie-as-ai-becomes-central-to-grocery-shopping-290317a"
+ },
+ {
+  "name": "Next AI",
+  "company": "Next plc",
+  "project": "next.co.uk",
+  "use": "AI shopping assistant bar on category pages. It answers open questions and offers prompts like finding a new outfit or getting inspiration.",
+  "category": "Fashion retail",
+  "nameType": "brand",
+  "source": "https://ecomm.design/site/next/next-thumb"
+ },
+ {
+  "name": "Hello Casto",
+  "company": "Kingfisher (Castorama France)",
+  "project": "castorama.fr",
+  "use": "AI-powered virtual DIY adviser that helps customers plan home-improvement projects and choose products.",
+  "category": "Home improvement retail",
+  "nameType": "brand",
+  "source": "https://www.castorama.fr/services/consigne.cat"
+ },
+ {
+  "name": "Pocket Coach",
+  "company": "Leroy Merlin France",
+  "project": "",
+  "use": "Conversational AI that trains sales staff by role-playing a virtual customer. It is being piloted in stores.",
+  "category": "Home improvement retail",
+  "nameType": "brand",
+  "source": "https://www.republik-retail.fr/solutions-techno/omnicanal/leroy-merlin-entraine-ses-vendeurs-avec-une-ia-conversationnelle.html"
+ },
+ {
+  "name": "ConsumerIQ",
+  "company": "The Estée Lauder Companies",
+  "project": "Microsoft Copilot Studio",
+  "use": "Internal AI agent that lets employees query decades of consumer data in natural language. Staff use it to spot trends, build marketing assets and inform R&D.",
+  "category": "Beauty",
+  "nameType": "brand",
+  "source": "https://consumergoods.com/how-estee-lauders-ai-agent-consumeriq-consolidating-data-and-streamlining-rd"
+ },
+ {
+  "name": "Steijn",
+  "company": "Albert Heijn (Ahold Delhaize)",
+  "project": "Mijn AH app",
+  "use": "AI assistant in the Albert Heijn app (formerly My AH Assistant). It answers cooking and product questions, suggests recipes and helps build shopping lists.",
+  "category": "Grocery",
+  "nameType": "human",
+  "source": "https://www.esmmagazine.com/technology/albert-heijn-levels-up-with-ai-for-smarter-shopping-313785"
+ },
+ {
+  "name": "Team Assist",
+  "company": "Woolworths Group (Australia)",
+  "project": "",
+  "use": "Internal AI support tool that answers employee inquiries. It handles about 7,000 a week and escalates only 1 in 10 to a human.",
+  "category": "Grocery",
+  "nameType": "brand",
+  "source": "https://www.itnews.com.au/news/woolworths-lifts-the-cover-on-internal-ai-628453"
+ },
+ {
+  "name": "PC Chat",
+  "company": "Loblaw Companies (PC Health)",
+  "project": "PC Health and Shoppers Drug Mart apps",
+  "use": "AI health chatbot trained on Canadian clinical sources. It answers general health questions and can use linked pharmacy records for more tailored answers.",
+  "category": "Pharmacy retail",
+  "nameType": "brand",
+  "source": "https://www.cp24.com/news/2026/09/29/loblaws-pc-health-launches-chatbot-as-more-people-turn-to-ai-for-health-info-heres-what-to-know/"
+ },
+ {
+  "name": "Dustin",
+  "company": "Lotte Department Store",
+  "project": "Lotte Department Store app",
+  "use": "AI shopping chatbot that gives store locations, hours and discounts. It also points shoppers to coupons and gift promotions.",
+  "category": "Department store",
+  "nameType": "human",
+  "source": "https://www.khan.co.kr/en/article/202609020629017"
+ },
+ {
+  "name": "Buddy",
+  "company": "Bunnings (Wesfarmers)",
+  "project": "Bunnings website and app",
+  "use": "AI shopping tool that helps customers plan DIY projects, find products and complete purchases.",
+  "category": "Home improvement retail",
+  "nameType": "human",
+  "source": "https://www.fool.com.au/2026/06/10/why-are-wesfarmers-shares-pushing-higher-today/"
+ },
+ {
+  "name": "Joy",
+  "company": "Kmart Australia (Wesfarmers)",
+  "project": "Kmart app and website",
+  "use": "Gemini-powered virtual shopping companion. It handles natural-language and photo search, helps compare products, and links to virtual try-on.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://www.smartcompany.com.au/artificial-intelligence/kmart-google-gemini-ai-shopping-assistant-joy/"
+ },
+ {
+  "name": "Ask Frasers",
+  "company": "Frasers Group",
+  "project": "FRASERS website",
+  "use": "AI shopping assistant built on Algolia. It lets shoppers narrow down products, compare prices and get recommendations in conversational language.",
+  "category": "Department store",
+  "nameType": "brand",
+  "source": "https://www.sgieurope.com/retail/frasers-launches-ask-frasers-ai-shopping-assistant/120511.article"
+ },
+ {
+  "name": "ANNA",
+  "company": "DOUGLAS Group",
+  "project": "Douglas app and online shop",
+  "use": "AI beauty advisor chatbot built with Google Cloud. It gives personalized beauty advice, product and routine recommendations, and gift ideas.",
+  "category": "Beauty retail",
+  "nameType": "human",
+  "source": "https://douglas.group/en/newsroom/press-releases/douglas-group-elevates-digital-shopping-experience-with-ai-powered-beauty-advisor-chatbot-anna"
+ },
+ {
+  "name": "Grocer genie",
+  "company": "FairPrice Group",
+  "project": "",
+  "use": "AI-powered staff app built with Google Cloud. It helps store teams with tasks, restocking, rostering, and analysis of sales and inventory data.",
+  "category": "Grocery",
+  "nameType": "brand",
+  "source": "https://www.marketing-interactive.com/fairprice-to-expand-ai-powered-shopping-experience-across-more-outlets"
+ },
+ {
+  "name": "uno.ia",
+  "company": "Carrefour Spain",
+  "project": "ai.carrefour",
+  "use": "Internal AI 'super-agent' for executives. It helps with meeting planning, presentations, communications and decision-making.",
+  "category": "Grocery",
+  "nameType": "brand",
+  "source": "https://cross-border-magazine.com/carrefour-launches-ai-carrefour-in-spain/"
+ }
+]

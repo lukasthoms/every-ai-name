@@ -1,0 +1,674 @@
+[
+ {
+  "name": "Ace",
+  "company": "Neon One",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Maina",
+  "company": "Nepal Telecom",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "Robot named 'Maina' was launched today at the NT office in Sundhara (Nov 17, 2024), demo version.",
+  "dateSource": "https://www.b360nepal.com/detail/23834/nepal-telecom-introduces-robotic-service-to-enhance-customer-support"
+ },
+ {
+  "name": "N!Asystent",
+  "company": "Nest Bank",
+  "launched": "2024-04",
+  "basis": "announced",
+  "evidence": "Nest Bank announced N!Asystent (GPT-4) in March 2024; pilot version for selected app customers reported April 8, 2024.",
+  "dateSource": "https://www.telepolis.pl/tech/aplikacje/nest-bank-nowosc-w-aplikacji-ai-asystent-testy"
+ },
+ {
+  "name": "NesGPT",
+  "company": "Nestlé",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Frag Mich",
+  "company": "Neue Pressegesellschaft (Südwest Presse, Märkische Oderzeitung, Lausitzer Rundschau)",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Ulm/Berlin, 3 July 2025: NPG offers subscribers 'Frag Mich' from now on (ab sofort) in its mobile apps.",
+  "dateSource": "https://www.retresco.de/wp-content/uploads/2025/07/Retresco_Pressemitteilung_NPG_FragMich.pdf"
+ },
+ {
+  "name": "Bott Stevens",
+  "company": "New Jersey Devils",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "19 March 2025: The New Jersey Devils have launched 'Bott Stevens,' a custom AI chatbot.",
+  "dateSource": "https://cryptonews.net/news/blockchain/30692617/"
+ },
+ {
+  "name": "Talon",
+  "company": "New Mexico Junior College",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "2025 NMJC news: Talon Chatbot is now live on the college website; project began Nov 2024.",
+  "dateSource": "https://www.nmjc.edu/news/2025_talon_chatbot.aspx"
+ },
+ {
+  "name": "Ellis",
+  "company": "New York City Tourism + Conventions",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "Jan 16, 2025: NYC Tourism + Conventions announced the launch of Ellis, AI chat platform for meeting planners.",
+  "dateSource": "https://www.bizbash.com/event-production-planning/us-snl50-experience-nyc-tourism-s-new-ai-tool-for-planners-destinations-international-la-wildfire-recovery-fund-and-more"
+ },
+ {
+  "name": "Libby",
+  "company": "New York City Tourism + Conventions",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Aug. 5, 2025 PRNewswire: NYC Tourism + Conventions Launches Libby, AI travel genius powered by GuideGeek.",
+  "dateSource": "https://www.iloveny.com/thebeat/post/nyc-tourism-conventions-launches-libby-a-new-ai-travel-genius-for-visitors-powered-by-guidegeek/"
+ },
+ {
+  "name": "Alex",
+  "company": "Newfoundland Power",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "In 2025, Newfoundland Power launched 'Alex,' a 24/7 generative AI-powered virtual assistant on their website.",
+  "dateSource": "https://www.electricity.ca/programs/centre-of-excellence/powering-service-innovation/"
+ },
+ {
+  "name": "Sophia",
+  "company": "Newton",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb 6, 2025: Newton AI-powered phone platform for dentists launched; Sophia is its AI front-desk agent.",
+  "dateSource": "https://americanbazaaronline.com/2025/02/06/ai-powered-phone-platform-for-dentists-launched459188/"
+ },
+ {
+  "name": "Next AI",
+  "company": "Next plc",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ask NFL IQ",
+  "company": "NFL",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Apr 14, 2026 NFL.com: Ask NFL IQ is available now within NFL IQ at NFL.com/iq.",
+  "dateSource": "https://www.nfl.com/news/nfl-iq-introduces-new-ai-chat-experience-on-nfl-com"
+ },
+ {
+  "name": "GovGuide Nigeria",
+  "company": "Nigeria Federal Ministry of Communications, Innovation and Digital Economy",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Posted May 21, 2026: FMCIDE and Meta Launch GovGuide Nigeria, an AI-powered government services chatbot.",
+  "dateSource": "https://fmcide.gov.ng/fmcide-and-meta-launch-govguide-nigeria-an-ai-powered-government-services-chatbot/"
+ },
+ {
+  "name": "NikeAI",
+  "company": "Nike",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 2025: Nike CTO: 'Last week, we launched NikeAI Beta to all Nike App users in the U.S. (iOS)'.",
+  "dateSource": "https://www.digitalcommerce360.com/2025/10/09/how-nike-is-using-ai/"
+ },
+ {
+  "name": "NIKKEI KAI",
+  "company": "Nikkei",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Nikkei began offering generative AI service NIKKEI KAI on March 17, 2025.",
+  "dateSource": "https://aismiley.co.jp/ai_news/nikkei-shinbun-kai-ai/"
+ },
+ {
+  "name": "NOMI",
+  "company": "NIO",
+  "launched": "2018",
+  "basis": "launched",
+  "evidence": "NOMI, billed as first in-car AI system, was unveiled with the ES8 in Dec 2017; ES8 deliveries with NOMI began in 2018.",
+  "dateSource": "https://venturebeat.com/business/nio-launches-es8-suv-with-new-user-experience"
+ },
+ {
+  "name": "AutoDJ",
+  "company": "Nissan",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Nissan announced the generative-AI in-car agent system AutoDJ on October 24, 2025.",
+  "dateSource": "https://innovatopia.jp/ai/ai-news/70616/"
+ },
+ {
+  "name": "Epolo (エポロ)",
+  "company": "Nissan",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Oct 24, 2025: Nissan unveils AutoDJ agent using mascot Epolo as a dashboard figure AI agent.",
+  "dateSource": "https://www.watch.impress.co.jp/docs/news/2057675.html"
+ },
+ {
+  "name": "Navvie",
+  "company": "NJ Transit",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "News12, Sep 1, 2026: NJ Transit debuts AI chatbot Navvie on redesigned website as a pilot program.",
+  "dateSource": "https://bronx.news12.com/nj-transit-debuts-ai-powered-chatbot-website-and-upcoming-app-upgrades"
+ },
+ {
+  "name": "Mobi",
+  "company": "NMBS/SNCB (Belgian Railways)",
+  "launched": "2020",
+  "basis": "launched",
+  "evidence": "First version of Mobi, the chatbot NMBS/SNCB has used since 2020; Mobi 2.0 launched January 2026.",
+  "dateSource": "https://newmobility.news/en/2026/01/22/mobi-2-0-the-ai-chatbot-that-finally-understands-train-passengers/"
+ },
+ {
+  "name": "Welli",
+  "company": "Noom",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "Jun 27, 2024: Noom introduces Welli, an AI-powered personal health assistant; consumers can now use it.",
+  "dateSource": "https://insider.fitt.co/press-release/noom-introduces-ai-enabled-products-to-enhance-on-demand-health-care-and-interactive-coaching/"
+ },
+ {
+  "name": "Nova",
+  "company": "Nordea",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Norm",
+  "company": "Norm Ai",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Aggie",
+  "company": "North Carolina A&T State University",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "The student-centered chatbot AGGIE, launched in October 2024, sends check-ins every seven to 10 days.",
+  "dateSource": "https://ncat.edu/news/2025/06/ai-makes-major-impact-on-student-success.php"
+ },
+ {
+  "name": "Felix",
+  "company": "North Carolina Division of Employment Security",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb 21, 2025: Division of Employment Security launched 'Felix,' a new AI-powered chatbot.",
+  "dateSource": "https://www.des.nc.gov/news/press-releases/2025/02/21/filing-unemployment-insurance-gets-easier-new-online-chat-system-launches"
+ },
+ {
+  "name": "Wildcat Willie",
+  "company": "Northwest Vista College (Alamo Colleges)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sidekick",
+  "company": "Notable",
+  "launched": "2025-08",
+  "basis": "earliest mention",
+  "evidence": "Notable webinar August 21, 2025 demoed Sidekick AI assistant for prior authorization and intake.",
+  "dateSource": "https://explore.notablehealth.com/webinars/how-to-supercharge-staff-with-ai-powered-assistance-using-notable-sidekick"
+ },
+ {
+  "name": "Notion Agent",
+  "company": "Notion",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Notion release notes Sept 18, 2025 (Notion 3.0) introduce Notion Agent.",
+  "dateSource": "https://notion.com/releases/2025-09-18"
+ },
+ {
+  "name": "NNGPT",
+  "company": "Novo Nordisk",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "2024: Novo Nordisk launched an in-house GPT-based assistant (NNGPT) for employees (~17,000 users).",
+  "dateSource": "https://intuitionlabs.ai/articles/novo-nordisk-openai-partnership-pharma-ai-strategy"
+ },
+ {
+  "name": "ChatNS",
+  "company": "NS (Dutch Railways)",
+  "launched": "2024",
+  "basis": "earliest mention",
+  "evidence": "NS annual report 2024 lists ChatNS, a generative AI chatbot developed for NS, among 2024 innovations.",
+  "dateSource": "https://nsannualreport.nl/annual-report-2024/trends-developments-and-strategy/innovations"
+ },
+ {
+  "name": "tsuzumi 2",
+  "company": "NTT",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "NTT will begin providing tsuzumi 2 on October 20, 2025: 'Now Available' press release.",
+  "dateSource": "https://group.ntt/en/newsrelease/2025/10/20/251020a.html"
+ },
+ {
+  "name": "SyncMe",
+  "company": "NTT Docomo",
+  "launched": "2026-03",
+  "basis": "announced",
+  "evidence": "NTT Docomo announced AI agent service SyncMe at MWC 2026 (March); service start planned summer 2026.",
+  "dateSource": "https://www.itmedia.co.jp/mobile/spv/2603/16/news066.html"
+ },
+ {
+  "name": "Project G-Assist",
+  "company": "NVIDIA",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "March 25, 2025: Project G-Assist is available now in NVIDIA App (experimental release).",
+  "dateSource": "https://www.nvidia.com/en-us/geforce/news/g-assist-ai-companion-for-rtx-ai-pcs/"
+ },
+ {
+  "name": "Ask Nykaa",
+  "company": "Nykaa",
+  "launched": "2026-06",
+  "basis": "earliest mention",
+  "evidence": "June 2026 Nykaa-OpenAI coverage lists Ask Nykaa as an already-deployed conversational assistant.",
+  "dateSource": "https://www.mediainfoline.com/alliances/nykaa-collaborates-with-openai-to-define-the-next-era-of-ai-native-commerce-in-beauty-and-fashion"
+ },
+ {
+  "name": "OCBC Markets Watch",
+  "company": "OCBC",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "OCBC 2025 annual report: launched OCBC Markets Watch, its first AI-powered WhatsApp chatbot for corporate clients.",
+  "dateSource": "https://www.ocbc.com/group/investors/annual-reports/2025-annual-report/year-in-review/treasury-and-markets.page"
+ },
+ {
+  "name": "Arlo",
+  "company": "Octopus Energy",
+  "launched": "2026-07",
+  "basis": "earliest mention",
+  "evidence": "London, 7 July 2026: early three-month trial of Octopus's new AI assistant Arlo won customer approval.",
+  "dateSource": "https://octopus.energy/press/more-news-press-releases/octopus-energy-s-ai-trial-wins-customer-approval/"
+ },
+ {
+  "name": "Service-Wise GPT",
+  "company": "Office of the Head of the Civil Service of the Federation (Nigeria)",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "Techpoint Africa, Jan 30, 2025: Nigeria launches AI Service-Wise GPT for civil servants.",
+  "dateSource": "https://techpoint.africa/2025/01/30/nigeria-launches-ai-service-wise-gpt/"
+ },
+ {
+  "name": "Archie",
+  "company": "Ogden City (Utah)",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Citibot news list: 'Ogden City launches new AI assistant Archie' (KSL News Radio, 2/5/25).",
+  "dateSource": "https://www.citibot.io/news"
+ },
+ {
+  "name": "Taína",
+  "company": "OGTIC (Dominican Republic)",
+  "launched": "2026-07",
+  "basis": "announced",
+  "evidence": "Jul 2026: Taína, the AI assistant the Dominican state is preparing to launch in the second half of 2026.",
+  "dateSource": "https://eldia.com.do/taina-devolvera-tiempo-a-ciudadanos-con-servicios-publicos-conectados/"
+ },
+ {
+  "name": "ChatBWC",
+  "company": "Ohio Bureau of Workers' Compensation",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Eva",
+  "company": "Ohio Secretary of State",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "14 November 2025: LaRose announces his office has trained and deployed Eva, state's first AI election assistant.",
+  "dateSource": "https://highlandcountypress.com/larose-announces-today-his-office-has-trained-and-deployed-states-first-ai-powered-election"
+ },
+ {
+  "name": "Professor Turing",
+  "company": "Oklahoma City Community College",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "OCCC: 'Since launching Professor Turing in June 2024, we have had more than 3,000 conversations.'",
+  "dateSource": "https://www.kommunicate.io/videos/occc-lms-student-support-ai-chatbot"
+ },
+ {
+  "name": "SoonerGuide",
+  "company": "Oklahoma Health Care Authority",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 27, 2026 GovTech: Oklahoma Health Care Authority's new AI chatbot SoonerGuide answers Medicaid questions.",
+  "dateSource": "https://www.govtech.com/artificial-intelligence/oklahoma-launches-ai-chatbot-to-answer-medicaid-questions"
+ },
+ {
+  "name": "Hope",
+  "company": "Oklahoma Human Services",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Oliver",
+  "company": "Oliv AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Olivia",
+  "company": "Oliv AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ollie",
+  "company": "Oliver's Real Food",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Oct 2024: Oliver's CEO: 'We're thrilled to launch this Australian-first innovation' - Ollie AI drive-thru.",
+  "dateSource": "https://www.newcastleherald.com.au/story/8794797/revolutionary-ai-drive-thru-debuts-at-olivers-in-australia/"
+ },
+ {
+  "name": "OmadaSpark",
+  "company": "Omada Health",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "May 20, 2025: Omada introduces new AI agent OmadaSpark working alongside care teams.",
+  "dateSource": "https://www.omadahealth.com/resource-center/omada-introduces-nutritional-intelligence-to-transform-food-relationships-with-ai-driven-tools-and-human-care"
+ },
+ {
+  "name": "Omni Assist",
+  "company": "Omnicom Group",
+  "launched": "2023-06",
+  "basis": "announced",
+  "evidence": "June 20, 2023: Omnicom today unveiled Omni Assist, its first generative AI capability.",
+  "dateSource": "https://www.cmswire.com/the-wire/with-omni-assist-omnicom-leverages-first-mover-access-to-open-ai-to-accelerate-the-timeline-from-insights-to-outcomes/"
+ },
+ {
+  "name": "Ona",
+  "company": "Ona (formerly Gitpod; part of OpenAI)",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Sept 2025: Gitpod reinvents itself as Ona in pivot to AI software engineering agent platform.",
+  "dateSource": "https://www.theregister.com/2025/09/03/gitpod_rebrands_as_ona/"
+ },
+ {
+  "name": "Sage",
+  "company": "One Nevada Credit Union",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Yoona",
+  "company": "Oona Insurance Indonesia",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "Yoona served 3,000+ users in two months since launch (Yellow.ai dashboard from 20 September 2023); press release Dec 2023.",
+  "dateSource": "https://myoona.id/en/news-room/press-release/oona-insurance-launches-generative-ai-chatbot-enabled-by-yellow-ai/"
+ },
+ {
+  "name": "Evee",
+  "company": "Ooredoo Maldives",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "2026-06-11: Ooredoo has introduced the AI chatbot 'Ooredoo Evee' via the SuperApp.",
+  "dateSource": "https://edition.mv/business/51647"
+ },
+ {
+  "name": "Obot",
+  "company": "Ooredoo Qatar",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Obot unveiled at Web Summit Qatar Feb 2025; May 2025 release: Ooredoo unveils Obot across key customer touchpoints (app, website).",
+  "dateSource": "https://www.ooredoo.qa/web/en/press-release/ooredoo-unveils-gpt-4o-powered-ai-chatbot-obot-across-key-customer-touchpoints/"
+ },
+ {
+  "name": "ChatGPT",
+  "company": "OpenAI",
+  "launched": "2022-11",
+  "basis": "launched",
+  "evidence": "OpenAI released ChatGPT as a research preview on November 30, 2022.",
+  "dateSource": "https://openai.com/index/chatgpt/"
+ },
+ {
+  "name": "dots",
+  "company": "OpenAI",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "30 Sep 2026: OpenAI has launched 'dots', an always-on personal AI assistant.",
+  "dateSource": "https://www.aljazeera.com/economy/2026/9/30/openai-launches-dots-personal-ai-assistant-built-to-handle-everything"
+ },
+ {
+  "name": "Opera AI",
+  "company": "Opera",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 29, 2025 Opera blog: new Opera One browser AI replaces first-generation free browser AI Aria.",
+  "dateSource": "https://blogs.opera.com/news/?p=4738"
+ },
+ {
+  "name": "Opera Neon",
+  "company": "Opera",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Announced May 2025; Neon available in closed paid 'Founders' phase since Oct 2, 2025; public access Dec 2025.",
+  "dateSource": "https://alternativeto.net/news/2025/10/opera-s-new-ai-agentic-browser-neon-is-now-rolling-out-with-a-subscription-model/"
+ },
+ {
+  "name": "Xiaobu Assistant (小布助手)",
+  "company": "OPPO",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Optum Assistant",
+  "company": "Optum Rx",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "MAIA (Mon Assistant IA)",
+  "company": "Orange France",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Orange France: Mon Assistant IA launched in early December 2025.",
+  "dateSource": "https://www.orange.com/en/press-release/orange-france-launches-two-new-artificial-intelligence-services-to-enhance-customer-relations-444308"
+ },
+ {
+  "name": "Sharlie",
+  "company": "Orange France",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "17 March 2026: Orange France launches two AI services including Sharlie, voice assistant for Sosh.",
+  "dateSource": "https://www.orange.com/en/press-release/orange-france-launches-two-new-artificial-intelligence-services-to-enhance-customer-relations-444308"
+ },
+ {
+  "name": "Max",
+  "company": "Orange Polska",
+  "launched": "2018-07",
+  "basis": "launched",
+  "evidence": "Max debuted in July 2018 handling phone calls; chat a year later; GenAI smartphone advice added Oct 2024.",
+  "dateSource": "https://www.telepolis.pl/tech/aplikacje/orange-wirtualny-asystent-max-wybor-smartfonu"
+ },
+ {
+  "name": "Zebra",
+  "company": "Orange Polska (for Warsaw's ZDM)",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Sept 17, 2026: residents visiting Warsaw's ZDM can use Zebra, a virtual AI assistant from Orange.",
+  "dateSource": "https://www.telepolis.pl/wiadomosci/orange-asystent-ai-zebra-w-zarzadzie-drog-miejskich"
+ },
+ {
+  "name": "Oswell",
+  "company": "Oscar Health",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Oct 20, 2025: Oscar unveils Oswell, a personal AI agent powered by OpenAI, for 2026 plans.",
+  "dateSource": "https://www.businesswire.com/news/home/20251020430145/en/Oscar-Unveils-New-Choices-and-AI-Tools-Shaping-the-Future-of-Individual-Healthcare-for-More-Americans-and-Businesses"
+ },
+ {
+  "name": "Superagent",
+  "company": "Oscar Health",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Aug 2025: Oscar Health announced the launch of Superagent, an AI-powered assistant for members and Care Guides.",
+  "dateSource": "https://coverager.com/oscar-launches-superagent/"
+ },
+ {
+  "name": "Oscie",
+  "company": "Osceola County (Florida)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Aug 26, 2025 Around Osceola: 'Oscie' the chatbot ushers Osceola County into AI era, live on Osceola.org and app.",
+  "dateSource": "https://www.aroundosceola.com/index.php/news/oscie-chatbot-ushers-osceola-county-ai-era"
+ },
+ {
+  "name": "Clare",
+  "company": "OSF HealthCare",
+  "launched": "2019-12",
+  "basis": "launched",
+  "evidence": "OSF first implemented GYANT's digital front door virtual assistant Clare in December 2019.",
+  "dateSource": "https://www.businesswire.com/news/home/20200317005136/en/GYANT-Introduces-COVID-19-Emergency-Response-Assistant-OSF"
+ },
+ {
+  "name": "Oto",
+  "company": "Otonomus Hotel",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Fox5 Sept 16, 2025: Meet Oto, humanoid robot concierge at Otonomus Hotel Las Vegas.",
+  "dateSource": "https://www.fox5vegas.com/2025/09/16/meet-oto-is-this-humanoid-robot-future-hospitality-las-vegas"
+ },
+ {
+  "name": "Otto",
+  "company": "Otto",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Dec 4, 2025: Otto The Agent launches publicly after nine-month closed beta.",
+  "dateSource": "https://www.businesswire.com/news/home/20251204074992/en"
+ },
+ {
+  "name": "Otto",
+  "company": "Otto Finance",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Oura Advisor",
+  "company": "Oura",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Mar 31, 2025 Oura blog: Introducing Oura Advisor, AI-powered personal health companion.",
+  "dateSource": "https://ouraring.com/blog/oura-advisor/"
+ },
+ {
+  "name": "Vera",
+  "company": "Pacífico Seguros",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Alba",
+  "company": "Paige AI",
+  "launched": "2024-09",
+  "basis": "announced",
+  "evidence": "Sept 5, 2024: Paige unveils Alba, AI clinical-grade co-pilot for pathology (research use only).",
+  "dateSource": "https://www.paige.ai/press-releases/paige-unveils-alba"
+ },
+ {
+  "name": "Paige",
+  "company": "Paige AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AIP Assist",
+  "company": "Palantir Technologies",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Cortex AgentiX",
+  "company": "Palo Alto Networks",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 28, 2025: Palo Alto Networks unveils Cortex AgentiX, available today in Cortex Cloud and XSIAM.",
+  "dateSource": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-unveils-cortex-agentix-build-deploy-and"
+ },
+ {
+  "name": "ConnectAI",
+  "company": "Panasonic Connect (Panasonic Group)",
+  "launched": "2023-06",
+  "basis": "launched",
+  "evidence": "Panasonic Connect reported ConnectAI usage June 2023-May 2024 for its ~12,400 Japan employees.",
+  "dateSource": "https://aismiley.co.jp/ai_news/panasonic-connect-co-ltd-connectai-news/"
+ },
+ {
+  "name": "Clara",
+  "company": "Pandora",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Gemma",
+  "company": "Pandora",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "SF Ben: Pandora's Gemma personal shopper agent went live in September 2025 in Australia.",
+  "dateSource": "https://www.salesforceben.com/are-agentforce-agents-as-powerful-as-salesforce-claims/"
+ },
+ {
+  "name": "Lou AI",
+  "company": "Papa Johns",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Apr 28, 2026: Papa Johns unleashes Lou AI, next-generation AI-powered pizza assistant.",
+  "dateSource": "https://www.pmq.com/pizza-giant-unleashes-next-generation-ai-powered-pizza-assistant/"
+ },
+ {
+  "name": "CoDriver",
+  "company": "Parade",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Olivia",
+  "company": "Paradox (Workday)",
+  "launched": "2016",
+  "basis": "launched",
+  "evidence": "Paradox launched in late 2016 with Olivia, its AI recruiting assistant, as its first product.",
+  "dateSource": "https://ventures.workday.com/en-us/partner-companies/paradox.html"
+ }
+]

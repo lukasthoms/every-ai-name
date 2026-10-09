@@ -1,0 +1,482 @@
+[
+ {
+  "name": "Hey Jio",
+  "company": "Reliance Jio",
+  "launched": "2026-06",
+  "basis": "announced",
+  "evidence": "Hey Jio feature of Jio Call Agent announced at Reliance's 49th AGM on June 19, 2026; rollout later in 2026.",
+  "dateSource": "https://www.businesstoday.in/amp/technology/artificial-intelligence/story/jio-call-agent-to-bring-ai-assistant-into-phone-calls-for-over-500-million-users-538095-2026-06-19"
+ },
+ {
+  "name": "Mark",
+  "company": "reMarkable",
+  "launched": "2025-07",
+  "basis": "earliest mention",
+  "evidence": "Salesforce story July 1, 2025: reMarkable launched 'Mark,' an Agentforce-powered virtual agent, handling over 25,000 conversations.",
+  "dateSource": "https://www.salesforce.com/news/stories/remarkable-agentforce-slack-scale-customer-service-it"
+ },
+ {
+  "name": "Saga",
+  "company": "reMarkable",
+  "launched": "2025-07",
+  "basis": "earliest mention",
+  "evidence": "Salesforce story July 1, 2025: company also launched 'Saga,' an internal IT help desk agent powered by Agentforce in Slack.",
+  "dateSource": "https://www.salesforce.com/news/stories/remarkable-agentforce-slack-scale-customer-service-it"
+ },
+ {
+  "name": "Remy",
+  "company": "RemoteLock",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Reno",
+  "company": "Renault",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "Reno avatar shown at 2022 Paris Motor Show; Reno companion app launched in France March 17, 2023.",
+  "dateSource": "https://www.automotiveworld.com/news/the-official-renault-avatar-reno-is-coming-to-an-app/"
+ },
+ {
+  "name": "Millie",
+  "company": "Renfrewshire Council",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "Since its launch in November 2024, Millie has handled over 240,000 customer calls.",
+  "dateSource": "https://www.renfrewshire.gov.uk/news/2025/renfrewshire-councils-digital-advisor-millie-wins-innovation-award"
+ },
+ {
+  "name": "RENATA",
+  "company": "RENIEC (Peru)",
+  "launched": "2024-10",
+  "basis": "earliest mention",
+  "evidence": "El Comercio article 19/10/2024 explains how RENATA, RENIEC's virtual assistant, works.",
+  "dateSource": "https://elcomercio.pe/respuestas/tramites/asi-funciona-renata-la-asistente-virtual-de-reniec-que-te-"
+ },
+ {
+  "name": "Replit Agent",
+  "company": "Replit",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "Replit Agent released in early access to Replit Core subscribers on September 5, 2024.",
+  "dateSource": "https://www.gigazine.net/gsc_news/en/20240909-replit-agent"
+ },
+ {
+  "name": "Jason AI",
+  "company": "Reply.io",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Dawn",
+  "company": "ResMed",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "ResMed press release Sept 30, 2024 unveils Dawn, a generative AI sleep health concierge.",
+  "dateSource": "https://investor.resmed.com/news-events/press-releases/detail/387/"
+ },
+ {
+  "name": "GIVA",
+  "company": "Resorts World Genting (Genting Malaysia)",
+  "launched": "2020",
+  "basis": "launched",
+  "evidence": "GIVA launched in 2020 as a traditional intent-based chatbot, later upgraded to GenAI on Qwen.",
+  "dateSource": "https://www.thestar.com.my/starpicks/2026/09/30/peak-convenience-inside-resorts-world-genting-connec"
+ },
+ {
+  "name": "AIR (AI by Revolut)",
+  "company": "Revolut",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Revolut launched AIR, its in-app AI assistant, in the UK on 9 April 2026.",
+  "dateSource": "https://www.uktech.news/ai/revolut-launches-in-app-ai-assistant-20260409"
+ },
+ {
+  "name": "Emma",
+  "company": "Revrag.ai",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "Sept. 3, 2024: Revrag.ai unveils its first AI sales agent, Emma.",
+  "dateSource": "https://www.newswire.ca/news-releases/revrag-ai-unveils-its-first-ai-sales-agent-emma-a-game-changer"
+ },
+ {
+  "name": "Bonnie",
+  "company": "Ribbon",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Maya",
+  "company": "Ridecell",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ray",
+  "company": "Rituals",
+  "launched": "2026-07",
+  "basis": "earliest mention",
+  "evidence": "Decagon case study (July 2026): Rituals launched Ray, its AI concierge, across 19 countries and 15 languages.",
+  "dateSource": "https://decagon.ai/case-studies/rituals"
+ },
+ {
+  "name": "Rivian Assistant",
+  "company": "Rivian",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "12 May 2026: Rivian has started rolling out the Rivian Assistant.",
+  "dateSource": "https://www.arenaev.com/rivian_assistant_starts_rolling_out_with_the_ability_to_control_every_aspect"
+ },
+ {
+  "name": "Sophia",
+  "company": "Riviera",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "ARC",
+  "company": "Robert Half",
+  "launched": "2024-03",
+  "basis": "earliest mention",
+  "evidence": "Robert Half named 2024 CIO 100 winner (March 18, 2024) for AI Recommended Client (ARC) tool.",
+  "dateSource": "https://press.roberthalf.com/2024-03-18-Robert-Half-Named-a-2024-CIO-100-Winner-for-Advancements-in-"
+ },
+ {
+  "name": "Robin",
+  "company": "Robin AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Cortex",
+  "company": "Robinhood",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Robinhood launched Robinhood Cortex on Wednesday (March 26, 2025), with early access.",
+  "dateSource": "https://www.benzinga.com/25/03/44530226/robinhood-launches-ai-investment-tool-cortex-to-expand-marke"
+ },
+ {
+  "name": "Roblox Assistant",
+  "company": "Roblox",
+  "launched": "2023-09",
+  "basis": "announced",
+  "evidence": "Roblox announced Roblox Assistant at RDC, September 2023.",
+  "dateSource": "https://about.roblox.com/newsroom/2023/09/revolutionizing-creation-roblox"
+ },
+ {
+  "name": "Rosie",
+  "company": "Rosebud AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Kommune-Kiri",
+  "company": "Roskilde Kommune and other Danish municipalities",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Atlas",
+  "company": "Royal Air Maroc",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "Le Matin 12 April 2025: Royal Air Maroc annonce le lancement de 'Atlas' in the RAM Assistant app.",
+  "dateSource": "https://lematin.ma/economie/royal-air-maroc-devoile-son-assistant-ia-atlas/272598/amp"
+ },
+ {
+  "name": "Val",
+  "company": "Royal Credit Union",
+  "launched": "2020-06",
+  "basis": "launched",
+  "evidence": "Val officially went live on Royal Credit Union's website in June 2020.",
+  "dateSource": "https://creditunions.com/?p=58530"
+ },
+ {
+  "name": "Ryt AI",
+  "company": "Ryt Bank (YTL & Sea)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Ryt Bank, Malaysia's first AI-powered bank with Ryt AI assistant, unveiled August 2025.",
+  "dateSource": "https://fintech.global/2025/08/27/malaysia-unveils-ryt-bank-first-ai-powered-bank/"
+ },
+ {
+  "name": "ChatIQ",
+  "company": "S&P Global",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "Nov. 12, 2024: S&P Global announced launch of ChatIQ in S&P Capital IQ Pro.",
+  "dateSource": "https://press.spglobal.com/2024-11-12-S-P-Global-Transforms-S-P-Capital-IQ-Pro-Experience-with-the-L"
+ },
+ {
+  "name": "CreditCompanion",
+  "company": "S&P Global",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "May 22, 2025: S&P Global has launched CreditCompanion chatbot on S&P Capital IQ Pro.",
+  "dateSource": "https://www.fi-desk.com/?p=24394"
+ },
+ {
+  "name": "Spark Assist",
+  "company": "S&P Global",
+  "launched": "2024",
+  "basis": "earliest mention",
+  "evidence": "S&P Global 2024 impact report: provided employees internal GenAI platforms Spark Assist and Spark AIR.",
+  "dateSource": "https://www.spglobal.com/en/who-we-are/corporate-responsibility/impact-report/material-topics/talent-attraction-and-development"
+ },
+ {
+  "name": "Aulis",
+  "company": "S-Bank (S-Pankki)",
+  "launched": "2021",
+  "basis": "earliest mention",
+  "evidence": "Aulis chatbot's technology changed in 2021 to boost.ai platform from Front AI, so it existed by 2021.",
+  "dateSource": "https://front.ai/how-s-banks-chatbot-serves-customers-faster-whilst-maximizing-employee-potential/"
+ },
+ {
+  "name": "Zuri",
+  "company": "Safaricom",
+  "launched": "2021-11",
+  "basis": "launched",
+  "evidence": "Nov 9, 2021: Safaricom has introduced Zuri, an AI chatbot assistant on Telegram and Facebook Messenger.",
+  "dateSource": "https://safaricom.co.ke/media-center-landing/press-releases/safaricom-introduces-interactive-custome"
+ },
+ {
+  "name": "Sage Copilot",
+  "company": "Sage",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Sage said Jan 27, 2025 that Sage Copilot becomes generally available to UK SMBs in March 2025 (announced Feb 2024).",
+  "dateSource": "https://www.sage.com/en-gb/company/digital-newsroom/2025/01/27/sage-introduces-sage-copilot-to-its-small-business-suite/"
+ },
+ {
+  "name": "Spark the Orange Frog",
+  "company": "Saginaw Intermediate School District (Michigan)",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 7, 2025 media release: Saginaw ISD welcomes Spark the Orange Frog with launch of AlwaysOn AI chatbot.",
+  "dateSource": "https://www.sisd.cc/article/2470002"
+ },
+ {
+  "name": "Tenjin GPT",
+  "company": "SAIC",
+  "launched": "2024-05",
+  "basis": "launched",
+  "evidence": "May 30, 2024: SAIC announced the launch of Tenjin GPT, internal generative AI resource for employees.",
+  "dateSource": "https://stocktitan.net/news/SAIC/saic-employees-embrace-generative-ai-with-the-launch-of-tenjin-36wv"
+ },
+ {
+  "name": "Sakana Chat",
+  "company": "Sakana AI",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "Sakana AI released four products, starting with Sakana Chat in March 2026.",
+  "dateSource": "https://sakana.ai/product-development-interview/"
+ },
+ {
+  "name": "Sakana Marlin",
+  "company": "Sakana AI",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Sakana Marlin closed beta April 2026; officially offered from June 15, 2026.",
+  "dateSource": "https://www.issoh.co.jp/tech/details/12543/"
+ },
+ {
+  "name": "Sophie",
+  "company": "Saks Fifth Avenue (Saks Global)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "On August 8, Saks officially launched Sophie, an AI voice and text assistant built with NLX and AWS.",
+  "dateSource": "https://www.mind.eu.com/retail/en/article/customer-service-with-ai-saks-reduces-calls-requiring-huma"
+ },
+ {
+  "name": "Agent Frank",
+  "company": "Salesforge",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sal (Ask Sal)",
+  "company": "Saline County",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "Saline Journal 4/7/25: AI chatbot now ready to help answer questions from Saline County residents.",
+  "dateSource": "https://www.citibot.io/news"
+ },
+ {
+  "name": "code.i",
+  "company": "Samsung Electronics",
+  "launched": "2023-12",
+  "basis": "launched",
+  "evidence": "Samsung SDC24 release: since its launch last December (2023), monthly usage of code.i has quadrupled.",
+  "dateSource": "https://www.koreajoongangdaily.com/business/samsung-electronics-to-adopt-ai-coding-assistant-to-boost-developer-productivity/12044851"
+ },
+ {
+  "name": "Samsung Gauss Portal",
+  "company": "Samsung Electronics",
+  "launched": "2024-11",
+  "basis": "earliest mention",
+  "evidence": "Nov 2024 Gauss2 unveiling: Gauss2 will improve Q&A of the Samsung Gauss Portal for DX Division employees.",
+  "dateSource": "https://hcamag.com/asia/specialisation/hr-technology/samsung-gauss2-company-unveils-new-genai-model-"
+ },
+ {
+  "name": "Sourdough Sam AI",
+  "company": "San Francisco 49ers",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Fox Sports 12 Apr 2026: San Francisco 49ers lanzan nueva app apoyada con Inteligencia Artificial.",
+  "dateSource": "https://www.foxsports.com.mx/2026/04/12/innovando-los-san-francisco-49ers-lanzan-nueva-app-apoyada-c"
+ },
+ {
+  "name": "Quakebot",
+  "company": "San Jose Earthquakes",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "Earthquakes and Theta Labs announce launch of Quakebot, available on team website starting with 2025 MLS season.",
+  "dateSource": "https://www.sjearthquakes.com/news/news-san-jose-earthquakes-to-launch-ai-chatbot-powered-by-theta-e"
+ },
+ {
+  "name": "plai",
+  "company": "Sanofi",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "PharmaVoice Dec 2023: Sanofi rolled out its own AI app, plai, earlier this year.",
+  "dateSource": "https://www.pharmavoice.com/news/pharma-ai-investment-pfizer-sanofi-novartis/702882/"
+ },
+ {
+  "name": "Pitchmaker",
+  "company": "Santander Brasil",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "Baguete 5 June 2025: new tool developed during 2024 is already available to Santander investment advisors.",
+  "dateSource": "https://www.baguete.com.br/noticias/santander-desenvolve-assistente-com-aws"
+ },
+ {
+  "name": "Joule",
+  "company": "SAP",
+  "launched": "2023-11",
+  "basis": "launched",
+  "evidence": "Joule unveiled Sept 26, 2023; first released for SAP SuccessFactors in November 2023.",
+  "dateSource": "https://blog.sap-press.com/what-is-sap-joule"
+ },
+ {
+  "name": "Nusuk AI",
+  "company": "Saudi Ministry of Hajj and Umrah",
+  "launched": "2025-06",
+  "basis": "earliest mention",
+  "evidence": "June 2025 coverage: Nusuk AI among 30+ new Nusuk app services added for that year's Hajj.",
+  "dateSource": "https://haj.gov.sa/en/Media-Center/Ministry-News/The-Ministry-of-Hajj-and-Umrah-Showcases-Its-Technological-Solutions-in-Serving-the-Guests-of-Allah"
+ },
+ {
+  "name": "Sara",
+  "company": "Saudi Tourism Authority",
+  "launched": "2024-11",
+  "basis": "launched",
+  "evidence": "Nov 2024: Saudi Tourism Authority introduces Sara, the Kingdom's AI tour guide.",
+  "dateSource": "https://www.listmag.com/en/travel-stay/luxury-travel/saudi-tourism-authority-introduces-sara-the-kin"
+ },
+ {
+  "name": "Sophia",
+  "company": "Savista",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "June 26, 2024: Savista has launched a patient-facing conversational AI voice agent named Sophia.",
+  "dateSource": "https://www.savistarcm.com/savista-launches-new-ai-digital-agent/"
+ },
+ {
+  "name": "Crystal intelligence",
+  "company": "SB OAI Japan (SoftBank Group and OpenAI)",
+  "launched": "2025-02",
+  "basis": "announced",
+  "evidence": "SoftBank and OpenAI announced 'Cristal intelligence' Feb 2025; SB OAI Japan to offer it in 2026.",
+  "dateSource": "https://businessnetwork.jp/article/31194/"
+ },
+ {
+  "name": "Bob",
+  "company": "SBA Communications",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Athena",
+  "company": "Sber",
+  "launched": "2020-09",
+  "basis": "launched",
+  "evidence": "Sber launched Salute assistant family (Sber, Athena, Joy) on Sept 24, 2020.",
+  "dateSource": "https://rg.ru/2020/09/24/sber-predstavil-smart-devajsy-i-semiu-assistentov-saliut.html"
+ },
+ {
+  "name": "GigaChat",
+  "company": "Sber",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "GigaChat closed testing April 2023; Sber opened GigaChat to all users on September 5, 2023.",
+  "dateSource": "https://en.wikipedia.org/wiki/GigaChat"
+ },
+ {
+  "name": "Joy",
+  "company": "Sber",
+  "launched": "2020-09",
+  "basis": "launched",
+  "evidence": "Sber launched Salute assistant family (Sber, Athena, Joy) on Sept 24, 2020.",
+  "dateSource": "https://rg.ru/2020/09/24/sber-predstavil-smart-devajsy-i-semiu-assistentov-saliut.html"
+ },
+ {
+  "name": "ILA",
+  "company": "SBI Card",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Typhoon",
+  "company": "SCBX Group",
+  "launched": "2024-01",
+  "basis": "launched",
+  "evidence": "SCB 10X unveiled Typhoon Thai LLM in January 2024 (tech report Dec 2023); 7B model free to download.",
+  "dateSource": "https://www.scb.co.th/en/about-us/news/jan-2024/scb-10x-typhoon"
+ },
+ {
+  "name": "Dot",
+  "company": "SchoolAI",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "July 2025: SchoolAI unveiled major platform update; at its core is Dot, an AI teaching assistant.",
+  "dateSource": "https://www.techbuzznews.com/schoolai-unveils-groundbreaking-ai-native-platform-update-expanding-per"
+ },
+ {
+  "name": "Scotia Navigator",
+  "company": "Scotiabank",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Fintech.ca April 14, 2026: Scotiabank launches enterprise AI solution Scotia Navigator for employees.",
+  "dateSource": "https://www.fintech.ca/2026/04/14/scotiabank-launches-enterprise-ai-solution-employee-work/"
+ },
+ {
+  "name": "Sawt IA",
+  "company": "Sensei Prod (Morocco)",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Le Matin 28 Nov 2025: Casablanca hosted the launch of 'Sawt IA' by Sensei Prod.",
+  "dateSource": "https://lematin.ma/economie/sawt-ia-lassistant-vocal-marocain-en-darija-et-ia/316133/amp"
+ }
+]

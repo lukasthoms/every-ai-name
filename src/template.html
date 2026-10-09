@@ -1,0 +1,615 @@
+<title>Hello, My Name Is AI</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Instrument+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: a wall of "HELLO my name is" stickers, filter bar on top, summary chips before detail */
+:root {
+  --bg: #e9ecf1;
+  --wall: #dfe3ea;
+  --tag: #ffffff;
+  --fg: #1b1f27;
+  --muted: #5d6573;
+  --line: #cfd5de;
+  --red: #d42a35;
+  --red-ink: #ffffff;
+  --chip: #ffffff;
+  --chip-on: #1b1f27;
+  --chip-on-fg: #ffffff;
+  --marker: #1a2a6c;
+  --ind: #4a3aa7; --fem: #eb6834; --masc: #2a78d6; --neu: #898781; --on-fem: #1b1f27; --on-masc: #ffffff; --on-neu: #ffffff;
+  --shadow: 0 1px 0 rgba(20,30,50,.06), 0 6px 18px -8px rgba(20,30,50,.25);
+  --f-display: "Permanent Marker", "Marker Felt", "Comic Sans MS", cursive;
+  --f-body: "Instrument Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --f-mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #14171d; --wall: #191d24; --tag: #20252e; --fg: #ebeef3; --muted: #9aa3b2; --line: #313844;
+    --red: #e0424c; --red-ink: #ffffff; --chip: #20252e; --chip-on: #ebeef3; --chip-on-fg: #14171d;
+    --marker: #b9c8ff; --shadow: 0 6px 18px -8px rgba(0,0,0,.6); color-scheme: dark;
+    --ind: #9085e9; --fem: #d95926; --masc: #3987e5; --neu: #6f6e69; --on-fem: #ffffff; --on-masc: #ffffff; --on-neu: #ffffff;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #14171d; --wall: #191d24; --tag: #20252e; --fg: #ebeef3; --muted: #9aa3b2; --line: #313844;
+  --red: #e0424c; --red-ink: #ffffff; --chip: #20252e; --chip-on: #ebeef3; --chip-on-fg: #14171d;
+  --marker: #b9c8ff; --shadow: 0 6px 18px -8px rgba(0,0,0,.6); color-scheme: dark;
+  --ind: #9085e9; --fem: #d95926; --masc: #3987e5; --neu: #6f6e69; --on-fem: #ffffff; --on-masc: #ffffff; --on-neu: #ffffff;
+}
+* { box-sizing: border-box; }
+body { background: var(--bg); color: var(--fg); font-family: var(--f-body); font-size: 15px; line-height: 1.5; }
+.wrap { max-width: 1240px; margin: 0 auto; padding-inline: 20px; padding-block: 40px 64px; }
+header.hero { display: grid; gap: 14px; margin-bottom: 28px; }
+/* Centered: name tag, byline and quote; the "why" note and stats line stay left-aligned */
+.hero-tag, .hero .byline, .hero p.lede { justify-self: center; text-align: center; }
+.hero-tag { display: inline-grid; width: fit-content; max-width: 100%; background: var(--tag); border-radius: 14px; box-shadow: var(--shadow); overflow: hidden; transform: rotate(-1.5deg); }
+.hero-tag .band { background: var(--red); color: var(--red-ink); padding: 10px 26px 8px; text-align: center; }
+.hero-tag .band b { display: block; font-size: clamp(30px, 6vw, 52px); font-weight: 700; letter-spacing: .06em; line-height: 1; }
+.hero-tag .band span { font-size: 13px; letter-spacing: .18em; text-transform: uppercase; font-weight: 600; }
+.hero-tag .write { padding: 16px 26px 20px; font-family: var(--f-display); color: var(--marker); font-size: clamp(34px, 7vw, 64px); line-height: 1.05; text-align: center; min-width: min(420px, 80vw); }
+.byline { margin: 4px 0 0; font-size: 14px; color: var(--muted); }
+.byline a { color: var(--marker); font-weight: 600; text-decoration: underline; text-underline-offset: 2px; }
+.byline a:hover { color: var(--red); }
+.why-btns { display: flex; flex-wrap: wrap; gap: 4px 18px; }
+.why-btns button { font: inherit; font-size: 14px; font-weight: 600; color: var(--marker); background: none; border: 0; padding: 2px 0; cursor: pointer; }
+.why-btns button::before { content: "▸"; display: inline-block; margin-right: .35em; transition: transform .15s ease; }
+.why-btns button[aria-expanded="true"]::before { transform: rotate(90deg); }
+.why p { margin: 6px 0 0; color: var(--muted); max-width: 62ch; }
+.hero p.lede { font-style: italic; max-width: 62ch; color: var(--muted); font-size: 16px; margin: 6px 0 0; text-wrap: pretty; }
+.stats { display: flex; flex-wrap: wrap; gap: 8px 22px; font-family: var(--f-mono); font-size: 12.5px; color: var(--muted); text-transform: uppercase; letter-spacing: .06em; }
+.stats strong { color: var(--fg); font-variant-numeric: tabular-nums; }
+
+.controls { position: sticky; top: env(safe-area-inset-top, 0px); z-index: 5; background: var(--bg); padding-block: 12px; display: grid; gap: 10px; border-bottom: 1px solid var(--line); margin-bottom: 18px; }
+.row { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+#q { flex: 1 1 260px; min-width: 0; font: inherit; font-size: 16px; padding: 10px 14px; border-radius: 10px; border: 1px solid var(--line); background: var(--tag); color: var(--fg); }
+#q:focus-visible, select:focus-visible, button:focus-visible { outline: 2px solid var(--red); outline-offset: 2px; }
+select { font: inherit; padding: 9px 10px; border-radius: 10px; border: 1px solid var(--line); background: var(--tag); color: var(--fg); max-width: 100%; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 10px; overflow: hidden; background: var(--chip); }
+.seg button { font: inherit; font-size: 14px; border: 0; background: transparent; color: var(--fg); padding: 9px 12px; cursor: pointer; }
+.seg button[aria-pressed="true"] { background: var(--chip-on); color: var(--chip-on-fg); }
+.count { font-family: var(--f-mono); font-size: 12.5px; color: var(--muted); letter-spacing: .04em; margin-left: auto; }
+
+.popular { display: grid; gap: 8px; margin-bottom: 22px; }
+.label { font-family: var(--f-mono); font-size: 11.5px; text-transform: uppercase; letter-spacing: .1em; color: var(--muted); }
+.chips { display: flex; flex-wrap: wrap; gap: 6px; }
+.chips button { font: inherit; font-size: 13.5px; border: 1px solid var(--line); background: var(--chip); color: var(--fg); padding: 4px 10px; border-radius: 999px; cursor: pointer; }
+.chips button:hover { border-color: var(--red); }
+.chips button[aria-pressed="true"] { background: var(--chip-on); color: var(--chip-on-fg); border-color: var(--chip-on); }
+.chips button[aria-pressed="true"] em { color: inherit; }
+.chips button em { font-style: normal; color: var(--muted); font-family: var(--f-mono); font-size: 11.5px; margin-left: 4px; }
+
+.grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(250px, 1fr)); gap: 18px; }
+.sr-only { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+.tag { content-visibility: auto; contain-intrinsic-size: auto 280px; background: var(--tag); border-radius: 12px; box-shadow: var(--shadow); overflow: hidden; display: flex; flex-direction: column; min-width: 0; }
+.tag:nth-child(3n+1) { transform: rotate(-.4deg); }
+.tag:nth-child(3n+2) { transform: rotate(.35deg); }
+.tag .band { background: var(--red); color: var(--red-ink); text-align: center; padding: 6px 10px 4px; line-height: 1.1; }
+.tag .band b { font-size: 17px; letter-spacing: .1em; }
+.tag .band span { display: block; font-size: 9.5px; letter-spacing: .2em; text-transform: uppercase; font-weight: 600; }
+.tag .name { font-family: var(--f-display); color: var(--marker); font-size: 30px; line-height: 1.1; text-align: center; padding: 14px 12px 10px; overflow-wrap: anywhere; text-wrap: balance; }
+.tag .body { padding: 0 16px 14px; display: grid; gap: 6px; flex: 1; align-content: start; border-top: 1px dashed var(--line); padding-top: 12px; }
+.tag .co { font-weight: 700; font-size: 15px; }
+.tag .proj { color: var(--muted); font-weight: 500; }
+.tag .use { font-size: 14px; color: var(--fg); margin: 0; text-wrap: pretty; }
+.tag .meta { display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; margin-top: 4px; padding: 0 16px 14px; }
+.pill { font-family: var(--f-mono); font-size: 10.5px; text-transform: uppercase; letter-spacing: .06em; border: 1px solid var(--line); color: var(--muted); padding: 2px 7px; border-radius: 999px; }
+.pill.human { border-color: var(--red); color: var(--red); }
+.pill.list { border-color: var(--marker); color: var(--marker); }
+.tag a.src { font-size: 12.5px; color: var(--muted); margin-left: auto; text-decoration: underline; text-underline-offset: 2px; }
+.tag a.src:hover { color: var(--red); }
+.empty { padding: 40px 0; color: var(--muted); text-align: center; }
+footer { margin-top: 40px; color: var(--muted); font-size: 13px; max-width: 70ch; }
+@media (max-width: 520px) { .wrap { padding-inline: 16px; padding-block: 24px 48px; } .count { margin-left: 0; width: 100%; } }
+
+/* Gender chart: 100% stacked bars, headline bar then one row per industry */
+.gender { background: var(--tag); border-radius: 14px; box-shadow: var(--shadow); padding: 20px 20px 16px; margin-bottom: 26px; display: grid; gap: 14px; }
+.g-head { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; justify-content: space-between; }
+.g-head h2 { margin: 0; font-family: var(--f-display); color: var(--marker); font-weight: 400; font-size: clamp(24px, 4vw, 32px); line-height: 1.1; }
+.about .g-sub { margin-top: 6px; font-size: 14px; }
+.g-sub { margin: 0; color: var(--muted); max-width: 70ch; text-wrap: pretty; }
+.g-legend { display: flex; flex-wrap: wrap; gap: 6px 18px; font-size: 13.5px; color: var(--fg); }
+.g-legend span { display: inline-flex; align-items: center; gap: 6px; }
+.g-legend i { width: 12px; height: 12px; border-radius: 3px; display: inline-block; }
+.g-bar { display: flex; gap: 2px; width: 100%; }
+.g-bar button { border: 0; padding: 0 4px; margin: 0; min-width: 0; height: 100%; cursor: pointer; font: inherit; display: flex; align-items: center; justify-content: center; overflow: hidden; white-space: nowrap; }
+.g-bar button:first-child { border-radius: 4px 0 0 4px; }
+.g-bar button:last-child { border-radius: 0 4px 4px 0; }
+.g-bar button:only-child { border-radius: 4px; }
+.g-bar button:hover, .g-bar button:focus-visible { filter: brightness(1.08); outline: 2px solid var(--fg); outline-offset: 1px; position: relative; z-index: 1; }
+.g-bar .fem { background: var(--fem); color: var(--on-fem); }
+.g-bar .masc { background: var(--masc); color: var(--on-masc); }
+.g-bar .neu { background: var(--neu); color: var(--on-neu); }
+.g-total .g-bar { height: 44px; font-weight: 600; font-size: 14px; }
+.g-rows { display: grid; gap: 6px; }
+.g-row { display: grid; grid-template-columns: minmax(150px, 210px) 1fr 44px; gap: 10px; align-items: center; }
+.g-row .lbl { font-size: 13.5px; color: var(--fg); overflow-wrap: anywhere; }
+.g-row .n { font-family: var(--f-mono); font-size: 11.5px; color: var(--muted); text-align: right; font-variant-numeric: tabular-nums; }
+.g-row .g-bar { height: 18px; font-size: 11px; font-weight: 600; }
+.g-tip { position: fixed; z-index: 20; pointer-events: none; background: var(--fg); color: var(--bg); padding: 8px 10px; border-radius: 8px; font-size: 13px; max-width: 280px; box-shadow: var(--shadow); line-height: 1.4; }
+.g-tip b { display: block; }
+.g-scroll { overflow-x: auto; }
+.gender details summary, .share details summary, .trend details summary { cursor: pointer; color: var(--muted); font-size: 13px; }
+.gender table, .share table { border-collapse: collapse; font-size: 13px; margin-top: 8px; width: 100%; }
+.gender th, .gender td, .share th, .share td { text-align: left; padding: 4px 8px; border-bottom: 1px solid var(--line); font-variant-numeric: tabular-nums; }
+.gender td.num, .gender th.num, .share td.num, .share th.num { text-align: right; }
+@media (max-width: 520px) { .g-row { grid-template-columns: 1fr 40px; } .g-row .lbl { grid-column: 1 / -1; } .gender { padding: 16px 14px; } }
+
+/* Industry share: one sorted bar per industry, value at the bar tip */
+.share { background: var(--tag); border-radius: 14px; box-shadow: var(--shadow); padding: 20px 20px 16px; margin-bottom: 26px; display: grid; gap: 14px; }
+.share h2 { margin: 0; font-family: var(--f-display); color: var(--marker); font-weight: 400; font-size: clamp(24px, 4vw, 32px); line-height: 1.1; }
+.s-rows { display: grid; gap: 4px; }
+.s-row { display: grid; grid-template-columns: minmax(150px, 210px) 1fr; gap: 10px; align-items: center; border: 0; background: transparent; padding: 3px 0; font: inherit; color: inherit; text-align: left; cursor: pointer; border-radius: 6px; }
+.s-row:hover .s-fill, .s-row:focus-visible .s-fill { filter: brightness(1.12); }
+.s-row:focus-visible { outline: 2px solid var(--fg); outline-offset: 2px; }
+.s-row .lbl { font-size: 13.5px; overflow-wrap: anywhere; }
+.s-track { display: flex; align-items: center; gap: 8px; min-width: 0; }
+.s-fill { height: 18px; background: var(--ind); border-radius: 0 4px 4px 0; flex: none; }
+.s-val { font-family: var(--f-mono); font-size: 11.5px; color: var(--muted); white-space: nowrap; font-variant-numeric: tabular-nums; }
+.s-val b { color: var(--fg); font-weight: 600; }
+@media (max-width: 520px) { .s-row { grid-template-columns: 1fr; gap: 2px; } .share { padding: 16px 14px; } }
+
+/* Launch trend: one violet column per month, gridlines behind, January ticks carry the year */
+.trend { background: var(--tag); border-radius: 14px; box-shadow: var(--shadow); padding: 20px 20px 16px; margin-bottom: 26px; display: grid; gap: 14px; }
+.trend h2 { margin: 0; font-family: var(--f-display); color: var(--marker); font-weight: 400; font-size: clamp(24px, 4vw, 32px); line-height: 1.1; }
+.t-ctl { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; }
+.t-scroll { overflow-x: auto; padding-top: 8px; }
+.t-wrap { display: grid; grid-template-columns: 28px 1fr; gap: 6px; min-width: var(--t-min, 0); }
+.t-y { position: sticky; left: 0; z-index: 2; background: var(--tag); height: 220px; font-family: var(--f-mono); font-size: 11px; color: var(--muted); }
+.t-y span { position: absolute; right: 0; transform: translateY(50%); font-variant-numeric: tabular-nums; }
+.t-plot { position: relative; height: 220px; }
+.t-grid { position: absolute; left: 0; right: 0; border-top: 1px solid var(--line); }
+.t-bars { position: absolute; inset: 0; display: flex; align-items: flex-end; gap: var(--t-gap, 2px); border-bottom: 1px solid var(--muted); }
+.t-bars button { flex: 1 1 0; min-width: 0; border: 0; padding: 0; background: var(--ind); border-radius: 3px 3px 0 0; cursor: default; }
+.t-bars button.partial { opacity: .45; }
+.t-bars button:hover, .t-bars button:focus-visible { filter: brightness(1.15); outline: 2px solid var(--fg); outline-offset: 1px; position: relative; z-index: 1; }
+.t-x { display: flex; gap: var(--t-gap, 2px); grid-column: 2; font-family: var(--f-mono); font-size: 11px; color: var(--muted); height: 16px; }
+.t-x span { flex: 1 1 0; min-width: 0; white-space: nowrap; overflow: visible; }
+@media (max-width: 520px) { .trend { padding: 16px 14px; } .t-y, .t-plot { height: 180px; } }
+
+/* Browsing: charts behind a one-at-a-time toggle, clamped name chips, filters folded away on phones, cards loaded in pages */
+[hidden] { display: none !important; }
+.views { display: flex; flex-wrap: wrap; gap: 10px 16px; align-items: center; margin-bottom: 22px; }
+.views-title { font-family: var(--f-display); color: var(--marker); font-size: 22px; line-height: 1; transform: rotate(-2deg); }
+.chart-btns { display: flex; flex-wrap: wrap; gap: 12px; }
+.chart-btn { display: inline-flex; align-items: center; gap: 9px; font-family: var(--f-display); font-size: 19px; line-height: 1; color: var(--marker);
+  background: var(--tag); border: 2px solid var(--line); border-radius: 12px; padding: 9px 16px 9px 12px; box-shadow: var(--shadow); cursor: pointer; }
+.chart-btn svg { width: 26px; height: 26px; flex: none; background: var(--bg); border-radius: 7px; padding: 3px; }
+.chart-btn:nth-child(1) { transform: rotate(-1.5deg); }
+.chart-btn:nth-child(2) { transform: rotate(1deg); }
+.chart-btn:nth-child(3) { transform: rotate(-.5deg); }
+.chart-btn:hover { border-color: var(--red); }
+.chart-btn[aria-pressed="true"] { background: var(--red); border-color: var(--red); color: var(--red-ink); transform: rotate(0); }
+@media (prefers-reduced-motion: no-preference) {
+  .chart-btn { transition: transform .15s ease, background .15s ease; }
+  .chart-btn:hover { transform: rotate(0) translateY(-2px); }
+  .chart-btn[aria-pressed="true"]:hover { transform: translateY(-2px); }
+}
+.popular-head { display: flex; flex-wrap: wrap; justify-content: space-between; align-items: baseline; gap: 4px 12px; }
+.linkbtn { font: inherit; font-size: 13px; background: none; border: 0; padding: 4px 0; color: var(--marker); text-decoration: underline; text-underline-offset: 2px; cursor: pointer; }
+.chips.clamp { overflow: hidden; }
+.filters { display: grid; gap: 10px; }
+.fbtn { display: none; font: inherit; font-size: 15px; padding: 9px 14px; border-radius: 10px; border: 1px solid var(--line); background: var(--tag); color: var(--fg); cursor: pointer; }
+.fbtn[aria-expanded="true"], .fbtn.active { border-color: var(--fg); }
+@media (max-width: 640px) {
+  .hero-tag .write { font-size: clamp(30px, 10vw, 44px); padding: 12px 18px 14px; min-width: min(300px, 80vw); }
+  .hero p.lede { font-size: 15px; }
+  .stats { gap: 4px 14px; font-size: 11.5px; }
+  .filters .seg { display: flex; width: 100%; }
+  .filters .seg button { flex: 1; padding: 9px 6px; }
+  .chart-btns { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 100%; }
+  .chart-btn { flex-direction: column; gap: 6px; padding: 10px 6px; font-size: 17px; }
+  .controls { padding-block: 10px; gap: 8px; }
+  .fbtn { display: inline-flex; }
+  .filters { display: none; }
+  .controls.open .filters { display: grid; max-height: 65vh; overflow-y: auto; padding-bottom: 4px; }
+  .filters select { flex: 1 1 140px; }
+  #q, select { font-size: 16px; }
+  .grid { grid-template-columns: 1fr; gap: 12px; }
+  .tag:nth-child(n) { transform: none; }
+  .tag .name { font-size: 26px; padding: 10px 12px 8px; }
+  .tag .body { padding-top: 10px; }
+}
+</style>
+
+<div class="wrap">
+  <h1 class="sr-only">Every AI Name: Hello, my name is AI</h1>
+  <header class="hero">
+    <div class="hero-tag" aria-hidden="true">
+      <div class="band"><b>HELLO</b><span>my name is</span></div>
+      <div class="write" id="heroName">Vanessa</div>
+    </div>
+    <p class="byline">A silly project by <a href="https://electriclantern.co" target="_blank" rel="noopener">Lukas Thoms</a></p>
+    <p class="lede">What's in a name? That which we call a model<br>By any other name would hallucinate as much.</p>
+    <div class="why">
+      <div class="why-btns">
+        <button aria-expanded="false" aria-controls="whatIs">What is this?</button>
+        <button aria-expanded="false" aria-controls="whyDid">Why did you do this?</button>
+      </div>
+      <p id="whatIs" hidden></p>
+      <p id="whyDid" hidden>I had some time to kill between Claude turns. Don't take it too seriously.</p>
+    </div>
+    <div class="stats" id="stats"></div>
+  </header>
+
+  <div class="views">
+    <span class="views-title">Peek at the data</span>
+    <div class="chart-btns" role="group" aria-label="Show a chart">
+      <button class="chart-btn" data-chart="gender" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="4" width="11" height="4" rx="1.5" fill="var(--fem)"/><rect x="14" y="4" width="5" height="4" rx="1.5" fill="var(--masc)"/><rect x="20" y="4" width="2" height="4" rx="1" fill="var(--neu)"/><rect x="2" y="10" width="8" height="4" rx="1.5" fill="var(--fem)"/><rect x="11" y="10" width="7" height="4" rx="1.5" fill="var(--masc)"/><rect x="19" y="10" width="3" height="4" rx="1" fill="var(--neu)"/><rect x="2" y="16" width="12" height="4" rx="1.5" fill="var(--fem)"/><rect x="15" y="16" width="3" height="4" rx="1.5" fill="var(--masc)"/><rect x="19" y="16" width="3" height="4" rx="1" fill="var(--neu)"/></svg><span>Gender</span></button>
+      <button class="chart-btn" data-chart="share" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="3" width="20" height="4" rx="1.5" fill="var(--ind)"/><rect x="2" y="10" width="14" height="4" rx="1.5" fill="var(--ind)"/><rect x="2" y="17" width="8" height="4" rx="1.5" fill="var(--ind)"/></svg><span>Industries</span></button>
+      <button class="chart-btn" data-chart="trend" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="2" y="14" width="4" height="8" rx="1.5" fill="var(--ind)"/><rect x="7" y="9" width="4" height="13" rx="1.5" fill="var(--ind)"/><rect x="12" y="11" width="4" height="11" rx="1.5" fill="var(--ind)"/><rect x="17" y="3" width="4" height="19" rx="1.5" fill="var(--ind)"/></svg><span>Launches</span></button>
+    </div>
+  </div>
+
+  <section class="gender" id="chart-gender" aria-labelledby="gTitle" hidden>
+    <div class="g-head">
+      <h2 id="gTitle">What's the gender breakdown?</h2>
+      <div class="seg" role="group" aria-label="Names included in chart">
+        <button data-gscope="human" aria-pressed="true">Human-style names</button>
+        <button data-gscope="all" aria-pressed="false">All names</button>
+      </div>
+    </div>
+    <details class="about"><summary>About</summary><p class="g-sub" id="gSub"></p></details>
+    <div class="g-legend" aria-hidden="true"><span><i style="background:var(--fem)"></i>Feminine</span><span><i style="background:var(--masc)"></i>Masculine</span><span><i style="background:var(--neu)"></i>Neutral</span></div>
+    <div class="g-total" id="gTotal"></div>
+    <div class="g-rows" id="gRows"></div>
+    <details><summary>Show as a table</summary><div class="g-scroll"><table id="gTable"></table></div></details>
+  </section>
+
+  <section class="share" id="chart-share" aria-labelledby="sTitle" hidden>
+    <h2 id="sTitle">Which industries name their AI most?</h2>
+    <details class="about"><summary>About</summary><p class="g-sub" id="sSub"></p></details>
+    <div class="s-rows" id="sRows"></div>
+    <details><summary>Show as a table</summary><div class="g-scroll"><table id="sTable"></table></div></details>
+  </section>
+  <section class="trend" id="chart-trend" aria-labelledby="tTitle" hidden>
+    <div class="g-head">
+      <h2 id="tTitle">When did they launch?</h2>
+      <div class="t-ctl">
+      <select id="tCat" aria-label="Industry for the launch chart"></select>
+      <div class="seg" role="group" aria-label="Time range">
+        <button data-trange="2023" aria-pressed="true">Since 2023</button>
+        <button data-trange="all" aria-pressed="false">All time</button>
+      </div>
+      </div>
+    </div>
+    <details class="about"><summary>About</summary><p class="g-sub" id="tSub"></p></details>
+    <div class="t-scroll"><div class="t-wrap" id="tWrap"></div></div>
+    <details><summary>Show as a table</summary><div class="g-scroll"><table id="tTable"></table></div></details>
+  </section>
+  <div class="g-tip" id="gTip" hidden></div>
+
+  <section class="popular">
+    <div class="popular-head">
+      <span class="label">Names used by more than one company</span>
+      <button class="linkbtn" id="dupesMore" aria-expanded="false" aria-controls="dupes" hidden></button>
+    </div>
+    <div class="chips clamp" id="dupes"></div>
+  </section>
+
+  <div class="controls">
+    <div class="row">
+      <input id="q" type="search" placeholder="Search names, companies, uses…" aria-label="Search">
+      <button class="fbtn" id="fbtn" aria-expanded="false" aria-controls="filters">Filters</button>
+      <span class="count" id="count"></span>
+    </div>
+    <div class="filters" id="filters">
+    <div class="row">
+      <select id="cat" aria-label="Industry"></select>
+      <select id="list" aria-label="Company list">
+        <option value="">All companies</option>
+        <option value="Fortune 1000">Fortune 1000</option>
+        <option value="YC">Y Combinator</option>
+        <option value="AI-native startup">AI-native startups</option>
+      </select>
+      <select id="gender" aria-label="Name gender">
+        <option value="">All genders</option>
+        <option value="feminine">Feminine names</option>
+        <option value="masculine">Masculine names</option>
+        <option value="neutral">Neutral names</option>
+      </select>
+    </div>
+    <div class="row">
+      <div class="seg" role="group" aria-label="Name type">
+        <button data-type="all" aria-pressed="true">All names</button>
+        <button data-type="human" aria-pressed="false">Human names</button>
+        <button data-type="brand" aria-pressed="false">Brand names</button>
+      </div>
+      <div class="seg" role="group" aria-label="Sort">
+        <button data-sort="picks" aria-pressed="true">Editor's Picks</button>
+        <button data-sort="name" aria-pressed="false">A–Z by name</button>
+        <button data-sort="company" aria-pressed="false">By company</button>
+        <button data-sort="newest" aria-pressed="false">Newest</button>
+      </div>
+      <button class="linkbtn" id="reset" hidden>Reset filters</button>
+    </div>
+    </div>
+  </div>
+
+  <main class="grid" id="grid">/*CARDS*/</main>
+  <p class="empty" id="empty" hidden>No AI matches that search. Try a shorter term or set the filters back to All.</p>
+
+  <footer>Compiled October 2026 from press releases, company pages and news coverage. Only AIs that are live now or recently announced are listed. Each tag links to its source. The list is incomplete, because new ones launch every week.</footer>
+</div>
+
+<script>
+const DATA = /*DATA*/[]/*END*/;
+const $ = s => document.querySelector(s);
+const state = { q: "", name: "", cat: "", list: "", gender: "", type: "all", sort: "picks" };
+try { const s = JSON.parse(localStorage.getItem("ainames-v2") || "{}"); Object.assign(state, { type: s.type || "all", sort: s.sort || "picks" }); } catch (e) {}
+const norm = s => (s || "").toLowerCase();
+const firstWord = n => n.replace(/^(the|my)\s+/i, "").split(/[\s\-–.+]/)[0].toLowerCase();
+
+const cats = [...new Set(DATA.map(d => d.category))].sort();
+$("#cat").innerHTML = `<option value="">All industries (${cats.length})</option>` + cats.map(c => `<option>${c}</option>`).join("");
+
+const humans = DATA.filter(d => d.nameType === "human").length;
+const cos = new Set(DATA.map(d => d.company)).size;
+// Web searches run by the research agents, counted from the session transcripts (Oct 2026)
+const SEARCHES = 4654;
+$("#whatIs").innerHTML = `This is an incomplete list of every <em>named</em> AI we could find across ${SEARCHES.toLocaleString()} searches, with a bit of summary analysis for fun.`;
+// "What is this?" / "Why did you do this?": one note open at a time; clicking the open one closes it
+document.querySelectorAll(".why-btns button").forEach(b => b.addEventListener("click", () => {
+  const open = b.getAttribute("aria-expanded") !== "true";
+  document.querySelectorAll(".why-btns button").forEach(x => {
+    const on = x === b && open;
+    x.setAttribute("aria-expanded", on);
+    document.getElementById(x.getAttribute("aria-controls")).hidden = !on;
+  });
+}));
+$("#stats").innerHTML = `<span><strong>${DATA.length}</strong> AIs</span><span><strong>${cos}</strong> organizations</span><span><strong>${humans}</strong> with human names</span><span><strong>${cats.length}</strong> industries</span>`;
+
+// names shared by 2+ different companies
+const groups = {};
+DATA.forEach(d => { const k = firstWord(d.name); (groups[k] = groups[k] || new Set()).add(d.company); });
+const NOT_NAMES = new Set(["ask", "ai"]); // shared prefixes ("Ask Blue", "AI Jim"), not names
+const dupes = Object.entries(groups).filter(([k, v]) => v.size > 1 && k.length > 1 && !NOT_NAMES.has(k)).sort((a, b) => b[1].size - a[1].size || a[0].localeCompare(b[0]));
+$("#dupes").innerHTML = dupes.map(([k, v]) => `<button data-q="${k}">${k[0].toUpperCase() + k.slice(1)}<em>×${v.size}</em></button>`).join("") || `<span class="label">None yet</span>`;
+// Clamp the chips to two lines; the button reveals the rest
+let dupesOpen = false;
+function clampDupes() {
+  const box = $("#dupes"), first = box.querySelector("button"), btn = $("#dupesMore");
+  if (!first) return;
+  const two = first.offsetHeight * 2 + 6;
+  box.style.maxHeight = dupesOpen ? "none" : two + "px";
+  btn.hidden = box.scrollHeight <= two + 1;
+  btn.textContent = dupesOpen ? "Show fewer" : `Show all ${dupes.length}`;
+  btn.setAttribute("aria-expanded", dupesOpen);
+}
+$("#dupesMore").addEventListener("click", () => { dupesOpen = !dupesOpen; clampDupes(); });
+addEventListener("resize", clampDupes);
+clampDupes();
+// A chip shows only the AIs with that name (same grouping as the chips); clicking it again clears it
+$("#dupes").addEventListener("click", e => {
+  const b = e.target.closest("button"); if (!b) return;
+  state.name = state.name === b.dataset.q ? "" : b.dataset.q;
+  $("#q").value = state.q = "";
+  render();
+});
+
+const MON = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+const launchLabel = d => {
+  const [y, m] = d.launched.split("-"), when = m ? `${MON[+m - 1]} ${y}` : y;
+  return `${d.launchBasis === "announced" ? "Announced" : d.launchBasis === "earliest mention" ? "By" : "Launched"} ${when}`;
+};
+const esc = s => String(s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+function render() {
+  const q = norm(state.q);
+  let rows = DATA.filter(d =>
+    (!state.name || firstWord(d.name) === state.name) &&
+    (!state.cat || d.category === state.cat) &&
+    (!state.list || (d.list || "").includes(state.list)) &&
+    (!state.gender || d.gender === state.gender) &&
+    (state.type === "all" || d.nameType === state.type) &&
+    (!q || [d.name, d.company, d.project, d.use, d.category, d.list].some(f => norm(f).includes(q))));
+  const key = state.sort === "company" ? d => norm(d.company) + norm(d.name) : state.sort === "picks" ? d => (d.pick ? "0" + d.pick.padStart(3, "0") : "1" + (3 - (+d.funny || 0))) + norm(d.name) : d => norm(d.name);
+  if (state.sort === "newest") rows.sort((a, b) => (b.launched || "").localeCompare(a.launched || "") || norm(a.name).localeCompare(norm(b.name)));
+  else rows.sort((a, b) => key(a).localeCompare(key(b)));
+  $("#grid").innerHTML = rows.map(card).join("");
+  $("#empty").hidden = rows.length > 0;
+  $("#count").textContent = state.name ? `Showing ${rows.length} named ${state.name[0].toUpperCase() + state.name.slice(1)}` : `Showing ${rows.length} of ${DATA.length}`;
+  document.querySelectorAll("#dupes button").forEach(b => b.setAttribute("aria-pressed", b.dataset.q === state.name));
+  const active = [state.cat, state.list, state.gender, state.type !== "all"].filter(Boolean).length;
+  $("#fbtn").textContent = active ? `Filters · ${active}` : "Filters";
+  $("#fbtn").classList.toggle("active", active > 0);
+  $("#reset").hidden = !active;
+  document.querySelectorAll("[data-type]").forEach(b => b.setAttribute("aria-pressed", b.dataset.type === state.type));
+  document.querySelectorAll("[data-sort]").forEach(b => b.setAttribute("aria-pressed", b.dataset.sort === state.sort));
+  try { localStorage.setItem("ainames-v2", JSON.stringify({ type: state.type, sort: state.sort })); } catch (e) {}
+}
+// One sticker card; scripts/build.py writes the same markup into the page so every name is in the HTML
+function card(d) {
+  let host = ""; try { host = new URL(d.source).hostname.replace(/^www\./, ""); } catch (e) {}
+  return `<article class="tag">
+    <div class="band"><b>HELLO</b><span>my name is</span></div>
+    <div class="name">${esc(d.name)}</div>
+    <div class="body">
+      <div class="co">${esc(d.company)}${d.project ? ` <span class="proj">· ${esc(d.project)}</span>` : ""}</div>
+      <p class="use">${esc(d.use)}</p>
+    </div>
+    <div class="meta">${d.launched ? `<span class="pill">${esc(launchLabel(d))}</span>` : ""}<span class="pill">${esc(d.category)}</span>${d.nameType === "human" ? `<span class="pill human">Human name</span>` : ""}${(d.list ? d.list.split(" · ") : []).map(l => `<span class="pill list">${esc(l)}</span>`).join("")}${host ? `<a class="src" href="${esc(d.source)}" target="_blank" rel="noopener">${esc(host)}</a>` : ""}</div>
+  </article>`;
+}
+$("#fbtn").addEventListener("click", () => {
+  const open = $(".controls").classList.toggle("open");
+  $("#fbtn").setAttribute("aria-expanded", open);
+});
+$("#reset").addEventListener("click", () => {
+  Object.assign(state, { name: "", cat: "", list: "", gender: "", type: "all" });
+  $("#cat").value = $("#list").value = $("#gender").value = "";
+  render();
+});
+$("#q").addEventListener("input", e => { state.q = e.target.value; state.name = ""; render(); });
+$("#cat").addEventListener("change", e => { state.cat = e.target.value; render(); });
+$("#list").addEventListener("change", e => { state.list = e.target.value; render(); });
+$("#gender").addEventListener("change", e => { state.gender = e.target.value; render(); });
+document.querySelectorAll("[data-type]").forEach(b => b.addEventListener("click", () => { state.type = b.dataset.type; render(); }));
+document.querySelectorAll("[data-sort]").forEach(b => b.addEventListener("click", () => { state.sort = b.dataset.sort; render(); }));
+render();
+
+// Gender chart: hover a segment for examples, click it to filter the wall below
+const G = [["feminine", "fem", "Feminine"], ["masculine", "masc", "Masculine"], ["neutral", "neu", "Neutral"]];
+let gScope = "human";
+const pct = (n, t) => t ? Math.round(n / t * 100) : 0;
+function topNames(rows) {
+  const c = {};
+  rows.forEach(d => { const k = d.name.replace(/\s*\(.*\)/, ""); c[k] = (c[k] || 0) + 1; });
+  return Object.entries(c).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0])).slice(0, 4).map(([k, n]) => n > 1 ? `${k} ×${n}` : k);
+}
+function gBar(rows, cat, big) {
+  const t = rows.length;
+  return `<div class="g-bar">` + G.map(([g, cls, label]) => {
+    const n = rows.filter(d => d.gender === g).length;
+    if (!n) return "";
+    const txt = big ? `${label} ${pct(n, t)}%` : `${pct(n, t)}%`;
+    return `<button class="${cls}" style="flex:${n} 1 0" data-g="${g}" data-cat="${esc(cat)}" data-n="${n}" data-t="${t}" data-label="${esc(txt)}" aria-label="${esc(cat || "All industries")}: ${label} ${n} of ${t} (${pct(n, t)}%)">${esc(txt)}</button>`;
+  }).join("") + `</div>`;
+}
+function renderGender() {
+  const pool = DATA.filter(d => d.gender && (gScope === "all" || d.nameType === "human"));
+  const c = g => pool.filter(d => d.gender === g).length;
+  $("#gSub").textContent = `Each name is tagged feminine, masculine or neutral by how it is usually used as a first name; brand names and unisex names count as neutral. "Human-style names" keeps only the ${humans} AIs named like a person. Rows are industries with at least 8 names, sorted by feminine share. Caveat: the tag is our reading of the name, not the company's stated intent, and some names read differently across languages. Hover a segment for examples, or click it to filter the cards.`;
+  $("#gTotal").innerHTML = gBar(pool, "", true);
+  const byCat = cats.map(cat => ({ cat, rows: pool.filter(d => d.category === cat) })).filter(x => x.rows.length >= 8)
+    .sort((a, b) => b.rows.filter(d => d.gender === "feminine").length / b.rows.length - a.rows.filter(d => d.gender === "feminine").length / a.rows.length);
+  $("#gRows").innerHTML = byCat.map(x => `<div class="g-row"><span class="lbl">${esc(x.cat)}</span>${gBar(x.rows, x.cat, false)}<span class="n">${x.rows.length}</span></div>`).join("");
+  $("#gTable").innerHTML = `<thead><tr><th>Industry</th>${G.map(g => `<th class="num">${g[2]}</th>`).join("")}<th class="num">Names</th></tr></thead><tbody>` +
+    [{ cat: "All industries", rows: pool }, ...byCat].map(x => `<tr><td>${esc(x.cat)}</td>${G.map(([g]) => { const n = x.rows.filter(d => d.gender === g).length; return `<td class="num">${n} (${pct(n, x.rows.length)}%)</td>`; }).join("")}<td class="num">${x.rows.length}</td></tr>`).join("") + `</tbody>`;
+  document.querySelectorAll("[data-gscope]").forEach(b => b.setAttribute("aria-pressed", b.dataset.gscope === gScope));
+  fitLabels();
+}
+// Show a segment's label only where it fits at the current width (needs the chart to be visible)
+function fitLabels() {
+  document.querySelectorAll(".g-bar button").forEach(b => {
+    b.textContent = b.dataset.label;
+    if (b.scrollWidth > b.clientWidth) b.textContent = "";
+  });
+}
+addEventListener("resize", fitLabels);
+const tip = $("#gTip");
+$(".gender").addEventListener("pointermove", e => {
+  const b = e.target.closest(".g-bar button");
+  if (!b) { tip.hidden = true; return; }
+  const rows = DATA.filter(d => d.gender === b.dataset.g && (!b.dataset.cat || d.category === b.dataset.cat) && (gScope === "all" || d.nameType === "human"));
+  const label = G.find(g => g[0] === b.dataset.g)[2];
+  tip.innerHTML = `<b>${esc(b.dataset.cat || "All industries")} · ${label}</b>${b.dataset.n} of ${b.dataset.t} names (${pct(+b.dataset.n, +b.dataset.t)}%)<br>e.g. ${esc(topNames(rows).join(", "))}`;
+  tip.hidden = false;
+  const x = Math.min(e.clientX + 14, innerWidth - tip.offsetWidth - 8), y = e.clientY + 16 + tip.offsetHeight > innerHeight ? e.clientY - tip.offsetHeight - 12 : e.clientY + 16;
+  tip.style.left = x + "px"; tip.style.top = y + "px";
+});
+$(".gender").addEventListener("pointerleave", () => { tip.hidden = true; });
+$(".gender").addEventListener("click", e => {
+  const s = e.target.closest("[data-gscope]");
+  if (s) { gScope = s.dataset.gscope; renderGender(); return; }
+  const b = e.target.closest(".g-bar button");
+  if (!b) return;
+  state.gender = b.dataset.g; state.cat = b.dataset.cat;
+  if (gScope === "human") state.type = "human";
+  $("#gender").value = state.gender; $("#cat").value = state.cat;
+  render(); tip.hidden = true;
+  $(".controls").scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+});
+renderGender();
+
+// Industry share: bar length = number of named AIs, click a bar to filter the wall
+function renderShare() {
+  const byCat = cats.map(cat => ({ cat, rows: DATA.filter(d => d.category === cat) })).sort((a, b) => b.rows.length - a.rows.length);
+  const max = byCat[0].rows.length, t = DATA.length;
+  $("#sSub").textContent = `Counts all ${t.toLocaleString()} named AIs by industry, with each company placed in one of ${cats.length} broad industries. Caveat: some areas (banks, governments, universities, the Fortune 1000 and AI startups) were searched much harder than others, so this shows where we looked as much as where companies name their AIs. Hover a bar for common names, or click it to filter the cards.`;
+  $("#sRows").innerHTML = byCat.map(x => `<button class="s-row" data-cat="${esc(x.cat)}" aria-label="${esc(x.cat)}: ${x.rows.length} AIs, ${pct(x.rows.length, t)}% of all"><span class="lbl">${esc(x.cat)}</span><span class="s-track"><span class="s-fill" style="width:calc(${x.rows.length / max} * (100% - 84px))"></span><span class="s-val"><b>${x.rows.length}</b> · ${(x.rows.length / t * 100).toFixed(1)}%</span></span></button>`).join("");
+  $("#sTable").innerHTML = `<thead><tr><th>Industry</th><th class="num">Named AIs</th><th class="num">Share</th></tr></thead><tbody>` + byCat.map(x => `<tr><td>${esc(x.cat)}</td><td class="num">${x.rows.length}</td><td class="num">${(x.rows.length / t * 100).toFixed(1)}%</td></tr>`).join("") + `</tbody>`;
+}
+$(".share").addEventListener("pointermove", e => {
+  const b = e.target.closest(".s-row");
+  if (!b) { tip.hidden = true; return; }
+  const rows = DATA.filter(d => d.category === b.dataset.cat);
+  tip.innerHTML = `<b>${esc(b.dataset.cat)}</b>${rows.length} of ${DATA.length} named AIs (${(rows.length / DATA.length * 100).toFixed(1)}%)<br>e.g. ${esc(topNames(rows).join(", "))}`;
+  tip.hidden = false;
+  const x = Math.min(e.clientX + 14, innerWidth - tip.offsetWidth - 8), y = e.clientY + 16 + tip.offsetHeight > innerHeight ? e.clientY - tip.offsetHeight - 12 : e.clientY + 16;
+  tip.style.left = x + "px"; tip.style.top = y + "px";
+});
+$(".share").addEventListener("pointerleave", () => { tip.hidden = true; });
+$(".share").addEventListener("click", e => {
+  const b = e.target.closest(".s-row");
+  if (!b) return;
+  state.cat = b.dataset.cat; $("#cat").value = state.cat;
+  render(); tip.hidden = true;
+  $(".controls").scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth" });
+});
+renderShare();
+
+// Launch trend: AIs whose launch or announcement month is known, counted per month.
+// Year-only dates and "earliest mention" dates are left out (they do not pin a launch month).
+const LAUNCHES = DATA.filter(d => /^\d{4}-\d{2}$/.test(d.launched || "") && (d.launchBasis === "launched" || d.launchBasis === "announced"));
+const NOW = (() => { const t = new Date(); return `${t.getFullYear()}-${String(t.getMonth() + 1).padStart(2, "0")}`; })();
+let tRange = "2023", tCat = "";
+$("#tCat").innerHTML = `<option value="">All industries</option>` + cats.map(c => `<option>${esc(c)}</option>`).join("");
+$("#tCat").addEventListener("change", e => { tCat = e.target.value; renderTrend(); });
+const tRows = () => LAUNCHES.filter(d => !tCat || d.category === tCat);
+const monthLabel = m => `${MON[+m.slice(5) - 1]} ${m.slice(0, 4)}`;
+function renderTrend() {
+  const byMonth = {};
+  tRows().forEach(d => (byMonth[d.launched] = byMonth[d.launched] || []).push(d));
+  const first = tRange === "all" ? (Object.keys(byMonth).sort()[0] || "2023-01") : "2023-01";
+  const last = [NOW, ...Object.keys(byMonth)].sort().pop();
+  const months = [];
+  for (let y = +first.slice(0, 4), m = +first.slice(5); `${y}-${String(m).padStart(2, "0")}` <= last; m === 12 ? (y++, m = 1) : m++) months.push(`${y}-${String(m).padStart(2, "0")}`);
+  const counts = months.map(m => (byMonth[m] || []).length);
+  const shown = counts.reduce((a, b) => a + b, 0), max = Math.max(1, ...counts);
+  const step = max > 40 ? 20 : max > 20 ? 10 : max > 8 ? 5 : max > 4 ? 2 : 1, top = Math.ceil(max / step) * step;
+  const peak = shown ? months[counts.indexOf(max)] : "";
+  $("#tSub").textContent = `Counts ${shown} named AIs${tCat ? ` in ${tCat}` : ""} by the month they launched or were announced, taken from press releases and news coverage. AIs dated only to a year, or only by their earliest mention online, are left out. Caveats: the catalog only lists AIs that are live now, so retired ones are missing and earlier years look quieter than they were${months.includes(NOW) ? `; ${monthLabel(NOW)} is still in progress` : ""}. Hover a column for names.`;
+  const ticks = [];
+  for (let v = 0; v <= top; v += step) ticks.push(v);
+  const wrap = $("#tWrap");
+  wrap.style.setProperty("--t-min", tRange === "all" ? `${months.length * 5}px` : "0px");
+  wrap.style.setProperty("--t-gap", months.length > 80 ? "1px" : "2px");
+  wrap.innerHTML = `<div class="t-y" aria-hidden="true">${ticks.map(v => `<span style="bottom:${v / top * 100}%">${v}</span>`).join("")}</div>
+    <div class="t-plot">${ticks.slice(1).map(v => `<div class="t-grid" style="bottom:${v / top * 100}%"></div>`).join("")}
+      <div class="t-bars">${months.map((m, i) => `<button data-m="${m}" class="${m === NOW ? "partial" : ""}" style="height:${counts[i] / top * 100}%" aria-label="${monthLabel(m)}: ${counts[i]} launches${m === NOW ? " so far" : ""}"></button>`).join("")}</div></div>
+    <div class="t-x" aria-hidden="true">${months.map(m => `<span>${m.endsWith("-01") && (tRange !== "all" || +m.slice(0, 4) % 2 === 0) ? m.slice(0, 4) : ""}</span>`).join("")}</div>`;
+  $("#tTable").innerHTML = `<thead><tr><th>Month</th><th class="num">Launches</th><th>Examples</th></tr></thead><tbody>` +
+    months.slice().reverse().filter(m => byMonth[m]).map(m => `<tr><td>${monthLabel(m)}${m === NOW ? " (so far)" : ""}</td><td class="num">${byMonth[m].length}</td><td>${esc(byMonth[m].slice(0, 4).map(d => d.name).join(", "))}</td></tr>`).join("") + `</tbody>`;
+  document.querySelectorAll("[data-trange]").forEach(b => b.setAttribute("aria-pressed", b.dataset.trange === tRange));
+  const sc = $(".t-scroll"); sc.scrollLeft = sc.scrollWidth; // narrow screens start at the newest months
+}
+$(".trend").addEventListener("click", e => { const b = e.target.closest("[data-trange]"); if (b) { tRange = b.dataset.trange; renderTrend(); } });
+$(".trend").addEventListener("pointermove", e => {
+  const b = e.target.closest(".t-bars button");
+  if (!b) { tip.hidden = true; return; }
+  const rows = tRows().filter(d => d.launched === b.dataset.m);
+  tip.innerHTML = `<b>${monthLabel(b.dataset.m)}${b.dataset.m === NOW ? " (so far)" : ""}</b>${rows.length} launch${rows.length === 1 ? "" : "es"}${rows.length ? `<br>e.g. ${esc(rows.slice(0, 5).map(d => `${d.name} (${d.company})`).join(", "))}` : ""}`;
+  tip.hidden = false;
+  const x = Math.min(e.clientX + 14, innerWidth - tip.offsetWidth - 8), y = e.clientY + 16 + tip.offsetHeight > innerHeight ? e.clientY - tip.offsetHeight - 12 : e.clientY + 16;
+  tip.style.left = x + "px"; tip.style.top = y + "px";
+});
+$(".trend").addEventListener("pointerleave", () => { tip.hidden = true; });
+renderTrend();
+
+// Chart toggle: at most one chart open at a time
+// Tapping the open chart's button again closes it
+document.querySelectorAll("[data-chart]").forEach(b => b.addEventListener("click", () => {
+  const show = b.getAttribute("aria-pressed") === "true" ? "" : b.dataset.chart;
+  document.querySelectorAll("[data-chart]").forEach(x => x.setAttribute("aria-pressed", x.dataset.chart === show));
+  document.querySelectorAll("[id^=chart-]").forEach(c => { c.hidden = c.id !== "chart-" + show; });
+  if (show === "trend") renderTrend();
+  tip.hidden = true;
+  fitLabels();
+}));
+
+// Hero name tag: random names, alternating a funny one (score 2+) with any other; parentheticals dropped, long names skipped
+const heroName = d => d.name.replace(/\s*\(.*\)\s*/g, " ").trim();
+const funnyPool = [...new Set(DATA.filter(d => +d.funny >= 2).map(heroName).filter(n => n.length <= 18))];
+const otherPool = [...new Set(DATA.filter(d => !(+d.funny >= 2)).map(heroName).filter(n => n.length <= 14))];
+let heroFunny = true, heroLast = "";
+function nextHero() {
+  const pool = heroFunny ? funnyPool : otherPool;
+  let n; do { n = pool[Math.floor(Math.random() * pool.length)]; } while (n === heroLast && pool.length > 1);
+  heroLast = n; heroFunny = !heroFunny;
+  $("#heroName").textContent = n;
+}
+if (funnyPool.length && otherPool.length) {
+  nextHero();
+  if (!matchMedia("(prefers-reduced-motion: reduce)").matches) setInterval(nextHero, 2200);
+}
+</script>

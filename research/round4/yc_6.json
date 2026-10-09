@@ -1,0 +1,6 @@
+[
+  {"name": "Sophia", "company": "Riviera", "project": "", "use": "AI agent that answers hotel guests' calls and messages in several languages. It confirms spa bookings and late check-outs.", "category": "Travel & Hospitality", "nameType": "human", "source": "https://www.withriviera.com", "list": "YC Winter 2025"},
+  {"name": "Burt", "company": "Burt", "project": "", "use": "AI coworker for freight logistics that handles quoting, load building, tracking and billing. It flags what needs human input.", "category": "Logistics", "nameType": "human", "source": "https://www.burthq.com/", "list": "YC Winter 2026"},
+  {"name": "Alex", "company": "ShortLoop", "project": "", "use": "Phone AI agent for car dealerships that answers service calls and books appointments.", "category": "Automotive", "nameType": "human", "source": "https://shortloop.ai/", "list": "YC Winter 2023"},
+  {"name": "Alice", "company": "Alice.tech", "project": "", "use": "AI study tutor that summarizes course materials, creates exercises and mock exams, and explains problems step by step.", "category": "Education", "nameType": "human", "source": "https://www.alice.tech/", "list": "YC Winter 2025"}
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Iris",
+    "company": "DocuSign",
+    "project": "Intelligent Agreement Management",
+    "use": "Docusign's agreement AI that pulls insights from contracts and powers its AI agents for drafting and reviewing agreements.",
+    "category": "Business Software",
+    "nameType": "human",
+    "source": "https://www.docusign.com/products/platform/ai",
+    "list": "Fortune 1000 #919"
+  },
+  {
+    "name": "Genie",
+    "company": "Gen Digital (Norton)",
+    "project": "Norton Genie Scam Protection",
+    "use": "AI scam detector and assistant in Norton security software that checks texts, emails and websites for fraud.",
+    "category": "Cybersecurity",
+    "nameType": "brand",
+    "source": "https://en.wikipedia.org/wiki/Gen_Digital",
+    "list": "Fortune 1000 #802"
+  }
+]

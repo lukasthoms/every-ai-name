@@ -1,0 +1,99 @@
+[
+ {
+  "name": "AVA (AirAsia Virtual Allstar)",
+  "company": "AirAsia",
+  "action": "rename",
+  "reason": "Capital A announced on 8 Feb 2023 that it was retiring AVA (launched 2019) and replacing it with a new chatbot called Ask Bo, named after AirAsia Aviation Group CEO Bo Lingam (soyacincau, marketing-interactive, Travel Weekly).",
+  "newName": "Ask Bo",
+  "newSource": "https://soyacincau.com/2023/02/08/airasia-ask-bo-tony-fires-ava-chatbot-ai-ml-replacement/"
+ },
+ {
+  "name": "Cascade",
+  "company": "Cognition (Windsurf)",
+  "action": "drop",
+  "reason": "windsurf.com/cascade now 308-redirects to devin.ai/desktop; Windsurf was renamed Devin Desktop in June 2026 and Cascade was retired on 1 July 2026, with Devin Local as the default agent (Devin is already in the catalog).",
+  "newName": "",
+  "newSource": ""
+ },
+ {
+  "name": "Aria",
+  "company": "Opera",
+  "action": "rename",
+  "reason": "Opera's blog (29 Oct 2025) says the new Opera One browser AI, built on the Neon Chat Agent, is 'replacing our first generation free browser AI named Aria'.",
+  "newName": "Opera AI",
+  "newSource": "https://blogs.opera.com/news/?p=4738"
+ },
+ {
+  "name": "Bullseye Gift Finder",
+  "company": "Target",
+  "action": "rename",
+  "reason": "Target's 12 Nov 2025 press release calls the current tool the conversational AI-powered 'Target Gift Finder'; the 'Bullseye Gift Finder' name does not appear.",
+  "newName": "Target Gift Finder",
+  "newSource": "https://corporate.target.com/press/release/2025/11/target-launches-new-ai-powered-features-to-make-holiday-shopping-easier,-smarter-and-more-fun"
+ },
+ {
+  "name": "The Girl",
+  "company": "Digital Dubai",
+  "action": "rename",
+  "reason": "'The Girl' was a placeholder: in August 2025 a public vote of about 14,000 people named the AI Emirati character Latifa, with 43% of votes (Khaleej Times, 18 Aug 2025).",
+  "newName": "Latifa",
+  "newSource": "https://www.khaleejtimes.com/uae/uae-names-first-ai-emirati-family-child-latifa"
+ },
+ {
+  "name": "Amazon Q",
+  "company": "Amazon Web Services",
+  "action": "drop",
+  "reason": "AWS is retiring the Amazon Q brand: Q Developer IDE/CLI was announced end-of-life on 30 Apr 2026 (new signups blocked 15 May 2026, migrating to Kiro, already listed), and Q Business closed to new customers in mid-2026 in favor of Amazon Quick Suite (AWS 'Upgrade to Kiro' docs; Atlan; Factual Minds).",
+  "newName": "",
+  "newSource": ""
+ },
+ {
+  "name": "Alice (Alisa)",
+  "company": "Yandex",
+  "action": "rename",
+  "reason": "In late 2025 Yandex rebranded its assistant and model family from Alice/YandexGPT to 'Alice AI' (Alisa AI), now in Search, the Alice app and alice.yandex.ru (Postium, Sostav 25 Nov 2025, Habr).",
+  "newName": "Alice AI",
+  "newSource": "https://postium.ru/yandeks-predstavil-alisu-ai/"
+ },
+ {
+  "name": "Hey CommBank",
+  "company": "Commonwealth Bank of Australia",
+  "action": "rename",
+  "reason": "'Hey CommBank' was the September 2024 name for CBA's generative AI chatbot then being tested with employees; CBA's May 2026 newsroom launched the same kind of in-app conversational AI as 'CommBank Companion', and no current use of 'Hey CommBank' turns up (the rename is inferred, not stated by CBA).",
+  "newName": "CommBank Companion",
+  "newSource": "https://www.commbank.com.au/articles/newsroom/2026/05/commbank-companion.html"
+ },
+ {
+  "name": "Kanana",
+  "company": "Kakao",
+  "action": "update_source",
+  "reason": "Reports say Kakao is shutting the standalone Kanana app around 15 Oct 2026 and moving Kanana into KakaoTalk's Friends tab (FN News, 8 Sep 2026), so the name stays live but the 'standalone messenger' description and source are out of date.",
+  "newName": "",
+  "newSource": "https://en.fnnews.com/news/202609081342426988",
+  "newUse": "AI companion app with two AI mates, Nana (personal assistant) and Kana (group-chat helper), moving into KakaoTalk's Friends tab in October 2026."
+ },
+ {
+  "name": "ABIE",
+  "company": "Allstate",
+  "action": "drop",
+  "reason": "The only sources are a 2018 launch and aggregator listicles (Emerj, Heretto); searches found nothing after 2018 showing ABIE is still on Allstate.com, so it is probably retired.",
+  "newName": "",
+  "newSource": ""
+ },
+ {
+  "name": "Charlie",
+  "company": "Cebu Pacific",
+  "action": "update_source",
+  "reason": "The current source is the 2019 launch story; Ada's case study describes Charlie as Cebu Pacific's current generative AI agent pulling from its knowledge base.",
+  "newName": "",
+  "newSource": "https://www.ada.cx/case-study/cebu-pacific/"
+ },
+ {
+  "name": "Amelia",
+  "company": "Wizz Air",
+  "action": "update_source",
+  "reason": "The current source is the 2020 launch story; April 2025 coverage says Amelia now also replaces Wizz Air's call centre, phoning passengers during disruptions, so it is still live.",
+  "newName": "",
+  "newSource": "https://www.businesstraveller.com/business-travel/2025/04/03/wizz-air-invests-12-billion-into-customer-focused-transformation-plan/"
+ }
+]

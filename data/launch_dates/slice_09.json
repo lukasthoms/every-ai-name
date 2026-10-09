@@ -1,0 +1,666 @@
+[
+ {
+  "name": "Bubba",
+  "company": "Hey Bubba",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Hey Bubba Inc launches Bubba AI, voice AI dispatcher (GlobeNewswire, March 25, 2025)",
+  "dateSource": "https://www.globenewswire.com/fr/news-release/2025/03/25/3048891/0/en/Hey-Bubba-Inc-Launches-Bubba-AI-the-First-Agentic-Voice-AI-Dispatcher-for-Owner-Operators-and-Small-Fleets.html"
+ },
+ {
+  "name": "Robin",
+  "company": "Hinge Health",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Hinge Health unveils new AI-powered care tools including Robin, Oct 21, 2025",
+  "dateSource": "https://ir.hingehealth.com/news/news-details/2025/Hinge-Health-unveils-new-AI-powered-care-tools/default.aspx"
+ },
+ {
+  "name": "Clara",
+  "company": "Hippo",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Hippo rolls out AI-driven claims workflow incl. Clara from Claims, April 14, 2026",
+  "dateSource": "https://fintech.global/2026/04/14/hippo-rolls-out-ai-driven-claims-workflow-to-transform-operations/"
+ },
+ {
+  "name": "Holly",
+  "company": "Hiring Agents",
+  "launched": "2025-02",
+  "basis": "earliest mention",
+  "evidence": "Cerebral Valley profile of Hiring Agents, AI-operated staffing agency, Feb 21, 2025",
+  "dateSource": "https://cerebralvalley.beehiiv.com/p/hiring-agents-a-staffing-recruitment-agency-entirely-operated-by-ai-agents"
+ },
+ {
+  "name": "Hunter",
+  "company": "Hiring Agents",
+  "launched": "2025-02",
+  "basis": "earliest mention",
+  "evidence": "Cerebral Valley profile of Hiring Agents, AI-operated staffing agency, Feb 21, 2025",
+  "dateSource": "https://cerebralvalley.beehiiv.com/p/hiring-agents-a-staffing-recruitment-agency-entirely-operated-by-ai-agents"
+ },
+ {
+  "name": "Hiro",
+  "company": "Hiro",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "HARC Agents",
+  "company": "Hitachi Digital Services",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Hitachi Digital Services unveiled HARC Agents at London AI Agent event, mid-October 2025 (IDC note)",
+  "dateSource": "https://www.hitachids.com/blog/hitachi-digital-services-unveils-harc-agents-in-london-scaling-agentic-ai-for-mission-critical-operations/"
+ },
+ {
+  "name": "AiZhan",
+  "company": "Home Credit Bank (Kazakhstan)",
+  "launched": "2025-06",
+  "basis": "earliest mention",
+  "evidence": "finance.kz article on Home Credit Bank chatbot AiZhan, June 16, 2025",
+  "dateSource": "https://finance.kz/news/iskusstvennyy-intellekt-s-dushoy-kak-chat-bot-aizhan-ot-home-credit-bank-transformiruet-bankovskoe-obsluzhivanie"
+ },
+ {
+  "name": "XiaoHui",
+  "company": "Hong Kong Customs and Excise Department",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "Hong Kong Customs introduced AI Ambassador XiaoHui today (25 March 2026)",
+  "dateSource": "https://www.customs.gov.hk/en/customs-announcement/whats-new/index_id_176.html"
+ },
+ {
+  "name": "HKChat (港話通)",
+  "company": "Hong Kong Generative AI R&D Centre (HKGAI, InnoHK)",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "HKChat trial version launched on November 19 (2025)",
+  "dateSource": "https://unwire.hk/2025/12/18/hkchat-improves-search-accuracy-ai-literacy/ai/"
+ },
+ {
+  "name": "Gong Man Tong (港文通)",
+  "company": "Hong Kong SAR Government",
+  "launched": "2025-10",
+  "basis": "earliest mention",
+  "evidence": "unwire.hk Oct 1, 2025 article on HK government AI tools pilot",
+  "dateSource": "https://unwire.hk/2025/10/01/hk-government-ai-team-pilot/ai/"
+ },
+ {
+  "name": "Gong Wui Tong (港會通)",
+  "company": "Hong Kong SAR Government",
+  "launched": "2025-10",
+  "basis": "earliest mention",
+  "evidence": "unwire.hk Oct 1, 2025 article on HK government AI tools pilot",
+  "dateSource": "https://unwire.hk/2025/10/01/hk-government-ai-team-pilot/ai/"
+ },
+ {
+  "name": "Niu",
+  "company": "Honolulu Community College",
+  "launched": "2025",
+  "basis": "earliest mention",
+  "evidence": "Students texted campus chatbots incl. Honolulu CC's Niu between Aug 1 and Dec 10, 2025",
+  "dateSource": "https://www.hawaii.edu/news/2026/01/11/uh-ai-chatbots-transforming-student-support/"
+ },
+ {
+  "name": "YOYO",
+  "company": "Honor",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Honor's first AI Agent YOYO debuted with MagicOS 9.0 / Magic7 series, China launch Oct 30, 2024",
+  "dateSource": "https://www.honor.com/global/news/honor-magic7-china-launch/"
+ },
+ {
+  "name": "HTS Assist",
+  "company": "Hopper (Hopper Technology Solutions)",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Hopper Technology Solutions launched HTS Assist AI system (VentureBeat, Oct 1, 2025)",
+  "dateSource": "https://venturebeat.com/ai/hoppers-ai-agent-can-book-flights-and-cancel-trips-without-human-help"
+ },
+ {
+  "name": "Jasmine",
+  "company": "Hostie AI",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "Wired story (Apr 25, 2025) on Hostie's assistant Jasmine answering for Bodega",
+  "dateSource": "https://www.hostie.ai/blogs/when-you-call-a-restaurant"
+ },
+ {
+  "name": "ClutchBot",
+  "company": "Houston Rockets",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "Theta Labs and Houston Rockets announced the launch of ClutchBot, 23 April 2025",
+  "dateSource": "https://cryptoslate.com/press-releases/houston-rockets-launch-generative-ai-mascot-powered-by-theta-decentralized-gpu-infrastructure/"
+ },
+ {
+  "name": "Howie",
+  "company": "Howie",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "AI scheduling assistant Howie raises $6M, launches publicly (GeekWire, Sept 2025)",
+  "dateSource": "https://www.geekwire.com/2025/ai-scheduling-assistant-howie-raises-6m-launches-publicly-with-1000-paying-customers/"
+ },
+ {
+  "name": "HTX Holo",
+  "company": "HTX",
+  "launched": "2026",
+  "basis": "launched",
+  "evidence": "The exchange launched HTX Holo, an AI-powered assistant in its app (TradeInformer, July 2026 recap)",
+  "dateSource": "https://tradeinformer.com/broker-news/htx-reports-900-billion-volume-ai-assistant"
+ },
+ {
+  "name": "AI Zhangle (AI涨乐)",
+  "company": "Huatai Securities",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "AI涨乐 自2025年10月上线以来...; 1.0 version released Jan 26, 2026",
+  "dateSource": "https://www.yzwb.net/news/kj/202601/t20260126_315526.html"
+ },
+ {
+  "name": "MoLA",
+  "company": "Huawei",
+  "launched": "2025-04",
+  "basis": "earliest mention",
+  "evidence": "HarmonySpace 6 (Apr 23, 2025) assistant runs on MoLA 2.0 architecture",
+  "dateSource": "https://www.aibase.com/zh/news/27430"
+ },
+ {
+  "name": "Xiaoyi (Celia)",
+  "company": "Huawei",
+  "launched": "2020-03",
+  "basis": "earliest mention",
+  "evidence": "Celia launched with P40 on Mar 26, 2020; Xiaoyi already existed in China earlier (date unclear)",
+  "dateSource": "https://www.engadget.com/2020-03-26-huawei-voice-assistant-celia.html"
+ },
+ {
+  "name": "Hubert",
+  "company": "Hubert",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Breeze",
+  "company": "HubSpot",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "HubSpot Breeze first introduced at INBOUND 2024 (Sept 2024)",
+  "dateSource": "https://www.cxtoday.com/crm/hubspot-breeze-features-what-is-breeze-and-how-does-it-work/"
+ },
+ {
+  "name": "Hudson",
+  "company": "Hudson Labs",
+  "launched": "2021",
+  "basis": "launched",
+  "evidence": "Hudson Labs: 'In 2021, we launched the world's first financial software fully powered by LLMs'",
+  "dateSource": "https://www.hudson-labs.com"
+ },
+ {
+  "name": "Lee",
+  "company": "Hudson Valley Credit Union",
+  "launched": "2026-09",
+  "basis": "earliest mention",
+  "evidence": "Posh client story (Sept 2026) on HVCU's deployed voice assistant Lee",
+  "dateSource": "https://www.posh.ai/client-stories/hudson-valley-credit-union"
+ },
+ {
+  "name": "HUMAIN Chat",
+  "company": "HUMAIN (PIF)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "HUMAIN Chat was launched on August 25, 2025, by HUMAIN",
+  "dateSource": "https://saudipedia.com/en/humain-chat-application"
+ },
+ {
+  "name": "Sammy",
+  "company": "Humand",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Kota",
+  "company": "Hyperbound",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Hyperbound Launches Kota: AI Sales Performance Agent (GlobeNewswire, Dec 18, 2025)",
+  "dateSource": "https://www.globenewswire.com/fr/news-release/2025/12/18/3207871/0/en/Hyperbound-Launches-Kota-AI-Sales-Performance-Agent-to-Transform-B2B-Sales-Coaching.html"
+ },
+ {
+  "name": "HEYDI (헤이디)",
+  "company": "Hyundai Department Store",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Foreign-visitor version launched nationwide early July 2025 after June pilot; Korean version Oct 19, 2025",
+  "dateSource": "https://byline.network/2025/06/11_hyundai/"
+ },
+ {
+  "name": "Gleo AI",
+  "company": "Hyundai Motor Group",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Pleos Connect with Gleo AI unveiled April 29, 2026, debuting on new Grandeur (concept shown at Pleos 25)",
+  "dateSource": "https://www.hyundaimotorgroup.com/en/news/hyundai-motor-group-redefines-in-vehicle-experience-with-pleos-connect-next-generation-infotainment-system"
+ },
+ {
+  "name": "AskHR",
+  "company": "IBM",
+  "launched": "2016",
+  "basis": "earliest mention",
+  "evidence": "IBM case study cites 75% reduction in support tickets since 2016 via AskHR",
+  "dateSource": "https://www.ibm.com/case-studies/ibm-askhr"
+ },
+ {
+  "name": "AskIBM",
+  "company": "IBM",
+  "launched": "2026-06",
+  "basis": "earliest mention",
+  "evidence": "IBM case study (June 2026) describes beta launch of AskIBM to employees and partners",
+  "dateSource": "https://www.ibm.com/case-studies/ibm-transformation/ask-ibm"
+ },
+ {
+  "name": "iPal",
+  "company": "ICICI Bank",
+  "launched": "2017-02",
+  "basis": "launched",
+  "evidence": "ICICI Bank introduced iPal chatbot on website and app in February 2017",
+  "dateSource": "https://www.digit.in/news/general/icici-banks-chatbot-ipal-can-take-care-of-your-banking-needs-37627.html/amp/"
+ },
+ {
+  "name": "ScentChat",
+  "company": "IFF (International Flavors & Fragrances)",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb. 4, 2025 /PRNewswire/ IFF announces the launch of ScentChat",
+  "dateSource": "https://technode.global/prnasia/iff-adds-real-time-consumer-feedback-into-fragrance-creation-with-introduction-of-ai-powered-scentchat-app/"
+ },
+ {
+  "name": "Ailo",
+  "company": "iFood",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Forbes Brasil Oct 10, 2025: iFood lança modelo de IA proprietário e assistente para pedidos",
+  "dateSource": "https://forbes.com.br/forbes-tech/2025/10/ifood-lanca-modelo-de-ia-proprietario-e-assistente-para-pedidos-via-whatsapp/"
+ },
+ {
+  "name": "Igi",
+  "company": "Igloo",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Igloo has launched Igi, an AI travel insurance assistant in Indonesia (June 9, 2026)",
+  "dateSource": "https://technode.global/2026/06/09/singapores-insurtech-igloo-launches-ai-travel-insurance-assistant-in-indonesia-boosting-purchase-decision-44/"
+ },
+ {
+  "name": "Billie",
+  "company": "IKEA (Ingka Group)",
+  "launched": "2021",
+  "basis": "launched",
+  "evidence": "Since its introduction in the fiscal year 2021, Billie has resolved ~47% of inquiries",
+  "dateSource": "https://apparelresources.com/business-news/retail/ikeas-ai-powered-billie-chatbot-revolutionises-customer-experience-empowers-co-workers/"
+ },
+ {
+  "name": "Ava Answers",
+  "company": "Illinois Community Credit Union",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "dAIsy",
+  "company": "Imperial College London",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Felix: dAIsy used by 8,500 people between its release in September (2025) and early April",
+  "dateSource": "https://felixonline.co.uk/articles/daisy-usage/"
+ },
+ {
+  "name": "Dot",
+  "company": "Included Health",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "Included Health launched Dot AI assistant, announced Dec 11, 2025",
+  "dateSource": "https://hitconsultant.net/2025/12/11/included-health-launches-first-of-its-kind-personalized-ai-chatbot/"
+ },
+ {
+  "name": "Samadhan Didi",
+  "company": "India Department of Administrative Reforms and Public Grievances",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Union Minister Jitendra Singh launched AI voice chatbot Samadhan Didi (02 Jun 2026)",
+  "dateSource": "https://www.drishtiias.com/state-pcs-current-affairs/samadhan-didi-ai-voice-chatbot-launched/print_manually"
+ },
+ {
+  "name": "Kisan e-Mitra",
+  "company": "India Ministry of Agriculture & Farmers' Welfare",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "Union Minister Kailash Choudhary launches PM-KISAN AI chatbot Kisan e-Mitra (Sept 2023)",
+  "dateSource": "https://newsonair.gov.in/union-minister-kailash-choudhary-launches-pm-kisan-ai-chatbot-kisan-e-mitra-in-new-delhi"
+ },
+ {
+  "name": "Sana",
+  "company": "India Today Group (Aaj Tak)",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "Kalli Purie unveiled AI anchor Sana at India Today Conclave 2023 (March 2023)",
+  "dateSource": "https://bwmarketingworld.com/article/india-today-group-launches-sana-first-ai-anchor-469658"
+ },
+ {
+  "name": "AI-TARA",
+  "company": "Indian Bank",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Indian Bank launched AI-TARA at Global Fintech Fest 2026 (Sept 9-11, 2026)",
+  "dateSource": "https://www.analyticsinsight.net/news/indian-bank-debuts-ai-tara-voice-banking-in-10-languages-at-global-fintech-fest-2026"
+ },
+ {
+  "name": "AskDISHA 2.0",
+  "company": "Indian Railway Catering and Tourism Corporation (IRCTC)",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "IRCTC has launched AskDISHA 2.0 (Business Today, May 29, 2025)",
+  "dateSource": "https://www.businesstoday.in/amp/personal-finance/news/story/irctc-askdisha-2-ai-assistant-train-ticket-booking-refund-cancellation-478255-2025-05-29"
+ },
+ {
+  "name": "REALLMS",
+  "company": "Indiana University",
+  "launched": "2025",
+  "basis": "earliest mention",
+  "evidence": "IU Fall 2025 article mentions 'our own in-house tool, REALLMS'",
+  "dateSource": "https://connectedprof.iu.edu/articles/2025-fall/taking-note.html"
+ },
+ {
+  "name": "6Eskai",
+  "company": "IndiGo",
+  "launched": "2023-11",
+  "basis": "launched",
+  "evidence": "IndiGo launched AI chatbot 6Eskai powered by GPT-4 (press release Nov 27, 2023)",
+  "dateSource": "https://www.cxodigitalpulse.com/indigo-unveils-6eskai-a-cutting-edge-ai-chatbot-powered-by-gpt-4-technology-for-seamless-customer-interaction-and-booking-experiences/"
+ },
+ {
+  "name": "MaiA",
+  "company": "Indonesia Ministry of Tourism",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov. 28, 2025: Minister of Tourism introduced and launched MaiA in Jakarta",
+  "dateSource": "https://www.aap.com.au/aapreleases/cision20251128ae35062"
+ },
+ {
+  "name": "Gong Xiaocai (工小财)",
+  "company": "Industrial and Commercial Bank of China (ICBC)",
+  "launched": "2026",
+  "basis": "earliest mention",
+  "evidence": "ICBC 2026 half-year report: account-manager agent 工小财 served 22M+ times in H1",
+  "dateSource": "https://m.sfccn.com/2026/9-12/3NMDE0MDZfMjIzOTA3NA.html"
+ },
+ {
+  "name": "Gong Xiaojing (工小晶)",
+  "company": "Industrial and Commercial Bank of China (ICBC)",
+  "launched": "2025-09",
+  "basis": "earliest mention",
+  "evidence": "ICBC embodied robot 工小晶 shown at CIFTIS finance hall (Xinhua, Sept 12, 2025)",
+  "dateSource": "https://www.news.cn/fortune/20250912/9e66ef4eb5f941c1ae21a4cb2ef9aed3/c.html"
+ },
+ {
+  "name": "Gong Xiaoshen (工小审)",
+  "company": "Industrial and Commercial Bank of China (ICBC)",
+  "launched": "2026",
+  "basis": "earliest mention",
+  "evidence": "cnfin Sept 2026: ICBC built credit-review digital assistant 工小审",
+  "dateSource": "https://www.cnfin.com/yw-lb/detail/20260917/4470937_1.html"
+ },
+ {
+  "name": "Gong Xiaozhi (工小智)",
+  "company": "Industrial and Commercial Bank of China (ICBC)",
+  "launched": "2016",
+  "basis": "launched",
+  "evidence": "工行在2016年推出了工小智 (later upgraded into customer-facing agent)",
+  "dateSource": "https://www.tmtpost.com/7241321.html"
+ },
+ {
+  "name": "Amber",
+  "company": "inFeedo AI",
+  "launched": "2019",
+  "basis": "earliest mention",
+  "evidence": "OYO exec in Mar 2022 TechCrunch: 'Almost three years ago, we started using Amber'",
+  "dateSource": "https://techcrunch.com/2022/03/14/infeedo-gets-12m-to-help-employers-find-out-how-their-workforce-really-feels"
+ },
+ {
+  "name": "Lens",
+  "company": "inFeedo AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Eva",
+  "company": "Infinitus Systems",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Pi",
+  "company": "Inflection AI",
+  "launched": "2023-05",
+  "basis": "launched",
+  "evidence": "Inflection AI today announced the first release of its Personal AI, Pi (May 2, 2023)",
+  "dateSource": "https://www.businesswire.com/news/home/20230502006113/en/"
+ },
+ {
+  "name": "AgenTeq",
+  "company": "Ingram Micro",
+  "launched": "2026-03",
+  "basis": "announced",
+  "evidence": "Ingram debuted AgenTeq brand on Q4 earnings call; Sales Brief Agent piloted in Canada (ChannelBuzz Mar 2026)",
+  "dateSource": "https://channelbuzz.ca/2026/03/icymi-ingram-micro-bets-big-on-agentic-ai-memory-pricing-pain-deepens-and-the-channel-gets-mental-health-community-46016/"
+ },
+ {
+  "name": "IDA",
+  "company": "Ingram Micro",
+  "launched": "2025-05",
+  "basis": "earliest mention",
+  "evidence": "Ingram Micro Q1 2025 earnings call: IDA generating tens of thousands of proactive engagements",
+  "dateSource": "https://www.roic.ai/quote/INGM/transcripts/2025-year/1-quarter"
+ },
+ {
+  "name": "Vaani",
+  "company": "Inka",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Inka announced the launch of Vaani, voice AI assistant for insurance (Sept 23, 2025)",
+  "dateSource": "https://www.medianews4u.com/inka-unveils-vaani-to-transform-insurance-with-indias-first-voice-ai-platform/"
+ },
+ {
+  "name": "Von Halsky",
+  "company": "InPost",
+  "launched": "2026-03",
+  "basis": "launched",
+  "evidence": "InPost AI assistant Von Halsky in app, launched mid-March 2026 (imagazine, Mar 17, 2026)",
+  "dateSource": "https://imagazine.pl/2026/03/17/inpost-asystent-ai-von-halsky-zakupy-w-aplikacji-bielik/"
+ },
+ {
+  "name": "Helô",
+  "company": "INSS (Brazil)",
+  "launched": "2026",
+  "basis": "launched",
+  "evidence": "Em 2026, a assistente virtual Helô passou por atualização para incorporar IA generativa (renamed upgrade; Helô predates)",
+  "dateSource": "https://diariodocomercio.com.br/geral/plataforma-meu-inss-ia-aposentados-atendimento-humano/"
+ },
+ {
+  "name": "Ask Instacart",
+  "company": "Instacart",
+  "launched": "2023-05",
+  "basis": "launched",
+  "evidence": "Instacart has officially launched AI-powered search tool Ask Instacart (May 31, 2023)",
+  "dateSource": "https://www.supermarketnews.com/grocery-technology/instacart-rolls-out-ask-instacart-chatgpt-feature"
+ },
+ {
+  "name": "Clementine",
+  "company": "Instacart",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Instacart introduced Clementine, now available to most U.S./Canadian customers (Sept 9, 2026)",
+  "dateSource": "https://theshelbyreport.com/2026/09/09/ai-shopping-assistants-debuted-by-instacart-shipt/"
+ },
+ {
+  "name": "IgniteAI",
+  "company": "Instructure",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "July 24, 2025 /PRNewswire/ Instructure Launches IgniteAI",
+  "dateSource": "https://www.aap.com.au/aapreleases/cision20250723ae36732"
+ },
+ {
+  "name": "Ask IBKR",
+  "company": "Interactive Brokers",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Interactive Brokers launches Ask IBKR, now available on IBKR Desktop (16 Oct 2025)",
+  "dateSource": "https://goodmoneyguide.com/investing/interactive-brokers-launches-ask-ibkr-an-ai-tool-that-offers-instant-portfolio-insights/"
+ },
+ {
+  "name": "Fin",
+  "company": "Intercom",
+  "launched": "2023-03",
+  "basis": "launched",
+  "evidence": "Intercom launches Fin customer service bot built on GPT-4 (March 14, 2023)",
+  "dateSource": "https://www.destinationcrm.com/Articles/CRM-News/CRM-Across-the-Wire/Intercom-Launches-Fin-Customer-Service-Bot-157621.aspx"
+ },
+ {
+  "name": "Aiden Insight",
+  "company": "International Holding Company (IHC)",
+  "launched": "2024-02",
+  "basis": "announced",
+  "evidence": "IHC announced AI board observer Aiden Insight on Feb 26, 2024 (2.0 followed May 2025)",
+  "dateSource": "https://www.wam.ae/en/article/b1uxh90-advisor-aiden-insight-takes-observer-seat-board"
+ },
+ {
+  "name": "Loïs",
+  "company": "Interpolis (Achmea)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Terra",
+  "company": "Interra Credit Union",
+  "launched": "2025-06",
+  "basis": "earliest mention",
+  "evidence": "Posh client story dated June 5, 2025 on Interra CU's AI Voice Assistant",
+  "dateSource": "https://www.posh.ai/client-stories/interra-credit-union"
+ },
+ {
+  "name": "Iva",
+  "company": "InTouch Credit Union",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Intuit Assist",
+  "company": "Intuit",
+  "launched": "2023-09",
+  "basis": "announced",
+  "evidence": "In fall 2023 Intuit announced generative AI financial assistant Intuit Assist",
+  "dateSource": "https://www.aarp.org/money/taxes/tax-return-ai/"
+ },
+ {
+  "name": "ElliQ",
+  "company": "Intuition Robotics",
+  "launched": "2022-03",
+  "basis": "launched",
+  "evidence": "In March 2022, ElliQ became commercially available in the United States",
+  "dateSource": "https://en.wikipedia.org/wiki/ElliQ"
+ },
+ {
+  "name": "Fido",
+  "company": "Ion Bank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Fiona",
+  "company": "Ion Bank",
+  "launched": "2022-03",
+  "basis": "launched",
+  "evidence": "Ion launched Posh's Digital Assistant, named Fiona, in March 2022",
+  "dateSource": "https://www.posh.ai/client-stories/ion-bank"
+ },
+ {
+  "name": "Savvy",
+  "company": "Istanbul Sabiha Gokcen Airport",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Savvy launched as PoC in November (2024) and rolled out to the public in March 2025",
+  "dateSource": "https://passengerterminalworld.mydigitalpublication.com/articles/change-agents"
+ },
+ {
+  "name": "ia.i",
+  "company": "Itaú Unibanco",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "Itaú começou a liberar para os clientes o ia.i, rollout to 300k users (July 2026)",
+  "dateSource": "https://www.letsmoney.com.br/noticias/itau-ia-i-assistente-app/"
+ },
+ {
+  "name": "Syntea",
+  "company": "IU International University of Applied Sciences",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "IU first university to use GPT-4 in its AI teaching assistant Syntea in early 2023",
+  "dateSource": "https://www.iu.de/news/en/iu-international-university-of-applied-sciences-developed-its-own-ai-agent-for-teaching/"
+ },
+ {
+  "name": "Ivo",
+  "company": "Ivo",
+  "launched": "2024-04",
+  "basis": "launched",
+  "evidence": "Latch relaunched as Ivo with $4.8M funding announcement, April 4, 2024",
+  "dateSource": "https://ivo.ai/news/funding-announcement"
+ },
+ {
+  "name": "Ace the Husky",
+  "company": "Ivy Tech Community College Kokomo",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Alpha T. Wolf",
+  "company": "Ivy Tech Community College Lafayette",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Jazzy T. Bobcat",
+  "company": "Ivy Tech Community College Richmond",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ivy",
+  "company": "Ivy.ai",
+  "launched": "2017",
+  "basis": "earliest mention",
+  "evidence": "NASFAA 2017 session describes Ivy, an AI customer service chat bot for colleges",
+  "dateSource": "https://nasfaa.confex.com/nasfaa/2017/webprogram/Session3061.html"
+ }
+]

@@ -1,0 +1,306 @@
+[
+ {
+  "name": "Zintis",
+  "company": "State Chancellery of Latvia",
+  "launched": "2020",
+  "basis": "earliest mention",
+  "evidence": "lvportals.lv item (2020) says Zintis recently joined the government virtual assistant lineup",
+  "dateSource": "https://lvportals.lv/dienaskartiba/323165-valsts-parvalde-virtualo-asistentu-loma-pieaug-tos-ik-dienas-izmanto-ap-2000-iedzivotaju-2020"
+ },
+ {
+  "name": "Navi",
+  "company": "State Farm",
+  "launched": "2026-05",
+  "basis": "announced",
+  "evidence": "State Farm newsroom May 2026 Next Gen Good Neighbor: Navi being rolled out to agents",
+  "dateSource": "https://newsroom.statefarm.com/state-farm-details-next-gen-good-neighbor/"
+ },
+ {
+  "name": "Agent Andrew",
+  "company": "TaxGPT",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Genie",
+  "company": "TBC Bank (Georgia)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sunny",
+  "company": "Teachable",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sara",
+  "company": "Teammates.ai",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Teammates.ai press release 7 July 2025 launches Sara, the AI interviewer",
+  "dateSource": "https://tr.tradingview.com/news/reuters.com,2025-07-07:newsml_Zaw26Th1:0-pressr-teammates-ai-launches-sara-the-ai-interviewer-hire-in-a-few-days-and-cut-screening-costs-by-85"
+ },
+ {
+  "name": "TECbot",
+  "company": "Tecnológico de Monterrey",
+  "launched": "2021",
+  "basis": "launched",
+  "evidence": "Tec's Conecta portal says Tec launched TECbot in 2021",
+  "dateSource": "https://news.microsoft.com/es-xl/la-inteligencia-artificial-de-microsoft-empodera-al-tec-de-monterrey-para-habilitar-nuevos-niveles-de-servicio/"
+ },
+ {
+  "name": "Tess",
+  "company": "Tess AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ava",
+  "company": "Third Voice",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Kevin",
+  "company": "Third Voice",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Dex",
+  "company": "Thirdlayer",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Thomas",
+  "company": "Thomas",
+  "launched": "2026",
+  "basis": "announced",
+  "evidence": "YC Spring 2026 launch page presents Thomas as first YC-backed AI founder",
+  "dateSource": "https://www.ycombinator.com/launches/QwO-thomas-the-first-yc-backed-ai-founder"
+ },
+ {
+  "name": "Research Buddy",
+  "company": "TIAA",
+  "launched": "2025-10",
+  "basis": "earliest mention",
+  "evidence": "CIO podcast (Oct 2025) mentions Research Buddy as a TIAA AI initiative",
+  "dateSource": "https://www.cio.com/podcast/4080298/tiaas-sastry-durvasula-on-ai-innovations-in-the-insurance-space.html"
+ },
+ {
+  "name": "Kai",
+  "company": "Together Credit Union",
+  "launched": "2025",
+  "basis": "earliest mention",
+  "evidence": "Posh client story says Kai rollout held member satisfaction above 94% into 2025",
+  "dateSource": "https://www.posh.ai/client-stories/client-story-together-credit-union"
+ },
+ {
+  "name": "Marta",
+  "company": "Torre del Marques",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Will-E",
+  "company": "Trust & Will",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Ruth",
+  "company": "TruStone Financial Credit Union",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "Ruth went live on TruStone's website in July, digital banking in November (press release Nov 2024)",
+  "dateSource": "https://eltropy.com/press/trustone-financial-credit-union-reduces-call-volume-20-with-eltropy-ai-chatbot/"
+ },
+ {
+  "name": "Bilge",
+  "company": "Türkiye Sigorta",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Executive says Bilge has answered 4.7M questions since October 2024",
+  "dateSource": "https://www.ekonomigazetesi.com/sirket-haberleri/turkiye-sigortaya-3-uluslararasi-odul-57722"
+ },
+ {
+  "name": "Zoey",
+  "company": "UNCLE Credit Union",
+  "launched": "2023-03",
+  "basis": "earliest mention",
+  "evidence": "Zoey page on unclecu.org dated 2023-03-20; no launch announcement found",
+  "dateSource": "https://www.unclecu.org/zoey/"
+ },
+ {
+  "name": "UVA (Union Voice Assistant)",
+  "company": "Union Bank of India",
+  "launched": "2023-02",
+  "basis": "launched",
+  "evidence": "Union Bank of India press release 10 Feb 2023 launches voice banking on Alexa",
+  "dateSource": "https://www.Unionbankofindia.co.in/pdf/UBI_Launches_Voice_Banking_Solution.pdf"
+ },
+ {
+  "name": "Rafa",
+  "company": "UnionBank of the Philippines",
+  "launched": "2017",
+  "basis": "earliest mention",
+  "evidence": "Qorus 2017 awards entry (July 2017) describes Rafa as UnionBank's bank bot",
+  "dateSource": "https://www.qorusglobal.com/innovations/21560-rafa-at-talktorafa-your-personal-bank-bot-from-unionbank"
+ },
+ {
+  "name": "Tely",
+  "company": "Unitus Community Credit Union",
+  "launched": "2023-07",
+  "basis": "launched",
+  "evidence": "Glia case study: Spanish virtual assistant implemented July 2023",
+  "dateSource": "https://www.glia.com/case-study/unitus-community-credit-union"
+ },
+ {
+  "name": "Royce",
+  "company": "University Credit Union",
+  "launched": "2020-08",
+  "basis": "launched",
+  "evidence": "University Credit Union AI bot Royce launched August 2020 per podcast summary",
+  "dateSource": "https://ucu.org/Learn/What-s-New/News/Listen-University-Credit-Union-Saved-$2M-In-1-Year"
+ },
+ {
+  "name": "FreshAI",
+  "company": "Wendy's",
+  "launched": "2023-05",
+  "basis": "announced",
+  "evidence": "Wendy's and Google Cloud announced FreshAI drive-thru pilot 9 May 2023; first pilot June 2023",
+  "dateSource": "https://www.franchising.com/news/20230510_wendy39s_taps_google_cloud_to_revolutionize_the_drivethru_experience_with_a.html"
+ },
+ {
+  "name": "Xiao P",
+  "company": "Xpeng",
+  "launched": "2020-10",
+  "basis": "earliest mention",
+  "evidence": "Cerence release Oct 2020 describes Xiao P already working in G3 and P7; true debut earlier",
+  "dateSource": "https://investors.cerence.com/news-events/press-releases/detail/292/chinese-smart-ev-leader-xpeng-inc-selects-cerence-to-power-its-automotive-voice-assistant"
+ },
+ {
+  "name": "Arai Ai (新井あい)",
+  "company": "Yabushita Holdings",
+  "launched": "2026-01",
+  "basis": "announced",
+  "evidence": "Digital human employee first shown at HVAC&R JAPAN 2026, 27-30 Jan 2026",
+  "dateSource": "https://prtimes.jp/main/html/rd/p/000000004.000162067.html"
+ },
+ {
+  "name": "Q-Smart",
+  "company": "Yum China (KFC China)",
+  "launched": "2025-06",
+  "basis": "announced",
+  "evidence": "Unveiled at Yum China AI Day June 2025 and piloted at select KFC stores",
+  "dateSource": "https://insideretail.asia/2025/06/23/yum-china-launches-ai-assistant-for-kfc-restaurant-managers/"
+ },
+ {
+  "name": "Zalando Assistant",
+  "company": "Zalando",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Since October 2024 the Zalando Assistant has been live for logged-in customers in all 25 markets",
+  "dateSource": "https://corporate.zalando.com/en/node/10755"
+ },
+ {
+  "name": "AutoGLM",
+  "company": "Zhipu AI (Z.ai)",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Zhipu launched a usable AutoGLM in October 2024; AutoGLM 2.0 app Aug 2025",
+  "dateSource": "https://www2.yicaiglobal.com/news/chinas-zhipu-unveils-worlds-first-mobile-agent-turning-phones-into-ai-assistants"
+ },
+ {
+  "name": "AI Companion",
+  "company": "Zoom",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "Zoom introduced AI Companion (formerly Zoom IQ) Sept 2023 at no extra cost",
+  "dateSource": "https://www.nasdaq.com/press-release/zoom-introduces-zoom-ai-companion-available-at-no-additional-cost-with-paid-zoom-user"
+ },
+ {
+  "name": "Emma",
+  "company": "zudo.work",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Maya",
+  "company": "zudo.work",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Steve",
+  "company": "zudo.work",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Kelsey",
+  "company": "Zuma",
+  "launched": "2021",
+  "basis": "launched",
+  "evidence": "Zuma CEO says first version of Kelsey launched in 2021",
+  "dateSource": "https://www.getzuma.com/post/ai-leasing-agents-in-multifamily-why-every-team-needs-a-kelsey"
+ },
+ {
+  "name": "Z Buddy",
+  "company": "Zurich Malaysia",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Zurich Malaysia press release 15 July 2025 launches Z Buddy for agents on WhatsApp",
+  "dateSource": "https://www.zurich.com.my/about-zurich/zurich-in-the-news/2025/2025-07-15"
+ },
+ {
+  "name": "Zara",
+  "company": "Zurich UK",
+  "launched": "2018",
+  "basis": "launched",
+  "evidence": "Zurich UK Zara chatbot launched 2018 (pilot), later extended to SME",
+  "dateSource": "https://www.zurich.co.uk/news-and-insight/zara-the-zurich-claims-chatbot-comes-to-sme-commercial-insurance"
+ },
+ {
+  "name": "ZKB ChatGPT",
+  "company": "Zürcher Kantonalbank",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Since October 2024 ZKB ChatGPT has been integrated as a digital colleague, after two-month test",
+  "dateSource": "https://www.zkb.ch/de/blog/themen/zkb-chatgpt-ein-meilenstein-auf-unserer-ki-reise.html"
+ },
+ {
+  "name": "Hey George",
+  "company": "Česká spořitelna (Erste Group)",
+  "launched": "2024-12",
+  "basis": "launched",
+  "evidence": "Svetandroida 3 Dec 2024: Ceska sporitelna started Hey George, GPT-4o-based assistant",
+  "dateSource": "https://www.svetandroida.cz/ceska-sporitelna-hey-george-chatbot"
+ }
+]

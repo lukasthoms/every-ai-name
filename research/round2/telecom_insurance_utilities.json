@@ -1,0 +1,371 @@
+[
+ {
+  "name": "Cici",
+  "company": "Cornerstone Insurance (Nigeria)",
+  "project": "WhatsApp / website",
+  "use": "24/7 virtual assistant that answers insurance questions, helps customers buy cover, and gives claims and policy guidance.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.vanguardngr.com/2025/08/cornerstone-insurance-launches-ai-powered-assistant/"
+ },
+ {
+  "name": "Ava",
+  "company": "Avangrid (NYSEG, RG&E, CMP, UI)",
+  "project": "Utility websites",
+  "use": "AI energy assistant that answers common questions on bills, payment plans, meter reading, outages and MyAccount.",
+  "category": "Utilities",
+  "nameType": "human",
+  "source": "https://www.renewableenergyworld.com/power-grid/avangrid-rolling-out-ai-assistant-to-utility-customers-in-new-york-connecticut-and-maine/"
+ },
+ {
+  "name": "Alex",
+  "company": "Newfoundland Power",
+  "project": "newfoundlandpower.com",
+  "use": "24/7 generative AI virtual assistant with an avatar that handles account questions, outages and FAQs.",
+  "category": "Utilities",
+  "nameType": "human",
+  "source": "https://www.electricity.ca/programs/centre-of-excellence/powering-service-innovation/"
+ },
+ {
+  "name": "ixi-O",
+  "company": "LG Uplus",
+  "project": "ixi-O app",
+  "use": "On-device AI call agent that answers calls, records and summarizes conversations, and detects voice-phishing scams.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.telecomtv.com/content/telcos-and-ai-channel/south-korea-s-lg-uplus-expands-its-ai-strategy-51723/"
+ },
+ {
+  "name": "myAI",
+  "company": "Swisscom",
+  "project": "myAI",
+  "use": "Claude-powered AI chatbot for people in Switzerland that writes text, analyzes data, makes images and gives local info like train times and TV tips.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.netzwoche.ch/news/2025-08-25/swisscoms-chatbot-kann-jetzt-mehr-und-steht-allen-offen"
+ },
+ {
+  "name": "Goffredo",
+  "company": "LENE (Enel Group)",
+  "project": "Lene.it",
+  "use": "AI virtual assistant that guides customers of Enel's digital energy brand from choosing an offer through after-sales support.",
+  "category": "Utilities",
+  "nameType": "human",
+  "source": "https://corporate.enel.it/content/dam/enel-common/press/it/2025-ottobre/CS%20lancio%20LENE.pdf"
+ },
+ {
+  "name": "E-lectra",
+  "company": "Enel",
+  "project": "",
+  "use": "Generative AI voice assistant that lets Italian grid field operators ask questions hands-free and get answers from maintenance manuals and procedures.",
+  "category": "Utilities",
+  "nameType": "brand",
+  "source": "https://agendadigitale.eu/smart-city/innovazione-per-lenergia-cosi-gli-assistenti-virtuali-cambiano-loperativita"
+ },
+ {
+  "name": "Leon",
+  "company": "Generali Poland",
+  "project": "generali.pl",
+  "use": "24/7 website chatbot named after Generali's lion that answers 120+ questions on claims, damages and new policies.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://ibm.com/case-studies/generali-poland"
+ },
+ {
+  "name": "Leo",
+  "company": "Generali Switzerland",
+  "project": "generali.ch",
+  "use": "Website chatbot that answers general questions about Generali's services and products, links to forms and can record motor damage claims.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://generali.ch/en/legal-information/terms-and-conditions-chatbot-virtual-assistant"
+ },
+ {
+  "name": "Leo",
+  "company": "Generali Česká pojišťovna",
+  "project": "",
+  "use": "Chatbot and voicebot that handles client verification, document uploads, payments and policy changes.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://daktela.com/customer-stories-with-quotes/generali-insurance"
+ },
+ {
+  "name": "Alfred",
+  "company": "Eskom",
+  "project": "Web chat / WhatsApp",
+  "use": "Chatbot that lets customers log power outages, track fault reports and submit meter readings.",
+  "category": "Utilities",
+  "nameType": "human",
+  "source": "https://www.eskom.co.za/distribution/alfred-chat-bot/"
+ },
+ {
+  "name": "ELA",
+  "company": "E.ON Czech Republic",
+  "project": "",
+  "use": "E.ON Language Assistant, a 24/7 AI agent that answers customer questions and guides self-service across online channels and contact centers.",
+  "category": "Utilities",
+  "nameType": "human",
+  "source": "https://oenergetice.cz/prace/eon-product-owner-e-on-ai-assistant-ela-4214568"
+ },
+ {
+  "name": "Arlo",
+  "company": "Octopus Energy",
+  "project": "Kraken",
+  "use": "AI customer service assistant that answers routine customer emails about tariffs, payment dates and account details.",
+  "category": "Utilities",
+  "nameType": "human",
+  "source": "https://octopus.energy/press/more-news-press-releases/octopus-energy-s-ai-trial-wins-customer-approval/"
+ },
+ {
+  "name": "Project Nemo",
+  "company": "Allianz",
+  "project": "",
+  "use": "Multi-agent AI system that automates small food spoilage claims after storms, with a human approving payouts.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://coverager.com/allianz-introduces-agentic-ai-to-speed-up-food-spoilage-claims/"
+ },
+ {
+  "name": "Nicole",
+  "company": "Aspire General Insurance",
+  "project": "",
+  "use": "AI voice agent (built by Liberate) that takes first-notice-of-loss claim calls 24/7 in multiple languages.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://fintech.global/2026/03/10/aspire-adopts-ai-fnol-system-with-liberate/"
+ },
+ {
+  "name": "Oliver",
+  "company": "Cox Communications",
+  "project": "cox.com chat",
+  "use": "24/7 virtual chat assistant that answers customer questions, troubleshoots and handles bill pay.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://www.cognizant.com/us/en/case-studies/cox-communications-bold-vision-redefines-the-contact-center-experience"
+ },
+ {
+  "name": "Olive",
+  "company": "Cox Communications",
+  "project": "Phone IVR",
+  "use": "Generative AI voice agent on Cox's phone line that schedules service appointments and handles dozens of other requests.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://www.cognizant.com/us/en/case-studies/cox-communications-bold-vision-redefines-the-contact-center-experience"
+ },
+ {
+  "name": "Obot",
+  "company": "Ooredoo Qatar",
+  "project": "Ooredoo app, website, WhatsApp",
+  "use": "GPT-4o-powered digital assistant with a voice avatar that answers customer questions across app, web and social channels.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.ooredoo.qa/web/en/press-release/ooredoo-qatar-expands-obot-to-retail-customers-with-ai-powered-avatar-and-multi-channel-availability/"
+ },
+ {
+  "name": "Evee",
+  "company": "Ooredoo Maldives",
+  "project": "Ooredoo SuperApp",
+  "use": "AI chatbot that checks balances, pays bills, recharges, changes plans and recommends products.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://edition.mv/business/51647"
+ },
+ {
+  "name": "Ms. Baza",
+  "company": "MTN Rwanda",
+  "project": "",
+  "use": "Multilingual AI assistant (English, French, Kinyarwanda, Kiswahili) to make digital services accessible, including for people without smartphones.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://allafrica.com/stories/202510270146.html"
+ },
+ {
+  "name": "Max",
+  "company": "Orange Polska",
+  "project": "",
+  "use": "Virtual assistant on phone and chat, now using generative AI to help customers compare and choose smartphones.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://www.telepolis.pl/tech/aplikacje/orange-wirtualny-asystent-max-wybor-smartfonu"
+ },
+ {
+  "name": "Zebra",
+  "company": "Orange Polska (for Warsaw's ZDM)",
+  "project": "",
+  "use": "AI kiosk assistant at Warsaw's roads authority that answers residents' questions by text and voice in Polish, English and Ukrainian.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.telepolis.pl/wiadomosci/orange-asystent-ai-zebra-w-zarzadzie-drog-miejskich"
+ },
+ {
+  "name": "Vic",
+  "company": "Vodafone Idea (Vi)",
+  "project": "Vi App / WhatsApp",
+  "use": "24/7 AI virtual assistant that handles balance checks, recharges, bill payments and plan changes.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://www.myvi.in/vi-app"
+ },
+ {
+  "name": "Peggy",
+  "company": "PG&E",
+  "project": "Phone line (PolyAI)",
+  "use": "AI voice agent that gives outage updates with restoration times and answers billing questions in English and Spanish.",
+  "category": "Utilities",
+  "nameType": "human",
+  "source": "https://poly.ai/customers/pge"
+ },
+ {
+  "name": "RIYA",
+  "company": "JioStar (Reliance)",
+  "project": "JioHotstar",
+  "use": "Voice search assistant that finds shows, movies and episodes from spoken requests.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://www.businesstoday.in/amp/technology/news/story/from-wearables-to-ai-storytelling-jio-launches-frames-jiopc-riya-voice-print-at-ril-agm-491640-2025-08-29"
+ },
+ {
+  "name": "Pepe",
+  "company": "Naturgy",
+  "project": "Naturgy Clientes app",
+  "use": "24/7 chatbot that answers customer questions about bills, tariffs, maintenance and online account tasks.",
+  "category": "Utilities",
+  "nameType": "human",
+  "source": "https://apps.apple.com/es/app/id1053505418"
+ },
+ {
+  "name": "Nina",
+  "company": "Vattenfall",
+  "project": "",
+  "use": "Customer chatbot on web, app and WhatsApp, being upgraded to understand customer situations and resolve more cases.",
+  "category": "Utilities",
+  "nameType": "human",
+  "source": "https://group.vattenfall.com/investors/financial-reports-and-presentations/annual-and-sustainability-report-2025-in-highlights/ai-robotics-from-smart-tools-to-smarter-ways-of-working/"
+ },
+ {
+  "name": "Nafa'a",
+  "company": "Sharjah Electricity, Water and Gas Authority (SEWA)",
+  "project": "",
+  "use": "AI virtual assistant that handles bill inquiries and payments, connection applications and outage reports around the clock.",
+  "category": "Utilities",
+  "nameType": "brand",
+  "source": "https://sharjah24.ae/en/Articles/2025/11/11/Ma16"
+ },
+ {
+  "name": "Lingxi",
+  "company": "China Mobile",
+  "project": "Lingxi agents",
+  "use": "AI agent family built on China Mobile's Jiutian model for phone, TV and SMS that plans trips, finds places and runs home tasks by voice.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://eu.36kr.com/en/p/3709414853259656"
+ },
+ {
+  "name": "TeleAgent",
+  "company": "China Telecom",
+  "project": "Tianyi AI platform",
+  "use": "Desktop AI agent built on the Xingchen model that handles office tasks like expense receipts, contract review and simple web pages.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://stlpartners.com/articles/ai/mwc-shanghai-highlights-how-chinese-telcos-monetise-ai/"
+ },
+ {
+  "name": "Tongtong (Unicom Tone)",
+  "company": "China Unicom",
+  "project": "TV set-top box",
+  "use": "Smart home assistant in the TV box that picks channels, recommends content, monitors the home and makes video calls.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://stlpartners.com/articles/ai/mwc-shanghai-highlights-how-chinese-telcos-monetise-ai/"
+ },
+ {
+  "name": "OZ",
+  "company": "Zong 4G (China Mobile Pakistan)",
+  "project": "My Zong app",
+  "use": "AI chatbot that answers customer questions about Zong's telecom services in natural language in real time.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.phoneworld.com.pk/zong-launches-oz-an-ai-chatbot-to-revolutionize-customer-experience/"
+ },
+ {
+  "name": "Clive",
+  "company": "Five Sigma",
+  "project": "Five Sigma Claims Platform",
+  "use": "Multi-agent AI claims adjuster that automates routine claims tasks and moves claims forward within each insurer's procedures.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.utusan.com.my/pr-newswire-en/2026/01/starr-modernizes-pc-and-specialty-claims-with-five-sigmas-ai-claims-platform-and-clive"
+ },
+ {
+  "name": "DIA",
+  "company": "Dialog Axiata",
+  "project": "WhatsApp / MyDialog App",
+  "use": "Dialog's Intelligent Assistant, a 24/7 AI support agent that handles complaints, reconnections, package changes, balance checks and roaming activation.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://www.telecomtv.com/content/ai/dialog-elevates-customer-support-with-ai-powered-dia-56005/amp/"
+ },
+ {
+  "name": "ALLIE",
+  "company": "Allstate",
+  "project": "",
+  "use": "Allstate Large Language Intelligent Ecosystem, an agentic AI platform being built to handle customer interactions and improve service and growth.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.customerexperiencedive.com/news/allstate-allie-platform-agentic-strategy-customer-service/827506/"
+ },
+ {
+  "name": "Oswell",
+  "company": "Oscar Health",
+  "project": "Oscar app",
+  "use": "Animated AI agent for health plan members that explains lab results, handles refills and coverage questions, and connects members to care.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://buck.co/work/oscar-ai-agent"
+ },
+ {
+  "name": "Maina",
+  "company": "Nepal Telecom",
+  "project": "",
+  "use": "AI customer service robot at Nepal Telecom's Sundhara office that answers 600+ common questions in English and Nepali.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://www.b360nepal.com/detail/23834/nepal-telecom-introduces-robotic-service-to-enhance-customer-support"
+ },
+ {
+  "name": "Clara",
+  "company": "Helvetia",
+  "project": "helvetia.ch / WhatsApp / phone",
+  "use": "24/7 AI chatbot and voicebot that answers insurance and pension questions and handles tasks like reporting claims and updating contact details.",
+  "category": "Insurance",
+  "nameType": "human",
+  "source": "https://www.helvetia.com/ch/web/en/private-customers/contact/services/ask-clara/chatbot-clara.html"
+ },
+ {
+  "name": "EME",
+  "company": "Mutua Madrileña",
+  "project": "mutua.es / WhatsApp",
+  "use": "24/7 virtual assistant that answers customer questions, files claims, tracks claim status and requests roadside assistance.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://www.rastreator.com/seguros/aseguradoras/mutua-madrilena/contacto"
+ },
+ {
+  "name": "Erna",
+  "company": "Stadtwerke Herne",
+  "project": "",
+  "use": "AI agent that completes customer service tasks such as meter readings, instalment changes and payment arrangements directly in the utility's billing system.",
+  "category": "Utilities",
+  "nameType": "human",
+  "source": "https://www.loyjoy.com/en/cases/stadtwerke_herne/"
+ },
+ {
+  "name": "BReX",
+  "company": "BSNL",
+  "project": "chatbot.bsnl.co.in",
+  "use": "Recharge chatbot that detects a customer's active plan and suggests the right vouchers, with no login needed.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://telecomtalk.info/?p=1001938"
+ }
+]

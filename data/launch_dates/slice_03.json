@@ -1,0 +1,682 @@
+[
+ {
+  "name": "Aditi",
+  "company": "Bank of Baroda",
+  "launched": "2024-09",
+  "basis": "announced",
+  "evidence": "Sep 18, 2024 press release: BoB adopts GenAI; 'Aditi' is the 24*7 virtual relationship manager set to answer customer queries.",
+  "dateSource": "https://cxotoday.com/press-release/bank-of-baroda-adopts-generative-ai-genai-to-transform-customer-experience-and-employee-efficiency/"
+ },
+ {
+  "name": "Xiao Jing (小京)",
+  "company": "Bank of Beijing",
+  "launched": "2025-09",
+  "basis": "earliest mention",
+  "evidence": "2025-09-12: AI robot 'Xiao Jing' presented Bank of Beijing's work at CIFTIS 2025.",
+  "dateSource": "https://www.news.cn/fortune/20250912/9e66ef4eb5f941c1ae21a4cb2ef9aed3/c.html"
+ },
+ {
+  "name": "Xiaojing Caizhi (小京财智)",
+  "company": "Bank of Beijing",
+  "launched": "2025-09",
+  "basis": "earliest mention",
+  "evidence": "Xinhua, Sep 2025: Bank of Beijing developed and launched AI tools such as Xiaojing Caizhi.",
+  "dateSource": "https://www.news.cn/fortune/20250910/ec64e5bf15454f75929b2ac438d2973c/c.html"
+ },
+ {
+  "name": "AI Xiaolu Assistant (AI小鹿助手)",
+  "company": "Bank of Communications",
+  "launched": "2025-12",
+  "basis": "launched",
+  "evidence": "App Store: version 10.1.0 (2025/12/04) release notes introduce AI小鹿助手 smart wealth manager.",
+  "dateSource": "https://apps.apple.com/cn/app/id337876534"
+ },
+ {
+  "name": "BEA",
+  "company": "Bank of the Philippine Islands (BPI)",
+  "launched": "2023-11",
+  "basis": "earliest mention",
+  "evidence": "BEA Chat terms of use and privacy policy press release dated Nov 15, 2023.",
+  "dateSource": "https://www.bpi.com.ph/about-bpi/news/bea-chats-terms-of-use-and-bea-chats-privacy-policy"
+ },
+ {
+  "name": "Sabrina",
+  "company": "Bank Rakyat Indonesia (BRI)",
+  "launched": "2018-04",
+  "basis": "launched",
+  "evidence": "Early April 2018 BRI officially released chatbot SABRINA (Kata.ai announced it March 7, 2018).",
+  "dateSource": "https://infobanknews.com/bri-luncurkan-chatbot-sabrina/"
+ },
+ {
+  "name": "Dahlia",
+  "company": "Bankinter",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "27 May 2025: Bankinter's private banking integrates the generative AI assistant Dahlia into daily management.",
+  "dateSource": "https://www.fundssociety.com/es/?p=273971"
+ },
+ {
+  "name": "Maya",
+  "company": "Banorte",
+  "launched": "2018",
+  "basis": "launched",
+  "evidence": "Forbes México: Banorte AI executive said virtual assistant Maya was released in 2018.",
+  "dateSource": "https://forbes.com.mx/inteligencia-artificial-es-clave-para-agilizar-y-mejorar-servicios-banorte/"
+ },
+ {
+  "name": "ABKARINO",
+  "company": "Banque Misr",
+  "launched": "2018-10",
+  "basis": "launched",
+  "evidence": "Oct 2018: Banque Misr launched first website 'Chat Bot' in Egypt; name 'Abkarino' first seen Nov 2021 (original launch date).",
+  "dateSource": "https://www.banquemisr.com/ABOUT-US/News/Banque-Misr-is-the-first-Egyptian"
+ },
+ {
+  "name": "Scout",
+  "company": "BARK",
+  "launched": "2026-05",
+  "basis": "earliest mention",
+  "evidence": "Sierra customer story published 2026-05-12 describes BARK's agent Scout.",
+  "dateSource": "https://sierra.ai/customers/bark"
+ },
+ {
+  "name": "Gingham Genius",
+  "company": "Bath & Body Works",
+  "launched": "2024-09",
+  "basis": "announced",
+  "evidence": "Sept. 3, 2024: Bath & Body Works gearing up to launch GenAI fragrance finder Gingham Genius later this year.",
+  "dateSource": "https://www.retaildive.com/news/bath-body-works-generative-ai-tool-fragrance/725765/"
+ },
+ {
+  "name": "Orphia",
+  "company": "Bausch + Lomb",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "07.09.2026: Bausch + Lomb introduces Orphia AI platform for cataract patient education.",
+  "dateSource": "https://eyewire.news/news/bausch-lomb-introduces-orphia-ai-platform-for-cataract-patient-education"
+ },
+ {
+  "name": "myGenAssist",
+  "company": "Bayer",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "JMIR 2025 paper: at the end of 2023, Bayer AG launched its own internal LLM, MyGenAssist.",
+  "dateSource": "https://www.jmir.org/2025/1/e65651"
+ },
+ {
+  "name": "BayutGPT",
+  "company": "Bayut (Dubizzle Group)",
+  "launched": "2023-09",
+  "basis": "launched",
+  "evidence": "September 11, 2023: Bayut has launched an AI-powered real estate search assistant named BayutGPT.",
+  "dateSource": "https://www.onlinemarketplaces.com/?p=100981"
+ },
+ {
+  "name": "AskGive",
+  "company": "BBB Wise Giving Alliance",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Aug 13, 2025 press release: BBB Wise Giving Alliance today launched AskGive, a generative AI giving advisor.",
+  "dateSource": "https://www.nonprofitpro.com/article/bbb-wise-giving-alliance-launches-askgive-ai-powered-giving-adviser"
+ },
+ {
+  "name": "Blue",
+  "company": "BBVA",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Roll-out of the new GenAI assistant Blue takes place Feb 20th (2025) in Spain; Blue name existed earlier as BBVA assistant.",
+  "dateSource": "https://www.bbva.com/en/innovation/for-the-first-time-in-spain-bbva-will-offer-ai-powered-account-and-card-management-with-its-virtual-assistant/"
+ },
+ {
+  "name": "Clara",
+  "company": "BCP (Banco de Crédito del Perú)",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "11 July 2024: AI arrived at BCP; phone-banking callers are now served by virtual assistant Clara.",
+  "dateSource": "https://www.corresponsables.com/per/social/bcp-la-inteligencia-artificial-llego-a-la-banca-peruana-para-facilitar-la-atencion-a-clientes/"
+ },
+ {
+  "name": "ChatHUE",
+  "company": "Behr Paint Company (Masco)",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "August 20, 2025: 'Now meet ChatHUE', a new AI-powered agent from Behr built with Google.",
+  "dateSource": "https://paintmag.com/behr-partners-with-google-for-online-color-tool/"
+ },
+ {
+  "name": "Jingjing (京京)",
+  "company": "Beijing Municipal Government",
+  "launched": "2026-04",
+  "basis": "earliest mention",
+  "evidence": "Xinhua 2026-04-28: GO BEIJING platform launched, introducing AI agent 'Jingjing' (京京).",
+  "dateSource": "https://www.xinhuanet.com/20260428/78bdb7fe7d4e4c1988b0f994af2e1049/c.html"
+ },
+ {
+  "name": "Hey Belfius",
+  "company": "Belfius",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "Miro story (June 2026): early signals from the app's soft launch in April; 255,000 conversations in weeks.",
+  "dateSource": "https://miro.com/blog/belfius-canvas-26/"
+ },
+ {
+  "name": "Bella",
+  "company": "Bella (bellasales.io)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "REMY",
+  "company": "Benchmark Wine Group",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "GlobeNewswire May 12, 2026: Benchmark Wine Group introduces REMY, an AI-powered wine expert.",
+  "dateSource": "https://www.globenewswire.com/news-release/2026/05/12/3292948/0/en/Benchmark-Wine-Group-Introduces-REMY-an-AI-Powered-Wine-Expert.html"
+ },
+ {
+  "name": "Georgie",
+  "company": "Benevity",
+  "launched": "2024-10",
+  "basis": "earliest mention",
+  "evidence": "Zendesk customer story published 2024-10-14 describes Benevity's agent Georgie.",
+  "dateSource": "https://www.zendesk.com/customer/benevity/"
+ },
+ {
+  "name": "BärGPT",
+  "company": "Berlin Senate Chancellery (Senatskanzlei Berlin)",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Pressemitteilung 25.11.2025: Die Senatskanzlei hat am 25. November BärGPT freigeschaltet.",
+  "dateSource": "https://www.berlin.de/rbmskzl/aktuelles/pressemitteilungen/2025/pressemitteilung.1619432.php"
+ },
+ {
+  "name": "AIS.chat",
+  "company": "Berlin Senate Department for Education",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Press release 20.05.2026: AIS.chat available to all Berlin public schools; renamed from telli (launched 01.09.2025) on 08.05.2026.",
+  "dateSource": "https://www.berlin.de/sen/bjf/service/presse/pressearchiv-2026/pressemitteilung.1672560.php"
+ },
+ {
+  "name": "Bernard",
+  "company": "Bernard",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "Profile says Bernard (YC Summer 2026) launched publicly on August 13, 2026.",
+  "dateSource": "https://www.extruct.ai/hub/bernardhq-com/"
+ },
+ {
+  "name": "Ask Blue",
+  "company": "Best Buy",
+  "launched": "2026-08",
+  "basis": "announced",
+  "evidence": "Aug. 31, 2026: Best Buy in phased rollout of Ask Blue, per Q2 earnings call.",
+  "dateSource": "https://www.retaildive.com/news/best-buy-ai-shopping-assistant/829049/"
+ },
+ {
+  "name": "Athena",
+  "company": "BetterBasket",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Bibi",
+  "company": "Binance",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "November 29th, 2025: Binance launches Bibi, an AI tool that summarizes whitepapers in under 30 seconds.",
+  "dateSource": "https://coinfomania.com/binance-bibi-ai-whitepaper-summarizer-launch-2025/"
+ },
+ {
+  "name": "BABS (Birmingham Airport Bot Service)",
+  "company": "Birmingham Airport",
+  "launched": "2026-02",
+  "basis": "announced",
+  "evidence": "13 February 2026 partner feature introduces Birmingham Airport's new AI-powered assistant BABS, first phase of CPE rollout.",
+  "dateSource": "https://www.ttgmedia.com/sponsored-features/meet-babs-ai-powered-assistant-enhancing-airport-experience-birmingham-airport"
+ },
+ {
+  "name": "GetAgent",
+  "company": "Bitget",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "July 1, 2025 press release: Bitget launched GetAgent invite-only; opened to all users August 2025.",
+  "dateSource": "https://www.aap.com.au/aapreleases/globenewswire1001115791/"
+ },
+ {
+  "name": "Gracy AI",
+  "company": "Bitget",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "Feb. 13, 2026 (GLOBE NEWSWIRE): Bitget has launched Gracy AI, the first animated digital human in crypto.",
+  "dateSource": "https://www.aap.com.au/aapreleases/globenewswire1001164612/"
+ },
+ {
+  "name": "Otto",
+  "company": "Bizzy AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Bev",
+  "company": "BJ's Wholesale Club",
+  "launched": "2026-08",
+  "basis": "earliest mention",
+  "evidence": "Delight.ai customer story Aug 18, 2026 describes the launch of Bev for BJ's members.",
+  "dateSource": "https://delight.ai/customers/bjs"
+ },
+ {
+  "name": "Aladdin Copilot",
+  "company": "BlackRock",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Moneybot",
+  "company": "Block",
+  "launched": "2025-11",
+  "basis": "announced",
+  "evidence": "AP, November 13, 2025: Cash App's new AI assistant Moneybot unveiled.",
+  "dateSource": "https://www.ksat.com/business/2025/11/13/cash-apps-moneybot-might-know-your-spending-habits-better-than-you-do/"
+ },
+ {
+  "name": "Lumi Assistant",
+  "company": "BMO",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Launched in May 2025, Lumi Assistant helps BMO employees instantly access policies and procedures.",
+  "dateSource": "https://about.bmo.com/meet-lumi-assistant-bmos-award-winning-ai-tool-empowering-team-bmo"
+ },
+ {
+  "name": "BMW Intelligent Personal Assistant",
+  "company": "BMW",
+  "launched": "2026-01",
+  "basis": "announced",
+  "evidence": "bmwblog, Jan 9, 2026: BMW unveils Alexa+-based Intelligent Personal Assistant (CES 2026).",
+  "dateSource": "https://www.bmwblog.com/2026/01/09/bmw-alexa-plus-intelligent-personal-assistant/"
+ },
+ {
+  "name": "AIconic",
+  "company": "BMW Group",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Press release May 19, 2025: new multi-agent system BMW Group AIconic Agent for Purchasing.",
+  "dateSource": "https://www.press.bmwgroup.com/global/article/detail/T0450032EN/greater-efficiency-and-productivity-with-artificial-intelligence"
+ },
+ {
+  "name": "Factory Genius",
+  "company": "BMW Group",
+  "launched": "2025-07",
+  "basis": "earliest mention",
+  "evidence": "July 2, 2025: BMW Group 'Just ask Factory Genius!' AI maintenance assistant speeds up troubleshooting.",
+  "dateSource": "https://www.automotiveworld.com/news/bmw-group-just-ask-factory-genius-how-ai-helps-maintain-manufacturing-equipment/"
+ },
+ {
+  "name": "Yara",
+  "company": "BNP Paribas Fortis",
+  "launched": "2026-06",
+  "basis": "earliest mention",
+  "evidence": "La Libre, 4 June 2026: internal chat GPT named Yara already does work of 270 FTE.",
+  "dateSource": "https://www.lalibre.be/economie/entreprises-startup/2026/06/04/ces-taches-que-bnp-paribas-fortis-va-confier-a-lia-YRDIWOVOSNCMJNOHA7RMRNGT4Y/"
+ },
+ {
+  "name": "Eliza",
+  "company": "BNY",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "In 2023, BNY launched Eliza, a model-agnostic platform.",
+  "dateSource": "https://www.forrester.com/blogs/bny-built-its-digital-workforce-backward-and-its-working/"
+ },
+ {
+  "name": "Candelaria",
+  "company": "Bogotá Tourism Institute (Instituto Distrital de Turismo)",
+  "launched": "2025-01",
+  "basis": "launched",
+  "evidence": "24 Jan 2025: Candelaria, first generative AI chatbot from Colombia, made its grand debut at FITUR 2025.",
+  "dateSource": "https://bogota.gov.co/en/international/candelaria-bogota-tourism-chatbot-debuts-madrid-spain-2025"
+ },
+ {
+  "name": "Lola",
+  "company": "Booking Holdings",
+  "launched": "2026-09",
+  "basis": "launched",
+  "evidence": "Booking Holdings launched Lola on 29 September as a conversational booking service (US-only initially).",
+  "dateSource": "https://tbreak.com/lola-ai-travel-agent-booking-holdings-launch/"
+ },
+ {
+  "name": "Turbo",
+  "company": "Booz Allen Hamilton",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AskBosch",
+  "company": "Bosch",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "AskBosch has been available at Bosch worldwide from the end of 2023.",
+  "dateSource": "https://www.bosch.co.jp/press/rbjp-2506-05/?lang=en"
+ },
+ {
+  "name": "Deckster",
+  "company": "Boston Consulting Group",
+  "launched": "2025-05",
+  "basis": "earliest mention",
+  "evidence": "Business Insider (May 2025): BCG's firm-wide tools include Deckster, a slide editor trained on 800-900 templates.",
+  "dateSource": "https://www.businessinsider.jp/article/2505-consulting-ai-mckinsey-bcg-deloitte-pwc-kpmg-chatbots-ai-tools/?page=2"
+ },
+ {
+  "name": "GENE",
+  "company": "Boston Consulting Group (BCG)",
+  "launched": "2025-10",
+  "basis": "earliest mention",
+  "evidence": "Oct 29, 2025 blog: BCG launched 'GENE', a chatbot built on GPT-4o.",
+  "dateSource": "https://plusai.com/blog/how-consulting-firms-use-ai"
+ },
+ {
+  "name": "TerrierGPT",
+  "company": "Boston University",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "September 16, 2025: BU is offering its own chatbot for staff, faculty and students: TerrierGPT.",
+  "dateSource": "https://www.bu.edu/articles/2025/terriergpt-free-access-to-leading-chatbots"
+ },
+ {
+  "name": "Msa3ed",
+  "company": "Boubyan Bank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Bourso.IA",
+  "company": "BoursoBank (Société Générale)",
+  "launched": "2026-04",
+  "basis": "announced",
+  "evidence": "April 2026: Bourso.IA is the chatbot BoursoBank is about to launch, per documents dated 15 April 2026.",
+  "dateSource": "https://banque.meilleurtaux.com/banque-en-ligne/actualites/2026-avril/bourso-ia-le-chatbot-ia-de-boursobank-se-precise.html"
+ },
+ {
+  "name": "Box Agent",
+  "company": "Box",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "BusinessWire Apr 2, 2026: Box unveils the Box Agent, generally available today.",
+  "dateSource": "https://www.businesswire.com/news/home/20260402112577/en/Box-Unveils-the-Box-Agent-to-Transform-How-Enterprises-Work-With-Content"
+ },
+ {
+  "name": "BIA",
+  "company": "Bradesco",
+  "launched": "2017-08",
+  "basis": "launched",
+  "evidence": "Mobile Time: BIA project for customers in the app launched August 2017, first in Bradesco Prime.",
+  "dateSource": "https://www.mobiletime.com.br/?p=523088"
+ },
+ {
+  "name": "BIA Tech",
+  "company": "Bradesco",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Leo",
+  "company": "Brave",
+  "launched": "2023-11",
+  "basis": "launched",
+  "evidence": "TechCrunch Nov 2, 2023: Brave's Leo AI assistant is now available to desktop users (v1.60); Nightly test from Aug 2023.",
+  "dateSource": "https://techcrunch.com/2023/11/02/braves-leo-ai-assistant-is-now-available-to-desktop-users/"
+ },
+ {
+  "name": "Sonny",
+  "company": "Brigit",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Vaidya AI",
+  "company": "Brihanmumbai Municipal Corporation (BMC)",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "August 2026: BMC launched Vaidya AI WhatsApp chatbot on Friday, a three-month pilot.",
+  "dateSource": "https://www.freepressjournal.in/mumbai/mumbai-bmc-launches-ai-powered-whatsapp-chatbot-vaidya-ai-for-public-healthcare-services"
+ },
+ {
+  "name": "Amy",
+  "company": "Broccoli AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Brenda",
+  "company": "Broccoli AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Dane",
+  "company": "Broccoli AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Eric",
+  "company": "Broccoli AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Hailey",
+  "company": "Broccoli AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Jessica",
+  "company": "Broccoli AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Laura",
+  "company": "Broccoli AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Mark",
+  "company": "Broccoli AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Rey",
+  "company": "Broccoli AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sean",
+  "company": "Broccoli AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Bruce",
+  "company": "Bruce",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AskTupper",
+  "company": "Bryant University",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Sep 11, 2025: AskTupper, one of Bryant's AI-powered chatbots, debuts for public use.",
+  "dateSource": "https://news.bryant.edu/asktupper-one-bryants-ai-powered-chatbots-debuts-public-use?page=47"
+ },
+ {
+  "name": "BryantGPT",
+  "company": "Bryant University",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "BReX",
+  "company": "BSNL",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov 24, 2025: BSNL rolls out BReX chatbot with automatic plan detection and smart voucher suggestions.",
+  "dateSource": "https://telecomtalk.info/?p=1001938"
+ },
+ {
+  "name": "Q",
+  "company": "Bucharest Stock Exchange (BVB)",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "BVB launched virtual assistant Q with DRUID on 1 July 2024.",
+  "dateSource": "https://romania-insider.com/bucharest-stock-exchange-ai-chatbot-july-2024"
+ },
+ {
+  "name": "Bud",
+  "company": "Bud",
+  "launched": "2025",
+  "basis": "earliest mention",
+  "evidence": "YC company page: Bud founded 2025, Winter 2025 batch.",
+  "dateSource": "https://www.ycombinator.com/companies/bud"
+ },
+ {
+  "name": "Eri",
+  "company": "Bulgaria Air",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "August 3, 2026: Bulgaria Air presents Eri, the new AI assistant that helps passengers 24/7.",
+  "dateSource": "https://air.bg/en/posts/bulgaria-air-introduces-eri-ai-assistant-for-passengers-24-7"
+ },
+ {
+  "name": "Bee",
+  "company": "Bumble",
+  "launched": "2026-03",
+  "basis": "announced",
+  "evidence": "March 12, 2026: during Q4 earnings Bumble introduced a new AI assistant it's calling 'Bee'.",
+  "dateSource": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/"
+ },
+ {
+  "name": "Captain",
+  "company": "Bundesliga (DFL)",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "June 3, 2026: The Bundesliga announced the launch of Captain, an AI assistant in the official app.",
+  "dateSource": "https://www.sportsvideo.org/2026/06/03/bundesliga-launches-ai-assistant-captain-in-official-app-developed-with-aws/"
+ },
+ {
+  "name": "Buddy",
+  "company": "Bunnings (Wesfarmers)",
+  "launched": "2026-04",
+  "basis": "launched",
+  "evidence": "iTnews: Bunnings launched Buddy AI shopping assistant over the Easter weekend (April 2026).",
+  "dateSource": "https://www.itnews.asia/news/bunnings-launches-ai-assistant-to-enhance-customer-experience-626109"
+ },
+ {
+  "name": "Finn",
+  "company": "bunq",
+  "launched": "2023-12",
+  "basis": "launched",
+  "evidence": "FinTech Futures, Dec 21, 2023: bunq launches self-built GenAI platform Finn for customers.",
+  "dateSource": "https://www.fintechfutures.com/baas/dutch-neobank-bunq-launches-self-built-genai-platform-for-customers"
+ },
+ {
+  "name": "Patty",
+  "company": "Burger King",
+  "launched": "2026-03",
+  "basis": "announced",
+  "evidence": "March 2, 2026: Burger King deploys AI-powered 'Patty' to coach staff.",
+  "dateSource": "https://www.cxodigitalpulse.com/burger-king-deploys-ai-powered-patty-to-coach-staff-on-real-time-customer-interactions/"
+ },
+ {
+  "name": "Burt",
+  "company": "Burt",
+  "launched": "2026",
+  "basis": "earliest mention",
+  "evidence": "YC Winter 2026 company; YC launch page 'Burt - AI Teammates for Logistics'.",
+  "dateSource": "https://www.ycombinator.com/launches/Pc6-burt-ai-teammates-for-logistics"
+ },
+ {
+  "name": "AI Boogi News",
+  "company": "Busan Metropolitan City (South Korea)",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 26, 2026 press release: Busan launches intelligent chatbot 'AI Boogi News' service.",
+  "dateSource": "https://www.busan.go.kr/eng/ai-translated-press-releases/1731840"
+ },
+ {
+  "name": "Doubao",
+  "company": "ByteDance",
+  "launched": "2023-08",
+  "basis": "launched",
+  "evidence": "VoiceBot Aug 18, 2023: ByteDance releases generative AI chatbot Doubao in China (Android, web).",
+  "dateSource": "https://voicebot.ai/2023/08/18/tiktok-parent-company-bytedance-releases-generative-ai-chatbot-dou-bao-in-china/"
+ },
+ {
+  "name": "ChipStack AI Super Agent",
+  "company": "Cadence",
+  "launched": "2026-02",
+  "basis": "launched",
+  "evidence": "February 10, 2026: Cadence launches ChipStack AI Super Agent.",
+  "dateSource": "https://convergedigest.com/cadence-launches-chipstack-ai-super-agent/"
+ },
+ {
+  "name": "NOA",
+  "company": "CaixaBank",
+  "launched": "2025-06",
+  "basis": "earliest mention",
+  "evidence": "Qorus awards entry dated 06/06/2025 describes NOA serving 45,000 employees.",
+  "dateSource": "https://www.qorusglobal.com/innovations/30107-noa-genai-powered-employee-assistant-transforming-internal-knowledge-at-caixabank"
+ },
+ {
+  "name": "Carly",
+  "company": "CalBot",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "Business Wire Sep 17, 2025: Carly announced the public launch of its AI personal assistant that schedules meetings over email and SMS.",
+  "dateSource": "https://www.businesswire.com/news/home/20250917333489/en/Carly-Launches-AI-Powered-Personal-Assistant-Who-Schedules-Meetings-Over-Email-and-SMS"
+ }
+]

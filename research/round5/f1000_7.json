@@ -1,0 +1,122 @@
+[
+ {
+  "name": "Lucy",
+  "company": "Baker Hughes",
+  "project": "Leucipa",
+  "use": "AI-powered production assistant with a chat interface that interprets real-time oilfield data and calls Leucipa's agents to support field decisions.",
+  "category": "Energy",
+  "nameType": "human",
+  "source": "https://dev.to/kazuya_dev/aws-reinvent-2025-how-baker-hughes-is-driving-energy-innovation-with-aws-ai-aim347-hn1",
+  "list": "Fortune 1000 #155"
+ },
+ {
+  "name": "Luna",
+  "company": "Skechers U.S.A.",
+  "project": "Punggol Coast Mall store, Singapore",
+  "use": "AI retail assistant and personal stylist that shoppers talk to via an in-store kiosk or Telegram for outfit and product suggestions.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://www.adsoftheworld.com/campaigns/luna",
+  "list": "Fortune 1000 #441"
+ },
+ {
+  "name": "Valtra Coach",
+  "company": "AGCO",
+  "project": "Valtra Coach Talking Tractor",
+  "use": "Proof-of-concept AI assistant in Valtra tractors meant to make farming easier, more intuitive and more data-driven, shown at AGRITECHNICA 2025.",
+  "category": "Agriculture",
+  "nameType": "brand",
+  "source": "https://www.stocktitan.net/news/AGCO/agco-to-showcase-full-line-innovation-and-smart-farming-technologies-jj1pcu3wwe4m.html",
+  "list": "Fortune 1000 #364"
+ },
+ {
+  "name": "SAM",
+  "company": "Aramark",
+  "project": "Aramark Collegiate Hospitality / CampusDish",
+  "use": "Virtual assistant chatbot on CampusDish websites that answers student questions about dining and meal plans and routes them to the right person.",
+  "category": "Food service",
+  "nameType": "human",
+  "source": "https://stocktitan.net/news/ARMK/humanity-and-technology-aramark-collegiate-hospitality-insights-feed-ya4xjcratlth.html",
+  "list": "Fortune 1000 #239"
+ },
+ {
+  "name": "Culinary Co-Pilot",
+  "company": "Aramark",
+  "project": "Hospitality IQ",
+  "use": "Proprietary AI tool for Aramark culinary operators that helps plan menus, flags supply disruptions or costly ingredients and suggests replacements.",
+  "category": "Food service",
+  "nameType": "brand",
+  "source": "https://pennbizreport.com/news/31559-aramark-launches-ai-menu-tool/",
+  "list": "Fortune 1000 #239"
+ },
+ {
+  "name": "AiMEE",
+  "company": "Applied Materials",
+  "project": "HR Technology",
+  "use": "Internal HR chatbot for Applied Materials employees, being piloted across countries with new use cases added.",
+  "category": "HR",
+  "nameType": "human",
+  "source": "https://jobs.appliedmaterials.com/job/santa-clara/ai-business-analyst-hr-technology/95/97550713408",
+  "list": "Fortune 1000 #158"
+ },
+ {
+  "name": "Bob",
+  "company": "SBA Communications",
+  "project": "Customer support (Azure OpenAI)",
+  "use": "AI customer support agent built on Microsoft Azure OpenAI that cut support resolution time from about 22 minutes to a couple of minutes.",
+  "category": "Telecom",
+  "nameType": "human",
+  "source": "https://data.larridin.com/data/ai-tracker/company/sba-communications/",
+  "list": "Fortune 1000 #997"
+ },
+ {
+  "name": "Bob the Fixer",
+  "company": "SBA Communications",
+  "project": "Customer support (Azure OpenAI)",
+  "use": "AI support agent that proactively detects and resolves IT issues such as stuck financial batches.",
+  "category": "Telecom",
+  "nameType": "brand",
+  "source": "https://data.larridin.com/data/ai-tracker/company/sba-communications/",
+  "list": "Fortune 1000 #997"
+ },
+ {
+  "name": "Sidney",
+  "company": "AvalonBay Communities",
+  "project": "Customer care / self-guided tours",
+  "use": "AI assistant that handles prospective residents' pre-tour questions and needs at AvalonBay communities.",
+  "category": "Real estate",
+  "nameType": "human",
+  "source": "https://reit.com/news/articles/avalonbay-integrates-ai-opens-second-customer-care-center-to-advance-centralization",
+  "list": "Fortune 1000 #933"
+ },
+ {
+  "name": "ChatTRP",
+  "company": "T. Rowe Price",
+  "project": "Formerly Investor Copilot",
+  "use": "Internal AI assistant deployed firm-wide for summarization and information retrieval.",
+  "category": "Banking",
+  "nameType": "brand",
+  "source": "https://data.larridin.com/data/ai-tracker/company/t-rowe-price/",
+  "list": "Fortune 1000 #515"
+ },
+ {
+  "name": "Darn-ell",
+  "company": "Casey's General Stores",
+  "project": "Darn Good Coffee (darngoodroast.com)",
+  "use": "Generative AI 'roast bot' that gives guests playful roasts plus coffee recommendations to promote Casey's Darn Good Coffee line.",
+  "category": "Retail",
+  "nameType": "human",
+  "source": "https://www.stocktitan.net/news/CASY/hi-i-m-darn-ell-an-ai-powered-chatbot-here-to-roast-guests-and-spill-qgzwatt7q74t.html",
+  "list": "Fortune 1000 #297"
+ },
+ {
+  "name": "LISA",
+  "company": "Lennar",
+  "project": "Lennar internet sales agent (Salesforce Agentforce)",
+  "use": "AI sales agent that answers homebuyer questions, books home tours and creates leads over SMS and web chat, including overnight inquiries.",
+  "category": "Real estate",
+  "nameType": "human",
+  "source": "https://www.salesforce.com/customer-stories/lennar/",
+  "list": "Fortune 1000 #129"
+ }
+]

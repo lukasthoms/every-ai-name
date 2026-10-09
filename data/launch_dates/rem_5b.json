@@ -1,0 +1,290 @@
+[
+ {
+  "name": "Aidan",
+  "company": "Sable",
+  "launched": "2026-07",
+  "basis": "earliest mention",
+  "evidence": "Pulse2 (July 18, 2026) reports Sable raised $45M and is already deploying Aidan with Notion, Decagon.",
+  "dateSource": "https://pulse2.com/sable-raises-45-million-to-build-ai-employee-for-customer-interactions/"
+ },
+ {
+  "name": "Agentforce",
+  "company": "Salesforce",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Salesforce announced Agentforce is now generally available (press release dated Oct 30, 2024).",
+  "dateSource": "https://www.salesforce.com/de/news/press-releases/2024/10/30/agentforce-general-availability-announcement/"
+ },
+ {
+  "name": "Einstein",
+  "company": "Salesforce",
+  "launched": "2016-09",
+  "basis": "announced",
+  "evidence": "Salesforce press release Sept 19, 2016: Salesforce unveils Salesforce Einstein, AI built into the platform.",
+  "dateSource": "https://investor.salesforce.com/news/news-details/2016/Salesforce-Introduces-Salesforce-Einstein---Artificial-Intelligence-for-Everyone/default.aspx"
+ },
+ {
+  "name": "Alex",
+  "company": "Salient",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "Release notes: Alex 1.0, January 2026, labeled Launch; generally available for chargebacks and dispute resolution.",
+  "dateSource": "https://www.trysalient.com/releases"
+ },
+ {
+  "name": "Flyn",
+  "company": "Salient",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "Release notes list Flyn 1.2 (GAP claim automation) in March 2026, earliest Flyn entry; first release date not found.",
+  "dateSource": "https://www.trysalient.com/releases"
+ },
+ {
+  "name": "Marshall",
+  "company": "Salient",
+  "launched": "2026-04",
+  "basis": "earliest mention",
+  "evidence": "Release notes list Marshall 1.4 in April 2026, earliest Marshall entry; first release date not found.",
+  "dateSource": "https://www.trysalient.com/releases"
+ },
+ {
+  "name": "Melanie",
+  "company": "Salient",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Taylor",
+  "company": "Salient",
+  "launched": "2026-05",
+  "basis": "earliest mention",
+  "evidence": "Release notes list Taylor 2.1 in May 2026 (latest); earlier versions not dated, product existed before.",
+  "dateSource": "https://www.trysalient.com/releases"
+ },
+ {
+  "name": "Sally",
+  "company": "sally.io",
+  "launched": "2018-11",
+  "basis": "launched",
+  "evidence": "About page: Sally's first version, a chatbot passing sales-meeting answers to the CRM, was November 2018; AI transcription added May 2023.",
+  "dateSource": "https://www.sally.io/about-us"
+ },
+ {
+  "name": "Fierce the Mustang",
+  "company": "San Joaquin Delta College",
+  "launched": "2023",
+  "basis": "earliest mention",
+  "evidence": "Delta Collegian: the BlackBeltHelp subscription behind the chatbot was first approved in 2023, renewed Aug 2025.",
+  "dateSource": "https://deltacollegian.net/2025/09/19/delta-board-oks-ai-chatbot-extension/"
+ },
+ {
+  "name": "Sana",
+  "company": "Sana Labs (Workday)",
+  "launched": "2024-04",
+  "basis": "earliest mention",
+  "evidence": "The Deep View (Apr 17, 2024): Sana AI assistant now available to everyone for free, previously paid tier only.",
+  "dateSource": "https://archive.thedeepview.com/p/sana"
+ },
+ {
+  "name": "Sandra AI",
+  "company": "Sandra AI",
+  "launched": "2024",
+  "basis": "launched",
+  "evidence": "Product Hunt page lists Sandra AI as launched in 2024, during YC Fall 2024 batch.",
+  "dateSource": "https://www.producthunt.com/products/sandra-ai"
+ },
+ {
+  "name": "Ira",
+  "company": "Savvy Agents",
+  "launched": "2025-10",
+  "basis": "earliest mention",
+  "evidence": "Dentech Digest issue 19 (Oct 24, 2025) covers a demo of Savvy Agents' Ira and a two-month case study.",
+  "dateSource": "https://dentechdigest.substack.com/p/dentech-digest-issue-19-fix-the-comms"
+ },
+ {
+  "name": "Milo",
+  "company": "Savvy Agents",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sia",
+  "company": "Savvy Agents",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sharon",
+  "company": "SCU Credit Union",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Benefit Scout",
+  "company": "Securian Financial Group",
+  "launched": "",
+  "basis": "",
+  "evidence": "Only a search-excerpt date (Mar 2019) was found; the dated page could not be opened.",
+  "dateSource": "https://coverager.com/securian-financial-introduces-benefit-scout/"
+ },
+ {
+  "name": "Molly",
+  "company": "Sensely",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Pu Xiaocai (浦小财)",
+  "company": "Shanghai Pudong Development Bank",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Alex",
+  "company": "ShortLoop",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Nezumi",
+  "company": "Shōden",
+  "launched": "2025-07",
+  "basis": "earliest mention",
+  "evidence": "PorterShed 'Meet The Cohort: Shoden AI' post (published 2025-07-24) introduces Nezumi AI SDR.",
+  "dateSource": "https://portershed.com/?p=5118"
+ },
+ {
+  "name": "CoSI",
+  "company": "Signal Iduna",
+  "launched": "2026-01",
+  "basis": "earliest mention",
+  "evidence": "Das Investment interview (Jan 5, 2026): Signal Iduna CEO says CoSI AI assistant has been rolled out company-wide.",
+  "dateSource": "https://www.dasinvestment.com/geschaeftsaussichten-2026-signal-iduna-torsten-uhlig/"
+ },
+ {
+  "name": "LEA",
+  "company": "Singapore Ministry of Education",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Commet",
+  "company": "Sintra",
+  "launched": "2026-04",
+  "basis": "earliest mention",
+  "evidence": "Unite.ai Sintra review published April 18, 2026 lists Commet as an existing Sintra helper; launch date not found.",
+  "dateSource": "https://www.unite.ai/sintra-ai-review/"
+ },
+ {
+  "name": "Thor",
+  "company": "Southern Utah University",
+  "launched": "2025-03",
+  "basis": "earliest mention",
+  "evidence": "Earliest Internet Archive capture of SUU's Thor chatbot page is 2025-03-25; no launch announcement found.",
+  "dateSource": "http://web.archive.org/cdx/search/cdx?url=suu.edu/studentaffairs/sos/thor-chatbot.html&limit=1"
+ },
+ {
+  "name": "HOPE",
+  "company": "Southwest General Health Center",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sparky",
+  "company": "Spark Studio",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Linda",
+  "company": "Sparkassen-Finanzgruppe",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Cara",
+  "company": "Sparkbase",
+  "launched": "2024-12",
+  "basis": "launched",
+  "evidence": "Sparkbase announced its founding and the launch of Cara, first AI sales agent for Europe (Emerce, Dec 17, 2024).",
+  "dateSource": "https://www.emerce.nl/wire/nieuwe-startup-sparkbase-lanceert-eerste-ai-sales-agent-europese-markt"
+ },
+ {
+  "name": "Flo",
+  "company": "Spendflo",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "Spendflo blog May 13, 2026: Today we're launching Flo AI; live today.",
+  "dateSource": "https://www.spendflo.com/blog/introducing-flo-ai"
+ },
+ {
+  "name": "Ask Skitch",
+  "company": "Spokane Community College",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Vini AI",
+  "company": "Spyne",
+  "launched": "2025-10",
+  "basis": "announced",
+  "evidence": "Spyne showed a first look at Vini AI at Digital Dealer 2025 (Oct 14-15, 2025); no formal launch release found.",
+  "dateSource": "https://www.spyne.ai/events/digital-dealer-2025"
+ },
+ {
+  "name": "Erna",
+  "company": "Stadtwerke Herne",
+  "launched": "2024-03",
+  "basis": "earliest mention",
+  "evidence": "LoyJoy blog (Mar 19, 2024) says the Stadtwerke Herne chat experience Erna was launched on its platform.",
+  "dateSource": "https://www.loyjoy.com/en/blog/ai-chatbot-transforming-utility-customer-support/"
+ },
+ {
+  "name": "Ask Blu",
+  "company": "Stafford County (Virginia)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Zara",
+  "company": "Stamina",
+  "launched": "2025-10",
+  "basis": "earliest mention",
+  "evidence": "Stamina blog '7 AI SDR Agents' (Oct 28, 2025) presents Zara as Stamina's built-in AI SDR; launch date not stated.",
+  "dateSource": "https://stamina.io/blog/7-ai-sdr-agents-that-can-replace-your-sales-reps-(2025-review)"
+ },
+ {
+  "name": "STAN",
+  "company": "STAN AI",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ }
+]

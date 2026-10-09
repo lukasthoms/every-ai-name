@@ -1,0 +1,398 @@
+[
+ {
+  "name": "Max",
+  "company": "Changi Airport Group",
+  "project": "Changi Airport website, Changi App, Messenger and Telegram",
+  "use": "Chatbot that gives Changi Airport flight information and alerts, things to do in the terminals, and Lost & Found help. It also guides the airport's self-guided tour.",
+  "category": "Airport",
+  "nameType": "human",
+  "source": "https://www.changiairport.com/in/en/experience/tours/self-guided-tour.html"
+ },
+ {
+  "name": "Julie (Ask Julie)",
+  "company": "Amtrak",
+  "project": "Amtrak.com and 1-800-USA-RAIL",
+  "use": "Virtual assistant that answers Amtrak travelers' questions about trains, schedules, fares and bookings.",
+  "category": "Rail travel",
+  "nameType": "human",
+  "source": "https://www.amtrak.com/contact"
+ },
+ {
+  "name": "AskDISHA 2.0",
+  "company": "IRCTC (Indian Railways)",
+  "project": "IRCTC website and app",
+  "use": "AI voice and chat assistant that books, cancels and tracks train tickets and refunds. It speaks English, Hindi, Hinglish and Gujarati.",
+  "category": "Rail travel",
+  "nameType": "brand",
+  "source": "https://www.businesstoday.in/amp/personal-finance/news/story/irctc-askdisha-2-ai-assistant-train-ticket-booking-refund-cancellation-478255-2025-05-29"
+ },
+ {
+  "name": "Oscar",
+  "company": "Air New Zealand",
+  "project": "Air New Zealand website chat",
+  "use": "Chat assistant that resends booking confirmations, checks seats, bags and Airpoints balances, and hands off to human agents when needed.",
+  "category": "Airline",
+  "nameType": "human",
+  "source": "https://www.airnewzealand.com/en-nz/oscar-chatbot-virtual-assistant"
+ },
+ {
+  "name": "Jetstream",
+  "company": "easyJet",
+  "project": "Integrated Control Centre (staff tool)",
+  "use": "Generative AI tool that gives easyJet operations staff instant answers from about 3,000 pages of operating manuals and procedures.",
+  "category": "Airline",
+  "nameType": "brand",
+  "source": "https://www.aviationpros.com/aoa/press-release/55041726/easyjet-easyjet-opens-new-ai-equipped-operations-control-center"
+ },
+ {
+  "name": "Kiana",
+  "company": "Deutsche Bahn",
+  "project": "bahn.de, DB Navigator, station kiosks",
+  "use": "AI chatbot that gives connection searches, real-time train information and station details. It is being tested on bahn.de and at stations.",
+  "category": "Rail travel",
+  "nameType": "human",
+  "source": "https://www.bahn.de/faq/chatbot-kiana-anliegen"
+ },
+ {
+  "name": "Sisu",
+  "company": "Finnair",
+  "project": "Finnair website and app chat",
+  "use": "Generative AI customer service assistant that answers travel questions in 15 languages and hands complex cases to human agents.",
+  "category": "Airline",
+  "nameType": "human",
+  "source": "https://www.finnair.com/bluewings/sisu"
+ },
+ {
+  "name": "Hallie",
+  "company": "Heathrow Airport",
+  "project": "WhatsApp (built on Salesforce Agentforce)",
+  "use": "AI agent that answers Heathrow passengers' questions about gates, amenities, wayfinding and flight status.",
+  "category": "Airport",
+  "nameType": "human",
+  "source": "https://www.salesforce.com/uk/news/press-releases/2025/06/11/heathrow-airport-agentforce-passenger-experience/"
+ },
+ {
+  "name": "Pawla",
+  "company": "PortAventura World",
+  "project": "PortAventura World mobile app",
+  "use": "GPT-based chatbot that helps visitors plan trips and answers questions about hotels, shows and attractions in four languages.",
+  "category": "Theme park / Entertainment",
+  "nameType": "human",
+  "source": "https://www.cio.com/article/2151260/portaventura-world-lanza-pawla-el-chatbot-concebido-para-mejorar-la-experiencia-en-el-resort.html"
+ },
+ {
+  "name": "Hey Disney!",
+  "company": "The Walt Disney Company (with Amazon)",
+  "project": "Echo devices in Walt Disney World hotel rooms and at home",
+  "use": "Disney-character voice assistant that takes room requests, answers park questions, and tells stories and trivia. It is in every Walt Disney World hotel room.",
+  "category": "Theme park / Entertainment",
+  "nameType": "brand",
+  "source": "https://wdwnt.com/2024/02/hey-disney-voice-assistant-all-wdw-hotel-rooms/"
+ },
+ {
+  "name": "UNI",
+  "company": "Universal Orlando Resort",
+  "project": "VAX VacationAccess (for travel advisors)",
+  "use": "AI assistant that helps travel agents answer Universal Orlando planning questions, compare packages and make quote sheets.",
+  "category": "Theme park / Entertainment",
+  "nameType": "brand",
+  "source": "https://www.paxnews.com/news/technology/meet-uni-universal-orlandos-new-ai-tool-travel-advisors"
+ },
+ {
+  "name": "Email Ellie",
+  "company": "Virgin Voyages",
+  "project": "Gemini Enterprise (internal)",
+  "use": "AI marketing agent that writes personalized email campaigns in the Virgin Voyages brand voice.",
+  "category": "Cruise",
+  "nameType": "human",
+  "source": "https://www.virginvoyages.com/press/latest-releases/virgin-voyages-exceeds-1500-ai-agents-travel-ai-leader"
+ },
+ {
+  "name": "WaveMaker",
+  "company": "Virgin Voyages",
+  "project": "Gemini Enterprise (internal)",
+  "use": "AI agent that helps the groups sales team manage group cruise bookings.",
+  "category": "Cruise",
+  "nameType": "brand",
+  "source": "https://www.virginvoyages.com/press/latest-releases/virgin-voyages-exceeds-1500-ai-agents-travel-ai-leader"
+ },
+ {
+  "name": "Ask Nirmal Anything",
+  "company": "Virgin Voyages",
+  "project": "Gemini Enterprise (internal)",
+  "use": "AI clone of CEO Nirmal Saverimuttu that helps teams think through decisions.",
+  "category": "Cruise",
+  "nameType": "human",
+  "source": "https://www.virginvoyages.com/press/latest-releases/virgin-voyages-exceeds-1500-ai-agents-travel-ai-leader"
+ },
+ {
+  "name": "Lola",
+  "company": "Booking Holdings",
+  "project": "Lola app (standalone)",
+  "use": "AI travel agent that searches live prices and books hotels, restaurants, events and full trips inside one chat.",
+  "category": "Travel booking",
+  "nameType": "human",
+  "source": "https://tbreak.com/lola-ai-travel-agent-booking-holdings-launch/"
+ },
+ {
+  "name": "Mavis",
+  "company": "Malaysia Airlines",
+  "project": "Website, app and email (built with Ada)",
+  "use": "AI virtual assistant that handles flight status, bookings, check-in, gates, fares and seat upgrades in English and Malay.",
+  "category": "Airline",
+  "nameType": "human",
+  "source": "https://www.eplaneai.com/news/malaysia-airlines-introduces-ai-assistant-mavis-to-enhance-passenger-support"
+ },
+ {
+  "name": "AVA (Aviation Assistant)",
+  "company": "Prague Airport",
+  "project": "WhatsApp",
+  "use": "Digital assistant that tracks flights with gate, boarding and baggage alerts and answers Prague Airport questions around the clock.",
+  "category": "Airport",
+  "nameType": "human",
+  "source": "https://kongres-magazine.eu/2026/02/prague-airport-introduces-digital-assistant/"
+ },
+ {
+  "name": "XiaoHui",
+  "company": "Hong Kong Customs and Excise Department",
+  "project": "Customs website, WeChat, WhatsApp, Facebook and border points including Hong Kong International Airport",
+  "use": "Generative AI customs ambassador that answers travelers' questions about duty-free limits and customs rules in real time.",
+  "category": "Airport / Border control",
+  "nameType": "human",
+  "source": "https://www.customs.gov.hk/en/customs-announcement/whats-new/index_id_176.html"
+ },
+ {
+  "name": "TARA",
+  "company": "ixigo",
+  "project": "ixigo app",
+  "use": "Multimodal AI assistant that plans, books and manages trains, flights, buses and hotels by voice, text or taps.",
+  "category": "Travel booking",
+  "nameType": "human",
+  "source": "https://india.entrepreneur.com/business-news/ixigo-launches-ai-native-app-with-multimodal-assistant-tara"
+ },
+ {
+  "name": "DIYA",
+  "company": "Yatra Online",
+  "project": "Yatra website and app",
+  "use": "AI travel agent (Digital Intelligent Yatra Advisor) that plans, compares and books trips and handles cancellations in 100+ languages.",
+  "category": "Travel booking",
+  "nameType": "human",
+  "source": "https://www.altexsoft.com/travel-industry-news/yatra-launches-an-ai-travel-agent-for-end-to-end-booking"
+ },
+ {
+  "name": "Holly",
+  "company": "Eurowings Holidays (Lufthansa Group)",
+  "project": "Eurowings Holidays website",
+  "use": "AI travel advisor that asks about your preferences and books matching package holidays.",
+  "category": "Travel booking",
+  "nameType": "human",
+  "source": "https://www.mallorcamagazin.com/nachrichten/tourismus/2024/02/15/119083/mallorca-urlaub-buchen-mit-kunstlicher-intelligenz-funktioniert-der-neue-eurowings-service.html"
+ },
+ {
+  "name": "Sara",
+  "company": "Saudi Tourism Authority",
+  "project": "Visit Saudi",
+  "use": "AI smart tour guide that helps visitors to Saudi Arabia in several languages.",
+  "category": "Tourism",
+  "nameType": "human",
+  "source": "https://www.travolution.com/news/technology/how-saudi-tourism-authority-and-qatar-airways-are-innovating-with-ai-agents/"
+ },
+ {
+  "name": "Mobi",
+  "company": "NMBS/SNCB (Belgian Railways)",
+  "project": "Mobi 2.0 chatbot",
+  "use": "AI chatbot that answers train passengers' questions about routes, tickets and delays in four languages, around the clock.",
+  "category": "Rail travel",
+  "nameType": "brand",
+  "source": "https://newmobility.news/en/2026/01/22/mobi-2-0-the-ai-chatbot-that-finally-understands-train-passengers/"
+ },
+ {
+  "name": "DisneyGPT",
+  "company": "The Walt Disney Company",
+  "project": "Internal employee tool",
+  "use": "Internal AI assistant that helps Disney staff file IT tickets, look up colleagues, and analyze spreadsheets and documents.",
+  "category": "Theme park / Entertainment",
+  "nameType": "brand",
+  "source": "https://www.searchengineworld.com/disney-and-jarvisgpt-how-disneys-openai-future-is-taking-shape-inside-the-house-of-mouse"
+ },
+ {
+  "name": "ChatNS",
+  "company": "NS (Dutch Railways)",
+  "project": "Internal employee tool",
+  "use": "Generative AI chatbot built for NS staff to help with writing and internal work.",
+  "category": "Rail travel",
+  "nameType": "brand",
+  "source": "https://nsannualreport.nl/annual-report-2024/trends-developments-and-strategy/innovations"
+ },
+ {
+  "name": "Layla",
+  "company": "Expedia Group",
+  "project": "Layla app",
+  "use": "Conversational AI travel agent that finds destinations, builds itineraries and books flights, stays and activities.",
+  "category": "Travel booking",
+  "nameType": "human",
+  "source": "https://www.hospitalitynet.org/news/4133792/expedia-group-acquires-layla-accelerating-its-ai-powered-trip-planning-and-booking-strategy"
+ },
+ {
+  "name": "HTS Assist",
+  "company": "Hopper (Hopper Technology Solutions)",
+  "project": "B2B customer service platform",
+  "use": "Agentic AI that handles travel customer service by chat or voice, including cancellations, refunds and rebooking, for travel brands.",
+  "category": "Travel booking",
+  "nameType": "brand",
+  "source": "https://venturebeat.com/ai/hoppers-ai-agent-can-book-flights-and-cancel-trips-without-human-help"
+ },
+ {
+  "name": "The Butler",
+  "company": "Accor",
+  "project": "Hotel staff tool (alongside ALL Concierge)",
+  "use": "Always-available AI companion that gives Accor hotel staff quick answers and guidance and routes them to human experts.",
+  "category": "Hotel",
+  "nameType": "brand",
+  "source": "https://www.hospitalitynet.org/news/4134546/accor-reaches-a-new-milestone-with-all-concierge-hospitalitys-first-end-to-end-conversational-travel-companion-deployed-at-scale"
+ },
+ {
+  "name": "Rovey",
+  "company": "Virgin Voyages",
+  "project": "VirginVoyages.com",
+  "use": "AI travel assistant that helps guests plan cruises with picks for shore activities, cabins, dining and packing.",
+  "category": "Cruise",
+  "nameType": "human",
+  "source": "https://cruiseindustrynews.com/cruise-news/2026/04/virgin-introduces-ai-travel-assistant/"
+ },
+ {
+  "name": "Libby",
+  "company": "New York City Tourism + Conventions",
+  "project": "nyctourism.com, WhatsApp, Instagram (GuideGeek)",
+  "use": "Official AI travel assistant for New York City that builds itineraries and recommends local businesses in about 60 languages.",
+  "category": "Tourism",
+  "nameType": "human",
+  "source": "https://www.iloveny.com/thebeat/post/nyc-tourism-conventions-launches-libby-a-new-ai-travel-genius-for-visitors-powered-by-guidegeek/"
+ },
+ {
+  "name": "Ellis",
+  "company": "New York City Tourism + Conventions",
+  "project": "NYC Tourism meetings website (GuideGeek)",
+  "use": "AI chat assistant that helps meeting and convention planners plan events in New York City.",
+  "category": "Tourism",
+  "nameType": "human",
+  "source": "https://www.iloveny.com/thebeat/post/nyc-tourism-conventions-launches-libby-a-new-ai-travel-genius-for-visitors-powered-by-guidegeek/"
+ },
+ {
+  "name": "Angel",
+  "company": "Los Angeles Tourism & Convention Board",
+  "project": "Discover Los Angeles",
+  "use": "AI concierge that helps World Cup fans plan around SoFi Stadium matches and explore the rest of Los Angeles.",
+  "category": "Tourism",
+  "nameType": "human",
+  "source": "https://www.thebrandusa.com/press-releases/brand-usa-and-u-s-host-cities-lean-into-innovation-and-ai-to-enhance-world-cup-trip-planning/"
+ },
+ {
+  "name": "Emerald",
+  "company": "Visit Seattle",
+  "project": "visitseattle.org and WhatsApp (GuideGeek)",
+  "use": "AI travel assistant that recommends Seattle attractions, dining, neighborhoods and transit in 45+ languages.",
+  "category": "Tourism",
+  "nameType": "human",
+  "source": "https://www.thebrandusa.com/press-releases/brand-usa-and-u-s-host-cities-lean-into-innovation-and-ai-to-enhance-world-cup-trip-planning/"
+ },
+ {
+  "name": "Ask Ben",
+  "company": "Discover PHL (Philadelphia)",
+  "project": "discoverphl.com",
+  "use": "AI assistant that helps visitors explore Philadelphia, including fans attending matches at Lincoln Financial Field.",
+  "category": "Tourism",
+  "nameType": "human",
+  "source": "https://www.thebrandusa.com/press-releases/brand-usa-and-u-s-host-cities-lean-into-innovation-and-ai-to-enhance-world-cup-trip-planning/"
+ },
+ {
+  "name": "Frankie",
+  "company": "Visit Frisco",
+  "project": "visitfrisco.com (GuideGeek)",
+  "use": "AI chatbot that answers visitor questions and suggests Frisco, Texas hotels, restaurants, shops and events.",
+  "category": "Tourism",
+  "nameType": "human",
+  "source": "https://www.visitfrisco.com/node/3211"
+ },
+ {
+  "name": "6ix",
+  "company": "Destination Toronto",
+  "project": "Destination Toronto website, WhatsApp, Instagram, Messenger (GuideGeek)",
+  "use": "AI travel assistant that answers visitor questions and plans trips around Toronto.",
+  "category": "Tourism",
+  "nameType": "brand",
+  "source": "https://brands.guidegeek.com/press/invasion-of-the-robot-tour-guides-how-ai-is-finally-coming-for-the-travel-industry"
+ },
+ {
+  "name": "Big Lincoln",
+  "company": "Enjoy Illinois (Illinois Office of Tourism)",
+  "project": "EnjoyIllinois.com (GuideGeek)",
+  "use": "AI travel assistant that plans Illinois trips and recommends hotels, restaurants, attractions and events.",
+  "category": "Tourism",
+  "nameType": "human",
+  "source": "https://brands.guidegeek.com/press/enjoy-illinois-launches-custom-ai-travel-genius-with-guidegeek"
+ },
+ {
+  "name": "Pythia",
+  "company": "Marketing Greece (DiscoverGreece.com)",
+  "project": "DiscoverGreece.com and WhatsApp (GuideGeek)",
+  "use": "Free AI trip helper that builds Greece itineraries and answers questions about sights, dining and lodging in 50+ languages.",
+  "category": "Tourism",
+  "nameType": "human",
+  "source": "https://brands.guidegeek.com/press/discovergreece-com-launches-europes-first-custom-version-of-guidegeek-travel-ai"
+ },
+ {
+  "name": "KazTuristBot",
+  "company": "Government of Kazakhstan (Kazakhstan.Travel)",
+  "project": "Kazakhstan.Travel portal",
+  "use": "Announced AI assistant that will give tourists personalized recommendations, trip planning and round-the-clock support.",
+  "category": "Tourism",
+  "nameType": "brand",
+  "source": "https://astanatimes.com/2026/02/kazakhstan-to-launch-ai-powered-digital-assistant-for-tourists/"
+ },
+ {
+  "name": "My Epic Assistant",
+  "company": "Vail Resorts",
+  "project": "My Epic app",
+  "use": "AI assistant that answers skier questions about snow conditions, mountain dining and parking at Vail Resorts mountains.",
+  "category": "Ski resort",
+  "nameType": "brand",
+  "source": "https://kdvr.com/news/local/vail-resorts-to-launch-ai-powered-assistant-for-2024-25-ski-season/amp/"
+ },
+ {
+  "name": "FlyBot",
+  "company": "Pegasus Airlines",
+  "project": "Pegasus website and app (Azure AI)",
+  "use": "Virtual assistant that answers flight questions and helps customers book trips by generating booking links.",
+  "category": "Airline",
+  "nameType": "brand",
+  "source": "https://www.microsoft.com/en/customers/story/23194-pegasus-airlines-azure-ai-services"
+ },
+ {
+  "name": "JAL-AI",
+  "company": "Japan Airlines",
+  "project": "Internal employee app (Azure OpenAI)",
+  "use": "Internal generative AI app that helps cabin attendants write in-flight reports and helps staff with drafting and translation.",
+  "category": "Airline",
+  "nameType": "brand",
+  "source": "https://www.microsoft.com/en-us/microsoft-cloud/blog/2025/05/08/transforming-japan-with-ai-5-companies-from-the-front-lines-of-innovation/"
+ },
+ {
+  "name": "GIVA",
+  "company": "Resorts World Genting (Genting Malaysia)",
+  "project": "RWG app, website and WhatsApp",
+  "use": "Generative AI guest assistant built on Alibaba's Qwen that answers resort and casino questions and hands complex requests to staff.",
+  "category": "Casino resort",
+  "nameType": "brand",
+  "source": "https://www.thestar.com.my/starpicks/2026/09/30/peak-convenience-inside-resorts-world-genting-connected-ecosystem-for-guests"
+ },
+ {
+  "name": "MyAruba Assistant",
+  "company": "Aruba Tourism Authority",
+  "project": "Aruba.com and WhatsApp (GuideGeek)",
+  "use": "AI travel assistant that plans Aruba itineraries and answers questions about beaches, activities, restaurants and hotels in 45 languages.",
+  "category": "Tourism",
+  "nameType": "brand",
+  "source": "https://brands.guidegeek.com/press/guidegeek-travel-genius-launches-custom-ai-powered-travel-assistant-with-aruba-its-first-in-the-caribbean"
+ }
+]

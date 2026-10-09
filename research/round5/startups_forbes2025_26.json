@@ -1,0 +1,32 @@
+[
+ {
+  "name": "Sierra",
+  "company": "Sierra",
+  "project": "Agent OS",
+  "use": "Conversational AI platform that businesses use to build and run customer-facing AI agents across chat, voice and email.",
+  "category": "Customer service",
+  "nameType": "human",
+  "source": "https://sierra.ai/",
+  "list": "AI-native startup"
+ },
+ {
+  "name": "Claygent",
+  "company": "Clay",
+  "project": "Clay",
+  "use": "AI research agent inside Clay that follows your instructions to look up information and return structured results for sales and go-to-market data.",
+  "category": "Sales",
+  "nameType": "brand",
+  "source": "https://www.clay.com/claygent",
+  "list": "AI-native startup · YC Winter 2021"
+ },
+ {
+  "name": "Genie",
+  "company": "Databricks",
+  "project": "AI/BI Genie",
+  "use": "Conversational agent that lets business users ask questions of their company data in plain language, governed by Unity Catalog permissions.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.databricks.com/product/business-intelligence/genie",
+  "list": "AI-native startup"
+ }
+]

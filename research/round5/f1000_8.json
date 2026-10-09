@@ -1,0 +1,202 @@
+[
+ {
+  "name": "AVA",
+  "company": "Altice USA (Optimum)",
+  "project": "Optimum customer service",
+  "use": "In-house virtual AI agent that acts as an AI partner for Optimum customer service reps, giving guidance and relevant offers; enhanced with Google Gemini.",
+  "category": "Telecommunications",
+  "nameType": "human",
+  "source": "https://www.googlecloudpresscorner.com/2025-05-06-Optimum-and-Google-Cloud-Collaborate-to-Transform-Optimums-Customer-Experience-with-AI-Innovation",
+  "list": "Fortune 1000 #442"
+ },
+ {
+  "name": "ChatIQ",
+  "company": "S&P Global",
+  "project": "S&P Capital IQ Pro",
+  "use": "GenAI assistant built with Kensho that helps analysts research companies, industries and sectors with traceable answers.",
+  "category": "Financial data",
+  "nameType": "brand",
+  "source": "https://press.spglobal.com/2024-11-12-S-P-Global-Transforms-S-P-Capital-IQ-Pro-Experience-with-the-Launch-of-New-Generative-AI-Powered-Capabilities",
+  "list": "Fortune 1000 #305"
+ },
+ {
+  "name": "CreditCompanion",
+  "company": "S&P Global",
+  "project": "S&P Capital IQ Pro",
+  "use": "Chatbot that gathers and summarizes S&P Global Ratings research to speed up credit risk analysis.",
+  "category": "Financial data",
+  "nameType": "brand",
+  "source": "https://www.fi-desk.com/?p=24394",
+  "list": "Fortune 1000 #305"
+ },
+ {
+  "name": "Spark Assist",
+  "company": "S&P Global",
+  "project": "Internal",
+  "use": "Internal ChatGPT-like tool connected to company data that all S&P Global employees use, sharing useful prompts called sparks.",
+  "category": "Financial data",
+  "nameType": "brand",
+  "source": "https://www.pymnts.com/artificial-intelligence-2/2025/sp-global-ai-chief-eyes-exciting-pace-of-agentic-ai-innovation/",
+  "list": "Fortune 1000 #305"
+ },
+ {
+  "name": "Aspen Virtual Advisor",
+  "company": "Emerson (AspenTech)",
+  "project": "Aspen PIMS / Aspen DMC3",
+  "use": "AI advisor that lets plant users ask plain-language questions to find process bottlenecks or ways to reach operating goals.",
+  "category": "Industrial software",
+  "nameType": "brand",
+  "source": "https://www.emerson.com/en-us/news/2025/05-emerson-expanded-ai-portfolio-paves-the-way-for-more-optimized-autonomous-operations",
+  "list": "Fortune 1000 #238"
+ },
+ {
+  "name": "ARC",
+  "company": "Robert Half",
+  "project": "AI Recommended Client",
+  "use": "Proprietary machine-learning tool that recommends which clients talent solutions staff should contact and when, based on decades of customer data.",
+  "category": "Recruiting",
+  "nameType": "brand",
+  "source": "https://press.roberthalf.com/2024-03-18-Robert-Half-Named-a-2024-CIO-100-Winner-for-Advancements-in-AI",
+  "list": "Fortune 1000 #592"
+ },
+ {
+  "name": "Research Buddy",
+  "company": "TIAA",
+  "project": "Nuveen / TIAA asset management",
+  "use": "AI agent that helps analysts and portfolio managers research large volumes of public and private documents.",
+  "category": "Asset management",
+  "nameType": "brand",
+  "source": "https://www.cio.com/podcast/4080298/tiaas-sastry-durvasula-on-ai-innovations-in-the-insurance-space.html",
+  "list": "Fortune 1000 #98"
+ },
+ {
+  "name": "MyGate",
+  "company": "TIAA",
+  "project": "Internal",
+  "use": "Internal generative AI platform wrapping multiple LLMs, available to about half of TIAA's workforce.",
+  "category": "Insurance",
+  "nameType": "brand",
+  "source": "https://www.cio.com/podcast/4080298/tiaas-sastry-durvasula-on-ai-innovations-in-the-insurance-space.html",
+  "list": "Fortune 1000 #98"
+ },
+ {
+  "name": "Toast IQ",
+  "company": "Toast",
+  "project": "Toast Now app / Toast Web",
+  "use": "Conversational AI assistant for restaurant operators that surfaces insights and carries out tasks like changing menus or editing shifts.",
+  "category": "Restaurant software",
+  "nameType": "brand",
+  "source": "https://restauranttechnologynews.com/2025/10/toast-launches-conversational-ai-assistant-to-help-restaurant-operators-work-faster-and-smarter/",
+  "list": "Fortune 1000 #674"
+ },
+ {
+  "name": "AIP Assist",
+  "company": "Palantir Technologies",
+  "project": "Palantir Foundry / AIP",
+  "use": "LLM-powered support assistant that answers users' natural-language questions to help them navigate and use the Palantir platform.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://palantir.com/docs/foundry/assist/overview/",
+  "list": "Fortune 1000 #946"
+ },
+ {
+  "name": "Libre Assist",
+  "company": "Abbott Laboratories",
+  "project": "FreeStyle Libre app",
+  "use": "Generative AI feature that predicts how a photographed or described meal will affect a diabetic user's glucose and suggests tweaks, then compares with sensor data.",
+  "category": "Healthcare",
+  "nameType": "brand",
+  "source": "https://abbott.mediaroom.com/2026-01-05-Abbotts-new-Libre-Assist-app-feature-tackles-a-top-need-for-people-living-with-diabetes-in-the-moment-food-decisions",
+  "list": "Fortune 1000 #107"
+ },
+ {
+  "name": "JDI (Jefferies Data Intelligence)",
+  "company": "Jefferies Financial Group",
+  "project": "Equity research (internal)",
+  "use": "In-house conversational research assistant built on Databricks Genie that lets equity analysts query multiple data sources in plain language.",
+  "category": "Banking",
+  "nameType": "brand",
+  "source": "https://www.databricks.com/en/blog/jefferies-modernizes-equity-research-scale-databricks-and-agentic-analytics",
+  "list": "Fortune 1000 #403"
+ },
+ {
+  "name": "Cortex AgentiX",
+  "company": "Palo Alto Networks",
+  "project": "Cortex Agentic Assistant (XSIAM, Cortex Cloud)",
+  "use": "Agentic AI technology behind the Cortex Agentic Assistant, letting security teams command AI agents in plain language to investigate and respond to threats.",
+  "category": "Cybersecurity",
+  "nameType": "brand",
+  "source": "https://www.paloaltonetworks.com/cortex/cortex-agentic-assistant.md",
+  "list": "Fortune 1000 #470"
+ },
+ {
+  "name": "Conni",
+  "company": "Conduent",
+  "project": "Life@Work Connect",
+  "use": "GenAI virtual assistant built on Azure OpenAI that answers employees' plain-language questions about their health, wealth and supplemental benefits.",
+  "category": "Business services",
+  "nameType": "brand",
+  "source": "https://www.stocktitan.net/news/CNDT/conduent-introduces-conni-the-new-gen-ai-virtual-assistant-for-1tt7jywszczs.html",
+  "list": "Fortune 1000 #866"
+ },
+ {
+  "name": "GreenLake Intelligence",
+  "company": "Hewlett Packard Enterprise",
+  "project": "HPE GreenLake",
+  "use": "Agentic AI framework that deploys AI agents for FinOps, security, networking and storage across HPE's hybrid cloud, coordinated by a reasoning agent.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://www.constellationr.com/blog-news/insights/hpe-launches-greenlake-intelligence-adds-ai-agents-throughout-hybrid-cloud-stack",
+  "list": "Fortune 1000 #143"
+ },
+ {
+  "name": "Health Companion",
+  "company": "GE HealthCare",
+  "project": "AI Innovation Lab",
+  "use": "Research project in which specialist AI agents (genomics, radiology, pathology) collaborate on patient data and a supervising agent drafts a care plan for physicians.",
+  "category": "Healthcare",
+  "nameType": "brand",
+  "source": "https://www.gehealthcare.com/en/about/newsroom/press-releases/ge-healthcare-announces-ai-innovation-lab-showcasing-five-new-research-projects",
+  "list": "Fortune 1000 #219"
+ },
+ {
+  "name": "Hey ARMA",
+  "company": "Ace Hardware",
+  "project": "Ace Retailer Mobile Assistant",
+  "use": "AI assistant on handheld devices that gives Ace store associates product details, project tips and recommendations in real time.",
+  "category": "Retail",
+  "nameType": "brand",
+  "source": "https://newsroom.acehardware.com/2026-04-28-Ace-Hardware-Introduces-AI-Assistant-to-Strengthen-In-Store-Service",
+  "list": "Fortune 1000 #429"
+ },
+ {
+  "name": "ChipStack AI Super Agent",
+  "company": "Cadence",
+  "project": "",
+  "use": "Agentic AI workflow that writes hardware code, builds and runs testbenches, and debugs chip designs alongside Cadence's EDA tools.",
+  "category": "Software",
+  "nameType": "brand",
+  "source": "https://convergedigest.com/cadence-launches-chipstack-ai-super-agent/",
+  "list": "Fortune 1000 #701"
+ },
+ {
+  "name": "Missi Six",
+  "company": "Six Flags Entertainment",
+  "project": "Six Flags app and website",
+  "use": "Generative AI digital concierge, built with Google Cloud, that helps guests plan park visits and answers customer questions.",
+  "category": "Entertainment",
+  "nameType": "brand",
+  "source": "https://investors.sixflags.com/news/press-releases/press-release-details/2024/news-04-29-2024-151517809/default.aspx",
+  "list": "Fortune 1000 #984"
+ },
+ {
+  "name": "Genie Assist",
+  "company": "Terex (Genie)",
+  "project": "MyGenieLift portal",
+  "use": "AI chat agent that answers service technicians' and fleet managers' questions from Genie manuals and parts lists, such as repair steps and torque specs.",
+  "category": "Industrial equipment",
+  "nameType": "brand",
+  "source": "https://compactequip.com/aerial-lifts/genie-launches-ai-powered-chat-agent-to-support-service-technicians/",
+  "list": "Fortune 1000 #652"
+ }
+]

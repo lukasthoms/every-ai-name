@@ -1,0 +1,554 @@
+[
+ {
+  "name": "Vic",
+  "company": "Vodafone Idea (Vi)",
+  "launched": "2020-05",
+  "basis": "launched",
+  "evidence": "Vodafone Idea announced the launch of AI virtual assistant VIC on web, apps and WhatsApp in May 2020.",
+  "dateSource": "https://tele.net.in/vodafone-idea-offers-customer-service-on-whatsapp-through-virtual-agent-vic/"
+ },
+ {
+  "name": "Joy",
+  "company": "VoiceCare AI",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "VoiceCare AI launches to automate healthcare back office (Feb 18, 2025).",
+  "dateSource": "https://www.speechtechmag.com/Articles/News/Speech-Technology-News/VoiceCare-AI-Launches-to-Automate-Healthcare-Back-Office-168041.aspx"
+ },
+ {
+  "name": "Ari",
+  "company": "Volaris",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "IDA",
+  "company": "Volkswagen",
+  "launched": "2024-01",
+  "basis": "announced",
+  "evidence": "At CES Jan 2024 VW announced ChatGPT integration into its IDA voice assistant; IDA itself predates this.",
+  "dateSource": "https://aibusiness.com/nlp/volkswagen-integrates-chatgpt-into-several-models"
+ },
+ {
+  "name": "Reppy",
+  "company": "VPBank",
+  "launched": "2021-05",
+  "basis": "earliest mention",
+  "evidence": "Customer Care Portal launched May 2021 let customers get advice via virtual assistant Reppy.",
+  "dateSource": "https://www.vpbank.com.vn/tin-tuc/tin-vpbank/2022/tinh-nang-moi-vpbank--customer-care-portal"
+ },
+ {
+  "name": "Deacbot",
+  "company": "Wake Forest University",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb 24, 2025: Information Systems is pleased to introduce IS Deacbot, an after-hours IT support chatbot.",
+  "dateSource": "https://is.wfu.edu/?p=5430"
+ },
+ {
+  "name": "Sparky",
+  "company": "Walmart",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "Gen-AI shopping assistant in the Walmart app, launched June 2025.",
+  "dateSource": "https://www.modernretail.co/operations/chatbot-cheatsheet-a-guide-to-the-ai-assistants-from-walmart-loreal-amazon-and-more/"
+ },
+ {
+  "name": "Wally",
+  "company": "Walmart",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "March 2025: Walmart launches Wally GenAI assistant for merchants.",
+  "dateSource": "https://www.retaildive.com/news/walmart-creates-a-generative-ai-tool-for-merchants-dubbed-wally/743106/"
+ },
+ {
+  "name": "Walter",
+  "company": "Walter",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "YC Launch post 'Walter: AI Employee for the Manufacturing Back Office' created June 2, 2026.",
+  "dateSource": "https://www.ycombinator.com/launches/Qdh-walter-ai-employee-for-the-manufacturing-back-office"
+ },
+ {
+  "name": "Bdr AI",
+  "company": "Warba Bank",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "Warba Bank has launched Bdr AI, an agentic AI assistant (Aug 5, 2026).",
+  "dateSource": "https://menastartupdigest.com/warba-bank-launches-voice-ai-assistant-for-banking-transactions-in-kuwait/"
+ },
+ {
+  "name": "SELFBOT",
+  "company": "Waseda University",
+  "launched": "2025-04",
+  "basis": "launched",
+  "evidence": "Apr 2025 news: Waseda University introduces generative AI chatbot SELFBOT linked with student site and Slack.",
+  "dateSource": "https://aismiley.co.jp/ai_news/waseda-university-selfbot-slack/"
+ },
+ {
+  "name": "Ask WashU",
+  "company": "Washington University in St. Louis",
+  "launched": "2026-05",
+  "basis": "launched",
+  "evidence": "May 2026: Meet Ask WashU, the free next-gen chat tool for the WashU community (successor to WashU ChatGPT).",
+  "dateSource": "https://it.wustl.edu/2026/05/meet-ask-washu-the-free-next-gen-chat-tool-for-the-washu-community/"
+ },
+ {
+  "name": "Ask.Watsco",
+  "company": "Watsco",
+  "launched": "2025-08",
+  "basis": "earliest mention",
+  "evidence": "Aug 1, 2025: more than 2,000 employees now use an internal AI assistant, Ask.Watsco.",
+  "dateSource": "https://distributionstrategy.com/2025/08/why-watsco-is-turning-up-the-heat-on-digital-operations/"
+ },
+ {
+  "name": "Muse",
+  "company": "Wayfair",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb 14, 2025: Wayfair is releasing a new AI-powered application called Muse.",
+  "dateSource": "https://www.retailbrew.com/stories/2025/02/14/wayfair-launches-ai-powered-inspiration-tool-to-drive-online-shopping"
+ },
+ {
+  "name": "WarriorGPT",
+  "company": "Wayne State University",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "AIYA (艾雅)",
+  "company": "WeBank",
+  "launched": "2021-12",
+  "basis": "launched",
+  "evidence": "AIYA 艾雅 launched end of 2021 as first anime-style digital employee (reported as aiBank/百信银行's).",
+  "dateSource": "https://cs.com.cn/yh/04/202201/t20220120_6236987.html"
+ },
+ {
+  "name": "Emily Ye",
+  "company": "WeBank",
+  "launched": "2025-11",
+  "basis": "earliest mention",
+  "evidence": "Nov 2025: WeBank showcased a live interactive experience with its digital employee, Emily Ye, at HK FinTech Week.",
+  "dateSource": "https://www.aap.com.au/aapreleases/cision20251104ae14948"
+ },
+ {
+  "name": "Webster",
+  "company": "Webster First Federal Credit Union",
+  "launched": "2022-09",
+  "basis": "launched",
+  "evidence": "Published September 26, 2022: introduce the newest member of our team, Webster, our virtual assistant.",
+  "dateSource": "https://www.websterfirst.com/blog/introducing-our-new-virtual-assistant/"
+ },
+ {
+  "name": "Vega",
+  "company": "Webull",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "Nov. 10, 2025: Webull today introduced Vega, the next evolution of its AI-powered decision partner.",
+  "dateSource": "https://www.webull.com/news/13833094760489984"
+ },
+ {
+  "name": "CAASI",
+  "company": "WellnessLiving",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "July 28, 2026: WellnessLiving announced general availability of CAASI Chat Agent and Phone Agent.",
+  "dateSource": "https://www.wellnessliving.com/blog/?p=31620"
+ },
+ {
+  "name": "Fargo",
+  "company": "Wells Fargo",
+  "launched": "2023-04",
+  "basis": "launched",
+  "evidence": "Q2 2023 earnings call: Fargo rollout launched at the end of April 2023.",
+  "dateSource": "https://www.marketbeat.com/earnings/transcripts/92712"
+ },
+ {
+  "name": "Ana",
+  "company": "WellSpan Health",
+  "launched": "2024-09",
+  "basis": "launched",
+  "evidence": "Sept 2024: WellSpan and Hippocratic AI launch clinical generative AI agent Ana calling patients.",
+  "dateSource": "https://www.wellspan.org/articles/2024/09/web---hippocratic-ai-launch"
+ },
+ {
+  "name": "SAW",
+  "company": "Wema Bank",
+  "launched": "2026-01",
+  "basis": "launched",
+  "evidence": "Upgraded ALAT platform launched January 12, 2026, with in-app voice assistant SAW.",
+  "dateSource": "https://www.thisdaylive.com/2026/01/29/wema-bank-introduces-voice-banking-feature-on-upgraded-alat-platform/"
+ },
+ {
+  "name": "Okie",
+  "company": "WEOKIE Federal Credit Union",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Bob",
+  "company": "WeRoad",
+  "launched": "2023",
+  "basis": "launched",
+  "evidence": "In 2023, WeRoad introduced Zendesk AI agents with a virtual agent named Bob.",
+  "dateSource": "https://www.zendesk.com/customer/weroad/"
+ },
+ {
+  "name": "Olivia",
+  "company": "Wevo Energy",
+  "launched": "2025-03",
+  "basis": "launched",
+  "evidence": "Wevo Energy unveils Olivia, the first AI phone agent for EV charging support, 03/26/2025.",
+  "dateSource": "https://www.powersystemsdesign.com/articles/wevo-energy-unveils-olivia-the-first-ai-phone-agent-for-ev-charging-support/8/22640"
+ },
+ {
+  "name": "Julia",
+  "company": "White Castle",
+  "launched": "2020-10",
+  "basis": "announced",
+  "evidence": "White Castle began piloting Julia at select locations in October 2020 with SoundHound.",
+  "dateSource": "https://www.itbrew.com/stories/inside-white-castles-digital-transformation-efforts"
+ },
+ {
+  "name": "PatchChat",
+  "company": "Whitworth University",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "Feb 11, 2025: Whitworth teams with EdSights to launch PatchChat.",
+  "dateSource": "https://news.whitworth.edu/2025/02/whitworth-launches-ai-chatbot-patchchat.html"
+ },
+ {
+  "name": "Olive",
+  "company": "Williams-Sonoma",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Otto followed the launch of AI assistant Olive on the Williams Sonoma site last year (2025).",
+  "dateSource": "https://www.digitalcommerce360.com/2026/08/28/williams-sonoma-ai-revenue-q2-fy26/"
+ },
+ {
+  "name": "Otto",
+  "company": "Williams-Sonoma",
+  "launched": "2026-08",
+  "basis": "launched",
+  "evidence": "Williams-Sonoma launched Otto across the Pottery Barn family in August 2026.",
+  "dateSource": "https://www.digitalcommerce360.com/2026/08/28/williams-sonoma-ai-revenue-q2-fy26/"
+ },
+ {
+  "name": "Match Chat",
+  "company": "Wimbledon (AELTC) & USTA US Open, with IBM",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "June 17, 2025: AELTC and IBM launch Match Chat, debuting at Wimbledon 2025.",
+  "dateSource": "https://newsroom.ibm.com/2025-06-17-the-all-england-lawn-tennis-club-and-ibm-launch-new-ai-features-for-real-time-wimbledon-fan-engagement"
+ },
+ {
+  "name": "Moa",
+  "company": "Windward Community College",
+  "launched": "2025",
+  "basis": "launched",
+  "evidence": "Windward CC (Moa) followed during the fall 2025 semester with its chatbot.",
+  "dateSource": "https://www.hawaii.edu/news/2025/11/18/edsights-community-connector-award/"
+ },
+ {
+  "name": "Wilo",
+  "company": "Wireless Logic",
+  "launched": "2025-01",
+  "basis": "earliest mention",
+  "evidence": "Zendesk case study (Jan 2025): team created and trained AI agent Wilo, now fully integrated into Zendesk.",
+  "dateSource": "https://www.zendesk.com/customer/wireless-logic/"
+ },
+ {
+  "name": "Mattie Moo",
+  "company": "Wisconsin Department of Workforce Development",
+  "launched": "2021",
+  "basis": "launched",
+  "evidence": "Builds on an existing chatbot of the same name, which DWD launched in 2021.",
+  "dateSource": "https://www.govtech.com/digitalstates2026"
+ },
+ {
+  "name": "Amelia",
+  "company": "Wizz Air",
+  "launched": "2021-04",
+  "basis": "launched",
+  "evidence": "April 2021: Wizz Air launches chatbot Amelia, named after Amelia Earhart.",
+  "dateSource": "https://runwaygirlnetwork.com/2021/04/press-release-wizz-air-launches-chatbot-amelia/"
+ },
+ {
+  "name": "Wonda",
+  "company": "Wondercraft",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Aug 19, 2025: Wondercraft unveils Wonda, the first AI agent for content creation.",
+  "dateSource": "https://soundsprofitable.com/press-release/wondercraft-unveils-wonda-the-first-ai-agent-for-content-creation/"
+ },
+ {
+  "name": "Olive",
+  "company": "Woolworths (Australia)",
+  "launched": "2019",
+  "basis": "launched",
+  "evidence": "iTnews: Olive debuted back in 2019 as Woolworths' contact-centre assistant.",
+  "dateSource": "https://www.itnews.com.au/news/woolworths-to-remake-its-everyday-chatbot-into-an-agentic-loyalty-assistant-626978"
+ },
+ {
+  "name": "Mandy",
+  "company": "Woolworths Group (Australia)",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Team Assist",
+  "company": "Woolworths Group (Australia)",
+  "launched": "2026-08",
+  "basis": "earliest mention",
+  "evidence": "CEO disclosed Team Assist at FY results; it fielded 7,000 employee inquiries per week last financial year.",
+  "dateSource": "https://www.itnews.com.au/news/woolworths-lifts-the-cover-on-internal-ai-628453"
+ },
+ {
+  "name": "My Woolies Chef",
+  "company": "Woolworths Holdings (South Africa)",
+  "launched": "2026-07",
+  "basis": "announced",
+  "evidence": "July 2026: Woolworths introduces My Woolies Chef, available to select members from September 2026 in beta.",
+  "dateSource": "https://www.citizen.co.za/business/need-help-putting-a-meal-together-woolworths-introduces-ai-chef/"
+ },
+ {
+  "name": "Illuminate",
+  "company": "Workday",
+  "launched": "2024-09",
+  "basis": "announced",
+  "evidence": "Sept 17, 2024: Workday outlined Workday Illuminate at Workday Rising 2024.",
+  "dateSource": "https://www.constellationr.com/insights/news/workday-rising-2024-ai-illuminate-ai-agents-evisort-acquisition"
+ },
+ {
+  "name": "Ani",
+  "company": "xAI",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Grok app introduced AI companions Ani and Rudi for SuperGrok subscribers (PCMag, Jul 15, 2025).",
+  "dateSource": "https://getcoai.com/news/grok-ai-launches-flirty-companions-ani-and-rudi-for-30-monthly-subscribers"
+ },
+ {
+  "name": "Grok",
+  "company": "xAI",
+  "launched": "2023-11",
+  "basis": "launched",
+  "evidence": "Grok released to early users/X Premium+ subscribers in November 2023.",
+  "dateSource": "https://en.wikipedia.org/wiki/Grok_(chatbot)"
+ },
+ {
+  "name": "Rudi",
+  "company": "xAI",
+  "launched": "2025-07",
+  "basis": "launched",
+  "evidence": "Grok app introduced AI companions Ani and Rudi for SuperGrok subscribers (PCMag, Jul 15, 2025).",
+  "dateSource": "https://getcoai.com/news/grok-ai-launches-flirty-companions-ani-and-rudi-for-30-monthly-subscribers"
+ },
+ {
+  "name": "Xaver",
+  "company": "Xaver",
+  "launched": "2024-03",
+  "basis": "launched",
+  "evidence": "Mar 19, 2024: Xaver unveils AI platform for life insurance and pensions, secures EUR5M pre-seed.",
+  "dateSource": "https://tech.eu/2024/03/19/xaver-unveils-ai-platform-for-life-insurance-and-pensions-and-secures-eur5m-pre-seed/"
+ },
+ {
+  "name": "JAX (Just Ask Xero)",
+  "company": "Xero",
+  "launched": "2024-02",
+  "basis": "announced",
+  "evidence": "29 Feb 2024: Xero unveiled JAX, its GenAI smart business companion, at its Investor Day; beta later in 2024.",
+  "dateSource": "https://www.scoop.co.nz/stories/BU2402/S00303.htm"
+ },
+ {
+  "name": "X.Assist",
+  "company": "Xerox",
+  "launched": "2026-03",
+  "basis": "earliest mention",
+  "evidence": "Mar 2026 Quocirca report: through its X.Assist framework of AI agents, Xerox aims for agents to execute 50-70% of work by 2027.",
+  "dateSource": "https://therecycler.com/posts/xerox-named-leader-in-ai-vendor-landscape-2026-report/"
+ },
+ {
+  "name": "Super XiaoAi",
+  "company": "Xiaomi",
+  "launched": "2024-10",
+  "basis": "launched",
+  "evidence": "Super XiaoAi debuted with HyperOS 2 at the Xiaomi 15 launch event in late October 2024 (global Jan 2025).",
+  "dateSource": "https://en.eloutput.com/news/applications/xiaomi-hyperos-2-features/"
+ },
+ {
+  "name": "Xinhua Yudian",
+  "company": "Xinhua News Agency",
+  "launched": "2026-06",
+  "basis": "launched",
+  "evidence": "Xinhua Yudian officially launched by Xinhua in Beijing, June 26, 2026.",
+  "dateSource": "https://www.technologykhabar.com/?p=245373"
+ },
+ {
+  "name": "Maya",
+  "company": "XL Axiata / AXIS (XLSMART)",
+  "launched": "2017-10",
+  "basis": "launched",
+  "evidence": "Virtual assistant Maya (My XL Assistant) launched in Jakarta 18 Oct 2017.",
+  "dateSource": "https://inet.detik.com/telecommunication/d-3695372/kenalkan-maya-asisten-virtual-dari-xl"
+ },
+ {
+  "name": "Clarity",
+  "company": "Yale University",
+  "launched": "2024-08",
+  "basis": "launched",
+  "evidence": "Clarity launched with GPT-4o in August 2024 for the start of the fall semester.",
+  "dateSource": "https://ai.yale.edu/yales-ai-tools-and-resources/clarity-platform/roadmap"
+ },
+ {
+  "name": "Alice AI",
+  "company": "Yandex",
+  "launched": "2025-10",
+  "basis": "launched",
+  "evidence": "Oct 28, 2025: Yandex presented Alice AI.",
+  "dateSource": "https://postium.ru/yandeks-predstavil-alisu-ai/"
+ },
+ {
+  "name": "DIYA",
+  "company": "Yatra Online",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "Aug 19, 2025: Yatra Online has launched DIYA, an AI travel agent.",
+  "dateSource": "https://www.altexsoft.com/travel-industry-news/yatra-launches-an-ai-travel-agent-for-end-to-end-booking"
+ },
+ {
+  "name": "Yara",
+  "company": "Ypê",
+  "launched": "2024-07",
+  "basis": "launched",
+  "evidence": "July 15, 2024: Ypê presents Yara, GenAI chatbot based on ChatGPT, on its website.",
+  "dateSource": "https://www.meioemensagem.com.br/marketing/ype-apresenta-yara-que-da-dicas-sobre-cuidados-com-a-casa"
+ },
+ {
+  "name": "ILMUchat",
+  "company": "YTL AI Labs",
+  "launched": "2025-09",
+  "basis": "launched",
+  "evidence": "ILMUchat available for early access on Malaysia Day, 16 September 2025.",
+  "dateSource": "https://www.malaysiakini.com/announcement/752379"
+ },
+ {
+  "name": "Byte Coach",
+  "company": "Yum! Brands",
+  "launched": "2025-02",
+  "basis": "earliest mention",
+  "evidence": "Feb 6, 2025 Byte by Yum! release: Byte Coach implemented across nearly 30,000 KFC and Pizza Hut restaurants.",
+  "dateSource": "https://www.businesswire.com/news/home/20250206765566/en"
+ },
+ {
+  "name": "Ask Ziyad",
+  "company": "Zakat, Tax and Customs Authority (ZATCA), Saudi Arabia",
+  "launched": "2025-11",
+  "basis": "launched",
+  "evidence": "06 November 2025: ZATCA announced launching of the Digital Assistant Ask Ziyad.",
+  "dateSource": "https://zatca.gov.sa/en/MediaCenter/News/Pages/Askziyad-zatca-digital-assistant-2025.aspx"
+ },
+ {
+  "name": "Zebra Companion",
+  "company": "Zebra Technologies",
+  "launched": "2025-01",
+  "basis": "announced",
+  "evidence": "Jan 9, 2025: Zebra introduces Zebra Companion agents, shown at NRF 2025.",
+  "dateSource": "https://www.businesswire.com/news/home/20250109443733/en/Zebra-Technologies-Introduces-New-AI-Solutions-to-Empower-Retail-Frontline-Operations"
+ },
+ {
+  "name": "ZiVA",
+  "company": "Zenith Bank",
+  "launched": "2021-08",
+  "basis": "launched",
+  "evidence": "Aug 26, 2021: Zenith Bank launches artificial intelligence chatbot ZiVA on WhatsApp.",
+  "dateSource": "https://www.thisdaylive.com/2021/08/26/zenith-bank-launches-artificial-intelligence-chatbot-ziva/"
+ },
+ {
+  "name": "Jace",
+  "company": "Zeta Labs",
+  "launched": "2024-06",
+  "basis": "launched",
+  "evidence": "June 2024: Zeta Labs raises $2.9M pre-seed, launches JACE (later repositioned as email assistant).",
+  "dateSource": "https://jace.ai/blog/zeta-labs-raises-2-9-m-pre-seed-funding-launches-jace-first-ai-agent-capable-of-complex-task-completion"
+ },
+ {
+  "name": "NurAI",
+  "company": "Zetrix AI",
+  "launched": "2025-08",
+  "basis": "launched",
+  "evidence": "12 August 2025: Zetrix AI today unveiled NurAI, the world's first Shariah-aligned LLM.",
+  "dateSource": "https://www.zetrix.com/?p=6850"
+ },
+ {
+  "name": "PMX AI",
+  "company": "Zetrix AI (for Malaysian PM Anwar Ibrahim)",
+  "launched": "2026-07",
+  "basis": "launched",
+  "evidence": "20 Jul 2026: You can now chat with PMX AI on WhatsApp.",
+  "dateSource": "https://says.com/my/tech/you-can-now-talk-to-pmx-ai-on-whatsapp"
+ },
+ {
+  "name": "Zo",
+  "company": "Zocdoc",
+  "launched": "2025-05",
+  "basis": "launched",
+  "evidence": "Zocdoc Launches AI Phone Assistant, published May 01, 2025.",
+  "dateSource": "https://www.newsweek.com/nw-ai/zocdoc-launches-ai-phone-assistant-access-health-2066427"
+ },
+ {
+  "name": "Zia",
+  "company": "Zoho",
+  "launched": "2017",
+  "basis": "launched",
+  "evidence": "Zia launched as AI assistant in Zoho CRM in 2017 (Zoho also cites 2015 for its Zia AI platform).",
+  "dateSource": "https://en.wikipedia.org/wiki/Zoho_CRM_(application)"
+ },
+ {
+  "name": "Guru",
+  "company": "ZOKO",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Sello",
+  "company": "ZOKO",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Wismo",
+  "company": "ZOKO",
+  "launched": "",
+  "basis": "",
+  "evidence": "",
+  "dateSource": ""
+ },
+ {
+  "name": "Nugget",
+  "company": "Zomato (Eternal)",
+  "launched": "2025-02",
+  "basis": "launched",
+  "evidence": "20 Feb 2025: Zomato launches AI tool Nugget to automate customer support.",
+  "dateSource": "https://www.socialsamosa.com/news-2/zomato-launches-ai-tool-nugget-8740021"
+ },
+ {
+  "name": "OZ",
+  "company": "Zong 4G (China Mobile Pakistan)",
+  "launched": "2025-06",
+  "basis": "launched",
+  "evidence": "Jun 23, 2025: Zong 4G has officially launched OZ, now live on the My Zong app.",
+  "dateSource": "https://www.phoneworld.com.pk/zong-launches-oz-an-ai-chatbot-to-revolutionize-customer-experience/"
+ }
+]
