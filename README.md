@@ -9,6 +9,36 @@ An incomplete catalog of every **named** AI we could find: the assistants, chatb
 
 A silly project by [Lukas Thoms](https://electriclantern.co). Don't take it too seriously.
 
+## How it was made
+
+The research was done by Claude agents running in Claude Code, in rounds: big brands and banks first, then governments, universities, credit unions and other sectors, then systematic passes over the Fortune 1000, the Y Combinator directory and AI startup lists (Forbes AI 50, CB Insights AI 100, VC portfolios and agent directories). Altogether that took 4,654 web searches.
+
+The rules every entry had to meet:
+
+- **A distinct name.** "AI Assistant" or "Company AI" doesn't count; Erica, Bixby and Joule do.
+- **Live now, or announced in 2024-2026.** Retired AIs were dropped, renamed ones carry their current name.
+- **A source someone actually opened.** Every entry links to a page that confirms the AI and its name. Agents weren't allowed to add anything from memory.
+
+Launch dates came from a separate pass: a script fetched every source page for date hints, then agents confirmed each date against a press release or news story, with the evidence recorded in `data/launch_dates/`.
+
+The worklists, agent prompts and helper scripts used during research aren't in this repo; it holds only what the build needs.
+
+## Caveats
+
+- **It's incomplete.** New named AIs launch every week, and some sectors were searched much harder than others (banks, governments, universities, the Fortune 1000 and AI startups), so the industry counts reflect where we looked as much as where companies name their AIs.
+- **Only live AIs are listed,** so earlier years look quieter on the launch chart than they were.
+- **Gender and funniness are judgement calls.** Gender is how the name usually reads as a first name, not what the company intended.
+- **Mistakes are likely** in a list this size. Corrections are welcome.
+
+## Corrections and additions
+
+Open an issue, or send a pull request that edits the relevant file:
+
+- A wrong or missing AI: add or fix it in a `research/round*/` file, with a source URL.
+- A wrong gender, funny score or launch date: edit the file in `data/`.
+
+Then run `python3 scripts/build.py` and commit the regenerated `ai_names.csv` and `site/` files.
+
 ## What's in the repo
 
 ```
@@ -71,36 +101,6 @@ The build prints anything that needs a look: duplicates it dropped, names that m
 | `pick` | Position in the Editor's Picks (blank for most rows) |
 | `launched` | Launch month (`YYYY-MM`), or year (`YYYY`) when that's all we could find |
 | `launchBasis` | `launched`, `announced` (no go-live date found) or `earliest mention` (it existed by then) |
-
-## How it was made
-
-The research was done by Claude agents running in Claude Code, in rounds: big brands and banks first, then governments, universities, credit unions and other sectors, then systematic passes over the Fortune 1000, the Y Combinator directory and AI startup lists (Forbes AI 50, CB Insights AI 100, VC portfolios and agent directories). Altogether that took 4,654 web searches.
-
-The rules every entry had to meet:
-
-- **A distinct name.** "AI Assistant" or "Company AI" doesn't count; Erica, Bixby and Joule do.
-- **Live now, or announced in 2024-2026.** Retired AIs were dropped, renamed ones carry their current name.
-- **A source someone actually opened.** Every entry links to a page that confirms the AI and its name. Agents weren't allowed to add anything from memory.
-
-Launch dates came from a separate pass: a script fetched every source page for date hints, then agents confirmed each date against a press release or news story, with the evidence recorded in `data/launch_dates/`.
-
-The worklists, agent prompts and helper scripts used during research aren't in this repo; it holds only what the build needs.
-
-## Caveats
-
-- **It's incomplete.** New named AIs launch every week, and some sectors were searched much harder than others (banks, governments, universities, the Fortune 1000 and AI startups), so the industry counts reflect where we looked as much as where companies name their AIs.
-- **Only live AIs are listed,** so earlier years look quieter on the launch chart than they were.
-- **Gender and funniness are judgement calls.** Gender is how the name usually reads as a first name, not what the company intended.
-- **Mistakes are likely** in a list this size. Corrections are welcome.
-
-## Corrections and additions
-
-Open an issue, or send a pull request that edits the relevant file:
-
-- A wrong or missing AI: add or fix it in a `research/round*/` file, with a source URL.
-- A wrong gender, funny score or launch date: edit the file in `data/`.
-
-Then run `python3 scripts/build.py` and commit the regenerated `ai_names.csv` and `site/` files.
 
 ## License
 
